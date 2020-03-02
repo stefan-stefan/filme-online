@@ -1,19 +1,20 @@
-<channels>
-<channel>
-<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/JepEJog.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/3vfHZE0.jpg</fanart>
-<info></info>
-</channel>
-</channels>
+<item>
+<title>robin hood</title>
+<link>http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
+<thumbnail>http://tvr1.tvr.ro/images/logo_main_tvr1.png</thumbnail>
+<fanart>http://tvr1.tvr.ro/images/logo_main_tvr1.png</fanart>
+</item>
  
-<channels>
-<channel>
-<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/jORtWFX.jpg</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/3vfHZE0.jpg</fanart>
-<info></info>
-</channel>
-</channels>
+<item>
+<title>tarzan</title>
+<link>http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8</link>
+<thumbnail>http://tvr2.tvr.ro/images/logo_main_tvr2.png</thumbnail>
+<fanart>http://tvr2.tvr.ro/images/logo_main_tvr2.png</fanart>
+</item>
+ 
+<item>
+<title>omul verde</title>
+<link>http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8</link>
+<thumbnail>http://tvr3.tvr.ro/images/logo_main_tvr3.png</thumbnail>
+<fanart>http://tvr3.tvr.ro/images/logo_main_tvr3.png</fanart>
+</item>
