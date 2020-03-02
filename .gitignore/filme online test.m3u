@@ -1,70 +1,19 @@
-#EXTM3U
-#EXTINF:6475,Black and Blue
-#EXTVLCOPT:network-caching=1000
-https://ryzen.hlssrv.com/hls_serve/BT5Rugnyakqqb0iSEE7PgQ/1580596987/WK1A2X6dvgkCDI6TgyZo/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg"group-title="PELICULAS", AVENGERS END GAME
-#EXTVLCOPT:network-caching=1000
-https://superb.hlssrv.com/hls_serve/DBjvEYPlr4gM2m9zimeqIA/1580577763/YM70OYkXkx1J9pwhzTsq/pl2.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwLbQSeFy6ht8skBtao7lAZjsDo.jpg"group-title="PELICULAS", AVENGERS END GAME
-#EXTVLCOPT:network-caching=1000
-https://go16.videomega.co/files/cP7pwSgwQ5xdDpCBRm6Xqw/1580836044/5e04991589d9b/92efc2666453a0086965fc18c3ca9c9b/598d78fc0c3c89d2/3/razbunatorii%20sfarsitul%20jocului%20019.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
-#EXTVLCOPT:network-caching=1000
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
-#EXTVLCOPT:network-caching=1000
-https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
-#EXTINF:-1 tvg-ID="" tvg-name="Bumblebee" tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201812/BB_1sht_ART_COREA_70x100_ITA.jpg" group-title="FILM AL CINEMA",Bumblebee
-https://www81.o0-1.com/token=ygFTFy64WyYs3W_m4ZfQ6w/1580598518/89.123.0.0/35/4/92/c9f0651430bd0bf4dbeff17fd7190924-480p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Underground - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movie On-Demand: 0-9",6 Underground - 2019
-https://go15.videomega.co/files/ll2qiA7BeIoO8tHJITV2Ww/1580842638/5df3bc874d721/c41b37b82edc1c042f6a211163eab772/25d054d9e94f233a/3/6%20underground%2001999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Legend of Tarzan - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxOPJ9Ysilpq0IgkrMJ7PubFhq.jpg" group-title="Movie On-Demand: T",The Legend of Tarzan - 2016
-#EXTVLCOPT:network-caching=1000
-https://www1945.o0-4.com/token=2CTseBb0IO0-EDMGQ63CIQ/1580597534/89.123.0.0/83/0/c9/6350a6c9704b6bcb77eaae3cdcdebc90-480p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Warcraft - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckrTPz6FZ35L5ybjqvkLWzzSLO7.jpg" group-title="Movie On-Demand: W",Warcraft - 2016
-#EXTVLCOPT:network-caching=1000
-https://nmthqsopox.mystream.io/z/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjg5LjEyMy4yMDguMTgxIiwiYjJvc2V6bjdkMXA5IiwibiJdLCJleHAiOjE1ODA2MjUyMTR9.6kSclsosmwpugHgJZ3g6IYrhyxCWllqxslpPQWNlpJA.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg"group-title="PELICULAS", CAPITANA MARVEL
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg" group-title="PELICULAS", ALADDIN
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" JOHN WICK 3 [Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/38d32uG1x7iiN2jdK0cRX0Bk423.jpg" group-title="PELICULAS",JOHN WICK 3
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" JOKER [Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="PELICULAS", JOKER
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Courier - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApZ6eymKwLJJnwxb9JskYRdjq7j.jpg" group-title="Movie On-Demand: T",The Courier - 2019
-#EXTVLCOPT:network-caching=1000
-https://www1284.o0-3.com/token=jM6DNEiNi7oZsno8FrylIw/1580586283/89.123.0.0/95/d/d4/e674a98ba4a99eaafd0e937d9bd74d4d-480p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Courier - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApZ6eymKwLJJnwxb9JskYRdjq7j.jpg" group-title="Movie On-Demand: T",The Courier - 2019
-#EXTVLCOPT:network-caching=1000
-https://nlw05.hlssrv.com/hls_serve/Rv114xEqd1ptqUnNaL71QQ/1580576514/W95PlWAiRCpfn4HiiMBx/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/czjwK6F3Db4rWyuETdCaZOO8chx.jpg"group-title="PELICULAS", AQUAMAN
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:0,#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/czjwK6F3Db4rWyuETdCaZOO8chx.jpg"group-title="PELICULAS", AQUAMAN
-#EXTVLCOPT:network-caching=1000
-https://www1213.o0-3.com/token=nVJK_wJgQg2FRPX7ci-ieg/1580592988/89.123.0.0/28/0/e1/1874fea6b00d2d211b4c889750ca5e10-480p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="PELICULAS", MALÉFICA 2
-#EXTVLCOPT:network-caching=1000
-https://cloud5.videomega.co/cdn/176.31.126.9//freeload/5e0c362c51f6b/98d56dc8578038fcf3dd0e89442f52f8?md5=S-m7X9UnP1MHfRyoH96KJw&expires=1580836968&files=c90673ca0d250594d7141efe165d589f.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Dual audio] (L) [pista de audio]" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZOkXqHXWCKytd78TggAtJ0M3gU.jpg" group-title="PELICULAS", MALÉFICA 2
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:6475,Black and Blue
-#EXTVLCOPT:network-caching=1000
-https://ryzen.hlssrv.com/hls_serve/BT5Rugnyakqqb0iSEE7PgQ/1580596987/WK1A2X6dvgkCDI6TgyZo/pl2.m3u8
-#EXTINF:6394,The Last Witch Hunter 2015
-#EXTVLCOPT:network-caching=1000
-https://go17.videomega.co/files/8fmt6yazc34-EuUA79FkvA/1580834195/5e1766eec6093/41129907d5ba980d207ede03ff1e8889/a0ae44a677c9f16e/3/the%20last%20witch%20hunter%20015.mp4
-#EXTINF:7019,Război civil 2016
-#EXTVLCOPT:network-caching=1000
-https://www455.o0-1.com/token=4_IjkuRYX60W6onn0DlG-Q/1580588237/89.123.0.0/99/a/12/b439aa73613d9f299d5198159f23d12a-480p.mp4
-#EXTINF:7019,Gemini Man 2019
-#EXTVLCOPT:network-caching=1000
-https://www455.o0-1.com/token=4_IjkuRYX60W6onn0DlG-Q/1580588237/89.123.0.0/99/a/12/b439aa73613d9f299d5198159f23d12a-480p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
-#EXTVLCOPT:network-caching=1000
-https://erem.hlssrv.com/hls_serve/ornCdzymLupZhDlfpNXiTg/1580577904/sr5vf9QESFCxqjHVMwi5/pl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.filmdrive21.com/wp-content/uploads/2020/01/i8QWXu6dGuTKKerJtnd0A4lUpbv-60x90.jpg" group-title="NETIZEN | CINEMA",Terminator "Dark Fate" (2019)
-#EXTVLCOPT:network-caching=1000
-https://cloud2.videomega.co/cdn/176.31.126.40//freeload/5e1daae181507/97d5c7309592e6342d7012a3ac7e2f95?md5=LH8-HtLsEQpTNpz8BY6BMw&expires=1580834992&files=4b112a235905476f7afa0ce566288de7.mp4
+<channels>
+<channel>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/JepEJog.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/3vfHZE0.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+ 
+<channels>
+<channel>
+<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/jORtWFX.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/3vfHZE0.jpg</fanart>
+<info></info>
+</channel>
+</channels>
