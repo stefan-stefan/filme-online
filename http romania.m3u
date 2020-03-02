@@ -25,3 +25,9 @@
 <thumbnail>https://videos.thematv.com/pro-tv-international.jpg</thumbnail>
 <fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
 </item>
+<item>
+<title>Pro TV Chișinău</title>
+<link>http://hls.protv.md/hls/protv.m3u8</link>
+<thumbnail>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</thumbnail>
+<fanart>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</fanart>
+</item>
