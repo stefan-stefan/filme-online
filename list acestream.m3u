@@ -1,0 +1,20 @@
+<item>
+<title>ANTENA 1</title>
+<link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
+<thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
+<fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
+</item>
+ 
+<item>
+<title>TVR 2</title>
+<link>http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8</link>
+<thumbnail>http://tvr2.tvr.ro/images/logo_main_tvr2.png</thumbnail>
+<fanart>http://tvr2.tvr.ro/images/logo_main_tvr2.png</fanart>
+</item>
+ 
+<item>
+<title>TVR 3</title>
+<link>http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8</link>
+<thumbnail>http://tvr3.tvr.ro/images/logo_main_tvr3.png</thumbnail>
+<fanart>http://tvr3.tvr.ro/images/logo_main_tvr3.png</fanart>
+</item>
