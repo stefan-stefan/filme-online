@@ -1,9 +1,9 @@
-<dir>
+<plugin>
 <title>[COLOR FFff8000]» TV ROMANIA-ACESTREAM [/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/list%20acestream.m3u</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
+</plugin>
 
 <dir>
 <title>[COLOR FFff8000]» TV ROMANIA-SOPCAST[/COLOR]</title>
