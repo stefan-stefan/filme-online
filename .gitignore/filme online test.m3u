@@ -5,32 +5,19 @@
 <fanart>https://www.pngitem.com/pimgs/m/583-5839563_terminator-dark-fate-2019-hd-png-download.png</fanart>
 </item>
  
-<item>
-<title>CAPITAN MARVEL</title>
-<link>http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8</link>
-<thumbnail>https://www.pngarts.com/files/4/Captain-Marvel-Free-PNG-Image.png</thumbnail>
-<fanart>https://www.pngarts.com/files/4/Captain-Marvel-Free-PNG-Image.png</fanart>
-</item>
-       <item>      
-                "title": "King of Thieves (2018)",
-                "image": "https://www.filma24.cc/wp-content/uploads/rtfS7y2XQ0vjTrm6khq508N0Ehk.png",
-                "url": "https://albvid.com/v/pm95d58n8ol",  
-                "des": "Një histori e vërtetë e famëkeqe mbi një grup kriminelësh në pension të cilët ia dalin të grabisin një prej lagjeve më të pasura të Londrës. Lakmia e ktheu grabitjen e tyre të fundit në një makth brutal.",
-                "trailer": "https://www.youtube.com/watch?v=eeQAY_9vG8M",
-                "player": "film",
-                "arrint": "1"
+
                
 <item>            
-                "title": "Braid (2019)",
+ title": "Braid (2019)",
                 "image": "https://www.filma24.cc/wp-content/uploads/rsz_sp8dzgdwbh3cdu8ygyjtoejfzzi.png",
                 "url": "https://albvid.com/v/dw9ry7k7pvg",  
                 "des": "Për të fituar para dy vajza marrin pjesë në një lojë perverse por pasi gjërat komplikohen ato kuptojnë që paraja është gjëja e fundit që duhet të mendojnë.",
                 "trailer": "https://www.youtube.com/watch?v=yvFdCo24mDQ",
                 "player": "film",
-                "arrint": "1"
+                "arrint": "1"      "
                
 <item>              
-                "title": "Yardie (2018)",
+                "<title>": "Yardie (2018)",
                 "image": "https://www.filma24.cc/wp-content/uploads/rsz_mxlhjhqj0hzzmjqv7t7ee3cmto4.png",
                 "url": "https://albvid.com/v/6m9247yedor",  
                 "des": "Në kryeqytetin xhamajkan dy banda janë në luftë me njëratjetrën dhe viktimë e kësaj lufte ngelet dhe vëllai i Denisit për të cilin ai do të hakmerret dhe e ka gjithë kohën në mendje. A do e falë ai njeriun që i vrau të vëllain apo do e mbajë këtë barrë në supe?",
@@ -39,7 +26,7 @@
                 "arrint": "1"
                
 <item>             
-                "title": "Mortal Engines (2018)",
+                "<titl>e": "Mortal Engines (2018)",
                 "image": "https://www.filma24.cc/wp-content/uploads/rsz_wertvda1vghxaqbfkeptzsgjriv.png",
                 "url": "https://albvid.com/v/7y9w3g7jxvj",  
                 "des": "Në një botë postapokaliptike ku qytetet shkatërrojnë dhe konsumojnë njëritjetrin për të mbijetuar Tomi dhe guximtarja Hester takohen në Londër dhe përpiqen të ndalojnë një komplot vdekjeprurës.",
