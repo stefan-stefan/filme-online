@@ -6,7 +6,7 @@
 </item>
 
 
-    </item>
+</item>
 <item id="149252">
         <name>
             PRO TV
@@ -14,7 +14,8 @@
         <address>
             sop://broker.sopcast.com:3912/149252
         </address>
-    </item>
+</item>
+
 <item id="149257">
         <name>
             antena1
@@ -22,7 +23,8 @@
         <address>
             sop://broker.sopcast.com:3912/149257
         </address>
-    </item>
+</item>
+
 <item id="149259">
         <name>
             HBO2
@@ -30,7 +32,8 @@
         <address>
             sop://broker.sopcast.com:3912/149259
         </address>
-    </item>
+</item>
+
 <item id="148085">
         <name>
             TVR 1
