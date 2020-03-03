@@ -9,13 +9,13 @@
 <item>
 <name>Pro TV</name>
 <sop_address>
-<item>sop://broker.sopcast.com:3912/151380</item>
+<item>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</item>
 </sop_address>
 </item>
 
 <item>
 <title>Can</title>
-<link>http://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream</link>
+<link>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</link>
 <thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
 <fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
 </item>
@@ -36,7 +36,7 @@
 <fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
 <thumbnail></thumbnail>
 <sop_address>
-<item>sop://broker.sopcast.com:3912/151380</item>
+<item>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</item>
 </sop_address>
 </item>
 
