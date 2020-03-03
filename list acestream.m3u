@@ -5,59 +5,6 @@
 <fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
 </item>
 
-<item>
-<title>Listă de redare</title>
-<trackList>
-<track>
-<location>acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</location>
-<title>ANTENA 1</title>
-<extension application="http://www.videolan.org/vlc/playlist/0">
-<vlc:id>0</vlc:id>
-<vlc:option>network-caching=1000</vlc:option>
-</extension>
-</track>
-</trackList>
-<extension application="http://www.videolan.org/vlc/playlist/0">
-<vlc:item tid="0"/>
-</extension>
-</playlist>
-</item>
-
-
-<item>
-<title>TEST SOPCAST SCRIPT 1</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream</link>
-<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
-<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
-</item>
-
-<item>
-<title>TEST ACESTREAM SCRIPT 2</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
-<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
-<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
-</item>
-
-<item>
-<title>TEST SOPCAST SCRIPT 2</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=SopProg</link>
-<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
-<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
-</item>
-
-<item>
-<title>TEST ACESTREAM SCRIPT 3</title>
-<link>acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760</link>
-<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
-<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
-</item>
-
-<item>
-<title>TEST SOPCAST SCRIPT 3</title>
-<link>acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10</link>
-<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
-<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
-</item>
 
 
 
