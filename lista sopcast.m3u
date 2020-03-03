@@ -29,7 +29,7 @@
 
 <item>
 <title>TEST SOPCAST SCRIPT 1</title>
-<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<link>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264941</link>
 <thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
