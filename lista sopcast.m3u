@@ -7,10 +7,17 @@
 
 <item>
 <title>ANTENA 1(Sopcast)</title>
-<link>http: // localhost: 9996 / url = sop://broker.sopcast.com:3912/256338dmode = 2</link>
+<link>http: // localhost: 9996 / url = sop://broker.sopcast.com:3912/256338dmode =2</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </item>
+<item>
+<title>ANTENA 1(Sopcast)</title>
+<link>sop://broker.sopcast.com:3912/256338</link>
+<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
+<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
+</item>
+
 
 <item>
 <title>PRO TV(Sopcast)</title>
