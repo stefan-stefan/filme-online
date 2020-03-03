@@ -7,7 +7,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264961&name=An
 
 <item>
 <title>test ace</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264961&name=Antena 1</link>
+<link>plugin: //program.plexus/ mode = 2 & url = sop:? //broker.sopcast.com: 3912/256338 & name = SopProg</link>
 <thumbnail>http://tvr3.tvr.ro/images/logo_main_tvr3.png</thumbnail>
 <fanart>http://tvr3.tvr.ro/images/logo_main_tvr3.png</fanart>
 </item>
