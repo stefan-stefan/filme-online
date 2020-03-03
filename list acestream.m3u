@@ -6,7 +6,14 @@
 </item>
 
 <item>
-<title>Canção Nova</title>
+<title> Nova</title>
+<link>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</link>
+<thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
+<fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
+</item>
+
+<item>
+<title>Cava</title>
 <link>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</link>
 <thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
 <fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
