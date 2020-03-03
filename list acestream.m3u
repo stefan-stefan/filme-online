@@ -34,6 +34,13 @@
 
 
 <item>
+<title>KANAL D(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=5583e0b72dfdbdf4d758173896c371aa71693230</link>
+<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
+<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
+</item>
+
+<item>
 <title>HBO(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
