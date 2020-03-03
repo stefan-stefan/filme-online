@@ -6,5 +6,15 @@
 <fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
 </item>
 
+<channel>
+<name>Pro Tv International</name>
+<fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
+<thumbnail></thumbnail>
+<items>
+<item>
+<title>Fix TV</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream</link>
+<regex>
+
  
 
