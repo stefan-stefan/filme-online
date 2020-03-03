@@ -11,8 +11,8 @@ http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 </item>
 
 <item>
-<tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
-https://cmn.digitalcable.ro/free/cm/playlist.m3u8
+<link>tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
+https://cmn.digitalcable.ro/free/cm/playlist.m3u8</link>
 </item>
 
 <item>
