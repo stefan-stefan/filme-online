@@ -7,14 +7,14 @@
 
 <item>
 <title>ANTENA 1(Sopcast)</title>
-<link>http: // localhost: 9996 / url = sop:? //185.122.59.8:3912/264941dmode = 2</link>
+<link>http: // localhost: 9996 / url = sop://broker.sopcast.com:3912/256338dmode = 2</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </item>
 
 <item>
 <title>PRO TV(Sopcast)</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=Antena1
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=Antena1
 </link>
 <thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</thumbnail>
 <fanart>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</fanart>
@@ -22,14 +22,14 @@
 
 <item>
 <title>TEST sopcast SCRIPT 1</title>
-<link>plugin://program.plexus/?url=sop://185.122.59.8:3912/264941d&amp;mode=1&amp;name=SPORT</link>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/256338&amp;mode=1&amp;name=SPORT</link>
 <thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
 <fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
 </item>
 
 <item>
 <title>TEST SOPCAST SCRIPT 1</title>
-<link>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264941</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338</link>
 <thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
