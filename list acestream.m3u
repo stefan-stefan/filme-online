@@ -1,27 +1,167 @@
 <item>
-<title>ANTENA 1</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
-</link>
-<thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
-<fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
-</item>
-
-<item>
-<title>test ace</title>
-<link>a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
-<thumbnail>http://tvr3.tvr.ro/images/logo_main_tvr3.png</thumbnail>
-<fanart>http://tvr3.tvr.ro/images/logo_main_tvr3.png</fanart>
-</item>
+<title>Lautareasca youtube</title>
+<link>$doregex[list]</link><thumbnail>https://41.media.tumblr.com/bb8e9673a6c74267221f90cafd78661d/tumblr_inline_nof0w5EGIW1r2mbwp_540.jpg</thumbnail>
  
-<item>
-<title>ANTENA 1</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream
-</link>
-<thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
-<fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param1]</title>
+<link>$doregex[makelist]</link>
+]]></listrepeat><expres>(.*?)\n</expres>           constitution de la liste d'artistes dans LSP  pour relier -plus tard- cette liste à youtube en faisant un makelist de https://www.youtube.com/results?search_query=[list.param1]
+<page>
+Aurel-Gore
+Barbu-Lautaru
+Constantin-Eftimiu
+Constantin-Brailoiu
+Costache-Florea-Hopa-Mitica
+Costel-Trompetistu-Vasilescu
+Dona Dumitru Siminica
+Dumitru-Baicu
+Fanica-Luca
+Faramita-Lambru
+Florea-Basaru
+Florea-Cioaca
+Gabi-Lunca
+Gheorghe-Lambru
+Gheorghe-Motoi
+Gheorghe-Zamfir
+Gica-Petrescu
+Gore-Ionescu
+Grigoras-Dinicu
+Iani-Ciuciu
+Ioana-Radu
+Ion-Albesteanu
+Ion-Dragoi
+Ion-Matache
+Ion-Namol
+Ion-Onoriu
+Ionel-Tudorache
+Ionica-Minune
+Maria-Lataretu
+Maria-Tanase
+Marin-Cotoanta
+Marcel-Budala
+Mia-Braia
+Mitica-Ciuciu
+Nicolae-Neacsu-Culai
+Nicu-Bela
+Petre-Manole
+Rodica-Bujor
+Romica-Puceanu
+Toni-Iordache
+Victor-Gore
+Victor-Predescu
+Zavaidoc
+</page>             la liste ci-dessus ne doit contenir aucun espace, ni aucun caractère spécial ni accent ni apostrophe ni cédille ni tilde ni ponctuation
+</regex>            Traits-d-union-obligatoires        ( note : le caractère + est également possible à la place du - )
+ 
+<regex>
+<name>makelist</name>           ce regex permet la liaison à youtube. Il n'en sort qu'une seule ligne : le nom du chanteur précédemment choisi ; mais il associe un lien (youtube) à ce chanteur.
+<listrepeat><![CDATA[
+<title>[makelist.param3]           </title>
+<link>$doregex[makelist2]</link>
+<thumbnail>https://i.ytimg.com/i/[makelist.param2]/1.jpg</thumbnail>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+]]></listrepeat>
+<expres>watch-card-title"&gt;&lt;a href="(\/channel\/UC(.*?))".*?&gt;(.*?)&lt;\/a</expres>
+<page>https://www.youtube.com/results?search_query=[list.param1]</page>                               (pas de) problème des espaces !!!!!! mais comment faire liste avec espaces et carac accentué ?
+</regex>
+ 
+<regex>                         énumération des différentes sections accessibles (top des pistes + top des reprises + récentes) ; mais manque les albums/ou plutot le lien "voir tout" en bas de l'encart album, à droite  
+<name>makelist2</name>                  (étape à supprimer? car "reprises" sans intérêt ; ou bien réussir à rajouter le contenu de la section album?)
+<listrepeat><![CDATA[
+<title>[makelist2.param1]           </title>
+<link>$doregex[makelist3]</link>
+<thumbnail>https://i.ytimg.com/i/[makelist.param2]/1.jpg</thumbnail>
+<fanart>https://i.ytimg.com/i/[makelist.param2]/1.jpg</fanart>
+]]></listrepeat>
+<expres>span class="" >(.*?)&lt;\/span>\n.*?\n\n.*?\n.*?;list=(.*?)"</expres>  
+<page>https://www.youtube.com[makelist.param1]</page>  
+</regex>
+ 
+ <regex>                                          ce regex propose l'accès aux différentes pages (chacume comportant 100 chansons)                                      
+<name>makelist3</name>               Manque un IF/ELSE : à lancer uniquement si get-number est > 1 (uniquement si plusieurs pages existent)
+<listrepeat><![CDATA[
+<title>page [makelist3.param1]</title>
+<link>$doregex[makelist4]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres> (.*?),</expres>
+<page>$doregex[get-number]</page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+<regex>
+<name>makelist4</name>                           ENFIN, ce regex propose la liste des chansons (dans la page choisie) , associé au regex get-source-page
+<listrepeat><![CDATA[
+        <title>[makelist4.param2]</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist4.param1]</link>
+        <thumbnail>https://i.ytimg.com/vi/[makelist4.param1]/hqdefault.jpg</thumbnail>            
+]]></listrepeat>
+<expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
+<page>$doregex[get-source-page]</page>
+  <cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>get-number</name>                                                   permet de déterminer combien de pages existent pour un chanteur donné
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/playlist?list=[makelist2.param2]'):                    
+ 
+ import requests
+ import re
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Accept-Language': 'en-US'}
+ 
+ rr = requests.get(url, headers=headers)
+ number = re.findall('</a></li><li>(.*?) vid', rr.text)[0]
+ #number = number.encode('unicode-escape')
+ number = number.replace(',', '')
+ real = int(float(number)) / 100
+ real2 = real + 3
+ 
+ liste = list(range(real2))
+ return liste
+]]></expres>
+<page></page>
+</regex>
+ 
+<regex>
+<name>get-source-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://www.youtube.com/playlist?list=[makelist2.param2]'):
+ 
+ import requests
+ import re
+ import json
+ 
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ r1 = requests.get(url, headers = headers)
+ source = r1.text
+ page = [makelist3.param1]
+ N = int(float(page))
+ pre = 'https://www.youtube.com'
+ if (N > 1):
+ 
+   for itr in range (1,N):
+    continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
+    continuationx = pre + continuex
+    r = requests.get(continuationx, headers = headers)
+    source = r.text
+    jdata = json.loads(source)
+    source = jdata["load_more_widget_html"]
+    page = jdata["content_html"]
+   return page
+   
+ else:
+ 
+  return source
+]]></expres>
+<page></page>
+</regex>
+ 
 </item>
-
-#EXTINF:-1,Pro TV S1
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
  
 
