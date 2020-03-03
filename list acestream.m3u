@@ -1,6 +1,7 @@
 <item>
 <title>TEST ACESTREAM SCRIPT 1</title>
-<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8&name=My+acestream+channel
+</link>
 <thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
 <fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
 </item>
