@@ -84,6 +84,13 @@
 </item>
 
 <item>
+<title>FILM CAFE(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=e42976fa49ceb36c3b8cf16a84542b63d2b8b936</link>
+<thumbnail>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</thumbnail>
+<fanart>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</fanart>
+</item>
+
+<item>
 <title>HBO(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
