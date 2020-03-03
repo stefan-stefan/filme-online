@@ -14,7 +14,8 @@
 
 <item>
 <title>PRO TV(Sopcast)</title>
-<link>http://127.0.0.1:6878/sop/getstream?id=3912/264941</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=Antena1
+</link>
 <thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</thumbnail>
 <fanart>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</fanart>
 </item>
