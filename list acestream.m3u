@@ -5,8 +5,12 @@
 <fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
 </item>
 
-
-
+<item>
+<title>TEST ACESTREAM SCRIPT 1</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10</link>
+<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
+<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
+</item>
 
  
 
