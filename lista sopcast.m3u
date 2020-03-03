@@ -7,7 +7,7 @@
 
 <item>
 <title>ANTENA 1(Sopcast)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=sop://185.122.59.8:3912/264941</link>
+<link>http: // localhost: 9996 / p2p.m3u url = sop:? //185.122.59.8:3912/264941dmode = 2</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </item>
