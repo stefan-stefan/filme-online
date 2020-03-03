@@ -30,5 +30,14 @@
 <link>plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream</link>
 </item>
 
+<channel>
+<name>Pro TV</name>
+<fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
+<thumbnail></thumbnail>
+<sop_address>
+<item>sop://broker.sopcast.com:3912/151380</item>
+</sop_address>
+</channel>
+
  
 
