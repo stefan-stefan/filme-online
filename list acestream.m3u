@@ -70,6 +70,13 @@
 </item>
 
 <item>
+<title>PRO CINEMA(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=06c01628d371f9b5bebcb50d7c493cda2203e268</link>
+<thumbnail>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</thumbnail>
+<fanart>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</fanart>
+</item>
+
+<item>
 <title>HBO(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
