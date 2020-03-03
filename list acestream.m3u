@@ -1,4 +1,10 @@
 <item>
+<title>Canção Nova</title>
+<link>http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8</link>
+<thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
+<fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
+</item>
+<item>
 <title>Lautareasca youtube</title>
 <link>$doregex[list]</link><thumbnail>https://41.media.tumblr.com/bb8e9673a6c74267221f90cafd78661d/tumblr_inline_nof0w5EGIW1r2mbwp_540.jpg</thumbnail>
  
