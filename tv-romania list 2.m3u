@@ -19,12 +19,12 @@
 <fanart></fanart>
 </plugin>
  
-<dir>
+<plugin>
 <title>[COLOR FFff8000] »LISTA TEST ROMANIA[/COLOR]</title>
 <link>http://hls.protv.md/hls/protv.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
+</plugin>
 
 <dir>
 <title>[COLOR FFff8000]»FRANTA[/COLOR]</title>
