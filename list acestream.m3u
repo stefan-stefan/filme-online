@@ -25,6 +25,14 @@
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
 </item>
+
+<item>
+<title>PRO TV INTERNATIONAL(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=921ccad8c4dd8f154659ad076f14929912c2cc30</link>
+<thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
+<fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
+</item>
+
 <item>
 <title>PRIMA TV(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
