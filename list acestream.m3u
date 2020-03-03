@@ -1,14 +1,7 @@
-<item>
-<title>Plexus Test</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
 
 <item>
 <title>test ace</title>
-<link>plugin://plugin.video.p2p-streams/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=sporttv1</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream Name goes here)</link>
 <thumbnail>http://tvr3.tvr.ro/images/logo_main_tvr3.png</thumbnail>
 <fanart>http://tvr3.tvr.ro/images/logo_main_tvr3.png</fanart>
 </item>
