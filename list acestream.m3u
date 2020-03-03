@@ -1,43 +1,43 @@
-
 <item>
-<title> Nova</title>
-<link>sop://151.80.76.190:3912/148087</link>
-<thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
-<fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
+<title>TEST ACESTREAM SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
+<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
 </item>
 
 <item>
-<name>Pro TV</name>
-<sop_address>
-<item>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</item>
-</sop_address>
+<title>TEST SOPCAST SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
+<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
 <item>
-<title>Can</title>
-<link>acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream</link>
-<thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
-<fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
+<title>TEST ACESTREAM SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
+<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
 </item>
 
 <item>
-<name>Pro Tv International</name>
-<fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
-<thumbnail></thumbnail>
-</items>
-
-<item>
-<title>Fix TV</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream</link>
+<title>TEST SOPCAST SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
+<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
 <item>
-<name>Pro TV</name>
-<fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
-<thumbnail></thumbnail>
-<sop_address>
-<item>plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg</item>
-</sop_address>
+<title>TEST ACESTREAM SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
+<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
+</item>
+
+<item>
+<title>TEST SOPCAST SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
+<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
  
