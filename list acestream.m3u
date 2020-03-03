@@ -41,6 +41,7 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
+<item>
 <title>Listă de redare</title>
 	<trackList>
 		<track>
@@ -56,6 +57,7 @@
 			<vlc:item tid="0"/>
 	</extension>
 </playlist>
+</item>
 
  
 
