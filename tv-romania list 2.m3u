@@ -12,12 +12,12 @@
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
 </plugin>
 
-<dir>
+<plugin>
 <title>[COLOR FFff8000] »TV ROMANIA SOPCAST[/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/lista%20tv%20sopcast.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag-map_of_Communist_Romania.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
-</dir>
+</plugin>
 
 <plugin>
 <title>[COLOR FFff8000]RCS-RDS[/COLOR] [COLOR FFff8000][/COLOR]</title>
