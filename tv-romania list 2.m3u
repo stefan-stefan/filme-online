@@ -1,35 +1,35 @@
 <dir>
 <title>[COLOR FFff8000] »TV ROMANIA HTTP[/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/http%20romania.m3u</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag-map_of_Communist_Romania.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
 </dir>
  
 <plugin>
 <title>[COLOR FFff8000] »TV ROMANIA ACESTREAM[/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/lista%20tv%20acestream.m3u</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag-map_of_Communist_Romania.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>[COLOR FFff8000] »TV ROMANIA SOPCAST[/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/lista%20tv%20sopcas.m3u</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag-map_of_Communist_Romania.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>[COLOR FFff8000]RCS-RDS[/COLOR] [COLOR FFff8000][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/rds-rcs.m3u</link>
-<thumbnail>https://www.oradesibiu.ro/wp-content/uploads/2018/09/rcs-rds-750x412.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag-map_of_Communist_Romania.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
 </plugin>
  
 <plugin>
 <title>[COLOR FFff8000] »LISTA TEST ROMANIA[/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/iptv-romania-m3u/master/lista%20test.m3u</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag-map_of_Communist_Romania.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/CriIcvUY7NU/maxresdefault.jpg</fanart>
 </plugin>
 
