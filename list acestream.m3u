@@ -41,6 +41,13 @@
 </item>
 
 <item>
+<title>PRO X(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=40209e26a80c381bbcdcfe71712d31a31d9b0061</link>
+<thumbnail>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</thumbnail>
+<fanart>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</fanart>
+</item>
+
+<item>
 <title>HBO(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
