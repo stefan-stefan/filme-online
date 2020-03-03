@@ -1,0 +1,13 @@
+<item>
+<title>Bonum TV</title>
+<link>http://cdn.y5.hu/stream/bonum/hls/stream.m3u8?fluxustv.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BonumTV_logo2014.pdf/page1-1200px-BonumTV_logo2014.pdf.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BonumTV_logo2014.pdf/page1-1200px-BonumTV_logo2014.pdf.jpg</fanart>
+</item>
+ 
+<item>
+<title>Budapest Európa Televízió</title>
+<link>http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8?fluxustv.m3u8</link>
+<thumbnail>https://cms.sulinet.hu/get/d/0fb6e8f0-c5c0-4d75-a10b-a9376c180212/1/5/b/Large/mar31_bptvlogo_a.jpg</thumbnail>
+<fanart>https://cms.sulinet.hu/get/d/0fb6e8f0-c5c0-4d75-a10b-a9376c180212/1/5/b/Large/mar31_bptvlogo_a.jpg</fanart>
+</item>
