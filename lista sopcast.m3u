@@ -6,24 +6,14 @@
 </item>
 
 <item>
-#EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
+<EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 </item>
 
 <item>
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
+<EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 </item>
-
-<item>
-<title>ANTENA 1(Sopcast)</title>
-<link>sop://broker.sopcast.com:3912/256338</link>
-<link>https://cmn.digitalcable.ro/free/cm/playlist.m3u8</link>
-<link>sop://broker.sopcast.com:3912/256338</link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</item>
-
 
 <item>
 <title>PRO TV(Sopcast)</title>
