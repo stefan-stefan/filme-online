@@ -98,6 +98,13 @@
 </item>
 
 <item>
+<title>PARAMOUNT CHANNEL(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
+<thumbnail>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>HBO(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
