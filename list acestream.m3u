@@ -41,5 +41,21 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
+<title>Listă de redare</title>
+	<trackList>
+		<track>
+			<location>acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</location>
+			<title>ANTENA 1</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+	</extension>
+</playlist>
+
  
 
