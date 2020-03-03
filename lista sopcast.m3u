@@ -15,6 +15,20 @@
 <item>
 <title>PRO TV(Sopcast)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
+<thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</thumbnail>
+<fanart>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</fanart>
+</item>
+
+<item>
+<title>TEST ACESTREAM SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
+<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
+</item>
+
+<item>
+<title>TEST SOPCAST SCRIPT 1</title>
+<link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
+<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
