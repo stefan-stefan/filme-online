@@ -20,5 +20,8 @@
 <thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
 <fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
 </item>
+
+#EXTINF:-1,Pro TV S1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
  
 
