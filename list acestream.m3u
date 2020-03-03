@@ -6,10 +6,17 @@
 </item>
 
 <item>
-<title>TEST ACESTREAM SCRIPT 1</title>
+<title>PRO TV(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=f06645f552137d04a4e6a18f8cc654e2dfd312b1</link>
+<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
+<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
+</item>
+
+<item>
+<title>HBO(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
-<thumbnail>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</thumbnail>
-<fanart>https://dashboard.snapcraft.io/site_media/appmedia/2017/02/icon_14.png</fanart>
+<thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
+<fanart>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</fanart>
 </item>
 
  
