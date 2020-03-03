@@ -14,8 +14,8 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264961&name=An
 </item>
  
 <item>
-<title>TVR 3</title>
-<link>http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8</link>
+<title>test ace</title>
+<link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
 <thumbnail>http://tvr3.tvr.ro/images/logo_main_tvr3.png</thumbnail>
 <fanart>http://tvr3.tvr.ro/images/logo_main_tvr3.png</fanart>
 </item>
