@@ -42,6 +42,21 @@
 </item>
 
 <item>
+    <title>Desene Live Youtube</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=BRkQ-ZGiNbc</sublink>
+    </link>
+    <thumbnail>https://gokid.ro/wp-content/uploads/2016/10/Tom-%C5%9Fi-Jerry-Desene-animate-online.jpg</thumbnail>
+    <fanart>https://content.fruithosted.net/splash/kdnrsdmtabcptonp/lftbboqqommdecqd.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Mickey's Twice Upon A Christmas</title>
+        <year>2004</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</item>
+
+<item>
 <title>TEST SOPCAST SCRIPT 1</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338</link>
 <thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
