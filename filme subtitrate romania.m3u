@@ -49,5 +49,20 @@
         <imdb>tt0424279</imdb>
     </meta>
 </item>
+<item>
+    <title>The Mask</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=AltQ2Pp_hU8</sublink>
+    </link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/ro/thumb/4/4b/The_Mask_%28film%29_poster.jpg/195px-The_Mask_%28film%29_poster.jpg</thumbnail>
+    <fanart>https://upload.wikimedia.org/wikipedia/ro/thumb/4/4b/The_Mask_%28film%29_poster.jpg/195px-The_Mask_%28film%29_poster.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>The Mask</title>
+        <year>2004</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</item>
+
 
 
