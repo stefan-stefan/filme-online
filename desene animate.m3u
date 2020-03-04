@@ -1,8 +1,16 @@
 <item>
-<title>Nickelodeon </title>
-<link>http://82.76.40.81/digiedge2/nickelodeonemq/index.m3u8?is=28&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=nickelodeon&p=browser&pe=site</link>
-<thumbnail>https://i.ytimg.com/vi/EZi1RWdzddQ/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/EZi1RWdzddQ/maxresdefault.jpg</fanart>
+    <title>Desene Live Youtube</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=BRkQ-ZGiNbc</sublink>
+    </link>
+    <thumbnail>https://gokid.ro/wp-content/uploads/2016/10/Tom-%C5%9Fi-Jerry-Desene-animate-online.jpg</thumbnail>
+    <fanart>https://gokid.ro/wp-content/uploads/2016/10/Tom-%C5%9Fi-Jerry-Desene-animate-online.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Jerry-Desene-animate-online</title>
+        <year>2004</year>
+        <imdb>tt0424279</imdb>
+    </meta>
 </item>
 
 <item>
