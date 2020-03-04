@@ -23,7 +23,7 @@
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=sop://broker.sopcast.com:3912/256338;name=CNN INTERNATIONAL</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=Antena1</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
