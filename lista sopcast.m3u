@@ -5,6 +5,25 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
+<item>
+<title>[COLOR FFff8000][B]» LINKS actualizados - 2020.02.02[/B][/COLOR]</title>
+<link>http://nopr0n</link>
+<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/foot.png</thumbnail>
+<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
+</item>
+
+<item><title>[COLOR lightgreen][B]» SPORT TV 01[/COLOR][/B] - LINK 01</title><link>$doregex[geturl]</link><regex><name>geturl</name><expres>source:"(.*?)"</expres><page>$doregex[getunpacked]</page></regex><regex><name>getunpacked</name><expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres><page>https://wstream.to/embed/sdjyjtgb1q6m4</page><referer>https://daddylive.live/channels/stream-49.php</referer><connection>keep-alive</connection></regex><thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail><fanart>https://i.imgur.com/xtDfb70.jpg</fanart></item>
+<item><title>[COLOR lightgreen][B]» SPORT TV 01[/COLOR][/B] - LINK 02</title><link>$doregex[geturl]</link><regex><name>geturl</name><expres>source:"(.*?)"</expres><page>$doregex[getunpacked]</page></regex><regex><name>getunpacked</name><expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres><page>https://wstream.to/embed/cyqomyts14egn</page><referer>https://sportzonline.co/channels/pt/sporttv1.php</referer><connection>keep-alive</connection></regex><thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail><fanart>https://i.imgur.com/xtDfb70.jpg</fanart></item>
+<item>
+<title>[COLOR lightgreen][B]» SPORT TV 01[/COLOR][/B] - LINK 03</title>
+<sportsdevil>http://2cfazefoot.blogspot.com/2018/01/kanal-50.html</sportsdevil>
+<referer>http://www.liveonlinetv247.info</referer>
+<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
+<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
+</item>
+link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
+
+
 <channel id='50'>
 <name>Acasa Tv</name>
 <quality>480p</quality>
