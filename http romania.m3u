@@ -222,5 +222,26 @@
 <fanart>https://www.okokgames.com/img/animalLife4D.jpg</fanart>
 </item>
 
+<item>
+<title>Viasat Explorer</title>
+<link>http://82.76.40.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://static.cinemagia.ro/img/resize/db/article/00/67/86/709405l-320x200-n-1fc65064.jpg</thumbnail>
+<fanart>https://static.cinemagia.ro/img/resize/db/article/00/67/86/709405l-320x200-n-1fc65064.jpg</fanart>
+</item>
+
+<item>
+<title>Viasat Nature</title>
+<link>http://82.76.40.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://1.bp.blogspot.com/-8c7k5x_GGbw/T_ajrkLXKoI/AAAAAAAAIXk/x8HhQYbih6s/s1600/viasatnature-cee.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-8c7k5x_GGbw/T_ajrkLXKoI/AAAAAAAAIXk/x8HhQYbih6s/s1600/viasatnature-cee.jpg</fanart>
+</item>
+ 
+<item>
+<title>Viasat History</title>
+<link>http://82.76.40.81/digiedge2/smil:viasathistory.smil/playlist.m3u8?is=41&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://alchetron.com/cdn/viasat-history-6e647b28-f547-41a8-a9b2-a0c9f6ee6d8-resize-750.jpg</thumbnail>
+<fanart>https://alchetron.com/cdn/viasat-history-6e647b28-f547-41a8-a9b2-a0c9f6ee6d8-resize-750.jpg</fanart>
+</item>
+
 
 
