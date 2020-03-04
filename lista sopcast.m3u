@@ -5,6 +5,22 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
+<channel id='50'>
+<name>Acasa Tv</name>
+<quality>480p</quality>
+<livenow>necunoscut</livenow>
+<imgurl> </imgurl>
+<url>sop://broker.sopcast.com:3912/80555</url>
+</channel>
+ 
+<channel id='50'>
+<name>Amc</name>
+<quality>480p</quality>
+<livenow>necunoscut</livenow>
+<imgurl> </imgurl>
+<url>http://37.220.128.130:9100/11</url>
+</channel>
+
 <item>
 <title>DISCOVERY CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?url=sop://broker.sopcast.com:3912/256338;name=CNN INTERNATIONAL</link>
