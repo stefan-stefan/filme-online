@@ -12,14 +12,10 @@
 <thumbnail>http://tgo-tv.com/images/tv/tsn1.jpg</thumbnail>
 </item>
  
-<item>
-<title>SURSE COMBINATE</title>
-<link>https://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w1615606415_b1892495_sleng.m3u8?is=4&src=app&t=0efb7586bf055a69c407e9a00984f8b9&s=site&sn=digionline.ro&p=browser</link>
-<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg</thumbnail>
-</item>
  
 <item>
 <title>3 SURSE HTTP</title>
+<link>http://193.8.246.31:8000/12</link>
 <link>https://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w1615606415_b1892495_sleng.m3u8?is=4&src=app&t=0efb7586bf055a69c407e9a00984f8b9&s=site&sn=digionline.ro&p=browser</link>
 <link>http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
 <link>http://193.8.246.31:8000/12</link>
