@@ -179,6 +179,27 @@
 <fanart>https://i.ytimg.com/vi/qUfcN2pcYIA/maxresdefault.jpg</fanart>
 </item>
 
+<item>
+<title>Discovery</title>
+<link>http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg</thumbnail>
+<fanart>https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg</fanart>
+</item>
+
+<item>
+<title>Nat Geo Wild</title>
+<link>http://82.76.40.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://i.pinimg.com/originals/ad/54/d8/ad54d8e7ab07e110f4709e63fb54cd6e.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/ad/54/d8/ad54d8e7ab07e110f4709e63fb54cd6e.jpg</fanart>
+</item>
+ 
+<item>
+<title>National Geographic</title>
+<link>http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://www.qmagazine.ro/wp-content/uploads/2017/08/national-geographic.jpg</thumbnail>
+<fanart>https://www.qmagazine.ro/wp-content/uploads/2017/08/national-geographic.jpg</fanart>
+</item>
+
 
 
 
