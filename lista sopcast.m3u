@@ -7,8 +7,8 @@
 
 <item>
 <title>TSN 1 (ACESTREAM 2 SURSE)</title>
-<link>acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb</link>
-<link>acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
+<link>acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
+<link>http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
 <thumbnail>http://tgo-tv.com/images/tv/tsn1.jpg</thumbnail>
 </item>
  
@@ -20,8 +20,8 @@
  
 <item>
 <title>3 SURSE HTTP</title>
-<link>acestream://87dc2d9f70a73ceb9365716d85bd38b94c611a3f</link>
-<link>http://195.12.182.18:4022/udp/239.255.1.1:5004</link>
+<link>acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
+<link>http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
 <link>http://193.8.246.31:8000/12</link>
 <link>http://193.8.246.31:8000/13</link>
 <thumbnail>http://nowwatchtvlive.co/wp-content/uploads/2013/06/Viasat-Sport-Baltic-logo.jpg</thumbnail>
