@@ -12,71 +12,20 @@
 <fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
 </item>
 
-<item><title>[COLOR lightgreen][B]» SPORT TV 01[/COLOR][/B] - LINK 01</title><link>$doregex[geturl]</link><regex><name>geturl</name><expres>source:"(.*?)"</expres><page>$doregex[getunpacked]</page></regex><regex><name>getunpacked</name><expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres><page>https://wstream.to/embed/sdjyjtgb1q6m4</page><referer>https://daddylive.live/channels/stream-49.php</referer><connection>keep-alive</connection></regex><thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail><fanart>https://i.imgur.com/xtDfb70.jpg</fanart></item>
-<item><title>[COLOR lightgreen][B]» SPORT TV 01[/COLOR][/B] - LINK 02</title><link>$doregex[geturl]</link><regex><name>geturl</name><expres>source:"(.*?)"</expres><page>$doregex[getunpacked]</page></regex><regex><name>getunpacked</name><expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres><page>https://wstream.to/embed/cyqomyts14egn</page><referer>https://sportzonline.co/channels/pt/sporttv1.php</referer><connection>keep-alive</connection></regex><thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail><fanart>https://i.imgur.com/xtDfb70.jpg</fanart></item>
 <item>
-<title>[COLOR lightgreen][B]» SPORT TV 01[/COLOR][/B] - LINK 03</title>
-<sportsdevil>http://2cfazefoot.blogspot.com/2018/01/kanal-50.html</sportsdevil>
-<referer>http://www.liveonlinetv247.info</referer>
-<thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/stv1.png</thumbnail>
-<fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
+    <title>Mickey's Twice Upon A Christmas</title>
+    <link>
+        <sublink>https://streamango.com/f/kdnrsdmtabcptonp</sublink>
+    </link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4ODk0MDg2NV5BMl5BanBnXkFtZTcwMTM2MzcyMQ@@._V1_.jpg</thumbnail>
+    <fanart>https://content.fruithosted.net/splash/kdnrsdmtabcptonp/lftbboqqommdecqd.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Mickey's Twice Upon A Christmas</title>
+        <year>2004</year>
+        <imdb>tt0424279</imdb>
+    </meta>
 </item>
-link>plugin://program.plexus/?url=857c7ab59305fdccd621b6525786fe925813568d&amp;mode=1&amp;name=SPORT</link>
-
-
-<channel id='50'>
-<name>Acasa Tv</name>
-<quality>480p</quality>
-<livenow>necunoscut</livenow>
-<imgurl> </imgurl>
-<url>sop://broker.sopcast.com:3912/80555</url>
-</channel>
- 
-<channel id='50'>
-<name>Amc</name>
-<quality>480p</quality>
-<livenow>necunoscut</livenow>
-<imgurl> </imgurl>
-<url>http://37.220.128.130:9100/11</url>
-</channel>
-
-<item>
-<title>DISCOVERY CHANNEL</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=Antena1</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>I Am Legend.(2007)</title>
-<channel id='50'>
-<name>Axn Black</name>
-<quality>480p</quality>
-<livenow>necunoscut</livenow>
-<imgurl> </imgurl>
-<url>sop://broker.sopcast.com:3912/256338</url>
-</channel>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BZTVkZmM3MDYtMmI4OS00NzMzLWI3NWYtNTJlNmVkNDIxNWUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BZTVkZmM3MDYtMmI4OS00NzMzLWI3NWYtNTJlNmVkNDIxNWUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
-</item>
-
-<item>
-<title>PRO TV(Sopcast)</title>
-<link>plugin://program.plexus/?mode=1&url=sop://broker.sopcast.com:3912/256338</link>
-<thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</thumbnail>
-<fanart>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</fanart>
-</item>
-
-</item>
-<item id="149252">
-        <name>
-            PRO TV
-        </name>
-        <address>
-            sop://broker.sopcast.com:3912/149252
-        </address>
- </item>
 
 <item>
 <title>PRO TV(Sopcast)</title>
