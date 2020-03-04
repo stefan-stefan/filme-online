@@ -6,6 +6,28 @@
 </item>
 
 <item>
+<title>TSN 1 (ACESTREAM 2 SURSE)</title>
+<link>acestream://13139e30694a4902cc4bc8e0859d64c9851c80cb</link>
+<link>acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225</link>
+<thumbnail>http://tgo-tv.com/images/tv/tsn1.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>SURSE COMBINATE</title>
+<link>acestream://4beaa15019ef26c31b7ed048d84ef67e11b9f19e(Acestream)</link>
+<thumbnail>http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-futbol.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>3 SURSE HTTP</title>
+<link>acestream://87dc2d9f70a73ceb9365716d85bd38b94c611a3f</link>
+<link>http://195.12.182.18:4022/udp/239.255.1.1:5004</link>
+<link>http://193.8.246.31:8000/12</link>
+<link>http://193.8.246.31:8000/13</link>
+<thumbnail>http://nowwatchtvlive.co/wp-content/uploads/2013/06/Viasat-Sport-Baltic-logo.jpg</thumbnail>
+</item
+
+<item>
 <title>[COLOR FFff8000][B]» LINKS actualizados - 2020.02.02[/B][/COLOR]</title>
 <link>http://nopr0n</link>
 <thumbnail>https://raw.githubusercontent.com/irmu/moria/master/_tools/art/legolas/foot.png</thumbnail>
