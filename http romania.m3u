@@ -243,5 +243,33 @@
 <fanart>https://alchetron.com/cdn/viasat-history-6e647b28-f547-41a8-a9b2-a0c9f6ee6d8-resize-750.jpg</fanart>
 </item>
 
+<item>
+<title>BBC EARTH</title>
+<link>http://edge81.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.&t=00000000000000000000000000000000</link>
+<thumbnail>https://www.media-max.ro/wp-content/uploads/2018/12/BBC-Earth-va-iesi-din-grila-de-programe-Digi-iar-Film-Now-va-costa-3-lei-pe-luna-pentru-toti-abonatii.jpg</thumbnail>
+<fanart>https://www.media-max.ro/wp-content/uploads/2018/12/BBC-Earth-va-iesi-din-grila-de-programe-Digi-iar-Film-Now-va-costa-3-lei-pe-luna-pentru-toti-abonatii.jpg</fanart>
+</item>
+ 
+<item>
+<title>Fishing and Hunting</title>
+<link>http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>https://ro.kingofsat.net/jpg/fishing-hunting.jpg</thumbnail>
+<fanart>https://ro.kingofsat.net/jpg/fishing-hunting.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery ID</title>
+<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/38427.ts</link>
+<thumbnail>https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/33377/article_full%401x.jpg</thumbnail>
+<fanart>https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/33377/article_full%401x.jpg</fanart>
+</item>
+ 
+<item>
+<title>E! Entertainmenty</title>
+<link>http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Elive-logo.jpg/250px-Elive-logo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Elive-logo.jpg/250px-Elive-logo.jpg</fanart>
+</item>
+
 
 
