@@ -14,6 +14,19 @@
 </item>
 
 <item>
+<title>I Am Legend.(2007)</title>
+<channel id='50'>
+<name>Axn Black</name>
+<quality>480p</quality>
+<livenow>necunoscut</livenow>
+<imgurl> </imgurl>
+<url>sop://broker.sopcast.com:3912/149261</url>
+</channel>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZTVkZmM3MDYtMmI4OS00NzMzLWI3NWYtNTJlNmVkNDIxNWUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZTVkZmM3MDYtMmI4OS00NzMzLWI3NWYtNTJlNmVkNDIxNWUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
+</item>
+
+<item>
 <title>PRO TV(Sopcast)</title>
 <link>plugin://program.plexus/?mode=1&url=sop://broker.sopcast.com:3912/256338</link>
 <thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/11/programul-protv-decembrie.jpg</thumbnail>
