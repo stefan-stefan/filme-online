@@ -42,6 +42,16 @@
 <fanart>https://m.media-amazon.com/images/M/MV5BZTVkZmM3MDYtMmI4OS00NzMzLWI3NWYtNTJlNmVkNDIxNWUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
 </item>
 
+ </item>
+<item id="149252">
+        <name>
+            PRO TV
+        </name>
+        <address>
+            sop://broker.sopcast.com:3912/149252
+        </address>
+    </item>
+
 <item>
 <title>PRO TV(Sopcast)</title>
 <link>plugin://program.plexus/?mode=1&url=sop://broker.sopcast.com:3912/256338</link>
