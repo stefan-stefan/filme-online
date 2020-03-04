@@ -42,7 +42,7 @@
 <fanart>https://m.media-amazon.com/images/M/MV5BZTVkZmM3MDYtMmI4OS00NzMzLWI3NWYtNTJlNmVkNDIxNWUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg</fanart>
 </item>
 
- </item>
+</item>
 <item id="149252">
         <name>
             PRO TV
@@ -50,7 +50,7 @@
         <address>
             sop://broker.sopcast.com:3912/149252
         </address>
-    </item>
+ </item>
 
 <item>
 <title>PRO TV(Sopcast)</title>
