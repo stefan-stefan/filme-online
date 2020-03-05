@@ -1,275 +1,78 @@
 <item>
-<title>[COLOR FFff8000]» TV ROMANIA HTTP [/COLOR]</title>
+<title>[COLOR FFff8000]» TV ROMANIA HTTP-ACESTREAM-SOPCAST [/COLOR]</title>
 <link></link>
 <thumbnail>https://media.giphy.com/media/hUG7Bjm9rb5MpGy2y1/giphy.gif</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
-</item>
+<item>
  
 <item>
-<title>ANTENA 1</title>
+<title>LISTA HTTP(Auto-update)</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
 <thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
 <fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
 </item>
 
-<item>
-<title>PRO TV</title>
+<dir>
+<title>LISTA HTTP 1</title>
 <link>https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1</link>
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
-</item>
+</dir>
 
 <item>
-<title>Pro Tv International</title>
+<title>LISTA HTTP TEST</title>
 <link>http://78.109.108.62:2001/protv</link>
 <thumbnail>https://videos.thematv.com/pro-tv-international.jpg</thumbnail>
 <fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
 </item>
-<item>
-<title>Pro TV Chișinău</title>
-<link>http://hls.protv.md/hls/protv.m3u8</link>
-<thumbnail>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</thumbnail>
-<fanart>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</fanart>
-</item>
 
 <item>
-<title>Kanal D</title>
-<link>http://193.228.153.231:4240/bysid/50</link>
-<thumbnail>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</thumbnail>
-<fanart>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</fanart>
-</item>
-
-<item>
-<title>Prima TV</title>
-<link>http://193.228.153.231:4242/bysid/60</link>
-<thumbnail>https://www.primatv.ro/bundles/primatv/siglacontact.jpg</thumbnail>
-<fanart>https://www.primatv.ro/bundles/primatv/siglacontact.jpg</fanart>
-</item>
-
-<item>
-<title>Pro Gold</title>
-<link>https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1</link>
-<thumbnail>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</thumbnail>
-<fanart>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</fanart>
-</item>
-
-<item>
-<title>Pro Cinema</title>
+<title>LISTA TV(RCS-RDS)</title>
 <link>https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1</link>
 <thumbnail>https://www.radardemedia.ro/wp-content/uploads/2017/01/PRO-CINEMA-LOGO.jpg</thumbnail>
 <fanart>https://www.radardemedia.ro/wp-content/uploads/2017/01/PRO-CINEMA-LOGO.jpg</fanart>
 </item>
 
 <item>
-<title>AXN</title>
+<title>TEST</title>
 <link>http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000</link>
 <thumbnail>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/04/AXN-%C3%A9-o-canal-mais-assistido-pelas-mulheres-em-2017.jpg</thumbnail>
 <fanart>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/04/AXN-%C3%A9-o-canal-mais-assistido-pelas-mulheres-em-2017.jpg</fanart>
 </item>
 
 <item>
-<title>AXN BLACK</title>
+<title>TEST2</title>
 <link>http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2000px-AXN_Black_logo_%282015%29.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2000px-AXN_Black_logo_%282015%29.svg.png</fanart>
 </item>
 
-<item>
-<title>AXN White</title>
-<link>http://edge81.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png</fanart>
-</item>
+
+<dir>
+<title>LISTA ACESTREAM 1</title>
+<link>http://hls.protv.md/hls/protv.m3u8</link>
+<thumbnail>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</thumbnail>
+<fanart>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</fanart>
+</dir>
 
 <item>
-<title>AXN SPIN</title>
-<link>http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site</link>
-<thumbnail>https://www.paginademedia.ro/wp-content/uploads/2017/05/axn-rebrand-2015-11_tb730.jpg</thumbnail>
-<fanart>https://www.paginademedia.ro/wp-content/uploads/2017/05/axn-rebrand-2015-11_tb730.jpg</fanart>
+<title>LISTA ACESTREAM 2</title>
+<link>http://193.228.153.231:4240/bysid/50</link>
+<thumbnail>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</thumbnail>
+<fanart>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</fanart>
 </item>
 
-<item>
-<title>AMC</title>
-<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33851.ts</link>
-<thumbnail>https://www.paginademedia.ro/wp-content/uploads/2018/10/amc_tb730.jpg</thumbnail>
-<fanart>https://www.paginademedia.ro/wp-content/uploads/2018/10/amc_tb730.jpg</fanart>
+<dir>
+<title>LISTA SOPCAST 1</title>
+<link>http://193.228.153.231:4242/bysid/60</link>
+<thumbnail>https://www.primatv.ro/bundles/primatv/siglacontact.jpg</thumbnail>
+<fanart>https://www.primatv.ro/bundles/primatv/siglacontact.jpg</fanart>
 </item>
 
-<item>
-<title>Film Cafe</title>
-<link>http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://movienews.ro/wp-content/uploads/2015/04/film-cafe-696x392.jpg</thumbnail>
-<fanart>https://movienews.ro/wp-content/uploads/2015/04/film-cafe-696x392.jpg</fanart>
-</item>
-
-<item>
-<title>Tv 1000</title>
-<link>http://82.76.40.81/digiedge2/smil:tv1000.smil/playlist.m3u8?is=43&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://mir-s3-cdn-cf.behance.net/project_modules/disp/7faff92832917.560186c30402b.png</thumbnail>
-<fanart>https://mir-s3-cdn-cf.behance.net/project_modules/disp/7faff92832917.560186c30402b.png</fanart>
-</item>
-
-<item>
-<title>TNT</title>
-<link>http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://d14smv89t73oqm.cloudfront.net/static/images/notfound_h.png</thumbnail>
-<fanart>https://d14smv89t73oqm.cloudfront.net/static/images/notfound_h.png</fanart>
-</item>
-
-<item>
-<title>HBO 1</title>
-<link>http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085</link>
-<thumbnail>https://movienews.ro/wp-content/uploads/2014/12/HBO_Logo.jpg</thumbnail>
-<fanart>https://movienews.ro/wp-content/uploads/2014/12/HBO_Logo.jpg</fanart>
-</item>
-
-<item>
-<title>Hbo 2</title>
-<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33833.ts</link>
-<thumbnail>https://i.vimeocdn.com/video/128361224_640.jpg</thumbnail>
-<fanart>https://i.vimeocdn.com/video/128361224_640.jpg</fanart>
-</item>
-
-<item>
-<title>HBO 3</title>
-<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33833.ts</link>
-<thumbnail>https://1.bp.blogspot.com/-l2COtER1Qkc/VvT7qduAUUI/AAAAAAAAI1Y/cNDqexfdofEMVtAAAdkPh7VkjIHiJcrCQ/s1600/1148616_28.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-l2COtER1Qkc/VvT7qduAUUI/AAAAAAAAI1Y/cNDqexfdofEMVtAAAdkPh7VkjIHiJcrCQ/s1600/1148616_28.jpg</fanart>
-</item>
-
-<item>
-<title>Bollywood HD</title>
-<link>http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END</link>
-<thumbnail>https://archive.is/mjd7G/51f2bcb0c0288b1f8f53cc6e917ca576c47ddf03.png</thumbnail>
-<fanart>https://archive.is/mjd7G/51f2bcb0c0288b1f8f53cc6e917ca576c47ddf03.png</fanart>
-</item>
-
-<item>
-<title>Comedy Central</title>
-<link>http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png</thumbnail>
-<fanart>https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png</fanart>
-</item>
-
-<item>
-<title>Cinemax</title>
-<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33843.ts</link>
-<thumbnail>https://cdn1-www.comingsoon.net/assets/uploads/2017/10/Cinemax.jpg</thumbnail>
-<fanart>https://cdn1-www.comingsoon.net/assets/uploads/2017/10/Cinemax.jpg</fanart>
-</item>
-
-<item>
-<title>Cinemax 2</title>
-<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/33843.ts</link>
-<thumbnail>https://www.akta.ro/wp-content/uploads/cinemax21.png</thumbnail>
-<fanart>https://www.akta.ro/wp-content/uploads/cinemax21.png</fanart>
-</item>
-
-<item>
-<title>Digi Life</title>
-<link>http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAzdHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTQl/MkYwOCUyRjEzJTJGMzAyNzI0XzMwMjcy/NF9EaWdpX0xpZmUucG5nJnc9ODAwJmhh/c2g9YjJhMDgxN2Y3ODQ3MDZmYTMzMDI5YWQ4NjhkYWYyODM=.thumb.jpg</thumbnail>
-<fanart>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAzdHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTQl/MkYwOCUyRjEzJTJGMzAyNzI0XzMwMjcy/NF9EaWdpX0xpZmUucG5nJnc9ODAwJmhh/c2g9YjJhMDgxN2Y3ODQ3MDZmYTMzMDI5YWQ4NjhkYWYyODM=.thumb.jpg</fanart>
-</item>
-
-<item>
-<title>CBS REALITY</title>
-<link>http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://i.ytimg.com/vi/qUfcN2pcYIA/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/qUfcN2pcYIA/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>Discovery</title>
-<link>http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg</thumbnail>
-<fanart>https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg</fanart>
-</item>
-
-<item>
-<title>Nat Geo Wild</title>
-<link>http://82.76.40.81/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://i.pinimg.com/originals/ad/54/d8/ad54d8e7ab07e110f4709e63fb54cd6e.jpg</thumbnail>
-<fanart>https://i.pinimg.com/originals/ad/54/d8/ad54d8e7ab07e110f4709e63fb54cd6e.jpg</fanart>
-</item>
- 
-<item>
-<title>National Geographic</title>
-<link>http://82.76.40.81/digiedge2/smil:nationalgeographic.smil/playlist.m3u8?is=19&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://www.qmagazine.ro/wp-content/uploads/2017/08/national-geographic.jpg</thumbnail>
-<fanart>https://www.qmagazine.ro/wp-content/uploads/2017/08/national-geographic.jpg</fanart>
-</item>
-
-
-<item>
-<title>DTX (Discovery Turbo Xtra)</title>
-<link>http://94.177.136.29:7478/play/a03b</link>
-<thumbnail>https://1.bp.blogspot.com/-KANj1VbYWv4/WH9XRCGtN0I/AAAAAAAAvqg/7jltpqUQIv8jVuM9biqYf7WVUgJzRdogQCLcB/s1600/dtx.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-KANj1VbYWv4/WH9XRCGtN0I/AAAAAAAAvqg/7jltpqUQIv8jVuM9biqYf7WVUgJzRdogQCLcB/s1600/dtx.jpg</fanart>
-</item>
-
-<item>
-<title>ANIMAL PLANET</title>
-<link>http://tv-he.orange.ro/shls/LIVE$animalplanethd/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
-<thumbnail>https://static.wixstatic.com/media/493caf_effafcd4a6d44a89babb558127244c92~mv2.jpg</thumbnail>
-<fanart>https://static.wixstatic.com/media/493caf_effafcd4a6d44a89babb558127244c92~mv2.jpg</fanart>
-</item>
- 
-<item>
-<title>Animal World</title>
-<link>http://edge81.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://www.okokgames.com/img/animalLife4D.jpg</thumbnail>
-<fanart>https://www.okokgames.com/img/animalLife4D.jpg</fanart>
-</item>
-
-<item>
-<title>Viasat Explorer</title>
-<link>http://82.76.40.81/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://static.cinemagia.ro/img/resize/db/article/00/67/86/709405l-320x200-n-1fc65064.jpg</thumbnail>
-<fanart>https://static.cinemagia.ro/img/resize/db/article/00/67/86/709405l-320x200-n-1fc65064.jpg</fanart>
-</item>
-
-<item>
-<title>Viasat Nature</title>
-<link>http://82.76.40.81/digiedge2/viasatnatureehq/index.m3u8?is=42&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://1.bp.blogspot.com/-8c7k5x_GGbw/T_ajrkLXKoI/AAAAAAAAIXk/x8HhQYbih6s/s1600/viasatnature-cee.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-8c7k5x_GGbw/T_ajrkLXKoI/AAAAAAAAIXk/x8HhQYbih6s/s1600/viasatnature-cee.jpg</fanart>
-</item>
- 
-<item>
-<title>Viasat History</title>
-<link>http://82.76.40.81/digiedge2/smil:viasathistory.smil/playlist.m3u8?is=41&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://alchetron.com/cdn/viasat-history-6e647b28-f547-41a8-a9b2-a0c9f6ee6d8-resize-750.jpg</thumbnail>
-<fanart>https://alchetron.com/cdn/viasat-history-6e647b28-f547-41a8-a9b2-a0c9f6ee6d8-resize-750.jpg</fanart>
-</item>
-
-<item>
-<title>BBC EARTH</title>
-<link>http://edge81.rdsnet.ro/digiedge2/bbcearthehq/index.m3u8?is=67&src=digi-online.&t=00000000000000000000000000000000</link>
-<thumbnail>https://www.media-max.ro/wp-content/uploads/2018/12/BBC-Earth-va-iesi-din-grila-de-programe-Digi-iar-Film-Now-va-costa-3-lei-pe-luna-pentru-toti-abonatii.jpg</thumbnail>
-<fanart>https://www.media-max.ro/wp-content/uploads/2018/12/BBC-Earth-va-iesi-din-grila-de-programe-Digi-iar-Film-Now-va-costa-3-lei-pe-luna-pentru-toti-abonatii.jpg</fanart>
-</item>
- 
-<item>
-<title>Fishing and Hunting</title>
-<link>http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://ro.kingofsat.net/jpg/fishing-hunting.jpg</thumbnail>
-<fanart>https://ro.kingofsat.net/jpg/fishing-hunting.jpg</fanart>
-</item>
-
-<item>
-<title>Discovery ID</title>
-<link>http://zeroip.tv:8008/live/6ehm3uaK2h/RCxZqUVfdw/38427.ts</link>
-<thumbnail>https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/33377/article_full%401x.jpg</thumbnail>
-<fanart>https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/33377/article_full%401x.jpg</fanart>
-</item>
- 
-<item>
-<title>E! Entertainmenty</title>
-<link>http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Elive-logo.jpg/250px-Elive-logo.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Elive-logo.jpg/250px-Elive-logo.jpg</fanart>
-</item>
-
-
+<dir>
+<title>LISTA SOPCAST 2</title>
+<link>https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1</link>
+<thumbnail>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</thumbnail>
+<fanart>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</fanart>
+</dir>
 
