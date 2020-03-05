@@ -1,6 +1,13 @@
-<item>
+<dir>
 <title>92 News UK</title>
 <link>https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8</link>
 <thumbnail>https://pbs.twimg.com/profile_images/979612604489523200/iNsFi5nX_400x400.jpg</thumbnail>
 <fanart>https://pbs.twimg.com/profile_images/979612604489523200/iNsFi5nX_400x400.jpg</fanart>
-</item>
+</dir>
+
+<plugin>
+<title>92 News UK</title>
+<link>https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/979612604489523200/iNsFi5nX_400x400.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/979612604489523200/iNsFi5nX_400x400.jpg</fanart>
+</plugin>
