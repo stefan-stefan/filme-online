@@ -1,73 +1,17 @@
-<item>
-<title>Canção Nova</title>
+<dir>
+<title>PORTUGALIA 1</title>
 <link>http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8</link>
-<thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
-<fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
-</item>
+<thumbnail>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</thumbnail>
+<fanart>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</fanart>
+</dir>
  
-<item>
-<title>Canal Ricos</title>
+<plugin>
+<title>PORTUGALIA 2</title>
 <link>http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8</link>
-<thumbnail>https://2.bp.blogspot.com/-cBBLpoOKg-g/W04Iip9VF3I/AAAAAAAAw28/IM9-b0yd2vw-UL27RLaeqaoeZorkv9gkACLcBGAs/s1600/CANAL+RICOS.fw.png</thumbnail>
-<fanart>https://2.bp.blogspot.com/-cBBLpoOKg-g/W04Iip9VF3I/AAAAAAAAw28/IM9-b0yd2vw-UL27RLaeqaoeZorkv9gkACLcBGAs/s1600/CANAL+RICOS.fw.png</fanart>
-</item>
+<thumbnail>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</thumbnail>
+<fanart>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</fanart>
+<plugin>
 
-<item>
-<title>ABERTA",GLOBO RJ</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/50000.m3u8?token=TBUKAERaFg4QUARbVQJSAwZRUAoOUVMPBF1RUwEFDQJRBFNUAwFSDVdEHUERREVXBQtsW11BWwMHVAMASENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQFdWQ0HFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRltbQFtbTkNUXUFaRhRIQVgSdWBGShFXQRcEWEQNXF5GWxdYBEJaQxsQXUdtFFQQFkJSUwkDQRADQVAUG0ZeURw+VlpZWQcCQ1tbWkFEC0FSEhsQCQldW00ME2lHDVcSXkMEDA4GW0NK</link>
-<thumbnail>http://i.imgur.com/NSHvLCe.png</thumbnail>
-<fanart>https://static.wixstatic.com/media/8c0fdb_985e8a6372b343149e380cc97d77e31f~mv2.png</fanart>
-</item>
-
-<item>
-<title>ABERTOS",SBT RJ HD</title>
-<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8</link>
-<thumbnail>https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png</thumbnail>
-<fanart>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</fanart>
-</item>
-
-<item>
-<title>CANAIS ABERTOS",BAND</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/8888.m3u8?token=TBUKAERaFg4QXlIGAAkHBgFeVwIBAlIEVF0BAVNVUAMHBgEAVVMGB1BEHUERREVXBQtsW11BWw4PXAscRhRGUEVoCwUVCBYMEEoTFwtdUhBeVh8QSQoFFA0KRlwITRdQT0MHE1lTWGtWA0cKAVUVCAoTX14VQQ5YaABWXQUPURcNFVNDGxBdR0JECw0XXFseRgRaRksCFVMVXl1FCA0ZF1RYFw9DQE0WCERzMUAcFVccElZcSgoOWBVeEV1XFA0XGxULEmhAUUdGFFQCD1VFEF5EAhAVQQxXTztQXwoPUFZDXg0PRBAOFgJEHUEPX1lbEAlBbUkKBRQNCkZcCBw=</link>
-<thumbnail>https://1.bp.blogspot.com/-ij0LKunNKmA/U4Aa-mm1IcI/AAAAAAAAAlQ/YxlamNPXadY/s1600/vQPkH.png</thumbnail>
-<fanart>https://1.bp.blogspot.com/-ij0LKunNKmA/U4Aa-mm1IcI/AAAAAAAAAlQ/YxlamNPXadY/s1600/vQPkH.png</fanart>
-</item>
-
-<item>
-<title>CURTA</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/19999.m3u8?token=TBUKAERaFg4QBAVbAAIDUFMCC1MOV1VTAFNQAQEAB1cAVAFWAQMFVgtEHUERREVXBQtsW11BWwcOXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I</link>
-<thumbnail>https://pngimage.net/wp-content/uploads/2018/05/curta-png-8.png</thumbnail>
-<fanart>https://pngimage.net/wp-content/uploads/2018/05/curta-png-8.png</fanart>
-</item>
-
-<item>
-<title>Telecine Premium</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/109000.m3u8?token=TBUKAERaFg4QAgUHAQYAVlECBQUIVlgPVlYLBlRWVlQCUQRYUlNXDAZEHUERREVXBQtsW11BWwcHXQMAVE0XQERSED5eVhYOEF4TT0BEXl8BRAkCFUERX1NGCV4RDVkZFVIaFVJAWlVeOVUGFFlUV0ZcXUdVD00UWApsVAEMVFtTFVhDBhAYFlsVQUFYXkJeCEoRUFAXE1dDAREKChRZWRsVAQ5CXEBGS0QLQSBiFR5GA0tGXA0SX1gKEQpGDAZADxVOQ15Ba0ZXFUURB1FaVxZECRAIQU0UWgVLbwcOW1tSVBYIWFxHFghEAUFOElpdCg9HXUs8EV9TRgleEQ1ZSA==</link>
-<thumbnail>https://banner2.cleanpng.com/20180527/tfv/kisspng-rede-telecine-telecine-pipoca-popcorn-television-t-5b0ab60764de88.9653194315274286154132.jpg</thumbnail>
-<fanart>https://banner2.cleanpng.com/20180527/tfv/kisspng-rede-telecine-telecine-pipoca-popcorn-television-t-5b0ab60764de88.9653194315274286154132.jpg</fanart>
-</item>
-
-</item>
-<item>
-<title>hbo mundi</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/68888.m3u8?token=TBUKAERaFg4QV1ACUFNUClYCUQMPVVkEDgcLBl0CBwVRBFRQAlMNUAVEHUERREVXBQtsW11BWwAPXAsISENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I</link>
-<thumbnail>https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png</thumbnail>
-<fanart>https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png</fanart>
-</item>
-
-<item>
-<title>hbo family</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/59999.m3u8?token=TBUKAERaFg4QVlIBAVIFVlNeUQQBV1MBU1RQBFNUV1ZSAlRYDgpQAlZEHUERREVXBQtsW11BWwMOXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQdSVgYXGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAw8DQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXAgEEVUNK</link>
-<thumbnail>https://toppng.com/public/uploads/preview/logo-hbo-brasil-hbo-family-hbo-logo-canal-hbo-family-11563655798o4rf7asjwe.png</thumbnail>
-<fanart>https://toppng.com/public/uploads/preview/logo-hbo-brasil-hbo-family-hbo-logo-canal-hbo-family-11563655798o4rf7asjwe.png</fanart>
-</item>
-
-<item>
-<title>FOX SPORT</title>
-<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/45555.m3u8?token=TBUKAERaFg4QXgYCAAVVVlZVAFcABVkGU1wBCAcHA1EPD1RRDlENAFBEHUERREVXBQtsW11BWwICUQYFSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQNcUwUXGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAgMEQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXBg8CUENK</link>
-<thumbnail>https://roundbyroundboxing.com/wp-content/uploads/2014/11/Fox-Deportes-Logo.png</thumbnail>
-<fanart>https://roundbyroundboxing.com/wp-content/uploads/2014/11/Fox-Deportes-Logo.png</fanart>
-</item>
 
 
 
