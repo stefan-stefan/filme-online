@@ -48,12 +48,12 @@
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </dir>
 
-<item>
+<plugin>
 <title>LISTA ACESTREAM 12</title>
-<link>http://193.228.153.231:4240/bysid/50</link>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20acestream2.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
-</item>
+</plugin>
 
 <dir>
 <title>LISTA SOPCAST 1</title>
