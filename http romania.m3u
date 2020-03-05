@@ -1,10 +1,4 @@
-<item>
-<title>[COLOR FFff8000]» TV ROMANIA HTTP-ACESTREAM-SOPCAST [/COLOR]</title>
-<link></link>
-<thumbnail>https://media.giphy.com/media/hUG7Bjm9rb5MpGy2y1/giphy.gif</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
-<item>
- 
+
 <dir>
 <title>LISTA HTTP(Auto-update)</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
