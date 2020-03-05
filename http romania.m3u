@@ -1,9 +1,9 @@
-<dir>
+<plugin>
 <title>LISTA HTTP(Auto-update)</title>
-<link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
+<link>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ro.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
-</dir>
+</plugin>
 
 <dir>
 <title>LISTA HTTP 1</title>
