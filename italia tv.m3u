@@ -7,7 +7,7 @@
  
 <plugin>
 <title>ITALIA 2</title>
-<link>http://live.sloode.com:1935/canale21/live2/playlist.m3u8</link>
+<link>https://iptv-org.github.io/iptv/languages/it.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png</fanart>
 </plugin>
