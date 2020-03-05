@@ -1,9 +1,9 @@
-<plugin>
+<dir>
 <title>UNGARIA LISTA 1(Auto-update)</title>
 <link>https://github.com/stefan-stefan/filme-online/blob/master/lista%20ungaria%201.m3u</link>
 <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</thumbnail>
 <fanart>https://cdn.travelfuse.ro/images/_top_da04ea87fbb4257ee526ec9e7b35acbd.jpg</fanart>
-</plugin>
+</dir>
 
 <item>
 <title>UNGARIA LISTA 2</title>
@@ -13,7 +13,15 @@
 </item>
 
 <item>
-<title>UNGARIA LISTA 2</title>
+<title>UNGARIA LISTA 3</title>
+<link></link>
+<thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</thumbnail>
+<fanart>https://cdn.travelfuse.ro/images/_top_da04ea87fbb4257ee526ec9e7b35acbd.jpg</fanart>
+</item>
+
+
+<item>
+<title>UNGARIA LISTA 4</title>
 <link></link>
 <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</thumbnail>
 <fanart>https://cdn.travelfuse.ro/images/_top_da04ea87fbb4257ee526ec9e7b35acbd.jpg</fanart>
