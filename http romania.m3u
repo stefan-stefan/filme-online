@@ -5,12 +5,12 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 <item>
  
-<item>
+<dir>
 <title>LISTA HTTP(Auto-update)</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
 <thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
 <fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
-</item>
+</dir>
 
 <dir>
 <title>LISTA HTTP 1</title>
