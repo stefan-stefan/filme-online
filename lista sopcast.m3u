@@ -108,7 +108,7 @@
 <quality>480p</quality>
 <livenow>necunoscut</livenow>
 <imgurl> </imgurl>
-<url>sop://broker.sopcast.com:3912/149262</url>
+<url>sop://broker.sopcast.com:3912/149257</url>
 </channel>
 </item>
 
@@ -128,7 +128,7 @@
 <quality>480p</quality>
 <livenow>necunoscut</livenow>
 <imgurl> </imgurl>
-<url>acestream://89282a207c54b01b9c13f80e1105827e5652d3f0</url>
+<url>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</url>
 </channel>
 </item>
 
