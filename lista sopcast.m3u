@@ -16,9 +16,8 @@
 </item>
 
 <item>
-<title>3 SURSE HTTP</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252</link>
-<link></link>
+#EXTINF: -1, Acasă yyyuuuy
+plugin: //program.plexus/ mode = 2 & url = sop:? //broker.sopcast.com: 3912/149256 & name = Acasa
 <thumbnail>http://nowwatchtvlive.co/wp-content/uploads/2013/06/Viasat-Sport-Baltic-logo.jpg</thumbnail>
 </item
 
