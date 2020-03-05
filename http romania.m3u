@@ -14,7 +14,7 @@
 
 <item>
 <title>LISTA HTTP TEST</title>
-<link>http://78.109.108.62:2001/protv</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </item>
@@ -28,14 +28,14 @@
 
 <item>
 <title>TEST</title>
-<link>http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>TEST2</title>
-<link>http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -43,13 +43,13 @@
 
 <dir>
 <title>LISTA ACESTREAM 1</title>
-<link>https://github.com/stefan-stefan/filme-online/blob/master/lista%20baza%20acestram.m3u</link>
+<link></link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </dir>
 
 <plugin>
-<title>LISTA ACESTREAM 12</title>
+<title>LISTA ACESTREAM(Necesita plexus)</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20acestream2.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
@@ -57,21 +57,21 @@
 
 <dir>
 <title>LISTA SOPCAST 1</title>
-<link>http://193.228.153.231:4242/bysid/60</link>
+<link></link>
 <thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
 <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </item>
 
 <dir>
 <title>LISTA SOPCAST 2</title>
-<link>https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1</link>
+<link></link>
 <thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
 <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </dir>
 
 <item>
 <title>TEST2</title>
-<link>http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
