@@ -5,23 +5,9 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
-<item>
-<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]PARTITE E SPORT WEB [COLOR lime]NEW[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>http://supermyspace.xyz/IMMAGINI/sportweb.png</thumbnail>
-<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
-<externallink>sop://broker.sopcast.com:3912/149252</externallink>
-</item>
 
 
-<item>
-<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]PARTITE E SPORT WEB [COLOR lime]NEW[/COLOR][/B]</title>
-<link>sop://broker.sopcast.com:3912/149252
-</link>
-<thumbnail>http://supermyspace.xyz/IMMAGINI/sportweb.png</thumbnail>
-<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
-<externallink>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149252</externallink>
-</item>
+
 
 <item>
 <title>TSN 1 (ACESTREAM 2 SURSE)</title>
@@ -30,23 +16,6 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=So
 <thumbnail>http://tgo-tv.com/images/tv/tsn1.jpg</thumbnail>
 </item>
 
-<item>
-<title>SourceTV</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param2]</title>
- <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast%202.m3u</link>
- <thumbnail></thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[OnPlay\('(.+?)'.+?value="(.+?)"]]></expres>
-<page>http://sourcetv.ro/index.php/rosopcast</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
- 
- 
 <item>
 <title>3 SURSE HTTP</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252</link>
@@ -64,12 +33,6 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=So
 <fanart>https://i.imgur.com/xtDfb70.jpg</fanart>
 </item>
 
-<item>
-<title>TEST 2 SURSE</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252</link>
-<link>sop://broker.sopcast.com:3912/256338</link>
-<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
-</item>
 
 <item>
     <title>Crazy Kind of Love</title>
