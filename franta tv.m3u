@@ -1,6 +1,13 @@
-<item>
-<title>BFM Paris</title>
+<dir>
+<title>FRANTA(Auto-update</title>
+<link></link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
+</dir>
+
+<plugin>
+<title>FRANTA 2</title>
 <link>https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8</link>
-<thumbnail>https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/90/6b/1e/906b1eaf-2aae-9f31-a587-3520033035f9/source/512x512bb.jpg</thumbnail>
-<fanart>https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/90/6b/1e/906b1eaf-2aae-9f31-a587-3520033035f9/source/512x512bb.jpg</fanart>
-</item>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
+<plugin>
