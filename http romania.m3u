@@ -22,57 +22,58 @@
 <item>
 <title>LISTA TV(RCS-RDS)</title>
 <link>https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1</link>
-<thumbnail>https://www.radardemedia.ro/wp-content/uploads/2017/01/PRO-CINEMA-LOGO.jpg</thumbnail>
-<fanart>https://www.radardemedia.ro/wp-content/uploads/2017/01/PRO-CINEMA-LOGO.jpg</fanart>
+<thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
+<fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
 </item>
 
 <item>
 <title>TEST</title>
 <link>http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000</link>
-<thumbnail>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/04/AXN-%C3%A9-o-canal-mais-assistido-pelas-mulheres-em-2017.jpg</thumbnail>
-<fanart>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/04/AXN-%C3%A9-o-canal-mais-assistido-pelas-mulheres-em-2017.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
 <title>TEST2</title>
 <link>http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2000px-AXN_Black_logo_%282015%29.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2000px-AXN_Black_logo_%282015%29.svg.png</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
 <dir>
 <title>LISTA ACESTREAM 1</title>
 <link>http://hls.protv.md/hls/protv.m3u8</link>
-<thumbnail>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</thumbnail>
-<fanart>https://evenimentul.md/wp-content/uploads/2018/09/ProTV-chisinau.jpg</fanart>
+<thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
+<fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </dir>
 
 <item>
 <title>LISTA ACESTREAM 2</title>
 <link>http://193.228.153.231:4240/bysid/50</link>
-<thumbnail>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</thumbnail>
-<fanart>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</fanart>
+<thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
+<fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </item>
 
 <dir>
 <title>LISTA SOPCAST 1</title>
 <link>http://193.228.153.231:4242/bysid/60</link>
-<thumbnail>https://www.primatv.ro/bundles/primatv/siglacontact.jpg</thumbnail>
-<fanart>https://www.primatv.ro/bundles/primatv/siglacontact.jpg</fanart>
+<thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
+<fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </item>
 
 <dir>
 <title>LISTA SOPCAST 2</title>
 <link>https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1</link>
-<thumbnail>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</thumbnail>
-<fanart>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</fanart>
+<thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
+<fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </dir>
+
 <item>
 <title>TEST2</title>
 <link>http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2000px-AXN_Black_logo_%282015%29.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/2000px-AXN_Black_logo_%282015%29.svg.png</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
