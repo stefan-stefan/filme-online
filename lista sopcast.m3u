@@ -1,55 +1,11 @@
 <item>
-<title>[COLOR FFff8000]» LISTA-SOPCAST-ROMANIA [/COLOR]</title>
+<title>[COLOR FFff8000]» LISTA-TS-ROMANIA [/COLOR]</title>
 <link></link>
-<thumbnail>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</thumbnail>
-<fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
-</item>
-
-<item>
-<title>[COLOR blue][B][I]SPORT TV2[/I][/B][/COLOR][COLOR red][B][I]PLEXUS[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149257&mode=1&amp;mode=1&amp;name=SPORT TV2</link>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
-
-<item>                        
-<title>[COLOR blue][B][I]SPORT TV 2[/I][/B][/COLOR] [COLOR red]PLEXUS ALTERNATIVA[/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149257</link>                                
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+<thumbnail>https://cdn.freebiesupply.com/logos/large/2x/stream-tv-logo-png-transparent.png</thumbnail>
+<fanart>https://cdn.freebiesupply.com/logos/large/2x/stream-tv-logo-png-transparent.png</fanart>
 </item>
 
 
-<item>
-<info>SCRIPT IL SAGGIO AGGIUNTA NUOVA SEZIONE RICERCA PER GENERE E VI COMPARIRA UN ELENCO DI TUTTI I FILM, SERIE TV DOCUMENTARI O ANIME PRESENTI NELLA LIBRERIA IN ORDINE ALFABETICO.</info>
-<title>[B][COLOR green]=== VEDI IN ANTEPRIMA E IN ORDINE ALFABETICO TUTTI I CONTENUTI. [COLOR silver]  (Richiesto add-on)[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://www.egaf.it/egaf/iter.pkg/rs/css/img/services/anteprima.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/1200px-Feed-icon.svg.png</fanart>
-<jsonrpc>plugin://sop://broker.sopcast.com:3912/149257&</jsonrpc>
-</item>
- 
-<item>
-<title>[COLOR green]==[COLOR white]=FREE IPTV=[COLOR red]==[COLOR blue]IL SAGGIO[/COLOR]DICE IL SAGGIO SE LE LISTE VANNO VANNO SENNO NON ROMPETE GLI ZEBEDEI [COLOR red][/COLOR]</title>
-<link>ignoram</link>
-<thumbnail>http://magieinformatiche.altervista.org/wp-content/uploads/2016/06/iptv_03.jpg</thumbnail>
-<fanart>http://magieinformatiche.altervista.org/wp-content/uploads/2016/06/IPTV.jpg</fanart>
-<externallink>https://pastebin.com/raw/5aXETiyh</externallink>
-<info>LISTE IPTV FREE PRESE DAL WEB</info>
-</item>
-
-
-
-
-<item>
-<title>TSN 1 (ACESTREAM 2 SURSE)</title>
-<link>http: // localhost: 9996 / p2p.m3u url = sop:? //broker.sopcast.com: 3912 / 258921mode = 2</link>
-<thumbnail>http://tgo-tv.com/images/tv/tsn1.jpg</thumbnail>
-</item>
-
-<item>
-<title>: -1, Acasă yyyuuuy</title>
-<plugin: //program.plexus/ mode = 2 & url = sop:? //broker.sopcast.com: 3912/149256 & name = Acasa
-<thumbnail>http://nowwatchtvlive.co/wp-content/uploads/2013/06/Viasat-Sport-Baltic-logo.jpg</thumbnail>
-</item
 
 
 
