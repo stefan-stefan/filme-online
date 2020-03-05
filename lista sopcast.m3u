@@ -10,7 +10,7 @@
 <link>http://ignorame</link>
 <thumbnail>http://supermyspace.xyz/IMMAGINI/sportweb.png</thumbnail>
 <fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
-<externallink>http://supermyspace.xyz/EK6/partiteweb.php</externallink>
+<externallink>sop://broker.sopcast.com:3912/149252</externallink>
 </item>
 
 
@@ -19,7 +19,7 @@
 <link>http://ignorame</link>
 <thumbnail>http://supermyspace.xyz/IMMAGINI/sportweb.png</thumbnail>
 <fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
-<externallink>http://supermyspace.xyz/EK6/partiteweb.php</externallink>
+<externallink>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149252</externallink>
 </item>
 
 <item>
