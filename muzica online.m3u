@@ -4,3 +4,18 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg</fanart>
 </item>
+
+<item>
+    <title>LIVE Best Remixes Of Popular Songs 2020</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=Xmu8nWKykUw</sublink>
+    </link>
+    <thumbnail>https://i.ytimg.com/vi/Xmu8nWKykUw/maxresdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/Xmu8nWKykUw/maxresdefault.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>LIVE Best Remixes Of Popular Songs 2020</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</item>
