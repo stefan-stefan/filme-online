@@ -8,22 +8,22 @@
 <dir>
 <title>LISTA HTTP(Auto-update)</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
-<thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
-<fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <dir>
 <title>LISTA HTTP 1</title>
 <link>https://vid.hls.protv.ro/protvhdn/protvhd_2_34/index.m3u8?1</link>
-<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
-<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <item>
 <title>LISTA HTTP TEST</title>
 <link>http://78.109.108.62:2001/protv</link>
-<thumbnail>https://videos.thematv.com/pro-tv-international.jpg</thumbnail>
-<fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </item>
 
 <item>
