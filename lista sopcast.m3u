@@ -5,8 +5,16 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
+<stream>
+<iptv>
+	<name>France 1</name>
+	<icon>default.png</icon>
+	<type>rtsp:4097:512</type>
+	<uri>http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8</uri>
+</iptv>
 
-<item>
+
+<iptv>
 <title>Tastez Ro</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -20,7 +28,7 @@
 <page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
 </regex>
 <thumbnail></thumbnail>
-</item>
+</iptv>
 
 <item>
 <title>TSN 1 (ACESTREAM 2 SURSE)</title>
