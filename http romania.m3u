@@ -19,12 +19,12 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </item>
 
-<item>
+<plugin>
 <title>LISTA TV(RCS-RDS)</title>
 <link>https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1</link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
 <fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
-</item>
+</plugin>
 
 <item>
 <title>TEST</title>
