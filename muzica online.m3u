@@ -1,8 +1,17 @@
+
 <item>
-<title>Music Channel</title>
-<link>https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg</fanart>
+    <title>Reggaeton Mix 2020</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=jQB-6qXFOU4</sublink>
+    </link>
+    <thumbnail>https://i.ytimg.com/vi/cDQIqfFi9rM/hqdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/cDQIqfFi9rM/hqdefault.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Reggaeton Mix 2020</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
 </item>
 
 <item>
