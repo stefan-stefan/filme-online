@@ -1,295 +1,70 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SYFY HD" tvg-logo="http://i.imgur.com/F1nf2YL.png" group-title="PORTUGAL",[PT] SYFY HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5536
-#EXTINF:-1 tvg-id="" tvg-name="[PT] NOS STUDIOS HD" tvg-logo="" group-title="PORTUGAL",[PT] NOS STUDIOS HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5576
-#EXTINF:-1 tvg-id="" tvg-name="[PT] HOLLYWOOD" tvg-logo="http://i.imgur.com/wdCpBLc.png" group-title="PORTUGAL",[PT] HOLLYWOOD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5594
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CANAL HOLLYWOOD HD" tvg-logo="http://i.imgur.com/wdCpBLc.png" group-title="PORTUGAL",[PT] CANAL HOLLYWOOD HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5643
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX MOVIES HD" tvg-logo="http://i.imgur.com/gbjSBds.png" group-title="PORTUGAL",[PT] FOX MOVIES HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5599
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX MOVIES" tvg-logo="http://i.imgur.com/gbjSBds.png" group-title="PORTUGAL",[PT] FOX MOVIES
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5600
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX LIFE HD" tvg-logo="http://i.imgur.com/giiQxbn.png" group-title="PORTUGAL",[PT] FOX LIFE HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5601
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX FHD" tvg-logo="http://i.imgur.com/X4XkCez.png" group-title="PORTUGAL",[PT] FOX FHD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5602
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX" tvg-logo="http://i.imgur.com/X4XkCez.png" group-title="PORTUGAL",[PT] FOX
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5607
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX CRIME HD" tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",[PT] FOX CRIME HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5603
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX CRIME" tvg-logo="http://i.imgur.com/Q8uJUlH.png" group-title="PORTUGAL",[PT] FOX CRIME
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5604
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX COMEDY HD" tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="PORTUGAL",[PT] FOX COMEDY HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5605
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOX COMEDY" tvg-logo="http://i.imgur.com/xemj0LD.png" group-title="PORTUGAL",[PT] FOX COMEDY
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5606
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CRIME+ INVESTIGATION HD" tvg-logo="" group-title="PORTUGAL",[PT] CRIME+ INVESTIGATION HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5632
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CINEMUNDO HD" tvg-logo="http://i.imgur.com/cU4rgbA.png" group-title="PORTUGAL",[PT] CINEMUNDO HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5636
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CINEMUNDO" tvg-logo="http://i.imgur.com/cU4rgbA.png" group-title="PORTUGAL",[PT] CINEMUNDO
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5637
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AXN WHITE HD" tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="PORTUGAL",[PT] AXN WHITE HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5655
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AXN WHITE" tvg-logo="http://i.imgur.com/QDCk6tH.png" group-title="PORTUGAL",[PT] AXN WHITE
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5656
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AXN HD" tvg-logo="" group-title="PORTUGAL",[PT] AXN HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5657
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AXN BLACK" tvg-logo="" group-title="PORTUGAL",[PT] AXN BLACK
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5659
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AXN" tvg-logo="" group-title="PORTUGAL",[PT] AXN
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5660
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AMC HD" tvg-logo="" group-title="PORTUGAL",[PT] AMC HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5662
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AMC" tvg-logo="" group-title="PORTUGAL",[PT] AMC
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5663
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] BABY TV" tvg-logo="" group-title="PORTUGAL",[PT] BABY TV
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5654
-#EXTINF:-1 tvg-id="" tvg-name="[PT] BOOMERANG" tvg-logo="" group-title="PORTUGAL",[PT] BOOMERANG
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5650
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CANAL BIGGS" tvg-logo="" group-title="PORTUGAL",[PT] CANAL BIGGS
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5644
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CANAL PANDA" tvg-logo="" group-title="PORTUGAL",[PT] CANAL PANDA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5642
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",[PT] CARTOON NETWORK
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5639
-#EXTINF:-1 tvg-id="" tvg-name="[PT] DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",[PT] DISNEY JUNIOR
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5628
-#EXTINF:-1 tvg-id="" tvg-name="[PT] DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",[PT] DISNEY CHANNEL
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5629
-#EXTINF:-1 tvg-id="" tvg-name="[PT] DISCOVERY CHANNEL HD" tvg-logo="" group-title="PORTUGAL",[PT] DISCOVERY CHANNEL HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5630
-#EXTINF:-1 tvg-id="" tvg-name="[PT] DISCOVERY CHANNEL" tvg-logo="" group-title="PORTUGAL",[PT] DISCOVERY CHANNEL
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5631
-#EXTINF:-1 tvg-id="" tvg-name="[PT] JIM JAM" tvg-logo="" group-title="PORTUGAL",[PT] JIM JAM
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5593
-#EXTINF:-1 tvg-id="" tvg-name="[PT] NICKELODEON" tvg-logo="" group-title="PORTUGAL",[PT] NICKELODEON
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5577
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC KIDS HD" tvg-logo="" group-title="PORTUGAL",[PT] SIC KIDS HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5556
-#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="PT: DISNEY JUNIOR | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/kisspng-disney-junior-disney-channel-the-walt-disney-compa-nick-jr-5b35e0030916b9.3596980215302574110372.jpg" group-title="LATINO USA",PT: DISNEY JUNIOR | SD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/1864
- 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] ZAP Viva HD" tvg-logo="" group-title="PORTUGAL",[PT] ZAP Viva HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5505
-#EXTINF:-1 tvg-id="" tvg-name="[PT] VH1" tvg-logo="" group-title="PORTUGAL",[PT] VH1
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5506
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI REALITY" tvg-logo="" group-title="PORTUGAL",[PT] TVI REALITY
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5507
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI HD" tvg-logo="" group-title="PORTUGAL",[PT] TVI HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5508
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI FICÃ§AO" tvg-logo="" group-title="PORTUGAL",[PT] TVI FICÃ§AO
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5509
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI Camera Exclusiva Mosaico" tvg-logo="" group-title="PORTUGAL",[PT] TVI Camera Exclusiva Mosaico
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5510
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI CAMARA EXCLUSIVA 4 'PT" tvg-logo="" group-title="PORTUGAL",[PT] TVI CAMARA EXCLUSIVA 4 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5511
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI CAMARA EXCLUSIVA 3 'PT" tvg-logo="" group-title="PORTUGAL",[PT] TVI CAMARA EXCLUSIVA 3 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5512
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI CAMARA EXCLUSIVA 2" tvg-logo="" group-title="PORTUGAL",[PT] TVI CAMARA EXCLUSIVA 2
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5513
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI CAMARA EXCLUSIVA 1" tvg-logo="" group-title="PORTUGAL",[PT] TVI CAMARA EXCLUSIVA 1
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5514
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI 24" tvg-logo="" group-title="PORTUGAL",[PT] TVI 24
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5515
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TVI" tvg-logo="" group-title="PORTUGAL",[PT] TVI
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5516
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TV SERIES HD" tvg-logo="" group-title="PORTUGAL",[PT] TV SERIES HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5525
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TV SERIES" tvg-logo="" group-title="PORTUGAL",[PT] TV SERIES
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5526
- 
-#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="PT: DISNEY JUNIOR | SD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/09/kisspng-disney-junior-disney-channel-the-walt-disney-compa-nick-jr-5b35e0030916b9.3596980215302574110372.jpg" group-title="LATINO USA",PT: DISNEY JUNIOR | SD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/1864
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TV GLOBO HD  'PT" tvg-logo="" group-title="PORTUGAL",[PT] TV GLOBO HD  'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5528
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TV GALICIA 'PT" tvg-logo="" group-title="PORTUGAL",[PT] TV GALICIA 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5529
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TRAVEL CHANNEL HD" tvg-logo="" group-title="PORTUGAL",[PT] TRAVEL CHANNEL HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5530
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TRACE TOCA HD 'PT" tvg-logo="" group-title="PORTUGAL",[PT] TRACE TOCA HD 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5531
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TPA" tvg-logo="" group-title="PORTUGAL",[PT] TPA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5532
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TOROS TV" tvg-logo="" group-title="PORTUGAL",[PT] TOROS TV
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5533
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] TLC" tvg-logo="" group-title="PORTUGAL",[PT] TLC
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5534
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] THE QYOU 'PT" tvg-logo="" group-title="PORTUGAL",[PT] THE QYOU 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5535
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC RADICAL HD" tvg-logo="" group-title="PORTUGAL",[PT] SIC RADICAL HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5552
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC NOTICIAS HD" tvg-logo="" group-title="PORTUGAL",[PT] SIC NOTICIAS HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5553
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC MULHER HD" tvg-logo="" group-title="PORTUGAL",[PT] SIC MULHER HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5555
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC HD" tvg-logo="" group-title="PORTUGAL",[PT] SIC HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5557
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC CARAS HD" tvg-logo="" group-title="PORTUGAL",[PT] SIC CARAS HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5558
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SIC" tvg-logo="" group-title="PORTUGAL",[PT] SIC
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5559
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] SANTUARIO DE FATIMA" tvg-logo="" group-title="PORTUGAL",[PT] SANTUARIO DE FATIMA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5560
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] S  SAUDE HD  'PT" tvg-logo="" group-title="PORTUGAL",[PT] S  SAUDE HD  'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5561
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP MEMORIA" tvg-logo="" group-title="PORTUGAL",[PT] RTP MEMORIA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5562
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP MADEIRA" tvg-logo="" group-title="PORTUGAL",[PT] RTP MADEIRA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5563
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP AFRICA" tvg-logo="" group-title="PORTUGAL",[PT] RTP AFRICA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5564
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP AÃ§ORES" tvg-logo="" group-title="PORTUGAL",[PT] RTP AÃ§ORES
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5565
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP 3 HD" tvg-logo="" group-title="PORTUGAL",[PT] RTP 3 HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5566
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP 2 HD" tvg-logo="" group-title="PORTUGAL",[PT] RTP 2 HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5567
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP 2" tvg-logo="" group-title="PORTUGAL",[PT] RTP 2
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5568
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP 1 HD" tvg-logo="" group-title="PORTUGAL",[PT] RTP 1 HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5569
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RTP 1" tvg-logo="" group-title="PORTUGAL",[PT] RTP 1
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5570
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] RECORD NEWS" tvg-logo="" group-title="PORTUGAL",[PT] RECORD NEWS
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5571
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] PFC" tvg-logo="" group-title="PORTUGAL",[PT] PFC
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5573
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] OUTDOOR CHANNEL HD" tvg-logo="" group-title="PORTUGAL",[PT] OUTDOOR CHANNEL HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5574
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="PORTUGAL",[PT] NATIONAL GEOGRAPHIC HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5579
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] NAT GEO WILD HD" tvg-logo="" group-title="PORTUGAL",[PT] NAT GEO WILD HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5580
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] MY CUISINE" tvg-logo="" group-title="PORTUGAL",[PT] MY CUISINE
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5581
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] MVM" tvg-logo="" group-title="PORTUGAL",[PT] MVM
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5582
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] MTV HD" tvg-logo="" group-title="PORTUGAL",[PT] MTV HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5583
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] MCM TOP" tvg-logo="" group-title="PORTUGAL",[PT] MCM TOP
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5585
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] MCM POP" tvg-logo="" group-title="PORTUGAL",[PT] MCM POP
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5586
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] LOCALVISAO HD" tvg-logo="" group-title="PORTUGAL",[PT] LOCALVISAO HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5587
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] KURIAKOS TV 'PT" tvg-logo="" group-title="PORTUGAL",[PT] KURIAKOS TV 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5588
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] KURIAKOS MUSIC HD" tvg-logo="" group-title="PORTUGAL",[PT] KURIAKOS MUSIC HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5589
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] KURIAKOS KIDS HD  'PT" tvg-logo="" group-title="PORTUGAL",[PT] KURIAKOS KIDS HD  'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5590
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] KURIAKOS CINE HD  'PT" tvg-logo="" group-title="PORTUGAL",[PT] KURIAKOS CINE HD  'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5591
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] HISTORIA" tvg-logo="" group-title="PORTUGAL",[PT] HISTORIA
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5595
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] GLOBO NOW 'PT" tvg-logo="" group-title="PORTUGAL",[PT] GLOBO NOW 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5596
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] GINX HD 'PT" tvg-logo="" group-title="PORTUGAL",[PT] GINX HD 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5597
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FUEL TV HD" tvg-logo="" group-title="PORTUGAL",[PT] FUEL TV HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5598
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FOOD NETWORK HD" tvg-logo="" group-title="PORTUGAL",[PT] FOOD NETWORK HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5608
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] FASHION TV HD" tvg-logo="" group-title="PORTUGAL",[PT] FASHION TV HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5609
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] E! ENTERTAINMENT HD" tvg-logo="" group-title="PORTUGAL",[PT] E! ENTERTAINMENT HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5627
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CMTV HD" tvg-logo="" group-title="PORTUGAL",[PT] CMTV HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5634
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CBS REALITY" tvg-logo="" group-title="PORTUGAL",[PT] CBS REALITY
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5638
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Cancao Nova" tvg-logo="" group-title="PORTUGAL",[PT] Cancao Nova
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5640
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] CANAL Q" tvg-logo="" group-title="PORTUGAL",[PT] CANAL Q
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5641
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] Canal 180 HD  'PT" tvg-logo="" group-title="PORTUGAL",[PT] Canal 180 HD  'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5645
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] BLAZE HD" tvg-logo="" group-title="PORTUGAL",[PT] BLAZE HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5651
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AR TV 'PT" tvg-logo="" group-title="PORTUGAL",[PT] AR TV 'PT
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5661
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] AFRO MUSIC" tvg-logo="" group-title="PORTUGAL",[PT] AFRO MUSIC
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5664
- 
-#EXTINF:-1 tvg-id="" tvg-name="[PT] 24 KITCHEN HD" tvg-logo="" group-title="PORTUGAL",[PT] 24 KITCHEN HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/5666
- 
-#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA HD" tvg-logo="" group-title="PORTUGAL",PT: ODISSEIA HD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/21071
- 
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD" tvg-logo="" group-title="PORTUGAL",Investigation Discovery FHD
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/21072
- 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation DSCOVERY" tvg-logo="" group-title="PORTUGAL",PT: Investigation DSCOVERY
-http://foviptv.link:8080/2hZ0mR01jv/l02IE22uRz/21073
+<item>
+<title>Canção Nova</title>
+<link>http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8</link>
+<thumbnail>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</thumbnail>
+<fanart>https://img.cancaonova.com/cnimages/canais/uploads/sites/7/2017/09/thumb-wide-blue.jpg</fanart>
+</item>
+ 
+<item>
+<title>Canal Ricos</title>
+<link>http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-cBBLpoOKg-g/W04Iip9VF3I/AAAAAAAAw28/IM9-b0yd2vw-UL27RLaeqaoeZorkv9gkACLcBGAs/s1600/CANAL+RICOS.fw.png</thumbnail>
+<fanart>https://2.bp.blogspot.com/-cBBLpoOKg-g/W04Iip9VF3I/AAAAAAAAw28/IM9-b0yd2vw-UL27RLaeqaoeZorkv9gkACLcBGAs/s1600/CANAL+RICOS.fw.png</fanart>
+</item>
+
+<item>
+<title>ABERTA",GLOBO RJ</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/50000.m3u8?token=TBUKAERaFg4QUARbVQJSAwZRUAoOUVMPBF1RUwEFDQJRBFNUAwFSDVdEHUERREVXBQtsW11BWwMHVAMASENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQFdWQ0HFRtABE9GUUZcB108BlVBWwcDEQhXFg1aG0ZcXjsFUFhWWQZDDRAFFh5EWBASEg1cEQpfHhsBCEJFBUdVRltbQFtbTkNUXUFaRhRIQVgSdWBGShFXQRcEWEQNXF5GWxdYBEJaQxsQXUdtFFQQFkJSUwkDQRADQVAUG0ZeURw+VlpZWQcCQ1tbWkFEC0FSEhsQCQldW00ME2lHDVcSXkMEDA4GW0NK</link>
+<thumbnail>http://i.imgur.com/NSHvLCe.png</thumbnail>
+<fanart>https://static.wixstatic.com/media/8c0fdb_985e8a6372b343149e380cc97d77e31f~mv2.png</fanart>
+</item>
+
+<item>
+<title>ABERTOS",SBT RJ HD</title>
+<link>http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w500280477.m3u8</link>
+<thumbnail>https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png</thumbnail>
+<fanart>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png</fanart>
+</item>
+
+<item>
+<title>CANAIS ABERTOS",BAND</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/8888.m3u8?token=TBUKAERaFg4QXlIGAAkHBgFeVwIBAlIEVF0BAVNVUAMHBgEAVVMGB1BEHUERREVXBQtsW11BWw4PXAscRhRGUEVoCwUVCBYMEEoTFwtdUhBeVh8QSQoFFA0KRlwITRdQT0MHE1lTWGtWA0cKAVUVCAoTX14VQQ5YaABWXQUPURcNFVNDGxBdR0JECw0XXFseRgRaRksCFVMVXl1FCA0ZF1RYFw9DQE0WCERzMUAcFVccElZcSgoOWBVeEV1XFA0XGxULEmhAUUdGFFQCD1VFEF5EAhAVQQxXTztQXwoPUFZDXg0PRBAOFgJEHUEPX1lbEAlBbUkKBRQNCkZcCBw=</link>
+<thumbnail>https://1.bp.blogspot.com/-ij0LKunNKmA/U4Aa-mm1IcI/AAAAAAAAAlQ/YxlamNPXadY/s1600/vQPkH.png</thumbnail>
+<fanart>https://1.bp.blogspot.com/-ij0LKunNKmA/U4Aa-mm1IcI/AAAAAAAAAlQ/YxlamNPXadY/s1600/vQPkH.png</fanart>
+</item>
+
+<item>
+<title>CURTA</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/19999.m3u8?token=TBUKAERaFg4QBAVbAAIDUFMCC1MOV1VTAFNQAQEAB1cAVAFWAQMFVgtEHUERREVXBQtsW11BWwcOXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I</link>
+<thumbnail>https://pngimage.net/wp-content/uploads/2018/05/curta-png-8.png</thumbnail>
+<fanart>https://pngimage.net/wp-content/uploads/2018/05/curta-png-8.png</fanart>
+</item>
+
+<item>
+<title>Telecine Premium</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/109000.m3u8?token=TBUKAERaFg4QAgUHAQYAVlECBQUIVlgPVlYLBlRWVlQCUQRYUlNXDAZEHUERREVXBQtsW11BWwcHXQMAVE0XQERSED5eVhYOEF4TT0BEXl8BRAkCFUERX1NGCV4RDVkZFVIaFVJAWlVeOVUGFFlUV0ZcXUdVD00UWApsVAEMVFtTFVhDBhAYFlsVQUFYXkJeCEoRUFAXE1dDAREKChRZWRsVAQ5CXEBGS0QLQSBiFR5GA0tGXA0SX1gKEQpGDAZADxVOQ15Ba0ZXFUURB1FaVxZECRAIQU0UWgVLbwcOW1tSVBYIWFxHFghEAUFOElpdCg9HXUs8EV9TRgleEQ1ZSA==</link>
+<thumbnail>https://banner2.cleanpng.com/20180527/tfv/kisspng-rede-telecine-telecine-pipoca-popcorn-television-t-5b0ab60764de88.9653194315274286154132.jpg</thumbnail>
+<fanart>https://banner2.cleanpng.com/20180527/tfv/kisspng-rede-telecine-telecine-pipoca-popcorn-television-t-5b0ab60764de88.9653194315274286154132.jpg</fanart>
+</item>
+
+</item>
+<item>
+<title>hbo mundi</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/68888.m3u8?token=TBUKAERaFg4QV1ACUFNUClYCUQMPVVkEDgcLBl0CBwVRBFRQAlMNUAVEHUERREVXBQtsW11BWwAPXAsISENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeXUUIDRkXUk8WBEVcVVhtAlQVC1NSEF4IRl5VT0NZWTtXVQkAW1EVDUBQFR4WXUEWE1kMRVteSERRW00RAEJSRgleEQ1ZGRVUDRRZRkZNEFwTITASGxABHkdXVxAIWVlGCRIJUkANFRtACERtRlFBEkMGA11SQEZcEQMbT0NbVhxsUwsPW1BUQwsOWUEWDhBWE09AXVhcDRJcQGYTCFIVXl1FCA1I</link>
+<thumbnail>https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png</thumbnail>
+<fanart>https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png</fanart>
+</item>
+
+<item>
+<title>hbo family</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/59999.m3u8?token=TBUKAERaFg4QVlIBAVIFVlNeUQQBV1MBU1RQBFNUV1ZSAlRYDgpQAlZEHUERREVXBQtsW11BWwMOXQoJSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQdSVgYXGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAw8DQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXAgEEVUNK</link>
+<thumbnail>https://toppng.com/public/uploads/preview/logo-hbo-brasil-hbo-family-hbo-logo-canal-hbo-family-11563655798o4rf7asjwe.png</thumbnail>
+<fanart>https://toppng.com/public/uploads/preview/logo-hbo-brasil-hbo-family-hbo-logo-canal-hbo-family-11563655798o4rf7asjwe.png</fanart>
+</item>
+
+<item>
+<title>FOX SPORT</title>
+<link>http://142.4.195.157:25461/live/tvbrasilonline/QobWP25j04/45555.m3u8?token=TBUKAERaFg4QXgYCAAVVVlZVAFcABVkGU1wBCAcHA1EPD1RRDlENAFBEHUERREVXBQtsW11BWwICUQYFSENARlJFPQhTEA4WCkQdQRZZWldGXAMeGxMIUhVeEQNcUwUXGxUHGUNXRlpTCm4HB0ZeUQFECVxMDw0aFQtdbwAEWFRZU0BbFQMWGBAPQhNACllHCAofEFsKFURWEFYSXkMHAgMEQE0VUVtBXBJDGkAKFXA2RB8QXBsVU1kXWl8KQw8XWgQXWRUeFl1BOUMGEURFVwULVkAbWUMHFUgRXQUZalZYWQwEVEZdW1wVE1lAABUeRgtcXFAXDkRoFFpURlsXBg8CUENK</link>
+<thumbnail>https://roundbyroundboxing.com/wp-content/uploads/2014/11/Fox-Deportes-Logo.png</thumbnail>
+<fanart>https://roundbyroundboxing.com/wp-content/uploads/2014/11/Fox-Deportes-Logo.png</fanart>
+</item>
