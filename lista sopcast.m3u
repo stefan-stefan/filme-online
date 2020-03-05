@@ -102,3 +102,34 @@
 </item>
 
 
+<item>
+<channel id='50'>
+<name>Axn White</name>
+<quality>480p</quality>
+<livenow>necunoscut</livenow>
+<imgurl> </imgurl>
+<url>sop://broker.sopcast.com:3912/149262</url>
+</channel>
+</item>
+
+<item>
+<channel id='50'>
+<name>Bollywood Classic</name>
+<quality>480p</quality>
+<livenow>necunoscut</livenow>
+<imgurl> </imgurl>
+<url>http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END</url>
+</channel>
+ </item>
+ 
+ <item>
+<channel id='50'>
+<name>Bollywood Classic</name>
+<quality>480p</quality>
+<livenow>necunoscut</livenow>
+<imgurl> </imgurl>
+<url>acestream://89282a207c54b01b9c13f80e1105827e5652d3f0</url>
+</channel>
+</item>
+
+
