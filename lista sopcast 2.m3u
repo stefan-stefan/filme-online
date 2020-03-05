@@ -2,6 +2,9 @@
 sop://broker.sopcast.com:3912/148085
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
 sop://broker.sopcast.com:3912/264945
+#EXTINF:5276,HBO 3(sopcast)🇷🇴
+#EXTVLCOPT:network-caching=1000
+sop://broker.sopcast.com:3912/265096
 #EXTINF:5276,REALITATEA TV(sopcast)🇷🇴
 sop://broker.sopcast.com:3912/264952
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] Realitatea Tv
