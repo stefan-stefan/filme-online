@@ -1,74 +1,69 @@
-#EXTM3U
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.01-2.2020![/I][/B][/COLOR]
-http://89.136.209.26:1935/l
-#EXTINF:0,■■🇷🇴🇷🇴■■,[COLOR red]  [/COLOR][COLOR red][B]**** HTTP-KODI *** [/B][/COLOR][COLOR red] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
-#EXTINF: -1, AMC
-http://92.249.148.48:8001/play/a00x
-#EXTINF: -1, ATV
-http://92.249.148.48:8001/play/atv
-#EXTINF: -1, Comedy Central
-http://92.249.148.48:8001/play/a00c
-#EXTINF: -1, Cool TV
-http://92.249.148.48:8001/play/a00j
-#EXTINF: -1, Cool TV HD
-http://92.249.148.48:8001/play/a00w
-#EXTINF: -1, Film Café
-http://92.249.148.48:8001/play/a00l
-#EXTINF: -1, Film +
-http://92.249.148.48:8001/play/fplus
-#EXTINF: -1, Film + HD
-http://92.249.148.48:8001/play/a00y
-#EXTINF: -1, Galaxy4
-http://92.249.148.48:8001/play/a00v
-#EXTINF: -1, ISTORIE HD
-http://92.249.148.48:8001/play/a00g
-#EXTINF: -1, Hír TV
-http://92.249.148.48:8001/play/a00i
-#EXTINF: -1, Jocky TV
-http://92.249.148.48:8001/play/a005
-#EXTINF: -1, M4 Sport
-http://92.249.148.48:8001/play/m4
-#EXTINF: -1, M4 Sport HD
-http://92.249.148.48:8001/play/m4hd
-#EXTINF: -1, M5
-http://92.249.148.48:8001/play/m5
-#EXTINF: -1, M5 HD
-http://92.249.148.48:8001/play/m5hd
-#EXTINF: -1, Minimax
-http://92.249.148.48:8001/play/a00n
-#EXTINF: -1, Moziverzum
-http://92.249.148.48:8001/play/a006
-#EXTINF: -1, Nick Jr.
-http://92.249.148.48:8001/play/a00f
-#EXTINF: -1, RTL Klub
-http://92.249.148.48:8001/play/rtlklub
-#EXTINF: -1, RTL Klub HD
-http://92.249.148.48:8001/play/rtlklubhd
-#EXTINF: -1, RTLII HD
-http://92.249.148.48:8001/play/rtl2hd
-#EXTINF: -1, Sony Max
-http://92.249.148.48:8001/play/a00e
-#EXTINF: -1, Sony Movie Channel
-http://92.249.148.48:8001/play/a00d
-#EXTINF: -1, Spíler1 TV
-http://92.249.148.48:8001/play/sp1
-#EXTINF: -1, Spíler1 TV HD
-http://92.249.148.48:8001/play/sp1hd
-#EXTINF: -1, Spíler2 TV
-http://92.249.148.48:8001/play/sp2
-#EXTINF: -1, Spíler2 TV HD
-http://92.249.148.48:8001/play/sp2hd
-#EXTINF: -1, Super TV2
-http://92.249.148.48:8001/play/stv2
-#EXTINF: -1, Super TV2 HD
-http://92.249.148.48:8001/play/stv2hd
-#EXTINF: -1, Paprika TV
-http://92.249.148.48:8001/play/a00m
-#EXTINF: -1, TV2
-http://92.249.148.48:8001/play/tv2
-#EXTINF: -1, TV4
-http://92.249.148.48:8001/play/a00t
-#EXTINF: -1, Viasat Explore
-http://92.249.148.48:8001/play/a00o
+<item>
+<title>Bonum TV</title>
+<link>http://cdn.y5.hu/stream/bonum/hls/stream.m3u8?fluxustv.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BonumTV_logo2014.pdf/page1-1200px-BonumTV_logo2014.pdf.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BonumTV_logo2014.pdf/page1-1200px-BonumTV_logo2014.pdf.jpg</fanart>
+</item>
+ 
+<item>
+<title>Budapest Európa Televízió</title>
+<link>http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8?fluxustv.m3u8</link>
+<thumbnail>https://cms.sulinet.hu/get/d/0fb6e8f0-c5c0-4d75-a10b-a9376c180212/1/5/b/Large/mar31_bptvlogo_a.jpg</thumbnail>
+<fanart>https://cms.sulinet.hu/get/d/0fb6e8f0-c5c0-4d75-a10b-a9376c180212/1/5/b/Large/mar31_bptvlogo_a.jpg</fanart>
+</item>
+
+</item>
+<item>
+<title>Hír TV</title>
+<link>http://92.249.148.48:8001/play/a00i<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/44/H%C3%ADr_TV.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/4/44/H%C3%ADr_TV.png</fanart>
+</item>
+
+</item>
+<item>
+<title>Comedy Central</title>
+<link>http://92.249.148.48:8001/play/a00c<link>
+<thumbnail>https://static.wixstatic.com/media/213874_8027eb8c70454337af96c3063fe4a10a~mv2.jpg/v1/fill/w_1325,h_1024,al_c,q_90/file.jpg</thumbnail>
+<fanart>https://static.wixstatic.com/media/213874_8027eb8c70454337af96c3063fe4a10a~mv2.jpg/v1/fill/w_1325,h_1024,al_c,q_90/file.jpg</fanart>
+</item>
+
+</item>
+<item>
+<title>Cool TV</title>
+<link>http://92.249.148.48:8001/play/a00j<link>
+<thumbnail>https://media.cdnandroid.com/fd/29/24/be/imagen-cool-tv-0big.jpg</thumbnail>
+<fanart>https://media.cdnandroid.com/fd/29/24/be/imagen-cool-tv-0big.jpg</fanart>
+</item>
+
+</item>
+<item>
+<title>Jocky TV</title>
+<link>http://92.249.148.48:8001/play/a005<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/ca/Jocky_tv_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/c/ca/Jocky_tv_logo.png</fanart>
+</item>
+
+</item>
+<item>
+<title>Film Café</title>
+<link>http://92.249.148.48:8001/play/a00l<link>
+<thumbnail>https://movienews.ro/wp-content/uploads/2015/07/filmcafe.jpg</thumbnail>
+<fanart>https://movienews.ro/wp-content/uploads/2015/07/filmcafe.jpg</fanart>
+</item>
+
+</item>
+<item>
+<title>Galaxy4</title>
+<link>http://92.249.148.48:8001/play/a00v<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/54/Galaxy4_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/5/54/Galaxy4_logo.png</fanart>
+</item>
+
+</item>
+<item>
+<title>Film+</title>
+<link>http://92.249.148.48:8001/play/fplus<link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png</fanart>
+</item>
