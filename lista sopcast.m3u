@@ -37,7 +37,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
  <title>[makelist.param2]</title>
- <link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/149252</link>
+ <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast%202.m3u</link>
  <thumbnail></thumbnail>
   ]]></listrepeat>
 <expres><![CDATA[OnPlay\('(.+?)'.+?value="(.+?)"]]></expres>
@@ -50,7 +50,7 @@
 <item>
 <title>3 SURSE HTTP</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252</link>
-<link>https://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w1615606415_b1892495_sleng.m3u8?is=4&src=app&t=0efb7586bf055a69c407e9a00984f8b9&s=site&sn=digionline.ro&p=browser</link>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast%202.m3u</link>
 <link>http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
 <link>http://193.8.246.31:8000/12</link>
 <link>http://193.8.246.31:8000/13</link>
@@ -108,7 +108,7 @@
 <quality>480p</quality>
 <livenow>necunoscut</livenow>
 <imgurl> </imgurl>
-<url>sop://broker.sopcast.com:3912/149257</url>
+<url>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast%202.m3u</url>
 </channel>
 </item>
 
