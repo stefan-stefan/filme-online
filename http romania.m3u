@@ -35,7 +35,7 @@
 </dir>
 
 <plugin>
-<title>LISTA ACESTREAM(Necesita plexus)</title>
+<title>LISTA ACESTREAM(Necesita plexus&acestream)</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20acestream2.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
