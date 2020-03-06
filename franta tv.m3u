@@ -7,7 +7,7 @@
 
 <plugin>
 <title>FRANTA 2</title>
-<link></link>
+<link>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/fr.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
 </plugin>
