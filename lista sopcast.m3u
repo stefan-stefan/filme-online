@@ -1,9 +1,9 @@
-<plugin>
+<channel>
 <title>TVR 2V</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker1.sopcast.com:3912/264971</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</channel>
 
 
 
