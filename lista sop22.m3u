@@ -5,6 +5,24 @@
 <fanart></fanart>
 </plugin>
 
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR green]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white]DOOR 02[/COLOR] [COLOR green]|||[/COLOR][COLOR green]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/CANAIS2</externallink>
+<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR lime]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR lime]|||[/COLOR] [COLOR white]DOOR 03[/COLOR] [COLOR lime]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR lime]|||[/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/CANAIS3</externallink>
+<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
+<info>
+
 
 <plugin>
 <title>(test2)</title>
