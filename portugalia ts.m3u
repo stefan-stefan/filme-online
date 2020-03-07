@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1 ,RTP 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/172.ts
+#EXTINF:-1 ,RTP 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/616.ts
+#EXTINF:-1 ,RTP 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/173.ts
+#EXTINF:-1 ,SIC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/174.ts
+#EXTINF:-1 ,SIC HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/638.ts
+#EXTINF:-1 ,TVI
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/175.ts
+#EXTINF:-1 ,TVI HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/889.ts
+#EXTINF:-1 ,CMTV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/176.ts
+#EXTINF:-1 ,CMTV HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/669.ts
+#EXTINF:-1 ,TVI 24
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/304.ts
+#EXTINF:-1 ,RTP 3
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/422.ts
+#EXTINF:-1 ,SIC NOTICIAS
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/220.ts
+#EXTINF:-1 ,SIC NOTICIAS HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/668.ts
+#EXTINF:-1 ,SIC RADICAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/215.ts
+#EXTINF:-1 ,SIC MULHER
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/308.ts
+#EXTINF:-1 ,SIC CARAS
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/600.ts
+#EXTINF:-1 ,TVI FICCAO
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/302.ts
+#EXTINF:-1 ,TVI REALITY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1049.ts
+#EXTINF:-1 ,FATIMA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/771.ts
+#EXTINF:-1 ,SPORT TV 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/177.ts
+#EXTINF:-1 ,SPORT TV 1 LB
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/359.ts
+#EXTINF:-1 ,SPORT TV 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/355.ts
+#EXTINF:-1 ,SPORT TV 1 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/189.ts
+#EXTINF:-1 ,SPORT TV 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/178.ts
+#EXTINF:-1 ,SPORT TV 2 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/683.ts
+#EXTINF:-1 ,SPORT TV 2 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/351.ts
+#EXTINF:-1 ,SPORT TV 3
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/179.ts
+#EXTINF:-1 ,SPORT TV 3 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/684.ts
+#EXTINF:-1 ,SPORT TV 3 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/352.ts
+#EXTINF:-1 ,SPORT TV 4
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/180.ts
+#EXTINF:-1 ,SPORT TV 4 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/685.ts
+#EXTINF:-1 ,SPORT TV 4 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/566.ts
+#EXTINF:-1 ,SPORT TV 5
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/181.ts
+#EXTINF:-1 ,SPORT TV 5 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/686.ts
+#EXTINF:-1 ,SPORT TV 5 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/567.ts
+#EXTINF:-1 ,SPORT TV +
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/219.ts
+#EXTINF:-1 ,ELEVEN SPORts 1 SD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/748.ts
+#EXTINF:-1 ,ELEVEN SPORts 1 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/705.ts
+#EXTINF:-1 ,ELEVEN SPORts 2 SD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/749.ts
+#EXTINF:-1 ,ELEVEN SPORts 2 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/706.ts
+#EXTINF:-1 ,ELEVEN SPORts 3 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/718.ts
+#EXTINF:-1 ,ELEVEN SPORts 4 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/765.ts
+#EXTINF:-1 ,ELEVEN SPORts 5 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/766.ts
+#EXTINF:-1 ,ELEVEN SPORts 6 FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/767.ts
+#EXTINF:-1 ,BENFICA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/354.ts
+#EXTINF:-1 ,BENFICA TV LB
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/360.ts
+#EXTINF:-1 ,BENFICA TV HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/342.ts
+#EXTINF:-1 ,BENFICA TV FULL HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/187.ts
+#EXTINF:-1 ,PORTO CANAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/190.ts
+#EXTINF:-1 ,SPORTING TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/221.ts
+#EXTINF:-1 ,CANAL 11 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/975.ts
+#EXTINF:-1 ,A BOLA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/222.ts
+#EXTINF:-1 ,NBA TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/858.ts
+#EXTINF:-1 ,EUROSPORT 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/216.ts
+#EXTINF:-1 ,EUROSPORT 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/617.ts
+#EXTINF:-1 ,EUROSPORT 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/217.ts
+#EXTINF:-1 ,MOTORVISION
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/783.ts
+#EXTINF:-1 ,KOMBAT SPORT
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/666.ts
+#EXTINF:-1 ,CACA E PESCA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/410.ts
+#EXTINF:-1 ,CACAVISION
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/350.ts
+#EXTINF:-1 ,TOROS TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/533.ts
+#EXTINF:-1 ,PFC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/229.ts
+#EXTINF:-1 ,TVCINE 1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/183.ts
+#EXTINF:-1 ,TVCINE 1 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/408.ts
+#EXTINF:-1 ,TVCINE 2
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/184.ts
+#EXTINF:-1 ,TVCINE 2 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/406.ts
+#EXTINF:-1 ,TVCINE 3
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/185.ts
+#EXTINF:-1 ,TVCINE 3 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/407.ts
+#EXTINF:-1 ,TVCINE 4
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/186.ts
+#EXTINF:-1 ,TVCINE 4 HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/409.ts
+#EXTINF:-1 ,TV SERIES
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/223.ts
+#EXTINF:-1 ,TV SERIES HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/730.ts
+#EXTINF:-1 ,NOS STUDIOS HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/962.ts
+#EXTINF:-1 ,NETFLIX PORTUGAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1047.ts
+#EXTINF:-1 ,HBO PORTUGAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1048.ts
+#EXTINF:-1 ,AXN HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/296.ts
+#EXTINF:-1 ,AXN WHITE HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/399.ts
+#EXTINF:-1 ,AXN BLACK HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/400.ts
+#EXTINF:-1 ,FOX HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/297.ts
+#EXTINF:-1 ,FOX LIFE HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/599.ts
+#EXTINF:-1 ,FOX CRIME HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/475.ts
+#EXTINF:-1 ,FOX MOVIES
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/231.ts
+#EXTINF:-1 ,FOX MOVIES HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/728.ts
+#EXTINF:-1 ,FOX COMEDY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/307.ts
+#EXTINF:-1 ,FOX COMEDY HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/729.ts
+#EXTINF:-1 ,HOLLYWOOD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/225.ts
+#EXTINF:-1 ,HOLLYWOOD HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/466.ts
+#EXTINF:-1 ,CINEMUNDO
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/398.ts
+#EXTINF:-1 ,SYFY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/300.ts
+#EXTINF:-1 ,AMC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/306.ts
+#EXTINF:-1 ,MTV PORTUGAL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/301.ts
+#EXTINF:-1 ,TRACE TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/344.ts
+#EXTINF:-1 ,VH1
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/348.ts
+#EXTINF:-1 ,DISNEY CHANNEL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/703.ts
+#EXTINF:-1 ,DISNEY JUNIOR
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/191.ts
+#EXTINF:-1 ,CANAL PANDA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/224.ts
+#EXTINF:-1 ,PANDA BIGGS
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/309.ts
+#EXTINF:-1 ,NICKELODEON
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/455.ts
+#EXTINF:-1 ,NICK JUNIOR
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/495.ts
+#EXTINF:-1 ,CARTOON NETWORK
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/236.ts
+#EXTINF:-1 ,JIM JAM
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/305.ts
+#EXTINF:-1 ,SIC K
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/789.ts
+#EXTINF:-1 ,BABY TV
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/601.ts
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/298.ts
+#EXTINF:-1 ,NAT GEO WILD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/238.ts
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/237.ts
+#EXTINF:-1 ,ID INVESTIGATION DISCOVERY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/940.ts
+#EXTINF:-1 ,ODISSEIA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/239.ts
+#EXTINF:-1 ,CANAL HISTORIA
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/240.ts
+#EXTINF:-1 ,CBS REALITY
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/303.ts
+#EXTINF:-1 ,BLAZE
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/242.ts
+#EXTINF:-1 ,TLC
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/543.ts
+#EXTINF:-1 ,24 KITCHEN HD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/610.ts
+#EXTINF:-1 ,MY CUISINE
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/938.ts
+#EXTINF:-1 ,TV RECORD
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/412.ts
+#EXTINF:-1 ,TV GLOBO
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/544.ts
+#EXTINF:-1 ,GLOBO NOW
+http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/233.ts
