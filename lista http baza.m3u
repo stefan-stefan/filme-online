@@ -297,4 +297,11 @@
 <fanart>https://www.tv-romania.com/img/TV/digi4.png</fanart>
 </item>
 
+<item>
+<title>EUROSPORT 1</title>
+<link>http://82.76.40.81/digiedge2/eurosportemq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000&q=mq&s=eurosport&p=browser&pe=site</link>
+<thumbnail>https://d24j9r7lck9cin.cloudfront.net/l/f/1/1065.1447433721.png</thumbnail>
+<fanart>https://d24j9r7lck9cin.cloudfront.net/l/f/1/1065.1447433721.png</fanart>
+</item>
+
 
