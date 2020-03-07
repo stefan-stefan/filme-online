@@ -6,14 +6,12 @@
 </plugin>
 
 <plugin>
-<channels>
-<channel>
 <name>[COLOR green]|||[/COLOR][COLOR green]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white]DOOR 02[/COLOR] [COLOR green]|||[/COLOR][COLOR green]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/CANAIS2</externallink>
 <fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
-<info>
 </plugin>
+
 <plugin>
 <title>(test2)</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://921ccad8c4dd8f154659ad076f14929912c2cc30&name=AceStream</link>
