@@ -7,7 +7,7 @@
 
 <dir>
 <title>TVR 2testtt</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sop22.m3u</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </dir>
