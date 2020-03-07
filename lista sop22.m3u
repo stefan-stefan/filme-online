@@ -15,7 +15,7 @@
 
 <plugin>
 <title>(test1)</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2&name=AceStream</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
