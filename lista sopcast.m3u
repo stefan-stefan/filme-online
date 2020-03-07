@@ -5,6 +5,47 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
 
+<item>
+<title>KURIKAKOS KIDS</title>
+<link>http://c2.manasat.com:1935/kkids/kkids2/chunklist_w817493835.m3u8</link>
+<thumbnail>https://backupimages.files.wordpress.com/2019/10/kuriakos2bkids.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>GOSPEL CARTOON</title>
+<link>http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_214dab5e2c70b42412ef7d8c6cdf2080c6b7dbea.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISCOVERY KIDS</title>
+<link>http://edge-aws.aovivo.club/hls/s:78.47.74.192/discoverykids_80e28a51_6db7620c19453f466e15f5d1eaa875f60a468d58.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>DISNEY CHANEL</title>
+<link>http://edge-aws.aovivo.club/hls/s:78.47.74.192/disneychannel_a9334987_f63842c48067ea66e01e420aa9a82492f3a2d26b.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
 
 <item>
 <title>THUNDERCATS  T01E34</title>
