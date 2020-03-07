@@ -27,6 +27,13 @@
 </item>
 
 <item>
+<title>Lóverseny közvetítés</title>
+<link>http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8</link>
+<thumbnail>https://www.rexfilm.hu/wp-content/uploads/2018/04/kincsem-tr.png</thumbnail>
+<fanart>https://www.rexfilm.hu/wp-content/uploads/2018/04/kincsem-tr.png</fanart>
+</item>
+
+<item>
 <title>Spíler1 TV</title>
 <link>http://92.249.148.48:8001/play/sp1</link>
 <thumbnail>https://media1.hu/wp-content/uploads/2019/05/spiler1tv.jpg</thumbnail>
