@@ -5,6 +5,38 @@
 <fanart></fanart>
 </plugin>
 
+<item>
+    <title>MUZICA POPULARA DE PETRECERE</title>
+    <link>
+        <sublink>plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream</sublink>
+    </link>
+    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>MUZICA POPULARA DE PETRECERE</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</item>
+
+
+<plugin>
+    <title>MUZICA POPULARA DE PETRECERE</title>
+    <link>
+        <sublink>plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream</sublink>
+    </link>
+    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>MUZICA POPULARA DE PETRECERE</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</plugin>
+
+
 <plugin>
 <name>[COLOR green]|||[/COLOR][COLOR green]|||[/COLOR][COLOR green]|||[/COLOR] [COLOR white]DOOR 02[/COLOR] [COLOR green]|||[/COLOR][COLOR green]|||[/COLOR][COLOR green]|||[/COLOR]</name>
 <thumbnail>https://</thumbnail>
