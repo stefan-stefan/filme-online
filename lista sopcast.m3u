@@ -7,14 +7,14 @@
 
 <plugin>
 <title>ANTENA 1(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>ANTENA 3(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=8ac91b2e09d7aff37ac7075bfb4b378ab8112046</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream</link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
 </plugin>
