@@ -12,12 +12,12 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
-<plugin>
+<dir>
 <title>LISTA HTTP TEST</title>
 <link>https://raw.githubusercontent.com/aaalmeid/ADDONLINKS/master/CATEGORIAS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
-</plugin>
+</dir>
 
 <plugin>
 <title>LISTA TV(RCS-RDS)</title>
