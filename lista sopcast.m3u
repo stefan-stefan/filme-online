@@ -5,6 +5,13 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </dir>
 
+<plugin>
+<title>TVR 2Vtestt</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream</link>
+<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
+<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
+</plugin>
+
 
 
 
