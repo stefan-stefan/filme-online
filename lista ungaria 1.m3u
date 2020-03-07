@@ -6,6 +6,13 @@
 </item>
 
 <item>
+<title>Hegyvidek Tv Budapest</title>
+<link>http://tv.hegyvidek.hu/stream_mpeg.flv</link>
+<thumbnail>https://hegyvidekharcosai.hu/wp-content/uploads/2019/05/hegyvidektv.jpg</thumbnail>
+<fanart>https://hegyvidekharcosai.hu/wp-content/uploads/2019/05/hegyvidektv.jpg</fanart>
+</item>
+
+<item>
 <title>Kanizsa TV</title>
 <link>https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8</link>
 <thumbnail>https://delzalapress.hu/wp-content/uploads/2015/05/kanizsa-tv.jpg</thumbnail>
