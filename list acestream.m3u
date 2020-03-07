@@ -5,6 +5,28 @@
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </item>
 
+<plugin>
+<title>(test)</title>
+<link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+
+<plugin>
+<title>(test2)</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://921ccad8c4dd8f154659ad076f14929912c2cc30&name=AceStream</link>
+<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
+<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>(test1)</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2&name=AceStream</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
 <item>
 <title>ANTENA 1(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
