@@ -4,6 +4,13 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BonumTV_logo2014.pdf/page1-1200px-BonumTV_logo2014.pdf.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BonumTV_logo2014.pdf/page1-1200px-BonumTV_logo2014.pdf.jpg</fanart>
 </item>
+
+<item>
+<title>Kanizsa TV</title>
+<link>https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8</link>
+<thumbnail>https://delzalapress.hu/wp-content/uploads/2015/05/kanizsa-tv.jpg</thumbnail>
+<fanart>https://delzalapress.hu/wp-content/uploads/2015/05/kanizsa-tv.jpg</fanart>
+</item>
  
 <item>
 <title>Budapest Európa Televízió</title>
