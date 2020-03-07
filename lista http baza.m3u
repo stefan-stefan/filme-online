@@ -61,6 +61,7 @@
 <thumbnail>https://videos.thematv.com/pro-tv-international.jpg</thumbnail>
 <fanart>https://videos.thematv.com/pro-tv-international.jpg</fanart>
 </item>
+
 <item>
 <title>Pro TV Chișinău</title>
 <link>http://hls.protv.md/hls/protv.m3u8</link>
@@ -94,6 +95,13 @@
 <link>https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1</link>
 <thumbnail>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</thumbnail>
 <fanart>https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg</fanart>
+</item>
+
+<item>
+<title>National TV</title>
+<link>http://tv-he.orange.ro/shls/LIVE$nationaltv/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
+<thumbnail>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</thumbnail>
+<fanart>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</fanart>
 </item>
 
 <item>
