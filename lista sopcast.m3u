@@ -77,7 +77,7 @@
 
 <plugin>
 <title>PRIMA TV(sursa 1)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
+<link>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/148086&name=SopProg</link>
 <thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
 <fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
 </plugin>
