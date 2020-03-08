@@ -175,7 +175,7 @@
 
 <item>
 <title>HBO(sursa 1)</title>
-<link>sop://broker.sopcast.com:3912/264971</link>
+<link><link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg</link></link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
 <fanart>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</fanart>
 </item>
