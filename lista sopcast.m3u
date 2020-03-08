@@ -231,6 +231,20 @@
 </item>
 
 <item>
+<title>FILM NOW(sursa 1)</title>
+<link>sop://broker.sopcast.com:3912/265001</link>
+<thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</thumbnail>
+<fanart>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</fanart>
+</item>
+
+<item>
+<title>FILM NOW(sursa 2)</title>
+<link>sop://broker.sopcast.com:3912/265001</link>
+<thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</thumbnail>
+<fanart>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</fanart>
+</item>
+
+<item>
 <title>AXN()</title>
 <link></link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</thumbnail>
