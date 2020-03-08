@@ -21,56 +21,64 @@
 
 <plugin>
 <title>ANTENA 1(sursa 1)</title>
-<link>http://127.0.0.1:6878/sop/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>ANTENA 1(sursa 2)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>http://plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>ANTENA 3(sursa 1)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>ANTENA 3(sursa 2)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>PRO TV(sursa 1)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+=</link>
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>PRO TV(sursa 2)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+=</link>
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>PRO TV INTERNATIONAL(sursa 1)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+=</link>
 <thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
 <fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
 </plugin>
 
 <plugin>
 <title>PRO TV INTERNATIONAL(sursa 2)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
 <fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
 </plugin>
@@ -84,119 +92,136 @@
 
 <plugin>
 <title>PRIMA TV(sursa 2)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
 <fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
 </plugin>
 
 <item>
 <title>KANAL D(sursa 1)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
 </item>
 
 <item>
 <title>KANAL D(sursa 2)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
 </item>
 
 <item>
 <title>PRO X()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</thumbnail>
 <fanart>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</fanart>
 </item>
 
 <item>
 <title>NATIONAL TV()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</thumbnail>
 <fanart>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</fanart>
 </item>
 
 <plugin>
 <title>PRO 2()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://stvron.com/canale/mari/pro-2.png</thumbnail>
 <fanart>https://stvron.com/canale/mari/pro-2.png</fanart>
 </plugin>
 
 <plugin>
 <title>PRO 2()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://stvron.com/canale/mari/pro-2.png</thumbnail>
 <fanart>https://stvron.com/canale/mari/pro-2.png</fanart>
 </plugin>
 
 <item>
 <title>PRO CINEMA()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</thumbnail>
 <fanart>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</fanart>
 </item>
 
 <item>
 <title>COMEDY CENTRAL()</title>
-<link></link>
+<linkplugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+></link>
 <thumbnail>https://f0.pngfuel.com/png/497/643/comedy-central-comedian-television-channel-television-comedy-design-png-clip-art.png</thumbnail>
 <fanart>https://f0.pngfuel.com/png/497/643/comedy-central-comedian-television-channel-television-comedy-design-png-clip-art.png</fanart>
 </item>
 
 <item>
 <title>FILM CAFE()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</thumbnail>
 <fanart>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</fanart>
 </item>
 
 <item>
 <title>TNT()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://i.ytimg.com/vi/LDih0pk0P2U/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/LDih0pk0P2U/hqdefault.jpg</fanart>
 </item>
 
 <item>
 <title>PARAMOUNT CHANNEL()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</fanart>
 </item>
 
 <dir>
 <title>HBO(sursa 1)</title>
-<link><link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sop22.m3u</link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
 <fanart>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</fanart>
 </dir>
 
 <item>
 <title>HBO 2()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://cmedia.romaniatv.net/image/201603/full/maxresdefault_85185200.jpg</thumbnail>
 <fanart>https://cmedia.romaniatv.net/image/201603/full/maxresdefault_85185200.jpg</fanart>
 </item>
 
 <item>
 <title>HBO 3()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://i.iinfo.cz/images/483/hbo-3-hd-1.jpg</thumbnail>
 <fanart>https://i.iinfo.cz/images/483/hbo-3-hd-1.jpg</fanart>
 </item>
 
 <item>
 <title>AMC()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>
 <fanart>https://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</fanart>
 </item>
 
 <item>
 <title>CINEMAX()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://www.slashgear.com/wp-content/uploads/2016/02/cinemax1-copy.jpg</thumbnail>
 <fanart>https://www.slashgear.com/wp-content/uploads/2016/02/cinemax1-copy.jpg</fanart>
 </item>
@@ -204,63 +229,72 @@
 
 <item>
 <title>CINEMAX 2()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://cristianchinabirta.ro/wp-content/uploads/2014/09/logo-cinemax-2.jpg</thumbnail>
 <fanart>https://cristianchinabirta.ro/wp-content/uploads/2014/09/logo-cinemax-2.jpg</fanart>
 </item>
 
 <item>
 <title>FILM BOX()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png</fanart>
 </item>
 
 <item>
 <title>FILM BOX FAMILY()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png</fanart>
 </item>
 
 <item>
 <title>FILM NOW(sursa 1)</title>
-<link>sop://broker.sopcast.com:3912/265001</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</thumbnail>
 <fanart>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</fanart>
 </item>
 
 <item>
 <title>FILM NOW(sursa 2)</title>
-<link>sop://broker.sopcast.com:3912/265001</link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</thumbnail>
 <fanart>https://www.radardemedia.ro/wp-content/uploads/2019/04/FILM_NOW_verical.png</fanart>
 </item>
 
 <item>
 <title>AXN()</title>
-<link></link>
+<linkplugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+></link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</thumbnail>
 <fanart>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</fanart>
 </item>
 
 <item>
 <title>AXN BLACK()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg</fanart>
 </item>
 
 <item>
 <title>AXN White()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://adevarul.ro/assets/adevarul.ro/MRImage/2013/07/12/51e004c9c7b855ff56308f24/646x528.jpg</thumbnail>
 <fanart>https://adevarul.ro/assets/adevarul.ro/MRImage/2013/07/12/51e004c9c7b855ff56308f24/646x528.jpg</fanart>
 </item>
 
 <item>
 <title>AXN SPIN()</title>
-<link></link>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</fanart>
 </item>
