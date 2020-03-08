@@ -1,19 +1,13 @@
-<item>
-  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]CERCA SU EK6 [I][COLOR white](Cerca Canali TV)[/I][COLOR green]•[COLOR white]•[COLOR red]• [/COLOR][/B]</title>
-<thumbnail>http://informationaboutsearchengine.yolasite.com/resources/internet_search.png</thumbnail>
-<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
-<link>http://ignoreme</link>
-<jsonrpc>plugin://script.module.evilsearch/?action=search</jsonrpc>
-</item>
- 
- 
-em>
-  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]INTRATTENIMENTO [COLOR green]•[COLOR white]•[COLOR red]• [/COLOR][/B]</title>
-<thumbnail>https://3.bp.blogspot.com/-g5shPeD6g6c/Wb4oUsdnkeI/AAAAAAAAG7k/Mm5w-1JYA8MybeAYvfkihJm0DpcXpMaKACPcBGAYYCw/s1600/LIVE%2B%25281%2529.png</thumbnail>
-<fanart>https://i1.wp.com/www.roccobalzama.it/roccobalzama/wp-content/uploads/2017/11/intrattenimento-online.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/Pib6Vf4q</externallink>
-</item>
+<data>
+    <type name="channels">
+        <item>
+           <name> WWE RAW 12 SETTEMBRE</name>
+           <color>red</color>
+<icon>http://d3t1wwu6jp9wzs.cloudfront.net/wp-content/uploads/2016/07/wwe-raw.jpg</icon>
+       <link>http://www.youtube.com/watch?v=JkkPQHCMOwU</link>
+       </item>
+    </type>
+</data>
  
  
  <item>
