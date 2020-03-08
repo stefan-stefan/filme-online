@@ -1,235 +1,493 @@
 #EXTM3U
-#EXTINF:-1 ,RTP 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/172.ts
-#EXTINF:-1 ,RTP 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/616.ts
-#EXTINF:-1 ,RTP 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/173.ts
-#EXTINF:-1 ,SIC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/174.ts
-#EXTINF:-1 ,SIC HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/638.ts
-#EXTINF:-1 ,TVI
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/175.ts
-#EXTINF:-1 ,TVI HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/889.ts
-#EXTINF:-1 ,CMTV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/176.ts
-#EXTINF:-1 ,CMTV HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/669.ts
-#EXTINF:-1 ,TVI 24
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/304.ts
-#EXTINF:-1 ,RTP 3
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/422.ts
-#EXTINF:-1 ,SIC NOTICIAS
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/220.ts
-#EXTINF:-1 ,SIC NOTICIAS HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/668.ts
-#EXTINF:-1 ,SIC RADICAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/215.ts
-#EXTINF:-1 ,SIC MULHER
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/308.ts
-#EXTINF:-1 ,SIC CARAS
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/600.ts
-#EXTINF:-1 ,TVI FICCAO
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/302.ts
-#EXTINF:-1 ,TVI REALITY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1049.ts
-#EXTINF:-1 ,FATIMA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/771.ts
-#EXTINF:-1 ,SPORT TV 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/177.ts
-#EXTINF:-1 ,SPORT TV 1 LB
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/359.ts
-#EXTINF:-1 ,SPORT TV 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/355.ts
-#EXTINF:-1 ,SPORT TV 1 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/189.ts
-#EXTINF:-1 ,SPORT TV 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/178.ts
-#EXTINF:-1 ,SPORT TV 2 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/683.ts
-#EXTINF:-1 ,SPORT TV 2 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/351.ts
-#EXTINF:-1 ,SPORT TV 3
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/179.ts
-#EXTINF:-1 ,SPORT TV 3 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/684.ts
-#EXTINF:-1 ,SPORT TV 3 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/352.ts
-#EXTINF:-1 ,SPORT TV 4
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/180.ts
-#EXTINF:-1 ,SPORT TV 4 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/685.ts
-#EXTINF:-1 ,SPORT TV 4 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/566.ts
-#EXTINF:-1 ,SPORT TV 5
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/181.ts
-#EXTINF:-1 ,SPORT TV 5 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/686.ts
-#EXTINF:-1 ,SPORT TV 5 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/567.ts
-#EXTINF:-1 ,SPORT TV +
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/219.ts
-#EXTINF:-1 ,ELEVEN SPORts 1 SD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/748.ts
-#EXTINF:-1 ,ELEVEN SPORts 1 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/705.ts
-#EXTINF:-1 ,ELEVEN SPORts 2 SD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/749.ts
-#EXTINF:-1 ,ELEVEN SPORts 2 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/706.ts
-#EXTINF:-1 ,ELEVEN SPORts 3 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/718.ts
-#EXTINF:-1 ,ELEVEN SPORts 4 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/765.ts
-#EXTINF:-1 ,ELEVEN SPORts 5 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/766.ts
-#EXTINF:-1 ,ELEVEN SPORts 6 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/767.ts
-#EXTINF:-1 ,BENFICA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/354.ts
-#EXTINF:-1 ,BENFICA TV LB
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/360.ts
-#EXTINF:-1 ,BENFICA TV HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/342.ts
-#EXTINF:-1 ,BENFICA TV FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/187.ts
-#EXTINF:-1 ,PORTO CANAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/190.ts
-#EXTINF:-1 ,SPORTING TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/221.ts
-#EXTINF:-1 ,CANAL 11 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/975.ts
-#EXTINF:-1 ,A BOLA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/222.ts
-#EXTINF:-1 ,NBA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/858.ts
-#EXTINF:-1 ,EUROSPORT 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/216.ts
-#EXTINF:-1 ,EUROSPORT 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/617.ts
-#EXTINF:-1 ,EUROSPORT 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/217.ts
-#EXTINF:-1 ,MOTORVISION
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/783.ts
-#EXTINF:-1 ,KOMBAT SPORT
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/666.ts
-#EXTINF:-1 ,CACA E PESCA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/410.ts
-#EXTINF:-1 ,CACAVISION
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/350.ts
-#EXTINF:-1 ,TOROS TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/533.ts
-#EXTINF:-1 ,PFC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/229.ts
-#EXTINF:-1 ,TVCINE 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/183.ts
-#EXTINF:-1 ,TVCINE 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/408.ts
-#EXTINF:-1 ,TVCINE 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/184.ts
-#EXTINF:-1 ,TVCINE 2 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/406.ts
-#EXTINF:-1 ,TVCINE 3
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/185.ts
-#EXTINF:-1 ,TVCINE 3 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/407.ts
-#EXTINF:-1 ,TVCINE 4
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/186.ts
-#EXTINF:-1 ,TVCINE 4 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/409.ts
-#EXTINF:-1 ,TV SERIES
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/223.ts
-#EXTINF:-1 ,TV SERIES HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/730.ts
-#EXTINF:-1 ,NOS STUDIOS HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/962.ts
-#EXTINF:-1 ,NETFLIX PORTUGAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1047.ts
-#EXTINF:-1 ,HBO PORTUGAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1048.ts
-#EXTINF:-1 ,AXN HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/296.ts
-#EXTINF:-1 ,AXN WHITE HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/399.ts
-#EXTINF:-1 ,AXN BLACK HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/400.ts
-#EXTINF:-1 ,FOX HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/297.ts
-#EXTINF:-1 ,FOX LIFE HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/599.ts
-#EXTINF:-1 ,FOX CRIME HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/475.ts
-#EXTINF:-1 ,FOX MOVIES
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/231.ts
-#EXTINF:-1 ,FOX MOVIES HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/728.ts
-#EXTINF:-1 ,FOX COMEDY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/307.ts
-#EXTINF:-1 ,FOX COMEDY HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/729.ts
-#EXTINF:-1 ,HOLLYWOOD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/225.ts
-#EXTINF:-1 ,HOLLYWOOD HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/466.ts
-#EXTINF:-1 ,CINEMUNDO
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/398.ts
-#EXTINF:-1 ,SYFY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/300.ts
-#EXTINF:-1 ,AMC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/306.ts
-#EXTINF:-1 ,MTV PORTUGAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/301.ts
-#EXTINF:-1 ,TRACE TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/344.ts
-#EXTINF:-1 ,VH1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/348.ts
-#EXTINF:-1 ,DISNEY CHANNEL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/703.ts
-#EXTINF:-1 ,DISNEY JUNIOR
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/191.ts
-#EXTINF:-1 ,CANAL PANDA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/224.ts
-#EXTINF:-1 ,PANDA BIGGS
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/309.ts
-#EXTINF:-1 ,NICKELODEON
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/455.ts
-#EXTINF:-1 ,NICK JUNIOR
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/495.ts
-#EXTINF:-1 ,CARTOON NETWORK
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/236.ts
-#EXTINF:-1 ,JIM JAM
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/305.ts
-#EXTINF:-1 ,SIC K
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/789.ts
-#EXTINF:-1 ,BABY TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/601.ts
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/298.ts
-#EXTINF:-1 ,NAT GEO WILD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/238.ts
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/237.ts
-#EXTINF:-1 ,ID INVESTIGATION DISCOVERY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/940.ts
-#EXTINF:-1 ,ODISSEIA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/239.ts
-#EXTINF:-1 ,CANAL HISTORIA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/240.ts
-#EXTINF:-1 ,CBS REALITY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/303.ts
-#EXTINF:-1 ,BLAZE
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/242.ts
-#EXTINF:-1 ,TLC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/543.ts
-#EXTINF:-1 ,24 KITCHEN HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/610.ts
-#EXTINF:-1 ,MY CUISINE
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/938.ts
-#EXTINF:-1 ,TV RECORD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/412.ts
-#EXTINF:-1 ,TV GLOBO
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/544.ts
-#EXTINF:-1 ,GLOBO NOW
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/233.ts
+#EXTINF:-1,RTP 1 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/198.m3u8
+#EXTINF:-1,RTP 2 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/197.m3u8
+#EXTINF:-1,SIC MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/195.m3u8
+#EXTINF:-1,TVI MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/192.m3u8
+#EXTINF:-1,TVI 24 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/193.m3u8
+#EXTINF:-1,SIC NOTICIAS MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/194.m3u8
+#EXTINF:-1,RTP 3 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/196.m3u8
+#EXTINF:-1,PORTO CANAL MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/199.m3u8
+#EXTINF:-1,CMTV MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/200.m3u8
+#EXTINF:-1,TVI REALITY MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/201.m3u8
+#EXTINF:-1,SIC MULHER MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/205.m3u8
+#EXTINF:-1,SIC CARAS MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/206.m3u8
+#EXTINF:-1,SIC RADICAL MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/204.m3u8
+#EXTINF:-1,TVI FICCAO MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/202.m3u8
+#EXTINF:-1,TV RECORD MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/203.m3u8
+#EXTINF:-1,GLOBO MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/271.m3u8
+#EXTINF:-1,GLOBO NOW MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/270.m3u8
+#EXTINF:-1,ABOLA TV MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/273.m3u8
+#EXTINF:-1,SPORTV + MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/267.m3u8
+#EXTINF:-1,SPORTV 1 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/212.m3u8
+#EXTINF:-1,SPORTV 2 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/211.m3u8
+#EXTINF:-1,SPORTV 3 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/210.m3u8
+#EXTINF:-1,SPORTV 4 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/209.m3u8
+#EXTINF:-1,SPORTV 5 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/208.m3u8
+#EXTINF:-1,SPORTV NBA MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/215.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/213.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/266.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/272.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/222.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/221.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/220.m3u8
+#EXTINF:-1,BTV 1 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/214.m3u8
+#EXTINF:-1,SPORTING TV MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/216.m3u8
+#EXTINF:-1,PFC MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/217.m3u8
+#EXTINF:-1,EUROSPORT 1 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/219.m3u8
+#EXTINF:-1,EUROSPORT 2 MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/218.m3u8
+#EXTINF:-1,MOTORVISION MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/231.m3u8
+#EXTINF:-1,KOMBAT SPORT MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/232.m3u8
+#EXTINF:-1,CACA E PESCA MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/230.m3u8
+#EXTINF:-1,DISNEY CHANNEL MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/245.m3u8
+#EXTINF:-1,DISNEY JUNIOR MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/244.m3u8
+#EXTINF:-1,CANAL PANDA MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/247.m3u8
+#EXTINF:-1,PANDA BIGGS MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/250.m3u8
+#EXTINF:-1,SIC K MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/242.m3u8
+#EXTINF:-1,JIMJAM MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/240.m3u8
+#EXTINF:-1,NICKELODEON MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/251.m3u8
+#EXTINF:-1,BABY TV MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/248.m3u8
+#EXTINF:-1,CARTOON NETWORK MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/246.m3u8
+#EXTINF:-1,TVCINE TOP MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/229.m3u8
+#EXTINF:-1,TVCINE EDITION MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/228.m3u8
+#EXTINF:-1,TVCINE EMOTION MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/227.m3u8
+#EXTINF:-1,TVCINE ACTION MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/226.m3u8
+#EXTINF:-1,HOLLYWOOD MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/243.m3u8
+#EXTINF:-1,CINEMUNDO MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/225.m3u8
+#EXTINF:-1,EUROCHANNEL MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/258.m3u8
+#EXTINF:-1,SYFY MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/241.m3u8
+#EXTINF:-1,AMC MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/249.m3u8
+#EXTINF:-1,AXN MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/237.m3u8
+#EXTINF:-1,AXH WHITE MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/239.m3u8
+#EXTINF:-1,AXN MOVIES MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/238.m3u8
+#EXTINF:-1,FOX MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/224.m3u8
+#EXTINF:-1,FOX MOVIES MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/233.m3u8
+#EXTINF:-1,FOX LIFE MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/234.m3u8
+#EXTINF:-1,FOX CRIME MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/235.m3u8
+#EXTINF:-1,FOX COMEDY MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/236.m3u8
+#EXTINF:-1,CANAL HISTORIA MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/264.m3u8
+#EXTINF:-1,ODISSEIA MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/262.m3u8
+#EXTINF:-1,NAT GEO MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/252.m3u8
+#EXTINF:-1,DISCOVERY MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/256.m3u8
+#EXTINF:-1,CANAL Q MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/207.m3u8
+#EXTINF:-1,TLC MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/260.m3u8
+#EXTINF:-1,BLAZE MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/265.m3u8
+#EXTINF:-1,MY CUISINE MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/253.m3u8
+#EXTINF:-1,FOOD NETWORK MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/254.m3u8
+#EXTINF:-1,24 KITCHEN MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/257.m3u8
+#EXTINF:-1,RTP AÃ‡ORES MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/269.m3u8
+#EXTINF:-1,RTP MADEIRA MOBILE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/268.m3u8
+#EXTINF:-1,RTP 1
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/47.m3u8
+#EXTINF:-1,RTP 2
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/45.m3u8
+#EXTINF:-1,SIC
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/43.m3u8
+#EXTINF:-1,TVI
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/41.m3u8
+#EXTINF:-1,RTP 1 FHD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/46.m3u8
+#EXTINF:-1,RTP 2 FHD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/44.m3u8
+#EXTINF:-1,SIC FHD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/42.m3u8
+#EXTINF:-1,TVI FHD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/40.m3u8
+#EXTINF:-1,TVI 24
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/25.m3u8
+#EXTINF:-1,SIC NOTICIAS HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/27.m3u8
+#EXTINF:-1,RTP 3
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/35.m3u8
+#EXTINF:-1,PORTO CANAL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/36.m3u8
+#EXTINF:-1,CMTV HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/37.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/32.m3u8
+#EXTINF:-1,SIC MULHER HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/28.m3u8
+#EXTINF:-1,SIC CARAS HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/29.m3u8
+#EXTINF:-1,SIC RADICAL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/26.m3u8
+#EXTINF:-1,CANAL Q
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/38.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/30.m3u8
+#EXTINF:-1,RTP AFRICA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/33.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/31.m3u8
+#EXTINF:-1,RTP ACORES
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/34.m3u8
+#EXTINF:-1,TVI REALITY
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/23.m3u8
+#EXTINF:-1,TVI FICCAO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/24.m3u8
+#EXTINF:-1,TV RECORD HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/2.m3u8
+#EXTINF:-1,GLOBO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/16.m3u8
+#EXTINF:-1,GLOBO NOW
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/15.m3u8
+#EXTINF:-1,ABOLA TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/89.m3u8
+#EXTINF:-1,CANAL 11 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/17.m3u8
+#EXTINF:-1,SPORTV + FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/13.m3u8
+#EXTINF:-1,SPORTV +
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/14.m3u8
+#EXTINF:-1,SPORTV 1 FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/12.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/11.m3u8
+#EXTINF:-1,SPORTV 1
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/10.m3u8
+#EXTINF:-1,SPORTV 2 FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/9.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/8.m3u8
+#EXTINF:-1,SPORTV 2
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/7.m3u8
+#EXTINF:-1,SPORTV 3 FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/6.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/5.m3u8
+#EXTINF:-1,SPORTV 3
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/4.m3u8
+#EXTINF:-1,SPORTV 4 FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/92.m3u8
+#EXTINF:-1,SPORTV 4 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/91.m3u8
+#EXTINF:-1,SPORTV 4
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/90.m3u8
+#EXTINF:-1,SPORTV 5 FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/95.m3u8
+#EXTINF:-1,SPORTV 5 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/94.m3u8
+#EXTINF:-1,SPORTV 5
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/93.m3u8
+#EXTINF:-1,SPORTV NBA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/60.m3u8
+#EXTINF:-1,BTV 1 FULL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/88.m3u8
+#EXTINF:-1,BTV 1 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/87.m3u8
+#EXTINF:-1,BTV 1
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/86.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/85.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/84.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/83.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/82.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/81.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/80/live.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/79.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/78.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/77.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/76.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/75.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/74.m3u8
+#EXTINF:-1,PFC
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/63.m3u8
+#EXTINF:-1,SPORTING TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/61.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/70.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/69.m3u8
+#EXTINF:-1,MOTORVISION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/65.m3u8
+#EXTINF:-1,FUEL TV HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/67.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/68.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/66.m3u8
+#EXTINF:-1,CACAVISION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/72.m3u8
+#EXTINF:-1,CACA E PESCA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/73.m3u8
+#EXTINF:-1,TOROS TV HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/59.m3u8
+#EXTINF:-1,DOG TV HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/71.m3u8
+#EXTINF:-1,WALT DISNEY
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/12347.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/179.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/178.m3u8
+#EXTINF:-1,NICK JR
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/166.m3u8
+#EXTINF:-1,CANAL PANDA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/186.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/164.m3u8
+#EXTINF:-1,BOOMRANG
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/188.m3u8
+#EXTINF:-1,JIM JAM
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/172.m3u8
+#EXTINF:-1,NICKELODEAN
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/165.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/184.m3u8
+#EXTINF:-1,SIC K
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/152.m3u8
+#EXTINF:-1,TIJI
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/150.m3u8
+#EXTINF:-1,BABY TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/191.m3u8
+#EXTINF:-1,TVCINE TOP HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/58.m3u8
+#EXTINF:-1,TVCINE TOP
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/57.m3u8
+#EXTINF:-1,TVCINE EDITION HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/56.m3u8
+#EXTINF:-1,TVCINE EDITION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/55.m3u8
+#EXTINF:-1,TVCINE EMOTION HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/54.m3u8
+#EXTINF:-1,TVCINE EMOTION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/53.m3u8
+#EXTINF:-1,TVCINE ACTION HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/52.m3u8
+#EXTINF:-1,TVCINE ACTION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/51.m3u8
+#EXTINF:-1,NOS STUDIOS HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/115.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/120.m3u8
+#EXTINF:-1,EUROCHANNEL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/127.m3u8
+#EXTINF:-1,CINEMUNDO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/132.m3u8
+#EXTINF:-1,AMC HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/139.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/121.m3u8
+#EXTINF:-1,SYFY HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/113.m3u8
+#EXTINF:-1,AXN HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/137.m3u8
+#EXTINF:-1,AXN WHITE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/136.m3u8
+#EXTINF:-1,AXN MOVIES
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/138.m3u8
+#EXTINF:-1,FOX HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/123.m3u8
+#EXTINF:-1,FOX LIFE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/122.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/125.m3u8
+#EXTINF:-1,FOX CRIME
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/124.m3u8
+#EXTINF:-1,ID INVESTIGATION DISCOVERY
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/119.m3u8
+#EXTINF:-1,CRIME + INVESTIGATION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/131.m3u8
+#EXTINF:-1,CANAL HISTORIA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/134.m3u8
+#EXTINF:-1,ODISSEIA HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/114.m3u8
+#EXTINF:-1,NAT GEOGRAFIC
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/116.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/117.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/130.m3u8
+#EXTINF:-1,FTV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/108.m3u8
+#EXTINF:-1,TLC
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/112.m3u8
+#EXTINF:-1,FINE LIVING NETWORK
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/109.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/111.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/128.m3u8
+#EXTINF:-1,CBS REALTY
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/133.m3u8
+#EXTINF:-1,BLAZE HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/135.m3u8
+#EXTINF:-1,MY CUISINE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/118.m3u8
+#EXTINF:-1,24 KITCHEN
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/140.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/126.m3u8
+#EXTINF:-1,LUXE TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/107.m3u8
+#EXTINF:-1,S+ HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/105.m3u8
+#EXTINF:-1,ZEE TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/103.m3u8
+#EXTINF:-1,MAX
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/106.m3u8
+#EXTINF:-1,TOP BRASIL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/12346.m3u8
+#EXTINF:-1,TOP LATINO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/12345.m3u8
+#EXTINF:-1,TOP PORTUGAL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/12344.m3u8
+#EXTINF:-1,TRACE URBAN
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/104.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/100.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/101.m3u8
+#EXTINF:-1,MCM POP
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/102.m3u8
+#EXTINF:-1,VH1
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/96.m3u8
+#EXTINF:-1,ICONCERTS
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/98.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/99.m3u8
+#EXTINF:-1,MEZZO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/97.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/167.m3u8
+#EXTINF:-1,TVI REALITY CAMERA 1
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/22.m3u8
+#EXTINF:-1,TVI REALITY CAMERA 2
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/21.m3u8
+#EXTINF:-1,TVI REALITY CAMERA 3
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/20.m3u8
+#EXTINF:-1,TVI REALITY CAMERA 4
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/19.m3u8
+#EXTINF:-1,TVI REALITY MOSAICO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/18.m3u8
+#EXTINF:-1,ZAP VIVA HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/142.m3u8
+#EXTINF:-1,DEUTSCHE WELLE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/180.m3u8
+#EXTINF:-1,SANTUARIO FATIMA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/156.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/185.m3u8
+#EXTINF:-1,KURIAKOS TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/170.m3u8
+#EXTINF:-1,TV GALICIA
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/148.m3u8
+#EXTINF:-1,TVE INTERNATIONAL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/146.m3u8
+#EXTINF:-1,TV5 MONDE
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/147.m3u8
+#EXTINF:-1,M6
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/168.m3u8
+#EXTINF:-1,FRANCE 24
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/175.m3u8
+#EXTINF:-1,TPA INTERNATIONAL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/149.m3u8
+#EXTINF:-1,TCV INTERNATIONAL
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/151.m3u8
+#EXTINF:-1,CUBAVISION
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/181.m3u8
+#EXTINF:-1,LOCALVISAO
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/169.m3u8
+#EXTINF:-1,REGIOES TV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/157.m3u8
+#EXTINF:-1,EURONEWS
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/176.m3u8
+#EXTINF:-1,RECORD NEWS
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/159.m3u8
+#EXTINF:-1,CNN
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/182.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/190.m3u8
+#EXTINF:-1,KBS WORLD HD
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/171.m3u8
+#EXTINF:-1,ARTV
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/39.m3u8
+#EXTINF:-1,BLOOMBERG
+http://kitcat.kim:80/live/RMS9jecM2v/OoTvvIWABk/189.m3u8
