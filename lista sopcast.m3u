@@ -27,8 +27,7 @@
 
 <plugin>
 <title>ANTENA 1(test 3)</title>
-<link>http://sop:151.80.76.190:3912/264945.m3u8&name=Protv
-</link>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sop22.m3u</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </plugin>
