@@ -5,20 +5,28 @@
 <fanart></fanart>
 </plugin>
 
-<plugin>
-    <title>MUZICA POPULARA DE PETRECERE</title>
-    <link>
-        <sublink>plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream</sublink>
-    </link>
-    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
-    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
-    <content>movie</content>
-    <meta>
-        <title>MUZICA POPULARA DE PETRECERE</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
-</plugin>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/TV%20AO%20VIVO</externallink>
+<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - CANAIS PARA TODAS AS IDADES- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
+<thumbnail>https://i.postimg.cc/yNP26ghd/FILMES.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/FILMES</externallink>
+<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
+<info>
 
 
 <plugin>
