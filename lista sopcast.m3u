@@ -12,12 +12,12 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </item>
 
-<plugin>
+<item>
 <title>TVR 2(sursa 2)</title>
 <link>http://185.115.32.12:8000/live/264945</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>ANTENA 1(sursa 1)</title>
