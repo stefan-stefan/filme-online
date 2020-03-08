@@ -117,34 +117,34 @@ plugin://program.plexus/?mode=1&url=acestream://fd4a0e91fbaf49acb8708b7f884a0ecb
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<dir>
+<item>
 <title>ANTENA 1(Acestream)</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</dir>
+</item>
 
-<plugin>
+<item>
 <title>ANTENA 3(Acestream)</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9=My+acestream+channel
 </link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>PRO TV(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=f06645f552137d04a4e6a18f8cc654e2dfd312b1</link>
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>PRO TV INTERNATIONAL(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=921ccad8c4dd8f154659ad076f14929912c2cc30</link>
 <thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
 <fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>PRIMA TV(Acestream)</title>
