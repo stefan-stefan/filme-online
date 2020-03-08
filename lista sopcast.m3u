@@ -22,7 +22,7 @@
 
 <item>
 <title>TVR 2V</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://34b1402557fb7faab2979361c4e9650fa0948724&name=AceStream</link>
+<link>http://192.168.1.25:32400/sop://broker.sopcast.com:3912/148085</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </channel>
