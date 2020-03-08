@@ -19,13 +19,13 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </item>
 
-<plugin>
+<item>
 <title>ANTENA 1(sursa 1)</title>
 <link>http://sop:151.80.76.190:3912/264945.m3u8&name=Protv
 </link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>ANTENA 1(sursa 2)</title>
