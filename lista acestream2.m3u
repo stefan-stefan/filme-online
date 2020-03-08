@@ -117,12 +117,12 @@ plugin://program.plexus/?mode=1&url=acestream://fd4a0e91fbaf49acb8708b7f884a0ecb
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
-<item>
+<dir>
 <title>ANTENA 1(Acestream)</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</item>
+</dir>
 
 <plugin>
 <title>ANTENA 3(Acestream)</title>
