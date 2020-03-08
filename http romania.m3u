@@ -1,26 +1,26 @@
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]LISTA HTTP 1 [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA HTTP 1 [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ro.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </plugin>
 
 <dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]LISTA HTTP STEFAN [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA HTTP STEFAN [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20baza.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]LISTA HTTP TEST [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA HTTP TEST [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/aaalmeid/ADDONLINKS/master/CATEGORIAS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]RCS-RDS [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]RCS-RDS [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
 <fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
@@ -28,28 +28,28 @@
 
 
 <dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]LISTA ACESTREAM(NECESITA (Acestream) [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA ACESTREAM(NECESITA (Acestream) [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20baza%20acestram.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </dir>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]LISTA ACESTREAM(NECESITA (Plexus&Acestream) [/COLOR][/B]</title></title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA ACESTREAM(NECESITA (Plexus&Acestream) [/COLOR][/B]</title></title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20acestream2.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </plugin>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]LISTA SOPCAST(Necesita Plexus) [/COLOR][/B]</title></title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA SOPCAST(Necesita Plexus) [/COLOR][/B]</title></title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast%202.m3u</link>
 <thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
 <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </plugin>
 
 <dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkblue]TEST SOPCAST [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]TEST SOPCAST [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast.m3u</link>
 <thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
 <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
