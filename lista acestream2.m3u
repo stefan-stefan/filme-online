@@ -1,304 +1,654 @@
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]  LISTA-ACESTREAM-RO   [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:1234
-#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
-plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream
-#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Prima Tv 
-plugin://program.plexus/?mode=1&url=acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2&name=AceStream
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Kanal D
-plugin://program.plexus/?mode=1&url=acestream://5583e0b72dfdbdf4d758173896c371aa71693230&name=AceStream
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:1234
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe 
-plugin://program.plexus/?mode=1&url=acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936&name=AceStream
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000 
-plugin://program.plexus/?mode=1&url=acestream://d8dd7b7461a13693517e1c591e47be876f1649b3&name=AceStream
-#EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Paramount Channel
-plugin://program.plexus/?mode=1&url=acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741&name=AceStream
-#EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN
-
-plugin://program.plexus/?mode=1&url=acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10&name=AceStream
-#EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN Black
-
-plugin://program.plexus/?mode=1&url=acestream://5d1cd83572135124cbcb324a449e1dabc21125b8&name=AceStream
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN(lipsa stream)
-
-plugin://program.plexus/?mode=1&url=acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760&name=AceStream
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Axn White(lipsa stream)
-
-plugin://program.plexus/?mode=1&url=acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760&name=AceStream
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax
-
-plugin://program.plexus/?mode=1&url=acestream://34b1402557fb7faab2979361c4e9650fa0948724&name=AceStream
-#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Cinemax 2
-
-plugin://program.plexus/?mode=1&url=acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3&name=AceStream
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] FILMBOX PREMIUM
-
-plugin://program.plexus/?mode=1&url=acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c&name=AceStream
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Filmbox
-
-plugin://program.plexus/?mode=1&url=acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c&name=AceStream
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR]Filmbox Family
-
-plugin://program.plexus/?mode=1&url=acestream://a88f6617aa9c2d706632c7f7832e341dab280a07&name=AceStream
-#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AMC 
-
-plugin://program.plexus/?mode=1&url=acestream://ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15&name=AceStream
-#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AMC 
-
-plugin://program.plexus/?mode=1&url=acestream://7e87e9dba371e4272bc4aeaf9f904165aed97e07&name=AceStream
-#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TNT
-
-plugin://program.plexus/?mode=1&url=acestream://d15a0ddb66690bc018e0b22f6e2eb28e9edb945e&name=AceStream
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Acasa Gold
-
-plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 
-
-plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9&name=AceStream
-#EXTINF:-1 tvg-ID="HBO 2" tvg-name="RO: HBO 2" tvg-logo="https://iptvsensation.org/picons/hbo2.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 2
-
-plugin://program.plexus/?mode=1&url=acestream://bb814213a7aa8b4de31195daade2dd22258c637d&name=AceStream
-#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 3 
-
-plugin://program.plexus/?mode=1&url=acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86&name=AceStream
-#EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
-http://0.0.0.0:12345
-#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] History Channel
-
-plugin://program.plexus/?mode=1&url=acestream://53934766c05e71adc277d7fbc310f24abda2dd11&name=AceStream
-#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery
-
-plugin://program.plexus/?mode=1&url=acestream://925a1331e53377c4e5db2812eaf6b7ed831dc89d&name=AceStream
-#EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Nat Geo Wild
-
-plugin://program.plexus/?mode=1&url=acestream://23a63de6bcde494d621a07f4fbebf774995b19a9&name=AceStream
-#EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] National Geographic
-
-plugin://program.plexus/?mode=1&url=acestream://c0ddde706358afafd809e3858b069132bca3a913&name=AceStream
-#EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Discovery ID
-
-plugin://program.plexus/?mode=1&url=acestream://9709802e6428d681118026807c7f445410a6afd2&name=AceStream
-#EXTINF:-1 tvg-ID="DiscoveryScienceHD.ro" tvg-name="RO: Discovery Science" tvg-logo="https://iptvsensation.org/picons/discoveryscience.png" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Discovery Science 
-
-plugin://program.plexus/?mode=1&url=acestream://8db30f7946f550cb9b32632fc6c02ce960f241ca&name=AceStream
-#EXTINF:-1 tvg-ID="Travel Channel" tvg-name="RO: Travel Channel" tvg-logo="https://iptvsensation.org/logo/ro/TravelChannel.ro.png" group-title="DOCUMENTARE",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Travel Channel
-
-plugin://program.plexus/?mode=1&url=acestream://712330ea8bb35c84bbae7c7bdbd578cf267681c5&name=AceStream
-#EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png" group-title="GENERALE",[COLOR yellow]Acestream.[/COLOR][COLOR yellow]# 1[/COLOR]DTX (Discovery Turbo Xtra)
-
-plugin://program.plexus/?mode=1&url=acestream://6a2a1c7379043a4a5ebab950a54d467e714ce16c&name=AceStream
-#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR red]          ***      [/COLOR][COLOR red][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:12346
-#EXTINF:#1  tvg-logo="https://lh5.googleusercontent.com/-e393ZEo6prI/UgWF2uAJV7I/AAAAAAAABOE/O46JvRFvjus/h250/eurosport+2+live.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Eurosport 2
-
-plugin://program.plexus/?mode=1&url=acestream://89122a1bb3fab471ce54ba405e28c2efa592fffe&name=AceStream
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 1
-
-plugin://program.plexus/?mode=1&url=acestream://181fe99618ba1d7ace7ceebed9318391f358b037&name=AceStream
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 2
-
-plugin://program.plexus/?mode=1&url=acestream://79efe2b3bf81354cae62c8fcd2b6956ec66caab0&name=AceStream
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 3
-
-plugin://program.plexus/?mode=1&url=acestream://cc4e1b96f65250a59a6bef1e9814bce6370a136a&name=AceStream
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Logo_Telekom_Sport_1_%282017%29.svg/950px-Logo_Telekom_Sport_1_%282017%29.svg.png" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]Telekom Sport 4
-
-plugin://program.plexus/?mode=1&url=acestream://4c4116749607daf31bc19f20fdcf0135505ad3af&name=AceStream
-#EXTINF:0 tvg-logo="https://evz.ro/uploads/2018-08/sigla-look-sport-tb900.jpg" group-title="STIRI",[COLOR deeppink]Acestream.[/COLOR][COLOR deeppink]# 1[/COLOR]LookSport
-
-plugin://program.plexus/?mode=1&url=acestream://8887852b7465078a0f3c3c4e8843fc230394ec6b&name=AceStream
-#EXTINF:-1 tvg-logo="http://static.manutv.net/canale/mari/look-sport.png" group-title="SPORT",[COLOR orange]Acestream.[/COLOR][COLOR red]# 1[/COLOR]Look Sport
-plugin://program.plexus/?mode=1&url=acestream://fd4a0e91fbaf49acb8708b7f884a0ecb4c3effde&name=AceStream
-<plugin>
-<title>[COLOR FFff8000]»» LISTA-ACESTRAM-ROMANIA [/COLOR]</title>
-<link></link>
-<thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
-<fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
-</plugin>
-
 <item>
-<title>ANTENA 1(Acestream)</title>
-<link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]CERCA SU EK6 [I][COLOR white](Cerca Canali TV)[/I][COLOR green]•[COLOR white]•[COLOR red]• [/COLOR][/B]</title>
+<thumbnail>http://informationaboutsearchengine.yolasite.com/resources/internet_search.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://script.module.evilsearch/?action=search</jsonrpc>
 </item>
-
-<item>
-<title>ANTENA 3(Acestream)</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9=My+acestream+channel
-</link>
-<thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
-<fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
+ 
+ 
+em>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]INTRATTENIMENTO [COLOR green]•[COLOR white]•[COLOR red]• [/COLOR][/B]</title>
+<thumbnail>https://3.bp.blogspot.com/-g5shPeD6g6c/Wb4oUsdnkeI/AAAAAAAAG7k/Mm5w-1JYA8MybeAYvfkihJm0DpcXpMaKACPcBGAYYCw/s1600/LIVE%2B%25281%2529.png</thumbnail>
+<fanart>https://i1.wp.com/www.roccobalzama.it/roccobalzama/wp-content/uploads/2017/11/intrattenimento-online.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Pib6Vf4q</externallink>
 </item>
-
-<item>
-<title>PRO TV(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=f06645f552137d04a4e6a18f8cc654e2dfd312b1</link>
-<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
-<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
+ 
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]SCRIPT E LISTE IPTV  [I][COLOR yellow][/B](NON USATE LE LISTE IPTV PER LE PARTITE)[/I] [COLOR green]•[COLOR white]•[COLOR red]• [/COLOR][/B]</title>
+<thumbnail>https://archive.org/download/anime_20170322/tv.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/TVEVIL.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]SPORT [I][COLOR yellow][/B](PER LE PARTITE DEVI CLICCARE QUI!!! CE LA PUOI FARE) [/I][B][COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/eksicon.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EKSPORT/EKSPORTS.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]FILM E SERIE TV[COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://archive.org/download/anime_20170322/film.png</thumbnail><fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/CINEMAEVIL.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]CARTONI ANIMATI[COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://archive.org/download/anime_20170322/anime.png</thumbnail><fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/CARTONIEVIL.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]MUSICA[COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://archive.org/download/anime_20170322/musica.png</thumbnail><fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/MUSICAEVIL.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]DOCUMENTARI [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://icon-icons.com/icons2/515/PNG/256/Documentaries_icon-icons.com_51056.png</thumbnail><fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>https://tartarugaveloce.netsons.org/IL_SAGGIO/DOCUMENTARI-HOME/DOCUMENTARI%20MENU%27%202.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]VIDEOCORSI[COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://archive.org/download/anime_20170322/videocorsi.png</thumbnail><fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>https://tartarugaveloce.netsons.org/IL_SAGGIO/CORSI/CORSI.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]AUDIO LIBRI [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://www.geekoo.it/wp-content/uploads/2016/11/audiolibri-icona.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>https://tartarugaveloce.netsons.org/IL-SAGGIO-2/AUDIO-LIBRI/AUDIO%20LIBRI%20MENU%27%202.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]EBOOK [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://drive.google.com/drive/folders/0BzG97RrFLXbOSmh1Uk1lTS1uWFU/</jsonrpc>
+<thumbnail>https://www.dominonline.it/wp-content/uploads/2015/04/6-ebook-icon-png.png</thumbnail>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]KODI TUTORIAL [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://www.androidaba.com/wp-content/uploads/2016/09/cropped-ANDROIDABA.COM-2-2.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/VIDEOTUTORIAL.php</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]EPG [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://epg123.garyan2.net/wp-content/uploads/cropped-EPG123_512x512-270x270.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/RnG6tszR</externallink>
+ </item>
+ 
+ <item>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]CERCA VIDEO SU YOUTUBE [/COLOR] [/B]</title>
+<thumbnail>https://www.shareicon.net/data/2016/09/13/828946_search_512x512.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/input/</jsonrpc>
 </item>
-
+ 
 <item>
-<title>PRO TV INTERNATIONAL(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=921ccad8c4dd8f154659ad076f14929912c2cc30</link>
-<thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
-<fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]CERCA SU DAILYMOTION [COLOR green]•[COLOR white]•[COLOR red]• [/COLOR][/B]</title>
+<thumbnail>https://www.drupal.org/files/project-images/dailymotion.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.module.stedailymotion</jsonrpc>
 </item>
-
-<plugin>
-<title>PRIMA TV(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
-<thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
-<fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
-</plugin>
-
-
+ 
 <item>
-<title>KANAL D(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=5583e0b72dfdbdf4d758173896c371aa71693230</link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]APTOIDE [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://p4.zdassets.com/hc/settings_assets/260489/200130635/ay2upx0IxEqxBUY0b5s6jA-icon.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://script.module.evilsearch</jsonrpc>
 </item>
-
-<item>
-<title>PRO X(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=40209e26a80c381bbcdcfe71712d31a31d9b0061</link>
-<thumbnail>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</thumbnail>
-<fanart>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</fanart>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]METEO ITALIA [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://www.freewarepocketpc.net/wp7/img/ilmeteo.png</thumbnail>
+<fanart></fanart>
+  <link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/LISTE/meteoevil.m3u</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]WORLD WEBCAM [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://www.gliamicidelmare.it/swpi/assets/images/icon_webcam.png</thumbnail>
+<fanart></fanart>
+  <link>http://ignorame</link>
+<externallink>http://iptv.slynet.tv/FreeWebCamsWorld.m3u</externallink>
+ </item>
+ 
+  <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]INSTALLA EVIL KING ß [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/ekb.png</thumbnail>
+<fanart></fanart>
+  <link>http://ignorame</link>
+<extern
+3a8
+allink>http://supermyspace.xyz/EK6/installaapp.php</externallink>
+ </item>
+ 
+  <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR cyan]SEGUICI SU TELEGRAM [COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>https://image.flaticon.com/icons/png/512/355/355977.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+  <link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/EQZpdBgt</externallink>
+ </item>
+ 
+ <item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR violet]XXX[COLOR green]•[COLOR white]•[COLOR red]•[/COLOR][/B]</title>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/xxxevil.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/xxxevil.png</fanart>
+  <link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/HAREMMENU.php</externallink>
+<parentalcontrol>1</parentalcontrol>
 </item>
-
-<item>
-<title>NATIONAL TV(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=5c9b5db90ef00d636a28a53c3581af2ea8b2cfab</link>
-<thumbnail>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</thumbnail>
-<fanart>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</fanart>
+       
+ 
+     <item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR red]LISTE DOC E NANO  [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/DOC_01.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/DOC_01.png</fanart>
+<externallink>http://supermyspace.xyz/EKSPORT/LISTEEK.php</externallink>
 </item>
-
+ 
+ 
+  <item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]IL SAGGIO[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/saggio.jpeg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://tartarugaveloce.netsons.org/IL-SAGGIO-2/INGRESSO-MENU%27/INGRESSO%20MENU%27.xml</externallink>
+ </item>
+ 
 <item>
-<title>PRO 2(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=725d732e9997a45bf04eb85ba03fbfde9e4cd34d</link>
-<thumbnail>https://stvron.com/canale/mari/pro-2.png</thumbnail>
-<fanart>https://stvron.com/canale/mari/pro-2.png</fanart>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]MAK086[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://www.dropbox.com/s/j68st9plh89voks/web_hi_res_512.circle.png?dl=1</thumbnail>
+<fanart>https://img00.deviantart.net/3e68/i/2012/194/6/4/gorilla_by_jmont-d572hd5.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://supermyspace.xyz/MAKO/cod.php</externallink>
+ </item>
+ 
+ 
+ 
+ 
+<item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR red]STEFAN0[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://supermyspace.xyz/IMMAGINI/stefano.jpeg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://stefanoaddon.info/scriptphp/menu.php</externallink>
+ </item>
+ 
+ 
+ <item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]NIGHTCERVANT[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>http://i67.tinypic.com/2woetft.jpg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://www.nightcervant.netsons.org/nightcervant.php</externallink>
+ </item>
+ 
+ 
+ 
+ <item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]DANHIEL[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://supermyspace.xyz/IMMAGINI/dan.jpeg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/dan.jpeg</fanart>
+<link>http://ignorame</link>
+<externallink>http://www.danhiel.netsons.org/evil/acr.php</externallink>
+ </item>
+ 
+ 
+   <item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR red]BATMAN361 [COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>http://www.pngmart.com/files/2/Batman-PNG-Photo.png</thumbnail>
+<fanart>http://notgoaway.com/wp-content/uploads/2017/07/Batman-Wallpaper-54.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://www.batman361.netsons.org/MENU.php</externallink>
+ </item>
+ 
+ 
+<item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]FENIXS[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://vgy.me/xgcFUC.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/FVjY8NYM</externallink>
+ </item>
+ 
+   em>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]EL COCO[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>http://www.cocoslocos.mx/wp-content/uploads/2017/07/logococos-1.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/airzXkPP</externallink>
+ </item>
+ 
+ 
+em>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]...[COLOR white] EL TURKO MIX [COLOR green]...[COLOR white]...[COLOR red]...[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.hizliresim.com/p6XBDn.png</thumbnail>
+<fanart></fanart>
+<externallink>http://supermyspace.xyz/EK6/ELTURKO.php</externallink>
 </item>
-
-<item>
-<title>PRO CINEMA(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=06c01628d371f9b5bebcb50d7c493cda2203e268</link>
-<thumbnail>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</thumbnail>
-<fanart>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</fanart>
+ 
+ 
+ 
+ 
+ 
+tem>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]...[COLOR red]BAYMAGIC [COLOR green]...[COLOR white]...[COLOR red]...[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://s2.dmcdn.net/UC3fB/240x240-UQE.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://baymagic.netsons.org/kodi/intro.xml</externallink>
 </item>
-
+ 
+ 
+ 
+ 
+ 
+m>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]MAJHANY[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://supermyspace.xyz/IMMAGINI/majhany.jpeg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/sDB6FN2R$$TSDOWNLOADER$$</externallink>
+ </item>
+ 
+ 
+ 
+ 
+ 
+ 
 <item>
-<title>COMEDY CENTRAL(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=c142bf83a5fb56ed23176b0460987d31705315d9</link>
-<thumbnail>https://f0.pngfuel.com/png/497/643/comedy-central-comedian-television-channel-television-comedy-design-png-clip-art.png</thumbnail>
-<fanart>https://f0.pngfuel.com/png/497/643/comedy-central-comedian-television-channel-television-comedy-design-png-clip-art.png</fanart>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]TV IN CHIARO[COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>http://www.johnfante.org/wp-content/uploads/2016/06/label-ita.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/TVINCHIARO.php</externallink>
+ </item>
+ 
+ 
+ <item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR red]LISTE WORLD [COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GDJ-World-Flags-Globe-With-Shading.svg/1047px-GDJ-World-Flags-Globe-With-Shading.svg.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/NAZIONI.php</externallink>
+ </item>
+ 
+  <item>
+  <title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]LISTE WEB AUTOAGGIORNANTI [COLOR green]...[COLOR white]...[COLOR red]... [/COLOR][/B]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GDJ-World-Flags-Globe-With-Shading.svg/1047px-GDJ-World-Flags-Globe-With-Shading.svg.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://supermyspace.xyz/EK6/LISTEWEB.php</externallink>
+ </item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR cyan]CARTONI DOC YOUTUBE [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/DOC_01.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<externallink>http://supermyspace.xyz/EK6/CARTONIDOC.php</externallink>
 </item>
-
+ 
+ 
 <item>
-<title>FILM CAFE(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=e42976fa49ceb36c3b8cf16a84542b63d2b8b936</link>
-<thumbnail>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</thumbnail>
-<fanart>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</fanart>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR cyan]CANALI WORLD PER BAMBINI [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://orig00.deviantart.net/6e0d/f/2012/244/9/a/the_powerpuff_girl_png_by_yazsexydilemma-d5d6mcp.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<externallink>http://playlist.autoiptv.net/kids.php$$TSDOWNLOADER$$</externallink>
 </item>
-
+ 
+ 
+ 
+ 
 <item>
-<title>TNT(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
-<thumbnail>https://i.ytimg.com/vi/LDih0pk0P2U/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/LDih0pk0P2U/hqdefault.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]FIRSTROW [/COLOR][/B]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://firstsrowsports.tv/img/firstrow.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>PARAMOUNT CHANNEL(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
-<thumbnail>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR red]ROJADIRECTA [/COLOR][/B]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://www.statella.it/wp-content/uploads/Rojadirecta.png</thumbnail>
+<thumbnail>logo.logo.logo</thumbnail>
 </item>
-
+ 
+ 
 <item>
-<title>HBO(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9</link>
-<thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
-<fanart>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]SPORT BY MAKO86 [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/MAKO.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>https://supermyspace.xyz/MAKO/sport/sportstreaming.php</externallink>
 </item>
-
+ 
+ 
+ 
 <item>
-<title>HBO 2(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=bb814213a7aa8b4de31195daade2dd22258c637d</link>
-<thumbnail>https://cmedia.romaniatv.net/image/201603/full/maxresdefault_85185200.jpg</thumbnail>
-<fanart>https://cmedia.romaniatv.net/image/201603/full/maxresdefault_85185200.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]SPORT BY Mr. DUPONT [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/DUPONT.png</thumbnail>
+<fanart>http://s17.postimg.org/hiow0rckf/Sports-_Image.jpg</fanart>
+<externallink>https://supermyspace.xyz/MAKO/sportMAKOEKSPORT/MRDUPONT.php</externallink>
 </item>
-
+ 
 <item>
-<title>HBO 3(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=3301c21ee4802d8be5c0ae73f858b28988e1ae86</link>
-<thumbnail>https://i.iinfo.cz/images/483/hbo-3-hd-1.jpg</thumbnail>
-<fanart>https://i.iinfo.cz/images/483/hbo-3-hd-1.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR red]SPORT BY STEFANO [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/STEFANO.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>https://stefanoaddon.info/scriptphp/sport.php</externallink>
 </item>
-
+ 
+ 
 <item>
-<title>AMC(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15</link>
-<thumbnail>https://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>
-<fanart>https://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]SPORT BY DOC [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://supermyspace.xyz/IMMAGINI/DOCSPORT.png</thumbnail>
+<fanart>https://supermyspace.xyz/IMMAGINI/EKSPORT.gif</fanart>
+<externallink>https://supermyspace.xyz/EKSPORT/PARTITEDOC.php</externallink>
 </item>
-
-<item>
-<title>CINEMAX(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=34b1402557fb7faab2979361c4e9650fa0948724</link>
-<thumbnail>https://www.slashgear.com/wp-content/uploads/2016/02/cinemax1-copy.jpg</thumbnail>
-<fanart>https://www.slashgear.com/wp-content/uploads/2016/02/cinemax1-copy.jpg</fanart>
+ 
+em>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR red]DOC ACESTREAM LIVE EVENTS [COLOR lime]NEW[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR deepskyblue][makelist.param1][/COLOR]</title>
+  <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Arenavision</link>
+  <thumbnail></thumbnail>
+]]></listrepeat>
+<expres>EXTINF:-1,(.*?)\nacestream://(.*)</expres>
+<page>http://supermyspace.xyz/LISTE/DOCACESTREAM.m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/DOCACESTREAM.png</thumbnail>
 </item>
-
-
+ 
 <item>
-<title>CINEMAX 2(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3</link>
-<thumbnail>https://cristianchinabirta.ro/wp-content/uploads/2014/09/logo-cinemax-2.jpg</thumbnail>
-<fanart>https://cristianchinabirta.ro/wp-content/uploads/2014/09/logo-cinemax-2.jpg</fanart>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]SPORT BY FENIXS [/COLOR][/B]</title>
+<thumbnail>https://vgy.me/xgcFUC.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/dWx6usmw</externallink>
+ </item>
+ 
+<item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR red]SPORT BY BATMAN [/COLOR][/B]</title>
+<thumbnail>https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201701/10/00166969701003____1__640x640.jpg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/sfondoek6.jpg</fanart>
+<link>http://ignorame</link>
+<externallink>http://www.batman361.netsons.org/SPORT_MENU.php</externallink>
+ </item>
+ 
+<item>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]CANALI CALCIO E ALTRI SPORT   [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://supermyspace.xyz/IMMAGINI/DOCSPORT.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>http://supermyspace.xyz/EKSPORT/CH.php</externallink>
 </item>
-
-<item>
-<title>FILM BOX(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png</fanart>
+ 
+ 
+ 
+ 
+em>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]CANALI BEIN BY BAAL ZEBUL  [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/bein.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>https://pastebin.com/raw/MPK0DwBt</externallink>
 </item>
-
+ 
 <item>
-<title>FILM BOX FAMILY(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=a88f6617aa9c2d706632c7f7832e341dab280a07</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]ARENAVISION BY STEFANO [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i1.wp.com/www.cronicasdabola.pt/wp-content/uploads/2017/09/ArenaVision-Imagem.png?ssl=1</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>http://stefanoaddon.info/addon/ARENA/arenavisionfull.xml</externallink>
 </item>
-
+ 
+ 
 <item>
-<title>AXN(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=ebddf12767655e5d9a859bcfe3d7d78e91f72f10</link>
-<thumbnail>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</thumbnail>
-<fanart>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR red]LIVE SPORTS [/COLOR][/B]</title><link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
 </item>
-
+ 
+ 
 <item>
-<title>AXN BLACK(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=5d1cd83572135124cbcb324a449e1dabc21125b8</link>
-<thumbnail>https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue] CANALI ESTERI BY IL SAGGIO  [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i64.tinypic.com/14e3q78.jpg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>http://supermyspace.xyz/LISTE/esteri.tarta.m3u$$TSDOWNLOADER$$</externallink>
 </item>
-
+ 
+ 
 <item>
-<title>AXN White(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=67205d7dae8ed607a1282c1081175afbfb8d2dc8</link>
-<thumbnail>https://adevarul.ro/assets/adevarul.ro/MRImage/2013/07/12/51e004c9c7b855ff56308f24/646x528.jpg</thumbnail>
-<fanart>https://adevarul.ro/assets/adevarul.ro/MRImage/2013/07/12/51e004c9c7b855ff56308f24/646x528.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]STALLION SPORTS [/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://icon-icons.com/icons2/879/PNG/512/olimpycs_25_icon-icons.com_68615.png</thumbnail><fanart>http://s19.postimg.org/smdbasv8j/fanart.jpg</fanart>
+<externallink>http://pastebin.com/raw/VNBh67ET</externallink>
 </item>
-
+ 
+ 
+em>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR magenta]WRESTLING BY BAYMAGIC [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://vignette.wikia.nocookie.net/wweallstars/images/e/e5/WWE.png/revision/latest?cb=20110320232231</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externallink>https://baymagic.netsons.org/kodi/wrestling.xml</externallink>
+</item>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[B][COLOR deepskyblue]Canal [/COLOR][COLOR skyblue] [makelist.param1][/COLOR][/B]</title>
+    <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(?s)bed\s*(\d+)\s(.+?)Em</expres>
+<page>$doregex[getpage]</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
 <item>
-<title>AXN SPIN(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=17fbffbd3c26f5d0320d841bf6ca44d49e8db760</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</fanart>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR red]CALCIO BY WATCHAPP [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/02/watchapp-768x432.jpg</thumbnail>
+<fanart>https://screenshot.it.sftcdn.net/it/scrn/69667000/69667157/calcio-diretta-streaming-02-700x338.png</fanart>
+<externallink>http://supermyspace.xyz/EK6/WATCHAPP.php</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]SPORT DAL WEB [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.lawebtv.it/v2/wp-content/uploads/2014/02/Cover-SportWeb-640x360.png</thumbnail>
+<fanart>http://www.leccecronaca.it/wordpress/wp-content/uploads/2016/05/Curva-Nord-Lecce-1.jpg</fanart>
+<externallink>http://supermyspace.xyz/EK6/sportweb.php</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR white]HIGHLIGHTS [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://todayfootballhighlights.com/wp-content/uploads/2017/03/TFH-Logo.png</thumbnail>
+<fanart>http://www.tuttocalciocatania.com/wp-content/uploads/2015/10/lecce-tifosi.jpg</fanart>
+<externallink>http://supermyspace.xyz/EK6/HIGHLIGHTS.php</externallink>
+</item>
+ 
+ 
+ 
+ 
+em>
+<title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR lime]AREA TEST [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://cdn.pixabay.com/photo/2015/03/12/12/43/test-670091_960_720.png</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/eksfanart.jpg</fanart>
+<externalli
+42
+nk>https://pastebin.com/raw/r7CymtA5</externallink>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]FILM E SERIE TV IL SAGGIO[/COLOR][/B]</title>
+<link>https://tartarugaveloce.netsons.org/IL-SAGGIO-2/FILM-E-SERIE-TV/FILM%20E%20SERIE%20TV%20MENU%27%202.php</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/saggio.jpeg</thumbnail>
+<fanart></fanart>
+<externallink>https://tartarugaveloce.netsons.org/IL-SAGGIO-2/FILM-E-SERIE-TV/FILM%20E%20SERIE%20TV%20MENU%27%202.php</externallink>
+</item>
+ 
+ 
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR cyan]FILM NIGHTCERVANT[/COLOR][/B]</title>
+<link>http://www.nightcervant.netsons.org/nightcervant.txt</link>
+<thumbnail>http://i67.tinypic.com/2woetft.jpg</thumbnail>
+<fanart></fanart>
+<externallink>http://www.nightcervant.netsons.org/nightcervant.txt</externallink>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]FILM STEFANO[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.androidaba.com/wp-content/uploads/2017/07/ste-4-300x300.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://stefanoaddon.info/scriptphp/filmenu.php</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR cyan]FILM BEXVOD [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/rDYxQ8z.png</thumbnail>
+<fanart>http://www.guoguiyan.com/data/out/23/68645860-blue-wallpapers.jpg</fanart>
+<externallink>http://desh.altervista.org/playlist/bexvod-premium.m3u$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]FILM DANHIEL [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/danhiel3.jpeg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/danhiel3.jpeg</fanart>
+<externallink>http://www.danhiel.netsons.org/evil/cartelleFilm.php</externallink>
+</item>
+ 
+ 
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR yellow]FILM DAL WEB[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://archive.org/download/huttymax_libero_DOC/DOC.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/x/streaming-media-concept-video-35638709.jpg</fanart>
+<externallink>http://supermyspace.xyz/EK6/FILMWEB.php</externallink>
+</item>
+ 
+ 
+item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR cyan]SERIE TV BY GANJALF[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/o1ccrf1ayqgqtpf/ganja thumbnail script.jpg?dl=1</thumbnail>
+<fanart>http://www.imgbase.info/images/safe-wallpapers/tv_movies/the_lord_of_the_rings/23917_the_lord_of_the_rings_gandalf.jpg</fanart>
+<externallink>https://pastebin.com/raw/b4wig2SN</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]ANIME E SERIE TV LUKO[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/w80blmcavdwkfh5/photo5787259984168463024.jpg?dl=1</thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/rVCA8Y7e</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR cyan]FILM BAYMAGIC[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://baymagic.netsons.org/kodi/img/logo.jpg</thumbnail>
+<fanart></fanart>
+<externallink>http://www.baymagic.netsons.org/kodi/intro.xml</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]SERIE TV DANHIEL [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://supermyspace.xyz/IMMAGINI/danhiel3.jpeg</thumbnail>
+<fanart>http://supermyspace.xyz/IMMAGINI/danhiel3.jpeg</fanart>
+<externallink>http://www.danhiel.netsons.org/evil/menuSerie.php</externallink>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR yellow]SERIE TV DAL WEB[/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://archive.org/download/huttymax_libero_DOC/DOC.png</thumbnail>
+<fanart>https://thumbs.dreamstime.com/x/streaming-media-concept-video-35638709.jpg</fanart>
+<externallink>http://supermyspace.xyz/EK6/serietvweb.php</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR lime]FILM COMICI [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.askanews.it/wp-content/uploads/20161019/20151005_162534_733C4C6D.jpg</thumbnail>
+<fanart></fanart>
+<externallink>http://supermyspace.xyz/LISTE/FILMITACLASSICI.php</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]FILM AUTOIPTV [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1517845732/1517845731.jpg</thumbnail>
+<fanart></fanart>
+<externallink>http://playlist.autoiptv.net/movie.php$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR blue]FILM FLUXUS TV [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://i67.tinypic.com/4ui78x.png</thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/JkBfYpXz$$TSDOWNLOADER$$</externallink>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR green]...[COLOR white]...[COLOR red]... [COLOR white]SERIE TV AUTOIPTV [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.redeneobux.com/wp-content/uploads/2016/03/Watch-TV-Series-Addon.png</thumbnail>
+<fanart></fanart>
+<externallink>http://playlist.autoiptv.net/series.php$$TSDOWNLOADER$$</externallink>
 </item>
 
