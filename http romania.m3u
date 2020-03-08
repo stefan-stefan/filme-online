@@ -1,26 +1,26 @@
 <plugin>
-<title>LISTA HTTP(Auto-update)</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]LISTA HTTP 1 [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ro.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </plugin>
 
 <dir>
-<title>LISTA HTTP 1</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]LISTA HTTP STEFAN [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20baza.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <dir>
-<title>LISTA HTTP TEST</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]LISTA HTTP TEST [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/aaalmeid/ADDONLINKS/master/CATEGORIAS</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <plugin>
-<title>LISTA TV(RCS-RDS)</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]RCS-RDS [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
 <fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
@@ -28,7 +28,7 @@
 
 
 <dir>
-<title>LISTA ACESTREAM (Necesita acestram)</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]LISTA ACESTREAM(Necesita acestream) [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20baza%20acestram.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
@@ -42,14 +42,14 @@
 </plugin>
 
 <plugin>
-<title>LISTA SOPCAST(Necesita plexus)</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]LISTA SOPCAST(Necesita Plexus) [/COLOR][/B]</title></title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast%202.m3u</link>
 <thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
 <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </plugin>
 
 <dir>
-<title>LISTA SOPCAST 2</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TEST SOPCAST [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast.m3u</link>
 <thumbnail>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</thumbnail>
 <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
