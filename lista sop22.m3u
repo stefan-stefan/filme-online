@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Pro TV S1
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/256338&name=Protv
 #EXTINF:-1,Pro TV S2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252&name=Protv
+plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265419&name=Protv
 #EXTINF:-1,Acasa
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=Acasa
 #EXTINF:-1,Acasa Gold
