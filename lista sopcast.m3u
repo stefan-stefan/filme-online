@@ -10,98 +10,98 @@
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>TVR 2(sursa 2)</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>ANTENA 1(sursa 1)</title>
 <link>http://127.0.0.1:6878/sop/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>ANTENA 1(sursa 2)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>ANTENA 3(sursa 1)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>ANTENA 3(sursa 2)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRO TV(sursa 1)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRO TV(sursa 2)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
 <fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRO TV INTERNATIONAL(sursa 1)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
 <fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRO TV INTERNATIONAL(sursa 2)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=</link>
 <thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
 <fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRIMA TV(sursa 1)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
 <thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
 <fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRIMA TV(sursa 2)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
 <thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
 <fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRIMA TV(sursa 1)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
 <thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
 <fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>PRIMA TV(sursa 2)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=17c1ac3da033775b6412e678b47832b2d10ef4c2</link>
 <thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
 <fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
-</item>
+</plugin>
 
 <item>
 <title>KANAL D(sursa 1)</title>
