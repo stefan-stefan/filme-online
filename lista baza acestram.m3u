@@ -14,7 +14,8 @@
 
 <item>
 <title>ANTENA 3(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=8ac91b2e09d7aff37ac7075bfb4b378ab8112046</link>
+<link>plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&name=My+acestream+channel
+</link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
 </item>
