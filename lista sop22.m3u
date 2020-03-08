@@ -20,7 +20,7 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
 
-<item>
+<dir>
     <title>MUZICA POPULARA DE PETRECERE</title>
     <link>
         <sublink>https://pastebin.com/raw/5aXETiyh</sublink>
@@ -33,7 +33,7 @@
         <year>2020</year>
         <imdb>tt0424279</imdb>
     </meta>
-</item>
+</dir>
 
 
 
