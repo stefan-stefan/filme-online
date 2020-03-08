@@ -1,9 +1,3 @@
-<plugin>
-<title>(test)</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 
 <channels>
 <channel>
@@ -29,20 +23,7 @@
 <info>
 
 
-<plugin>
-    <title>MUZICA POPULARA DE PETRECERE</title>
-    <link>
-        <sublink>plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream</sublink>
-    </link>
-    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
-    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
-    <content>movie</content>
-    <meta>
-        <title>MUZICA POPULARA DE PETRECERE</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
-</plugin>
+
 
 
 
