@@ -131,12 +131,12 @@
 <fanart>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</fanart>
 </item>
 
-<item>
+<plugin>
 <title>PRO 2()</title>
 <link></link>
 <thumbnail>https://stvron.com/canale/mari/pro-2.png</thumbnail>
 <fanart>https://stvron.com/canale/mari/pro-2.png</fanart>
-</item>
+</plugin>
 
 <item>
 <title>PRO CINEMA()</title>
