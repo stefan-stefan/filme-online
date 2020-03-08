@@ -14,38 +14,38 @@
 <info>Një mësues gjimnazi kimie pasi zbulon se ka kancer në mushkëri, vendos të prodhojë metamfetaminë dhe ta shesë atë me ndihmën e një ish-nxënësi të tij.</info>
 </item>
  
-<item>
+<plugin>
 <title>[COLOR orange][B]Sezoni 1[COLOR red] | [/COLOR][COLOR tomato]Episodi 2[/COLOR] [/B][/COLOR]</title>
 <thumbnail>http://www.filma24.tv/wp-content/uploads/2016/01/rsz_season_1_poster.png</thumbnail>
 <fanart>http://www.filma24.tv/wp-content/uploads/2016/01/rsz_season_1_poster.png</fanart>
 <urlsolve>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast.m3u</urlsolve>
 <urlsolve>http://uptobox.com/j4qluh0dpl7k</urlsolve>
 <info>Ualt dhe Xhesi mundohen të vendosin çfarë të bëjnë me trupin e Emilios dhe të burgosurit të tyre, Krejzi 8.</info>
-</item>
+</plugin>
  
-<item>
+</plugin>
 <title>[COLOR orange][B]Sezoni 1[COLOR red] | [/COLOR][COLOR tomato]Episodi 3[/COLOR][/B][/COLOR]</title>
 <thumbnail>http://www.filma24.tv/wp-content/uploads/2016/01/rsz_season_1_poster.png</thumbnail>
 <fanart>http://www.filma24.tv/wp-content/uploads/2016/01/rsz_season_1_poster.png</fanart>
 <urlsolve>http://vidto.me/3qvzepn14ars.html</urlsolve>
 <urlsolve>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20sopcast.m3u</urlsolve>
 <info>Ualt po përpiqet të vendosë nëse është më mirë ta vrasë Krejzi 8 apo ta lërë atë të lirë.</info>
-</item>
+</plugin>
 
-<dir>
+<plugin>
       <title>[B][COLORwhite]Amy Adams[/COLOR][/B]</title>
       <trakt>https://api.trakt.tv/people/Amy-Adams/movies</trakt>
-</dir>
+</plugin>
 
-<dir>
+<plugin>
   <title>Reddit Top 250 (2017 Edition)</title>
   <trakt>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv</trakt>
-</dir>
+</plugin>
 
-<dir>
+<plugin>
   <title>Rotten Tomatoes: Best of 2017</title>
   <trakt>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv</trakt>
-</dir>
+</plugin>
 
 <item>
 <channel>
