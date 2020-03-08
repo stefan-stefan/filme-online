@@ -5,21 +5,6 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
-
-<item>
-            <title>ArenaVision 1</title>
-            <link>plugin://program.plexus/?url=plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://www.arenavision.in/av1</page>
-            <referer>http://www.arenavision.in</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            </item>
-
-<item>
-
 <title>TVR 2V</title>
 <link>http://192.168.1.25:3912/264971</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
