@@ -1,39 +1,110 @@
-<plugin>
-    <title>MUZICA POPULARA DE PETRECERE</title>
-    <link>
-        <sublink>https://pastebin.com/5aXETiyh</sublink>
-    </link>
-    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
-    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
-    <content>movie</content>
-    <meta>
-        <title>MUZICA POPULARA DE PETRECERE</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
-<plugin>
-
-<plugin>
-<title>TVR 2V</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
-<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
-<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
-
-<dir>
-    <title>MUZICA POPULARA DE PETRECERE</title>
-    <link>
-        <sublink>https://pastebin.com/raw/5aXETiyh</sublink>
-    </link>
-    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
-    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
-    <content>movie</content>
-    <meta>
-        <title>MUZICA POPULARA DE PETRECERE</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
-</dir>
+<channels>
+<channel>
+<name>[COLOR lime] • [COLOR blue][B][I]CANAIS NACIONAIS PORTUGAL[/I][/B][/COLOR][COLOR red]PORTUGAL[/COLOR] </name>
+<thumbnail>http://s20.postimg.org/grh415x6l/TV_PORTUGUESA.png</thumbnail>
+<fanart>http://www.etoro.com/blog/wp-content/uploads/2013/06/Bandeira-de-Portugal.png</fanart>
+</subitem>
+</item>
+<item>  
+<title>[COLOR=yellow][B][I] RTP 1 [/I][/B][/COLOR]</title>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b600000_slpt.m3u8</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+ </item>
+<item>  
+<title>[COLOR=yellow][B][I] RTP 1 [/I][/B][/COLOR]</title>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+   </item>
+<item>
+<title>[COLOR=yellow][B][I] RTP 2 [/I][/B][/COLOR]</title>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/chunklist_b600000_slpt.m3u8</link>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+ </item>
+<item>
+<title>[COLOR=yellow][B][I] RTP 2 [/I][/B][/COLOR]</title>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/chunklist_w933591803.m3u8</link>
+ <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] RTP 3 [/I][/B][/COLOR]</title>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunklist_b600000_slpt.m3u8</link>
+ <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] SIC [/I][/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/sic/livestream.m3u8</link>
+ <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] SIC [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=sicamo?id=81937$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/sicamo/1/650/500</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+ </item>
+<item>
+<item>
+<title>[COLOR=yellow][B][I] TVI [/I][/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8</link>
+<regex>
+<referer>http://www.meocanaltv.com</referer>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] TVI [/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tvi003?id=82684$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/tviko9/1/670/460 live=true timeout=17</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/tvi003/1/670/460</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
+<link>http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8</link>
+<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] SIC NOTICIAS [/I][/B][/COLOR]</title>
+<link>rtmp://95.211.137.197/loadbalance app=loadbalance?wmsAuthSign=/ swfUrl=http://pxstream.tv/player510.swf pageUrl=http://pxstream.tv/embedrouter.php?file=sicnoty84u&width=600&height=450 playpath=93177826212956138691 token=#ed%h0#w@1 live=1 swfVfy=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] TVI 24 [/I][/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=yellow][B][I] TVI 24 (OFFLINE)[/I][/B][/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/live/ playpath=tvi24b?id=80790$doregex[pk] conn=S:OK swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/tviko9/1/670/460 live=true timeout=17</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.embeducaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.embeducaster.com/embedplayer/tvi24b/1/650/500</page>
+<referer>http://www.embeducaster.com</referer>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</regex>
+<item>
 
 
 
