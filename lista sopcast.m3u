@@ -7,56 +7,26 @@
 
 <item>
 <channel>
-<title>[COLOR red][B][I]ARENAVISION 21 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/264945&mode=2&amp;mode=2&amp;name=ARENAVISION21/SOPCAST</link>
- <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
-  </item>
-<item>
-<channel>
-<title>[COLOR red][B][I]ARENAVISION 22 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/264945&mode=2&amp;mode=2&amp;name=ARENAVISION22/SOPCAST</link>
- <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
-  </plugin>
-<item>
-<channel>
-<title>[COLOR red][B][I]ARENAVISION 23 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/264945&mode=2&amp;mode=2&amp;name=ARENAVISION23/SOPCAST</link>
- <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
-  </item>
-<item>
-<title>[COLOR red][B][I]ARENAVISION 24 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/264945&mode=2&amp;mode=2&amp;name=ARENAVISION24/SOPCAST</link>
- <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
-</item>
-<item>
-<channel>
-<title>[COLOR red][B][I]ARENAVISION 25 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
-<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/264945&mode=2&amp;mode=2&amp;name=ARENAVISION25/SOPCAST</link>
- <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
-</item>
-
-<item>
-<channel>
 <title>TVR 2(test 1)</title>
-<link>http://185.115.32.12:8000/live/broker.sopcast.com:3912/264945</link>
+<link>http://185.115.32.12:8000/live//broker.sopcast.com:3912/264945</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </item>
 
-<plugin>
+<item>
 <title>TVR 2(test 2)</title>
 <link>http://185.115.32.12:8000/live/264945</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</item>
 
-<plugin>
+<item>
 <title>ANTENA 1(test 3)</title>
 <link>http://sop:151.80.76.190:3912/264945.m3u8&name=Protv
 </link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</plugin>
+</item>
 
 <item>
 <title>ANTENA 1(test4)</title>
@@ -66,13 +36,13 @@
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </item>
 
-<plugin>
+<item>
 <title>ANTENA 3(sursa 1)</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
 </link>
 <thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
 <fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>ANTENA 3(sursa 2)</title>
