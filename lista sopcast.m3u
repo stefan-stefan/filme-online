@@ -5,14 +5,15 @@
 <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart>
 </item>
 
-<plugin>
+<item>
 <title>TVR 2V</title>
 <link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</item>
 
 <plugin>
+<item>
 <title>TVR 2V</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://34b1402557fb7faab2979361c4e9650fa0948724&name=AceStream</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
