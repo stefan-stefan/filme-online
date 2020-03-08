@@ -1,6 +1,6 @@
 <plugin>
 <title>test(sursa 1)</title>
-<link>http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8</link>
+<link>https://github.com/iptv-org/iptv/blob/master/channels/al.m3u</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
