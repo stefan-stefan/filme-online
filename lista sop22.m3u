@@ -1,15 +1,9 @@
-<channels>
-<channel>
-<name>[COLOR lime] • [COLOR blue][B][I]CANAIS NACIONAIS PORTUGAL[/I][/B][/COLOR][COLOR red]PORTUGAL[/COLOR] </name>
-<thumbnail>http://s20.postimg.org/grh415x6l/TV_PORTUGUESA.png</thumbnail>
-<fanart>http://www.etoro.com/blog/wp-content/uploads/2013/06/Bandeira-de-Portugal.png</fanart>
-</subitem>
-</item>
 <item>  
 <title>[COLOR=yellow][B][I] RTP 1 [/I][/B][/COLOR]</title>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b600000_slpt.m3u8</link>
 <thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
  </item>
+
 <item>  
 <title>[COLOR=yellow][B][I] RTP 1 [/I][/B][/COLOR]</title>
 <link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8</link>
