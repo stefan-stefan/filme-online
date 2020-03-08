@@ -1,35 +1,4 @@
-<plugin>
-<title>test(sursa 1)</title>
-file:///home/stefan-stefan/Desktop/LIST%20KODI%20ZIP%20PE%20CATEGORII%202%2012-02-2020/LISTA%20%20PILOT%20123/LISTE%20STEFAN%20HTTP%20SCRIPT%201/HTTP%20SCRIPT1<link>https://github.com/iptv-org/iptv/blob/master/channels/al.m3u</link>
-<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
-<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
 
-<plugin>
-<channels>
-<channel>
-<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://www.youtube.com/watch?v=JGt3Y0txISY&list=RDJGt3Y0txISY&start_radio=1</externallink>
-<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
-<info>
-</plugin>
-
-<plugin>
-[COLOR deeppink]|[/COLOR] - CANAIS PARA TODAS AS IDADES- [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR blue]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR green]|||[/COLOR]</name>
-<thumbnail>https://i.postimg.cc/yNP26ghd/FILMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Jaramataia/ADDONLINKS/master/FILMES</externallink>
-<fanart>https://i.postimg.cc/7L7vP4rb/fanart-jpg.jpg</fanart>
-<info>
-</plugin>
 
 
 
