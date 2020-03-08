@@ -8,7 +8,7 @@
 <item>
     <title>YOUTUBE</title>
     <link>
-        <sublink>https://www.youtube.com/user/BeFit</sublink>
+        <sublink>https://www.youtube.com/channel/UCv_rr29FceF8YoOkgmevVig?view_as=subscriber</sublink>
     </link>
     <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
     <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
@@ -19,22 +19,6 @@
         <imdb>tt0424279</imdb>
     </meta>
 </item>
-
-<item>
-    <title>YOUTUBE</title>
-    <link>
-        <sublink>https://www.youtube.com/user/BeFit</sublink>
-    </link>
-    <thumbnail>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</thumbnail>
-    <fanart>https://i.ytimg.com/vi/xWg1QK9AX8E/maxresdefault.jpg</fanart>
-    <content>movie</content>
-    <meta>
-        <title>MUZICA POPULARA DE PETRECERE</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
-</item>
-
 
 <item>
 <channel>
