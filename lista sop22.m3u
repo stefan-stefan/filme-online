@@ -3,8 +3,12 @@
 plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/256338&name=Protv
 #EXTINF:-1,Pro TV (Sursa2)
 plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265419&name=Protv
-#EXTINF:-1,Acasa
+#EXTINF:-1,Acasa Sursa1)
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=Acasa
+#EXTINF:-1,Acasa (Sursa2)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=Acasa
+#EXTINF:-1,Acasa Gold
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=AcasaGold
 #EXTINF:-1,Acasa Gold
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=AcasaGold
 #EXTINF:-1,Antena 1
