@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Filmcafe
@@ -10,7 +11,6 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=So
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 2
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=SopProg
-
 
 
 
