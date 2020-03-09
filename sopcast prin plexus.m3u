@@ -61,30 +61,30 @@
 <address> sop://broker.sopcast.com:3912/256338 </address>
 </plugin>
 
-<item >
+<plugin>
 <name>Pro TV HQ1</name>
 <address> sop://broker.sopcast.com:3912/265400 </address>
-</item>
+</plugin>
 
-<item>
+<plugin>
 <name> Pro TV HQ</name>
 <address> sop://broker.sopcast.com:3912/256339 </address>
-</item>
+</plugin>
 
-<item>
+<plugin>
 <name>History 16</name>
 <address> sop://broker.sopcast.com:3912/265074 </address>
-</item>
+</plugin>
 
-<item id="265072">
+<plugin>
 <name>Fine Living 16</name>
 <address> sop://broker.sopcast.com:3912/265072 </address>
-</item>
+</plugin>
 
-<item id="265079">
+<plugin>
 <name>Viasat History 16</name>
 <address> sop://broker.sopcast.com:3912/265079 </address>
-</item>
+</plugin>
 
 <item id="265001">
 <name>Digi Film</name>
