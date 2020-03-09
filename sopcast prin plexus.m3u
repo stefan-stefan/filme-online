@@ -1,15 +1,7 @@
-
- 
-<item>
-<title>[B][COLOR lime]Corso Programmazione - [COLOR white]Fcamuso[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
-<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg</fanart>
-<externallink>http://pastebin.com/raw/B96dYRDN/externallink>
-</item>
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945
+
+
 
 
 
