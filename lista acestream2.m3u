@@ -44,34 +44,31 @@ plugin://program.plexus/?mode=1&url=acestream://34b1402557fb7faab2979361c4e9650f
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]CINEMAX 2 [/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3&name=AceStream
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] FILMBOX PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILMBOX PREMIUM[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c&name=AceStream
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] Filmbox
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILMBOX[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c&name=AceStream
-#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR]Filmbox Family
+#EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILMBOX FAMILY[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://a88f6617aa9c2d706632c7f7832e341dab280a07&name=AceStream
-#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AMC 
+#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AMC[/COLOR][/B] 
 
 plugin://program.plexus/?mode=1&url=acestream://ca2bf89ebd1fbd02e8ec4582310bbcaeaa71dc15&name=AceStream
-#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AMC 
-
-plugin://program.plexus/?mode=1&url=acestream://7e87e9dba371e4272bc4aeaf9f904165aed97e07&name=AceStream
-#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TNT
+#EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TNT[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://d15a0ddb66690bc018e0b22f6e2eb28e9edb945e&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Acasa Gold
 
 plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO RO[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9&name=AceStream
-#EXTINF:-1 tvg-ID="HBO 2" tvg-name="RO: HBO 2" tvg-logo="https://iptvsensation.org/picons/hbo2.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 2
+#EXTINF:-1 tvg-ID="HBO 2" tvg-name="RO: HBO 2" tvg-logo="https://iptvsensation.org/picons/hbo2.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO 2 RO[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://bb814213a7aa8b4de31195daade2dd22258c637d&name=AceStream
-#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] HBO 3 
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO 3 RO[/COLOR][/B] 
 
 plugin://program.plexus/?mode=1&url=acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86&name=AceStream
 #EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
