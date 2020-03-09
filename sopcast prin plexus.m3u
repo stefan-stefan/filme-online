@@ -17,7 +17,7 @@
 <address> sop://broker.sopcast.com:3912/256338 </address>
 <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
-</item>
+</plugin>
 
 <plugin id="265400">
 <name>Pro TV HQ1</name>
