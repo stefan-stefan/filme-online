@@ -1,11 +1,11 @@
-<plugin>
+<item>
 <title>Plexus Test</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</sublink>
+<link>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</link>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 
 
 <plugin>
@@ -23,6 +23,13 @@
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</plugin>
+
+<plugin>
+<title>PRO TVplexus()</title>
+<link></link>
+<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
+<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
 </plugin>
 
 <plugin>
