@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:-1,real madrid tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINFO:-1,FIGHT TIME
+https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ESPN Arg
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/418.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | A&E SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/429.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | AXN SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/436.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CARTOON NETWORK SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/453.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CINECANAL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/454.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CINELATINO SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/455.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CINEMAX SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/456.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CNN EN ESPAÑOL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/457.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DE PELÍCULA SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/462.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY CHANNEL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/463.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY CIVILIZATION SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/464.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY HOME & HEALTH SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/465.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY KIDS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/466.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY SCIENCE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/467.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY THEATER SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/468.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY TLC SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/469.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY TURBO SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/470.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISNEY CHANNEL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/472.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISNEY JR SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/473.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISNEY XD SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/474.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | EL GOURMET SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/478.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN 2 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/480.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN 3 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/481.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN PLUS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/482.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN SEC SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/483.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN U SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/484.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX LIFE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/489.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM ACTION SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/490.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM CINEMA SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/491.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM CLASSICS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/492.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM MOVIES SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/493.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM SERIES SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/494.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/495.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SPORTS 1 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SPORTS 2 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/497.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SPORTS 3 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FX SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/500.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FXM SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | GARAGE TV SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/503.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | GOLDEN EDGE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/505.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | GOLDEN SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/506.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO 1
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/510.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO 2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/511.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO FAMILY
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO SIGNATURE
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF | HISTORY
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/514.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | INVESTIGATION DISCOVERY SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/518.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MAX PRIME
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/524.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MAX UP
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/525.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MTV HITS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/529.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MTV LIVE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/530.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MTV SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/531.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NATGEO SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/534.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NATGEO WILD SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/535.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICK 2 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/537.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICK JR SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/538.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICK SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/539.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICKTOONS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/540.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | RCN SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/545.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SONY SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/551.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SPACE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/552.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | STUDIO UNIVERSAL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/553.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SUNDANCE SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/554.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SYFY SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/556.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TBS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/557.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TCM SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/558.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TNT SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/567.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TNT SERIES SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/568.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TOONCAST SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/569.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | UNIVERSAL CHANNEL SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/577.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | VH1 CLASSICS SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/578.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | VH1 SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/579.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IFN inter GOLTV
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/593.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF HBO
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/595.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", HBO PLUS
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/597.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF AXN White
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/640.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Action
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/641.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Classics
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/642.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Suspense
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/643.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Western
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/644.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz West
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/645.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Latino
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/646.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz In Black
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/648.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Edge
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/649.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz East
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/650.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME WEST
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/653.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME SHOWCASE EAST
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/654.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME NEXT
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/655.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME LATINO
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/656.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME EXTREME EAST
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/657.ts
