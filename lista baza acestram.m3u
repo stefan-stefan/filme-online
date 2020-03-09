@@ -5,12 +5,12 @@
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </item>
 
-<item>
+<plugin>
 <title>ANTENA 1(test)(sopcast)</title>
 <link>http://171.118.38.9:9981/stream/channelid/265002</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</item
+</plugin>
 
 <item>
 <title>ANTENA 1(Acestream)</title>
