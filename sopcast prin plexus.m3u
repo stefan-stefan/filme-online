@@ -1,30 +1,4 @@
-<plugin>
-<title>Discovery ID test</title>
-<link>http://localhost:9996/p2p.m3uurl=sop:?//broker.sopcast.com:3912/265003mode=2</link>
-<thumbnail>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</thumbnail>
-<fanart>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</fanart>
-</plugin>
 
-<item>
-<title>Discovery ID test</title>
-<link>http://localhost:9996/p2p.m3uurl=sop:?//broker.sopcast.com:3912/265003mode=2</link>
-<thumbnail>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</thumbnail>
-<fanart>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</fanart>
-</item>
-
-<plugin>
-<title>Discovery ID test</title>
-<link>http://localhost:9996/p2p.m3u?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&mode=1</link>
-<thumbnail>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</thumbnail>
-<fanart>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</fanart>
-</plugin>
-
-<plugin>
-<title>Discovery ID test</title>
-<link>http://localhost:9996/p2p.m3u?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&mode=1</link>
-<thumbnail>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</thumbnail>
-<fanart>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</fanart>
-</plugin>
 
 
 
