@@ -14,7 +14,7 @@
 <expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
 <page>https://0ro.000webhostapp.com/repo/xml/magmixt.php</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnailhttps://www.bihon.ro/wp-content/uploads/2018/09/+otf/1200x630/plexus.jpg></thumbnail>
 </item>
  
 <item>
@@ -30,7 +30,7 @@
 <expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
 <page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnailhttps://www.bihon.ro/wp-content/uploads/2018/09/+otf/1200x630/plexus.jpg></thumbnail>
 </item>
  
 <item>
@@ -46,7 +46,7 @@
 <expres><![CDATA[OnPlay\('(.+?)'.+?value="(.+?)"]]></expres>
 <page>http://sourcetv.ro/index.php/rosopcast</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://www.bihon.ro/wp-content/uploads/2018/09/+otf/1200x630/plexus.jpg</thumbnail>
 </item>
  
 <item>
