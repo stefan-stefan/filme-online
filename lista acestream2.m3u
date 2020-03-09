@@ -10,7 +10,7 @@ plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRIMA TV [/COLOR][/B] 
 
 plugin://program.plexus/?mode=1&url=acestream://17c1ac3da033775b6412e678b47832b2d10ef4c2&name=AceStream
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]KANAL D [/COLOR][/B]
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]KANAL D[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://5583e0b72dfdbdf4d758173896c371aa71693230&name=AceStream
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
