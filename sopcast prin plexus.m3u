@@ -1,236 +1,829 @@
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+    <type name="folder">
 <item>
-<title>Plexus </title>
-<link>
-<link>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</link>
-<animated_thumbnail></animated_thumbnail>
+<title>Magazin Mixt Sopcast</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
+<page>https://0ro.000webhostapp.com/repo/xml/magmixt.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>Tastez Ro</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
+<page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>SourceTV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[OnPlay\('(.+?)'.+?value="(.+?)"]]></expres>
+<page>http://sourcetv.ro/index.php/rosopcast</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>Tv sport hd</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href=[\'"]([^\'"]+)"><img alt=[\'"]([^\'"]+)]]></expres>
+<page>http://www.tv-sport-hd.com/widget/tv_mobile.html</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>Digi-hdsport.com</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+ <link>plugin://program.plexus/?url=sop:[makelist.param1]&amp;mode=2&amp;name=[makelist.param3]</link>
+ <thumbnail>[makelist.param2]</thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[sop:([^\'"]+)"><img src=[\'"]([^\'"]+)" height="52" width="72" alt=[\'"]([^\'"]+)]]></expres>
+<page>http://www.digi-hdsport.com/MobileApp/</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>Cool TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=sop:[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail>http://m.cool-tv.ro/[makelist.param2].gif</thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[sop:([^\'"]+)"><img src=[\'"]([^\'"]+).gif]]></expres>
+<page>http://m.cool-tv.ro/</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>wwwebdigitaltv.do.am</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">.{31}>(.*?)<]]></expres>
+<page>http://wwwebdigitaltv.do.am/newface/androidsop.html</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>live.ucoz.ro</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param3]</link>
+ <thumbnail>[makelist.param2]</thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href="(.*?)"><img src="(.*?)".{28}"(.*?)"]]></expres>
+<page>http://live.ucoz.ro/mobile/android.html</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>Acesoplisting</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+ <link>plugin://program.plexus/?url=acestream://[makelist.param1]&amp;mode=1&amp;name=[makelist.param3]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href="acestream://(.*?)".\n.*alt="(.*?)\;(.*?)\;]]></expres>
+<page>http://www.acesoplisting.in/</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>livefootballol.me</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1] - [makelist.param3]</title>
+ <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=[makelist.param1]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[<strong>(.*?)</strong></a></td>\s<td>(.*?)</td>\s<td>(.*?)</td>]]></expres>
+<page>http://www.livefootballol.me/acestream-channel-list-2016-1.html</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>streamitall</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1] - [makelist.param2]</title>
+ <link>[makelist.param3]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[<h3>(.*?)</h3>.{31}>(.*?)</div>.{56}<a href="(.*?)">]]></expres>
+<page>http://www.streamitall.com/</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title> Acestream | http://www.livefootballol.me/</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR yellow] [makelist.param2][/COLOR]</title>
+    <link>$doregex[makelist2]</link>
+    <thumbnail>http://www.livefootballol.me/images/logo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="/(st.*?)">(.*?)<]]></expres>
+<page>http://www.livefootballol.me/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR yellow] [makelist.param2][/COLOR] | [COLOR skyblue][makelist2.param2][/COLOR]</title>
+    <link>plugin://program.plexus/?url=$doregex[getace]&amp;mode=1&amp;name=[makelist.param2]</link>
+    <thumbnail>http://www.livefootballol.me/images/logo.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="(h.*?)">.*?>(.*AceStream)<]]></expres>
+<page>http://www.livefootballol.me/[makelist.param1]</page>
+<referer>http://www.livefootballol.me/</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getace</name>
+<expres>[",'](acestream[^"']+)</expres>
+<page>[makelist2.param1]</page>
+<referer>http://www.livefootballol.me/[makelist.param1]</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.livefootballol.me/images/logo.png</thumbnail>
+</item>
+ 
+<item>
+<title>LiveSport.pw</title>
+<link>$doregex[links]</link>
+<regex>
+  <name>links</name>
+  <listrepeat><![CDATA[
+        <title>[links.param1]</title>
+        <link>$doregex[getUrl]|Cookie=$get_cookies$Sportm3u8ID=OK&amp;Referer=http://livesport.pw/[links.param1].html&amp;User-Agent=iPad</link>
+        <thumbnail></thumbnail>
+]]></listrepeat>
+<expres><![CDATA[http://livesport.pw/(.+?).html]]></expres>
+<page>http://subiect.eu/p1emhnit9/thzr60/raw</page>
+</regex>
+ 
+<regex>
+<name>getUrl</name>
+<expres>var.videoLink.+?[",\']([^"']+)</expres>
+<page>http://livesport.pw/[links.param1].html</page>
+<agent>iPad</agent>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR red][/COLOR][COLOR blue][B]Server DmbShare[/B] [/COLOR][COLOR gold][I]Click Here Needed Me f4mTester[/I][/COLOR]</title>
+ EXYU[/I][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail><fanart>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightblue]Server[/COLOR]    [COLOR blue][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR red].[/COLOR][COLOR blue][B]M3U Lists[/B] [/COLOR][COLOR gold][I]Click Here Needed Me f4mTester[/I][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue]Servers[/COLOR] [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B]SERVER [COLORdodgerblue][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR red].[/COLOR][COLOR blue][B]IPTV Servers[/B] [/COLOR][COLOR gold][I]Click Here Needed Me f4mTester[/I][/COLOR]</title><thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]S[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+ 
+ 
+ 
+<item>
+ <title>[COLOR red].[/COLOR][COLOR blue][B]World Servers[/B] [/COLOR][COLOR gold][I]Click Here Needed Me f4mTester[/I][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>      [COLOR blue]IPTV f4mTester[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail>
+<fanart>http://</fanart>
+</item>
+ 
+ 
+ 
+<item><title>.Big Daddy Server 1 </title><link>http://Ignoreme</link><externallink>http://service1.astrovida.tv:8000/get.php?username=ufhDpz7aJ07&amp;password=3wOK6XTVMPc&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 2 </title><link>http://Ignoreme</link><externallink>http://masteriptv.dnsfor.me:8000/get.php?username=ines&amp;password=ines&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 3 </title><link>http://Ignoreme</link><externallink>http://globiptv.com:8000/get.php?username=cardsharing&amp;password=yg4tdh&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 4 </title><link>http://Ignoreme</link><externallink>http://pro213.com/get.php?username=Zaid&amp;password=Zaid1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 4 </title><link>http://Ignoreme</link><externallink>http://ksportiptv.com:1557/get.php?username=idou&amp;password=idou&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 5* </title><link>http://Ignoreme</link><externallink>http://149.202.201.60:8000/get.php?username=Manus&amp;password=Manus&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 5** </title><link>http://Ignoreme</link><externallink>http://go.teamexpat.ninja/get.php?username=123&amp;password=2016times&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 5** </title><link>http://Ignoreme</link><externallink>http://149.202.201.60:8000/get.php?username=Manus&amp;password=Manus&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 5*** </title><link>http://Ignoreme</link><externallink>http://flawless-iptv.net:4545/get.php?username=Andrew123&amp;password=Andrew123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+ 
+item><title>.Big Daddy Server 5*** </title><link>http://Ignoreme</link><externallink>http://system.fpiptv.com:8080/get.php?username=mojarraochenta&amp;password=mojarraochenta&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 6 </title><link>http://Ignoreme</link><externallink>http://localhd.tv:8081/get.php?username=omar&amp;password=omar&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 7 </title><link>http://Ignoreme</link><externallink>http://xtream.hopto.me:9000/get.php?username=Nour&amp;password=Nour&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 8 </title><link>http://Ignoreme</link><externallink>http://163.172.6.8:8000/get.php?username=abde&amp;password=abde&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 9 </title><link>http://Ignoreme</link><externallink>http://boxiptv.noip.us:9998/get.php?username=anton&amp;password=skype&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 10  </title><link>http://Ignoreme</link><externallink>http://camerta.com:8000/get.php?username=1607&amp;password=1607&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 11  </title><link>http://Ignoreme</link><externallink>http://boxiptv.noip.us:9998/get.php?username=jaimes&amp;password=jaimes&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 12  </title><link>http://Ignoreme</link><externallink>http://www.t12v.com:8000/get.php?username=9090&amp;password=9090&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 13  </title><link>http://Ignoreme</link><externallink>http://iptvfree1.com:6969/get.php?username=1&amp;password=www.iptvrestream.net&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 14 </title><link>http://Ignoreme</link><externallink>http://mediaiptv.xyz:8000/get.php?username=cbrown&amp;password=cbrown&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 15 </title><link>http://Ignoreme</link><externallink>http://live.softiptv.com:9900/get.php?username=jagdish&amp;password=jagdish&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 16 </title><link>http://Ignoreme</link><externallink>http://149.202.72.15:8000/get.php?username=casa&amp;password=casa&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title>.Big Daddy Server 17 </title><link>http://Ignoreme</link><externallink>http://cdn01.iptvthebest.net:15000/get.php?username=tMf5XgjS69&amp;password=Marco&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+<item><title>.Big Daddy Server 18 </title><link>http://Ignoreme</link><externallink>http://live.softiptv.com:9900/get.php?username=525&amp;password=525&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+ 
+item><title> Server 1</title><link>http://Ignoreme</link><externallink>http://service1.astrovida.tv:8000/get.php?username=ufhDpz7aJ07&amp;password=3wOK6XTVMPc&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+item><title> Server 2</title><link>http://Ignoreme</link><externallink>http://masteriptv.dnsfor.me:8000/get.php?username=ines&amp;password=ines&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                                                                                                       
+ 
+ 
+ 
+item><title>[B][COLOR red] Total[COLOR blue] P[COLOR red]lay[/COLOR][/B][COLOR red] [/COLOR]</title>
+<thumbnail>http://www.totalplay.com.mx/images/logos/total_play_logo.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=[B][COLOR white]Kodi Latino YouTube[COLOR blue] IP [COLOR red]TV[/COLOR][/B] [makelist.param1]</link>
+    <thumbnail></thumbnail><fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,LA:(.*?)\n(.*)</expres>
+<page>http://smartvespana.ddns.net:8080/get.php?username=onzalez6&amp;password=6&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+ 
+ 
+<item><title>[B][COLOR red] sky[COLOR blue] G[COLOR red]o[/COLOR][/B][COLOR red] [/COLOR]</title>
+<thumbnail>http://www.logospike.com/wp-content/uploads/2014/11/Sky_logo-7.png</thumbnail><fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;name=[B][COLOR white]sky[COLOR blue] IPTV [COLOR red]UK[/COLOR][/B] [makelist.param1]</link>
+    <thumbnail></thumbnail><fanart></fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,SKYUK:(.*?)\n(.*)</expres>
+<page>http://163.172.217.53:8000/get.php?username=5grandiptv915&amp;password=67863345&amp;type=m3u</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR red] m3u list[COLOR blue] Daily updates[COLOR blue] Servers[COLOR green][/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [COLOR white]Servers[COLOR blue]Daily updates Severs[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.xtream-codes.png.pagespeed.ic.7uLaZTpLY3.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>                                                              
+ 
+<item><title>[COLOR red] Miami TV[/COLOR]</title><link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link></item>
+ 
+ 
+<item>
+<title>[B][COLOR yellow]  Decorazioni Natalizie Fai Da Te  [COLOR white][/COLOR][/B]</title>
+<thumbnail>https://www.paneamoreecreativita.it/blog/wp-content/uploads/2016/10/decorazioni-di-natale-maison-du-monde.jpg</thumbnail>
+<fanart>http://static.designmag.it/r/845X0/www.designmag.it/img/Addobbi-natalizi-per-le-scale1.jpg</fanart><link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://www.paneamoreecreativita.it/blog/wp-content/uploads/2016/10/decorazioni-di-natale-maison-du-monde.jpg</thumbnail>
+<fanart>http://static.designmag.it/r/845X0/www.designmag.it/img/Addobbi-natalizi-per-le-scale1.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmVOGjUYZCPFHrIvenV-jv4BaO7AkykQY</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Scuola in pillole - [COLOR white]   Zenlu  [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
+<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg</fanart>
+<externallink>https://www.dropbox.com/s/xddn46oj10upzs1/la%20scuola%20in%20pillole.xml?dl=1</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso Di Origami [COLOR yellow]    [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.creagratis.com/wp-content/uploads/2013/05/origami-strani-belli-07.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/kUsxMXwCW8A/maxresdefault.jpg</fanart>
+<externallink>https://www.dropbox.com/s/b4kkbiqtdn63h65/Origami.xml?dl=1</externallink>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR lime]Corso Inglese - [COLOR white]Folletto88[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
+<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg</fanart>
+<externallink>http://pastebin.com/raw/g1rtGzxS</externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso Francese - [COLOR white]un1deux2trois3[/COLOR][/B]</title>
+<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
+<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg</fanart><link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.varesenews.it/photogallery_new/images/2015/11/bandiera-francese-496059.610x431.jpg</thumbnail>
+<fanart>http://static.fanpage.it/socialmediafanpage/wp-content/uploads/2013/09/classe-banchi-vuoti-a-scuola.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLyAtTnosfiVIgWs76o2UK4ceWJliq3pEc</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso Di Spagnolo  [COLOR white][/COLOR][/B]</title>
+<thumbnail>http://static.stylemagazin.hu/medias/33687/Az-este-folyaman-bedolhet-Spanyolorszag_59d82fa4d8b19772b9e20be7bc92f690.jpg</thumbnail>
+<fanart>http://cla.unipd.it/wp-content/uploads/2014/12/corso-spagnolo.jpg</fanart><link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://static.stylemagazin.hu/medias/33687/Az-este-folyaman-bedolhet-Spanyolorszag_59d82fa4d8b19772b9e20be7bc92f690.jpg</thumbnail>
+<fanart>http://cla.unipd.it/wp-content/uploads/2014/12/corso-spagnolo.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLOSlbx50kUpjdOS4O1x-RaekGzlLQOfxt</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR lime]Corso Tedesco  [COLOR white][/COLOR][/B]</title>
+<thumbnail>https://img.grouponcdn.com/deal/omnry8dW8FwVUAYVu6jM/Zu-1500x900/v1/c700x420.jpg</thumbnail>
+<fanart>http://www.guidagermania.com/wp-content/uploads/sites/69/lingua-tedesca.jpg</fanart><link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://img.grouponcdn.com/deal/omnry8dW8FwVUAYVu6jM/Zu-1500x900/v1/c700x420.jpg</thumbnail>
+<fanart>http://www.guidagermania.com/wp-content/uploads/sites/69/lingua-tedesca.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLRL3BFbVsrJvlN8aAcjLxgIftAw-ifz58</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso Programmazione - [COLOR white]Fcamuso[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
+<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg</fanart>
+<externallink>http://pastebin.com/raw/B96dYRDN/externallink>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso Illustrator[/COLOR][COLOR white] - Guida Adobe Illustrator[/COLOR][/B]</title>
+    <thumbnail>https://pbs.twimg.com/profile_images/621101388995497984/itJT21Vl_400x400.png</thumbnail>
+  <fanart>http://adobe.uconn.edu/wp-content/uploads/sites/1194/2015/02/illustrator-picture.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>https://pbs.twimg.com/profile_images/621101388995497984/itJT21Vl_400x400.png</thumbnail>
+  <fanart>http://adobe.uconn.edu/wp-content/uploads/sites/1194/2015/02/illustrator-picture.png</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLze-CR7sxGlTYSvUhlvKf00TSdAwQiO50</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso Di Photoshop[/COLOR][COLOR white] [/COLOR][/B]</title>
+    <thumbnail>https://pixabay.com/p-1065296/?no_redirect</thumbnail>
+  <fanart>http://www.blackarchives.it/wp-content/uploads/2016/03/photoshop.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>https://pixabay.com/p-1065296/?no_redirect</thumbnail>
+  <fanart>http://www.blackarchives.it/wp-content/uploads/2016/03/photoshop.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLze-CR7sxGlSyY_AQzGxUoikzWS9YJhx5</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR lime]Corso di Fotografia Digitale  [COLOR white] - Mirko Errigo Photography [/B][/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
+<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLiL8kEXcCCk1zNXCJ-4AjT2cNEMdLvBfi</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
 <item>
-<title>Plexus tt </title>
-<link>
-<link>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</link>
-<animated_thumbnail></animated_thumbnail>
+<title>[B][COLOR lime]Adobe Lightroom 5   [COLOR white] - MB Photography [/B][/COLOR]</title>
+<thumbnail>https://www.dropbox.com/s/0z6epeflvmmdhoa/eduplanet.png?dl=1</thumbnail>
+<fanart>http://www.sfondifree.it/sfondihd/wp-content/uploads/2014/03/Sfondi-bellissimi-HD-luna-e-terra.jpg
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLs7dtNny5ho_tTL_udEisMS7gdHbYTYyb</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
-
+ 
 <item>
-<title>PLEXU (KANAL D)()</title>
-<link>plugin://program.plexus/?mode=2&url=</link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
+<title>[B][COLOR lime]Manuale di chitarra - chitarra per principianti - [COLOR white]Massimo Varini[/COLOR][/B]</title>
+<thumbnail>http://www.chitarre.tv/risorse/chitarra-elettrica-2.JPG</thumbnail>
+<fanart>http://www.la-chitarra.it/images/guide/come-scegliere-una-chitarra-elettrica.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.chitarre.tv/risorse/chitarra-elettrica-2.JPG</thumbnail>
+<fanart>http://www.la-chitarra.it/images/guide/come-scegliere-una-chitarra-elettrica.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL89360D1EF2FC8333</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
-
-<plugin>
-<title>Plexus Test</title>
-<link>
-<link>acestream://895d6a92042671cc483346dfdd3917bef2458da9&name=AceStream</link>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>PRO TVplexus()</title>
-<link></link>
-<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
-<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
-</plugin>
-
+ 
 <item>
-<title>TVR 2V1</title>
-<link>plugin://program.plexus/?mode=2&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</link>
-<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
-<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
+<title>[B][COLOR lime]Corso Base di AutoCAD - [COLOR white]DottorCAD[/COLOR][/B]</title>
+<thumbnail>http://www.marcomottadesign.it/wp-content/uploads/2014/07/corso-autocad-milano-rho.png</thumbnail>
+<fanart>http://www.winformacademy.com/wp-content/uploads/2014/08/rendering-with-autocad-logo-Feature_1290x688_KL.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.marcomottadesign.it/wp-content/uploads/2014/07/corso-autocad-milano-rho.png</thumbnail>
+<fanart>http://www.winformacademy.com/wp-content/uploads/2014/08/rendering-with-autocad-logo-Feature_1290x688_KL.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLhwktCAiktcrhqyLF-APcVI82X7sVGEee</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
-<plugin>
-<title>ANTENA 1()</title>
-<link>plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream</link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</plugin>
-
-<plugin>
-<title>ANTENA 3()</title>
-<link></link>
-<thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
-<fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
-</plugin>
-
-<plugin>
-<title>PRO TV()</title>
-<link></link>
-<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
-<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
-</plugin>
-
-<plugin>
-<title>PRO TV INTERNATIONAL()</title>
-<link></link>
-<thumbnail>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</thumbnail>
-<fanart>https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg</fanart>
-</plugin>
-
-<plugin>
-<title>PRIMA TV()</title>
-<link></link>
-<thumbnail>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</thumbnail>
-<fanart>https://ciao.ro/wp-content/uploads/2019/02/Postul-Prima-TV-vandut.-Surpriza-cine-este-noul-patron-al-televiziunii-3.jpg</fanart>
-</plugin>
-
-
+ 
 <item>
-<title>KANAL D()</title>
-<link></link>
-<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
-<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
+<title>[B][COLOR lime]Corso completo Excel - [COLOR white]Gerardo Zuccalà[/COLOR][/B]</title>
+<thumbnail>http://techdissected.com/wp-content/uploads/2015/11/Microsoft-Excel-Featured-Image.png</thumbnail>
+<fanart>http://glue-labs.com/wp-content/uploads/2015/11/aaa11.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://techdissected.com/wp-content/uploads/2015/11/Microsoft-Excel-Featured-Image.png</thumbnail>
+<fanart>http://glue-labs.com/wp-content/uploads/2015/11/aaa11.png</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLfFsNjHefuJtXLPYvRKHSL1g0x3g9GOed</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
 <item>
-<title>PRO X()</title>
-<link></link>
-<thumbnail>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</thumbnail>
-<fanart>https://cloudia.cms.protvplus.ro/rx/1d5c9807-c752-4ea2-9355-cfb569446746.jpg</fanart>
+<title>[B][COLOR lime]Guide su Kodi - [COLOR white]Mondo Kodi[/COLOR][/B]</title>
+<thumbnail>http://www.homemediatech.net/wp-content/uploads/2015/11/kodi-logo.png</thumbnail>
+<fanart>http://cdn1.alphr.com/sites/alphr/files/2016/03/kodi-14-helix-addons.png</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.homemediatech.net/wp-content/uploads/2015/11/kodi-logo.png</thumbnail>
+<fanart>http://cdn1.alphr.com/sites/alphr/files/2016/03/kodi-14-helix-addons.png</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL_a6xbNyd6XtMqtJLHqlnNHwC0QC2etSK</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
 <item>
-<title>NATIONAL TV()</title>
-<link></link>
-<thumbnail>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</thumbnail>
-<fanart>https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png</fanart>
+<title>[B][COLOR lime]Corso di programmazione Android - [COLOR white]Fabio Petta[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLntzDJ6b9e2HodT2b7JLgibB1sI0-Hw0X</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
+ 
 <item>
-<title>PRO 2()</title>
-<link></link>
-<thumbnail>https://stvron.com/canale/mari/pro-2.png</thumbnail>
-<fanart>https://stvron.com/canale/mari/pro-2.png</fanart>
+<title>[B][COLOR lime]Come diventare un programmatore - [COLOR white]SneezyCarp9[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLju3LHvbSX2Rlb08bzulbfxGBtDyM0oUe</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
+ 
 <item>
-<title>PRO CINEMA()</title>
-<link></link>
-<thumbnail>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</thumbnail>
-<fanart>https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg</fanart>
+<title>[B][COLOR lime]Come diventare un programmatore - [COLOR white]InformaticWord[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLSBXFMLnm-9inmEZvNUBuW-qXyI4GRtLP</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
+ 
 <item>
-<title>COMEDY CENTRAL()</title>
-<link></link>
-<thumbnail>https://f0.pngfuel.com/png/497/643/comedy-central-comedian-television-channel-television-comedy-design-png-clip-art.png</thumbnail>
-<fanart>https://f0.pngfuel.com/png/497/643/comedy-central-comedian-television-channel-television-comedy-design-png-clip-art.png</fanart>
-</item>
-
+<title>[B][COLOR lime]Informatica - [COLOR white]Giada Rocchi[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLNcWy6QX81TkSRY5TZMOIfTxOVsxrLbEE</page>
+<cookieJar></cookieJar>
+</regex>
+</item
+ 
 <item>
-<title>FILM CAFE()</title>
-<link></link>
-<thumbnail>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</thumbnail>
-<fanart>https://epgsites.azurewebsites.net/wp-content/uploads/2017/10/filmcafe_og.png</fanart>
+<title>[B][COLOR lime]Trucchi per Windows 8 - [COLOR white]Fabrizio Manenti[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLd1V9Ab9b6meuI1W6YEeRUOjAF5oDHyXR</page>
+<cookieJar></cookieJar>
+</regex>
 </item>
-
+ 
 <item>
-<title>TNT()</title>
-<link></link>
-<thumbnail>https://i.ytimg.com/vi/LDih0pk0P2U/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/LDih0pk0P2U/hqdefault.jpg</fanart>
-</item>
-
-<item>
-<title>PARAMOUNT CHANNEL()</title>
-<link></link>
-<thumbnail>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/2YpynP-AJyQ/maxresdefault.jpg</fanart>
-</item>
-
-<item>
-<title>HBO()</title>
-<link></link>
-<thumbnail>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</thumbnail>
-<fanart>https://itigic.com/wp-content/uploads/2020/01/HBO.jpg</fanart>
-</item>
-
-<item>
-<title>HBO 2()</title>
-<link></link>
-<thumbnail>https://cmedia.romaniatv.net/image/201603/full/maxresdefault_85185200.jpg</thumbnail>
-<fanart>https://cmedia.romaniatv.net/image/201603/full/maxresdefault_85185200.jpg</fanart>
-</item>
-
-<item>
-<title>HBO 3()</title>
-<link></link>
-<thumbnail>https://i.iinfo.cz/images/483/hbo-3-hd-1.jpg</thumbnail>
-<fanart>https://i.iinfo.cz/images/483/hbo-3-hd-1.jpg</fanart>
-</item>
-
-<item>
-<title>AMC()</title>
-<link></link>
-<thumbnail>https://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</thumbnail>
-<fanart>https://www.bolsamania.com/seriesadictos/wp-content/uploads/2014/08/86fe389a-7332-4f94-a6fe-7bdfd11780e7.png</fanart>
-</item>
-
-<item>
-<title>CINEMAX()</title>
-<link></link>
-<thumbnail>https://www.slashgear.com/wp-content/uploads/2016/02/cinemax1-copy.jpg</thumbnail>
-<fanart>https://www.slashgear.com/wp-content/uploads/2016/02/cinemax1-copy.jpg</fanart>
-</item>
-
-
-<item>
-<title>CINEMAX 2()</title>
-<link></link>
-<thumbnail>https://cristianchinabirta.ro/wp-content/uploads/2014/09/logo-cinemax-2.jpg</thumbnail>
-<fanart>https://cristianchinabirta.ro/wp-content/uploads/2014/09/logo-cinemax-2.jpg</fanart>
-</item>
-
-<item>
-<title>FILM BOX()</title>
-<link></link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png</fanart>
-</item>
-
-<item>
-<title>FILM BOX FAMILY()</title>
-<link></link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/9/9c/Filmbox_family.png</fanart>
-</item>
-
-<item>
-<title>AXN()</title>
-<link></link>
-<thumbnail>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</thumbnail>
-<fanart>https://www.forbes.ro/wp-content/uploads/2013/04/51765bbedab67-325x350c.jpg</fanart>
-</item>
-
-<item>
-<title>AXN BLACK()</title>
-<link></link>
-<thumbnail>https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg</fanart>
-</item>
-
-<item>
-<title>AXN White()</title>
-<link></link>
-<thumbnail>https://adevarul.ro/assets/adevarul.ro/MRImage/2013/07/12/51e004c9c7b855ff56308f24/646x528.jpg</thumbnail>
-<fanart>https://adevarul.ro/assets/adevarul.ro/MRImage/2013/07/12/51e004c9c7b855ff56308f24/646x528.jpg</fanart>
-</item>
-
-<item>
-<title>AXN SPIN()</title>
-<link></link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</fanart>
-</item>
+<title>[B][COLOR white]Corso di regia e riprese video[/COLOR][/B]</title>
+    <thumbnail>http://www.passionescherma.it/wp-content/uploads/2016/05/cinepresa.gif</thumbnail>
+  <fanart>http://www.gonews.it/wp-content/uploads/2016/02/regia.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>http://www.passionescherma.it/wp-content/uploads/2016/05/cinepresa.gif</thumbnail>
+  <fanart>http://www.gonews.it/wp-content/uploads/2016/02/regia.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLChDzmQmXwof-TRQ9kZgHNM7cBhNZHPH8</page>
+<cookieJar></cookieJar>
+</regex></item>
 
 
 
