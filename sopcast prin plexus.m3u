@@ -1,9 +1,9 @@
 <plugin id="256338">
 <name>PRO TV HD</name>
 <address> sop://broker.sopcast.com:3912/256338 </address>
-</item>
+</plugin>
 
-<item id="265400">
+<plugin id="265400">
 <name>Pro TV HQ1</name>
 <address> sop://broker.sopcast.com:3912/265400 </address>
 </plugin>
@@ -13,7 +13,7 @@
 <address> sop://broker.sopcast.com:3912/256338 </address>
 </item>
 
-<item id="265400">
+<plugin id="265400">
 <name>Pro TV HQ1</name>
 <address> sop://broker.sopcast.com:3912/265400 </address>
 </plugin>
@@ -21,7 +21,22 @@
 <plugin id="256338">
 <name>PRO TV HD</name>
 <address> sop://broker.sopcast.com:3912/256338 </address>
+</plugin>
+
+<plugin id="256338">
+<name>PRO TV HD</name>
+<address> sop://broker.sopcast.com:3912/256338 </address>
 </item>
+
+<plugin id="265400">
+<name>Pro TV HQ1</name>
+<address> sop://broker.sopcast.com:3912/265400 </address>
+</plugin>
+
+<plugin id="256338">
+<name>PRO TV HD</name>
+<address> sop://broker.sopcast.com:3912/256338 </address>
+</plugin>
 
 <item id="265400">
 <name>Pro TV HQ1</name>
