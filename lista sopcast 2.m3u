@@ -27,9 +27,9 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=So
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO CINEMA[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148249&name=SopProg
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO GOLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=SopProg
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO X [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264950&name=SopProg
 #EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Paramount Channel
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264994&name=SopProg
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TNT
