@@ -28,14 +28,14 @@
 
 
 <dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA ACESTREAM(NECESITA (Acestream) [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA ACESTREAM(Necesita Acestream) [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20baza%20acestram.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
 </dir>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA ACESTREAM(NECESITA(Plexus&Acestream) [/COLOR][/B]</title></title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA ACESTREAM(Necesita Plexus&Acestream) [/COLOR][/B]</title></title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20acestream2.m3u</link>
 <thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
 <fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
