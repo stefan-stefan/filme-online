@@ -2,13 +2,13 @@
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]REALITATEA TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]#1 ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=ANTENA 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]#2 ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=ANTENA 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=SopProg
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]#1 PRO TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=PRO TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]#2 PRO TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=PRO TV
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/265004
