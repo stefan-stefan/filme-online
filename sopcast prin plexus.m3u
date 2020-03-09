@@ -2,7 +2,7 @@
 <data>
     <type name="folder">
 <item>
-<title>Magazin Mixt Sopcast</title>
+<title>Test 1 Sopcast</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
