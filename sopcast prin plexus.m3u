@@ -1,25 +1,25 @@
 <plugin>
 <title>Plexus Test</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 
-<item>
-<title>KANAL D()</title>
-<link></link>
+<plugin>
+<title>PLEXU (KANAL D)()</title>
+<link>plugin://program.plexus/?mode=2&url=</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
-</item>
+</plugin>
 
 
 <plugin>
 <title>Plexus Test</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream</sublink>
+<link>acestream://895d6a92042671cc483346dfdd3917bef2458da9&name=AceStream</link>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -27,7 +27,7 @@
 
 <plugin>
 <title>TVR 2V</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
+<link>plugin://program.plexus/?mode=2&url=acestream://895d6a92042671cc483346dfdd3917bef2458da9</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
