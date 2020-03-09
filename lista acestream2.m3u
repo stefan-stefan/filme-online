@@ -59,7 +59,7 @@ plugin://program.plexus/?mode=1&url=acestream://ca2bf89ebd1fbd02e8ec4582310bbcae
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TNT[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://d15a0ddb66690bc018e0b22f6e2eb28e9edb945e&name=AceStream
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Acasa Gold
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]ACASA GOLD[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO RO[/COLOR][/B]
