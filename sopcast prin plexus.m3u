@@ -1,10 +1,14 @@
-<item>
-    <title>TEST SOPCAST-PLEXUS</title>
-    <thumbnail>https://subiectiv.com/wp-content/uploads/2016/11/plexus.jpg</thumbnail>
-   <fanart>https://thegeniustips.com/wp-content/uploads/2019/07/Sopcast-2.png</fanart> 
-</item> 
-
 Plexus
+<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+
 <plugin>
 <title>Plexus Test</title>
 <link>
