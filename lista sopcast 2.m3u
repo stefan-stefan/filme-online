@@ -1,39 +1,31 @@
-#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR lime]Sopcast.[/COLOR][COLOR lime]# 1[/COLOR] Tvr 1
-sop://broker.sopcast.com:3912/148085
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
-sop://broker.sopcast.com:3912/264945
-#EXTINF:5276,HBO 3(sopcast)🇷🇴
-#EXTVLCOPT:network-caching=1000
-sop://broker.sopcast.com:3912/259497
-#EXTINF:5276,REALITATEA TV(sopcast)🇷🇴
-sop://broker.sopcast.com:3912/264952
-#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] Realitatea Tv
+
+#EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]REALITATEA TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=SopProg
-#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1 
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=SopProg
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264961&name=SopProg
-#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 2[/COLOR] Pro Tv
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
-#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/265004
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn Black
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN BLACK RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/265005
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN SPIN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/265007
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn White
 sop://185.122.59.8:3912/265006
-#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Prima Tv 
+#EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRIMA TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/148086
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro 2 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 sop://broker.sopcast.com:3912/149256
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro Cinema
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO CINEMA[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/148249
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Sopcast.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Gold
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO GOLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/253471
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Sopcast.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO X [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 sop://broker.sopcast.com:3912/264950
 #EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Paramount Channel
 sop://broker.sopcast.com:3912/264994
