@@ -46,25 +46,25 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265011&name=So
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265012&name=SopProg
 #EXTINF:0 tvg-logo="http://ott.onlineott.tv/logos/1153.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]EPIC DRAMA [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264995&name=SopProg
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX EXTRA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] FILMBOX FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX EXTRA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILMBOX FAMILY [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
-#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] FILMBOX 
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILMBOX [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Filmcafe
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILM CAFE [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256238&name=SopProg
-#EXTINF:0 tvg-logo="https://i2.wp.com/mortu.eu/wp-content/uploads/2018/06/logo-film-now-Digi-film.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Film Now
+#EXTINF:0 tvg-logo="https://i2.wp.com/mortu.eu/wp-content/uploads/2018/06/logo-film-now-Digi-film.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILM NOW [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265001&name=SopProg
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] HBO 
+#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=SopProg
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 2
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=SopProg
-#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 3
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO 3 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=SopProg
-#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Tv1000
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TV 1000 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264997&name=SopProg
-#EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TLC 
+#EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TLC [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
-#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#1[/COLOR] Comedy Central 
+#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]COMEDY CENTRAL [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nat Geo Wild
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265078&name=SopProg
