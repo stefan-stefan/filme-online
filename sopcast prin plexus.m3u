@@ -1,5 +1,5 @@
-#EXTINF:-1,Pro TV S1
-plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/256338&amp;name=Protv
+#EXTINF:-1,Tvr 1
+plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148085&amp;name=SopProg
 #EXTINF:-1,Pro TV S2
 plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/265419&amp;name=Protv
 #EXTINF:-1,Acasa
@@ -7,7 +7,7 @@ plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149256&amp
 #EXTINF:-1,Acasa Gold
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/253471&amp;name=AcasaGold
 #EXTINF:-1,Antena 1
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149257&amp;name=Antena1
+plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/264961&amp;name=Antena1
 #EXTINF:-1,Antena Stars
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148255&amp;name=SopProg
 #EXTINF:-1,Antena3
@@ -30,12 +30,8 @@ plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148257&amp
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148884&amp;name=SopProg
 #EXTINF:-1,Boomerang
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149264&amp;name=SopProg
-#EXTINF:-1,Canal + Hd Liga
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/258921&amp;name=SopProg
 #EXTINF:-1,Cartoon Network
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/253470&amp;name=SopProg
-#EXTINF:-1,Cartoon Network
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148254&amp;name=SopProg
 #EXTINF:-1,Cinemax
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148882&amp;name=SopProg
 #EXTINF:-1,Comedy Central
@@ -58,8 +54,6 @@ plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/256243&amp
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/256242&amp;name=SopProg
 #EXTINF:-1,Disney Channel
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/253031&amp;name=SopProg
-#EXTINF:-1,Disney Channel
-plugin://program.plexus/?mode=2&amp;url=sop://151.80.76.190:3912/253031&amp;name=SopProg
 #EXTINF:-1,Disney Junior
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/256239&amp;name=SopProg
 #EXTINF:-1,Diva
@@ -126,86 +120,12 @@ plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148256&amp
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148881&amp;name=SopProg
 #EXTINF:-1,Tv1000
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/256337&amp;name=SopProg
-#EXTINF:-1,Tvr 1
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148085&amp;name=SopProg
-#EXTINF:-1,Tvr 1
-plugin://program.plexus/?mode=2&amp;url=sop://151.80.76.190:3912/148085&amp;name=SopProg
 #EXTINF:-1,Viasat Explorer
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149269&amp;name=SopProg
 #EXTINF:-1,Viasat History
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149268&amp;name=SopProg
 #EXTINF:-1,Viasat Nature
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149267&amp;name=SopProg
-#EXTINF:-1,Vladimir29
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/140000&amp;name=SopProg
-#EXTINF:-1,Zu Tv
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148252&amp;name=SopProg
-#EXTINF:-1,Digi Sport 1
-http://edge24.rdsnet.ro/digiedge/digisport1ehq/index.m3u8?is=1&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Digi Sport 2
-http://edge24.rdsnet.ro/digiedge/digisport2ehq/index.m3u8?is=2&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Digi Sport 3
-http://edge24.rdsnet.ro/digiedge/digisport3ehq/index.m3u8?is=3&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Digi Sport 4
-http://edge24.rdsnet.ro/digiedge/digisport4ehq/index.m3u8?is=49&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Eurosport
-http://edge24.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Eurosport 2
-http://edge24.rdsnet.ro/digiedge2/eurosport2ehq/index.m3u8?is=32&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Tvr 1
-http://edge24.rdsnet.ro/digiedge2/tvr1ehq/index.m3u8?is=24&amp;src=digi-online.ro&amp;t=0000000000000000000000000000000
-#EXTINF:0,Tvr 2
-http://edge24.rdsnet.ro/digiedge2/tvr2ehq/index.m3u8?is=38&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Tv 1000
-http://edge24.rdsnet.ro/digiedge2/tv1000ehq/index.m3u8?is=43&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Digi Film (Test)
-http://82.76.252.26:82/tc/7/7hq/index.m3u8
-#EXTINF:0,Digi Life
-http://edge24.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Digi World
-http://edge24.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Digi Animal World
-http://edge24.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Nat Geo Wild
-http://edge24.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,National Geographic
-http://edge24.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,History Channel
-http://edge24.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Viasat History
-http://edge24.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Viasat Nature
-http://edge24.rdsnet.ro/digiedge2/viasatnatureehq/index.m3u8?is=42&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Viasat Explore
-http://edge24.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Travel Channel
-http://edge24.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Tv Paprika
-http://edge24.rdsnet.ro/digiedge2/tvpaprikaehq/index.m3u8?is=39&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Hit Music Channel
-http://edge24.rdsnet.ro/digiedge2/hitmusicchannelehq/index.m3u8?is=35&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Music Channel
-http://edge24.rdsnet.ro/digiedge2/musicchannelehq/index.m3u8?is=25&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Kiss Tv
-http://edge24.rdsnet.ro/digiedge2/kisstvehq/index.m3u8?is=34&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Utv
-http://82.76.249.77:80/utvedge/utvlive/index.m3u8
-#EXTINF:0,Minimax
-http://edge24.rdsnet.ro/digiedge2/minimaxehq/index.m3u8?is=37&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Megamax
-http://edge24.rdsnet.ro/digiedge2/megamaxehq/index.m3u8?is=47&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Nickelodeon
-http://edge24.rdsnet.ro/digiedge2/nickelodeonehq/index.m3u8?is=28&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Disney Junior
-http://edge24.rdsnet.ro/digiedge2/disneyjuniorehq/index.m3u8?is=18&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Disney Channel
-http://edge24.rdsnet.ro/digiedge2/disneychannelehq/index.m3u8?is=17&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,B1 Tv
-http://edge24.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Realitatea Tv
-http://edge24.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
-#EXTINF:0,Romania Tv
-http://edge24.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=27&amp;src=digi-online.ro&amp;t=00000000000000000000000000000000
 
 
 
