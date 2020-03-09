@@ -7,21 +7,21 @@
 
 <plugin>
 <name>Pro TV HQ1</name>
-<address> sop://broker.sopcast.com:3912/265400 </address>
+<address>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</address>
 <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
 <plugin>
 <name>PRO TV HD teste sop</name>
-<address> sop://broker.sopcast.com:3912/256338 </address>
+<address>sop://broker.sopcast.com:3912/256338</address>
 <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
 
 <plugin>
 <name>Pro TV HQ1</name>
-<address> sop://broker.sopcast.com:3912/265400 </address>
+<address>sop://broker.sopcast.com:3912/265400</address>
 <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </plugin>
