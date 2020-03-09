@@ -1,20 +1,142 @@
-#EXTM3U
-#EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-#EXTINF: 0 tvg-logo="https://www.transparentpng.com/thumb/tv/MSgsUr-tv-free-png.png",[COLORred][B][I]ACTUALIZATA 12.02.2020![/I][/B][/COLOR]
-http://89.136.209.26:1935/l
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Filmcafe
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265018&name=SopProg
-#EXTINF:0 tvg-logo="https://i2.wp.com/mortu.eu/wp-content/uploads/2018/06/logo-film-now-Digi-film.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Film Now
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265001&name=SopProg
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] HBO 
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=SopProg
-#EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] HBO 
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=SopProg
+<item id="265390">
+<name>PRO TV HD</name>
+<address> sop://broker.sopcast.com:3912/265390 </address>
+</item>
+
+<item id="265400">
+<name>Pro TV HQ1</name>
+<address> sop://broker.sopcast.com:3912/265400 </address>
+</item>
+
+<item id="256339">
+<name> Pro TV HQ</name>
+<address> sop://broker.sopcast.com:3912/256339 </address>
+</item>
+
+<item id="265074">
+<name>History 16</name>
+<address> sop://broker.sopcast.com:3912/265074 </address>
+</item>
+
+<item id="265072">
+<name>Fine Living 16</name>
+<address> sop://broker.sopcast.com:3912/265072 </address>
+</item>
+
+<item id="265079">
+<name>Viasat History 16</name>
+<address> sop://broker.sopcast.com:3912/265079 </address>
+</item>
+
+<item id="265001">
+<name>Digi Film</name>
+<address> sop://broker.sopcast.com:3912/265001 </address>
+</item>
+
+<item id="259497">
+<name>HBO</name>
+<address> sop://broker.sopcast.com:3912/259497 </address>
+</item>
+
+<item id="264971">
+<name>HBO HD</name>
+<address> sop://broker.sopcast.com:3912/264971 </address>
+</item>
+
+<item id="265067">
+<name>HBO 2</name>
+<address> sop://broker.sopcast.com:3912/265067 </address>
+</item>
+
+<item id="265096">
+<name>HBO 3</name>
+<address> sop://broker.sopcast.com:3912/265096 </address>
+</item>
+
+<item id="265052">
+<name>DaVinci</name>
+<address> sop://broker.sopcast.com:3912/265052 </address>
+</item>
+
+<item id="264796">
+<name>BBC Earth SD</name>
+<address> sop://broker.sopcast.com:3912/264796 </address>
+</item>
+
+<item id="265057">
+<name>BBC Eart HD</name>
+<address> sop://broker.sopcast.com:3912/265057 </address>
+</item>
+
+<item id="148248">
+<name>National Geografic</name>
+<address> sop://broker.sopcast.com:3912/148248 </address>
+</item>
+
+<item id="265077">
+<name>National Geo HD</name>
+<address> sop://broker.sopcast.com:3912/265077 </address>
+</item>
+
+<item id="264970">
+<name>Happy</name>
+<address> sop://broker.sopcast.com:3912/264970 </address>
+</item>
+
+<item id="265054">
+<name>Explore 16</name>
+<address> sop://broker.sopcast.com:3912/265054 </address>
+</item>
+
+<item id="256241">
+<name>Discovery Channel</name>
+<address> sop://broker.sopcast.com:3912/256241 </address>
+</item>
+
+<item id="265080 ">
+<name>Discovery Ch HD</name>
+<address> sop://broker.sopcast.com:3912/265080 </address>
+</item>
+
+<item id="265071">
+<name>Science 16</name>
+<address> sop://broker.sopcast.com:3912/265071 </address>
+</item>
+
+<item id="264687">
+<name>Science</name>
+<address> sop://broker.sopcast.com:3912/264687 </address>
+</item>
+
+<item id="148256">
+<name>TLC</name>
+<address> sop://broker.sopcast.com:3912/148256 </address>
+</item>
+
+<item id="148885">
+<name>Travel</name>
+<address> sop://broker.sopcast.com:3912/148885 </address>
+</item>
+
+<item id="264997">
+<name>TV 1000</name>
+<address> sop://broker.sopcast.com:3912/264997 </address>
+</item>
+
+<item id="148086">
+<name>Prima TV</name>
+<address> sop://broker.sopcast.com:3912/148086 </address>
+</item>
+
+<item id="265047">
+<name>CBS Reality</name>
+<address> sop://broker.sopcast.com:3912/265047 </address>
+</item>
+
+<item id="148258">
+<name>Realitatea</name>
+<address> sop://broker.sopcast.com:3912/148258 </address>
+</item>
 
 
 
