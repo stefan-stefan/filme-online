@@ -12,18 +12,25 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
-<dir>
+<plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA HTTP TEST [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20test%20baza.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
-</dir>
+</plugin>
 
 <plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]RCS-RDS [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
 <fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TS TEST [/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20test%20baza.m3u</link>
+<thumbnail>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</thumbnail>
+<fanart>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</fanart>
 </plugin>
 
 
