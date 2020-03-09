@@ -1,4 +1,33 @@
-
+<item>
+<title>[COLOR red][B][I]ARENAVISION 21 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258920&mode=2&amp;mode=2&amp;name=ARENAVISION21/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 22 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258921&mode=2&amp;mode=2&amp;name=ARENAVISION22/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 23 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258922&mode=2&amp;mode=2&amp;name=ARENAVISION23/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 24 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258923&mode=2&amp;mode=2&amp;name=ARENAVISION24/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 25 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258924&mode=2&amp;mode=2&amp;name=ARENAVISION25/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
+<item>
+<title>[COLOR red][B][I]ARENAVISION 26 SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=sop://broker.sopcast.com:3912/258925&mode=2&amp;mode=2&amp;name=ARENAVISION26/SOPCAST</link>
+ <thumbnail>http://s20.postimg.org/xfvhpalvh/sopcast.jpg</thumbnail>
+  </item>
 
 #EXTINF:-1,Pro TV S1
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/148982&amp;name=Protv
