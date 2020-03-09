@@ -4,7 +4,7 @@ http://0.0.0.0:1234
 
 plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream
 
-#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO TV [/COLOR][/B]
+#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Acestream[/COLOR][/B]
 
 plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRIMA TV [/COLOR][/B] 
