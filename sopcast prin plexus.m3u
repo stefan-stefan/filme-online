@@ -1,4 +1,3 @@
-Plexus
 <plugin>
 <title>Plexus Test</title>
 <link>
@@ -7,6 +6,14 @@ Plexus
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+
+
+<item>
+<title>KANAL D()</title>
+<link></link>
+<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</thumbnail>
+<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/07/noua-emisiune-la-kanal-d-840x500.jpg</fanart>
+</item>
 
 
 <plugin>
