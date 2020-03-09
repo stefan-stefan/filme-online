@@ -1,14 +1,24 @@
 #EXTINF:-1,Tvr 1
 plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/149257&amp;name=SopProg
 #EXTINF:-1,Pro TV S2
-plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/265419&amp;name=Protv
-#EXTINF:-1,Acasa
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149256&amp;name=Acasa
-#EXTINF:-1,Acasa Gold
-plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/253471&amp;name=AcasaGo
-#EXTINF:-1,Pro TV S2
-plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/265419&amp;name=Protv
-#EXTINF:-1,Acasa
+
+
+
+<plugin>
+<title>ANTENA 3(Acestream)</title>
+<link>plugin://program.plexus/?mode=2&amp;url=sop://185.122.59.8:3912/149257&amp;name=SopProg</link>
+<thumbnail>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</thumbnail>
+<fanart>https://tb.ziareromania.ro/Adevarul-despre-Antena-3--b--Opinii---b-/9dd6b1804c628b9f91/327/0/1/70/Adevarul-despre-Antena-3--b--Opinii---b-.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>PRO TV(Acestream)</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=f06645f552137d04a4e6a18f8cc654e2dfd312b1</link>
+<thumbnail>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</thumbnail>
+<fanart>https://evz.ro/wp-content/uploads/2019/07/pro-tvv.jpg</fanart>
+</plugin>
+
+
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/149256&amp;name=Acasa
 #EXTINF:-1,Acasa Gold
 plugin://program.plexus/?mode=2&amp;url=sop://broker.sopcast.com:3912/253471&amp;name=AcasaGold
