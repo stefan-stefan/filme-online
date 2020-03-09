@@ -12,12 +12,12 @@
 <fanart>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</fanart>
 </item>
 
-<item>
+<plugin>
 <title>Discovery ID test</title>
 <link>http://localhost:9996/p2p.m3uurl=sop:?//broker.sopcast.com:3912/265003mode=2</link>
 <thumbnail>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</thumbnail>
 <fanart>https://straightfromamovie.com/wp-content/uploads/2017/05/Nocturnal-Animals-Wallpaper.jpg</fanart>
-</item>
+</plugin>
 
 
 
