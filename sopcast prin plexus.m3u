@@ -4,6 +4,12 @@
 <thumbnail></thumbnail>
 </plugin>
 
+<plugin>
+<title>[COLOR red][B][I]test SOPCAST[/I][/B][/COLOR][COLOR blue][B][I](PLEXUS)[/I][/B][/COLOR]</title>
+<link>plugin: //plugin.video.p2p-streams/ url = sop:? //broker.sopcast.com: 3912/148087 & mode = 2 & name = 3</link>
+<thumbnail></thumbnail>
+</plugin>
+
 
 
 #EXTINF:-1,Pro TV S1
