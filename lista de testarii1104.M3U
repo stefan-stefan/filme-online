@@ -1,185 +1,265 @@
 #EXTM3U
-#EXTINF:-1,real madrid tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINFO:-1,FIGHT TIME
-https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", ESPN Arg
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/418.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | A&E SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/429.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | AXN SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/436.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CARTOON NETWORK SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/453.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CINECANAL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/454.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CINELATINO SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/455.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CINEMAX SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/456.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | CNN EN ESPAÑOL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/457.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DE PELÍCULA SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/462.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY CHANNEL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/463.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY CIVILIZATION SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/464.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY HOME & HEALTH SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/465.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY KIDS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/466.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY SCIENCE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/467.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY THEATER SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/468.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY TLC SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/469.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISCOVERY TURBO SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/470.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISNEY CHANNEL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/472.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISNEY JR SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/473.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | DISNEY XD SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/474.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | EL GOURMET SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/478.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN 2 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/480.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN 3 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/481.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN PLUS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/482.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN SEC SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/483.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | ESPN U SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/484.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX LIFE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/489.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM ACTION SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/490.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM CINEMA SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/491.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM CLASSICS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/492.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM MOVIES SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/493.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX PREMIUM SERIES SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/494.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/495.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SPORTS 1 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SPORTS 2 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/497.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FOX SPORTS 3 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FX SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/500.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | FXM SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | GARAGE TV SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/503.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | GOLDEN EDGE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/505.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | GOLDEN SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/506.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO 1
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/510.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO 2
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/511.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO FAMILY
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | HBO SIGNATURE
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF | HISTORY
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/514.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | INVESTIGATION DISCOVERY SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/518.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MAX PRIME
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/524.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MAX UP
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/525.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MTV HITS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/529.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MTV LIVE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/530.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | MTV SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/531.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NATGEO SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/534.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NATGEO WILD SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/535.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICK 2 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/537.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICK JR SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/538.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICK SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/539.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | NICKTOONS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/540.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | RCN SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/545.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SONY SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/551.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SPACE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/552.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | STUDIO UNIVERSAL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/553.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SUNDANCE SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/554.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | SYFY SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/556.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TBS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/557.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TCM SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/558.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TNT SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/567.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TNT SERIES SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/568.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | TOONCAST SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/569.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | UNIVERSAL CHANNEL SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/577.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | VH1 CLASSICS SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/578.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TOTALPLAY SD | VH1 SD
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/579.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", IFN inter GOLTV
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/593.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF HBO
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/595.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", HBO PLUS
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/597.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF AXN White
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/640.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Action
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/641.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Classics
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/642.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Suspense
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/643.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Encore Western
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/644.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz West
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/645.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Latino
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/646.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz In Black
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/648.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz Edge
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/649.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF Starz East
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/650.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME WEST
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/653.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME SHOWCASE EAST
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/654.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME NEXT
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/655.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME LATINO
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/656.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", INF SHOWTIME EXTREME EAST
-http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/657.ts
+#EXTINF:-1 tvg-id="" tvg-name="------|Romania|------" tvg-logo="" group-title="Romania",------|Romania|------
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31876
+#EXTINF:-1 tvg-id="" tvg-name="RO001:VIASAT NATURE" tvg-logo="" group-title="Romania",RO001:VIASAT NATURE
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31875
+#EXTINF:-1 tvg-id="" tvg-name="RO002:VIASAT EXPLORER" tvg-logo="" group-title="Romania",RO002:VIASAT EXPLORER
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31874
+#EXTINF:-1 tvg-id="" tvg-name="RO003:U TV" tvg-logo="" group-title="Romania",RO003:U TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31873
+#EXTINF:-1 tvg-id="" tvg-name="RO004:TVR 2" tvg-logo="" group-title="Romania",RO004:TVR 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31872
+#EXTINF:-1 tvg-id="" tvg-name="RO005:TVR 1" tvg-logo="" group-title="Romania",RO005:TVR 1
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31871
+#EXTINF:-1 tvg-id="" tvg-name="RO006:TV 1000" tvg-logo="" group-title="Romania",RO006:TV 1000
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31870
+#EXTINF:-1 tvg-id="" tvg-name="RO007:Zu TV" tvg-logo="" group-title="Romania",RO007:Zu TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31869
+#EXTINF:-1 tvg-id="" tvg-name="RO008:KANAL D" tvg-logo="" group-title="Romania",RO008:KANAL D
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31868
+#EXTINF:-1 tvg-id="" tvg-name="RO009:TeleMoldovaPlus" tvg-logo="" group-title="Romania",RO009:TeleMoldovaPlus
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31867
+#EXTINF:-1 tvg-id="" tvg-name="RO010:Taraf Tv" tvg-logo="" group-title="Romania",RO010:Taraf Tv
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31866
+#EXTINF:-1 tvg-id="" tvg-name="RO011:Sport.ro" tvg-logo="" group-title="Romania",RO011:Sport.ro
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31865
+#EXTINF:-1 tvg-id="" tvg-name="RO012:Romania Tv" tvg-logo="" group-title="Romania",RO012:Romania Tv
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31864
+#EXTINF:-1 tvg-id="" tvg-name="RO013:Realtaea TV" tvg-logo="" group-title="Romania",RO013:Realtaea TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31863
+#EXTINF:-1 tvg-id="" tvg-name="RO014:Realitatea Tv" tvg-logo="" group-title="Romania",RO014:Realitatea Tv
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31862
+#EXTINF:-1 tvg-id="" tvg-name="RO015:VIASAT EXPLORER" tvg-logo="" group-title="Romania",RO015:VIASAT EXPLORER
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31861
+#EXTINF:-1 tvg-id="" tvg-name="RO016:Pro Cinema" tvg-logo="" group-title="Romania",RO016:Pro Cinema
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31860
+#EXTINF:-1 tvg-id="" tvg-name="RO017:prima cool" tvg-logo="" group-title="Romania",RO017:prima cool
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31859
+#EXTINF:-1 tvg-id="" tvg-name="RO018:Prima" tvg-logo="" group-title="Romania",RO018:Prima
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31858
+#EXTINF:-1 tvg-id="" tvg-name="RO019:Paramount Channel" tvg-logo="" group-title="Romania",RO019:Paramount Channel
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31857
+#EXTINF:-1 tvg-id="" tvg-name="RO020:TV1000" tvg-logo="" group-title="Romania",RO020:TV1000
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31856
+#EXTINF:-1 tvg-id="" tvg-name="RO021:NATIONAL Geo wild" tvg-logo="" group-title="Romania",RO021:NATIONAL Geo wild
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31855
+#EXTINF:-1 tvg-id="" tvg-name="RO022:TVR International" tvg-logo="" group-title="Romania",RO022:TVR International
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31854
+#EXTINF:-1 tvg-id="" tvg-name="RO023:Music Channe hu" tvg-logo="" group-title="Romania",RO023:Music Channe hu
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31853
+#EXTINF:-1 tvg-id="" tvg-name="RO024:Minimax" tvg-logo="" group-title="Romania",RO024:Minimax
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31852
+#EXTINF:-1 tvg-id="" tvg-name="RO025:Look Plus" tvg-logo="" group-title="Romania",RO025:Look Plus
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31851
+#EXTINF:-1 tvg-id="" tvg-name="RO026:Kiss" tvg-logo="" group-title="Romania",RO026:Kiss
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31850
+#EXTINF:-1 tvg-id="" tvg-name="RO027:Kanal D" tvg-logo="" group-title="Romania",RO027:Kanal D
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31849
+#EXTINF:-1 tvg-id="" tvg-name="RO028:HISTORI CHANNEL" tvg-logo="" group-title="Romania",RO028:HISTORI CHANNEL
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31848
+#EXTINF:-1 tvg-id="" tvg-name="RO029:HBO Romania" tvg-logo="" group-title="Romania",RO029:HBO Romania
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31847
+#EXTINF:-1 tvg-id="" tvg-name="RO030:HBO 3" tvg-logo="" group-title="Romania",RO030:HBO 3
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31846
+#EXTINF:-1 tvg-id="" tvg-name="RO031:HBO 2" tvg-logo="" group-title="Romania",RO031:HBO 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31845
+#EXTINF:-1 tvg-id="" tvg-name="RO032:Happy" tvg-logo="" group-title="Romania",RO032:Happy
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31844
+#EXTINF:-1 tvg-id="" tvg-name="RO033:FISHING & HUNTING" tvg-logo="" group-title="Romania",RO033:FISHING & HUNTING
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31843
+#EXTINF:-1 tvg-id="" tvg-name="RO034:EUROSPORT 2" tvg-logo="" group-title="Romania",RO034:EUROSPORT 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31842
+#EXTINF:-1 tvg-id="" tvg-name="RO035:EUROSPORT 1" tvg-logo="" group-title="Romania",RO035:EUROSPORT 1
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31841
+#EXTINF:-1 tvg-id="" tvg-name="RO036:Etno Tv" tvg-logo="" group-title="Romania",RO036:Etno Tv
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31840
+#EXTINF:-1 tvg-id="" tvg-name="RO037:DISNEY JUNIOR" tvg-logo="" group-title="Romania",RO037:DISNEY JUNIOR
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31839
+#EXTINF:-1 tvg-id="" tvg-name="RO038:Digi24" tvg-logo="" group-title="Romania",RO038:Digi24
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31838
+#EXTINF:-1 tvg-id="" tvg-name="RO039:DIGI WORLD" tvg-logo="" group-title="Romania",RO039:DIGI WORLD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31837
+#EXTINF:-1 tvg-id="" tvg-name="RO040:Digi Sport 4" tvg-logo="" group-title="Romania",RO040:Digi Sport 4
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31836
+#EXTINF:-1 tvg-id="" tvg-name="RO041:Digi Sport 3" tvg-logo="" group-title="Romania",RO041:Digi Sport 3
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31835
+#EXTINF:-1 tvg-id="" tvg-name="RO042:Digi Sport 2" tvg-logo="" group-title="Romania",RO042:Digi Sport 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31834
+#EXTINF:-1 tvg-id="" tvg-name="RO043:Digi Sport 1" tvg-logo="" group-title="Romania",RO043:Digi Sport 1
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31833
+#EXTINF:-1 tvg-id="" tvg-name="RO044:Digi Life" tvg-logo="" group-title="Romania",RO044:Digi Life
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31832
+#EXTINF:-1 tvg-id="" tvg-name="RO045:DIGI FILM" tvg-logo="" group-title="Romania",RO045:DIGI FILM
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31831
+#EXTINF:-1 tvg-id="" tvg-name="RO046:DIGI ANIMAL WORLD" tvg-logo="" group-title="Romania",RO046:DIGI ANIMAL WORLD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31830
+#EXTINF:-1 tvg-id="" tvg-name="RO047:DIGI 24 CRAIOVA" tvg-logo="" group-title="Romania",RO047:DIGI 24 CRAIOVA
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31829
+#EXTINF:-1 tvg-id="" tvg-name="RO048:DIGI 24" tvg-logo="" group-title="Romania",RO048:DIGI 24
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31828
+#EXTINF:-1 tvg-id="" tvg-name="RO049:CINEMAX 2" tvg-logo="" group-title="Romania",RO049:CINEMAX 2
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31827
+#EXTINF:-1 tvg-id="" tvg-name="RO050:B1 TV" tvg-logo="" group-title="Romania",RO050:B1 TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31826
+#EXTINF:-1 tvg-id="" tvg-name="RO051:B1" tvg-logo="" group-title="Romania",RO051:B1
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31825
+#EXTINF:-1 tvg-id="" tvg-name="RO052:AXN WHITE" tvg-logo="" group-title="Romania",RO052:AXN WHITE
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31824
+#EXTINF:-1 tvg-id="" tvg-name="RO053:AXN BLACK" tvg-logo="" group-title="Romania",RO053:AXN BLACK
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31823
+#EXTINF:-1 tvg-id="" tvg-name="RO054:AXN" tvg-logo="" group-title="Romania",RO054:AXN
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31822
+#EXTINF:-1 tvg-id="" tvg-name="RO055:ANTENA STARS" tvg-logo="" group-title="Romania",RO055:ANTENA STARS
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31821
+#EXTINF:-1 tvg-id="" tvg-name="RO056:AGRO TV" tvg-logo="" group-title="Romania",RO056:AGRO TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31820
+#EXTINF:-1 tvg-id="" tvg-name="RO057:ACASA TV" tvg-logo="" group-title="Romania",RO057:ACASA TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31819
+#EXTINF:-1 tvg-id="" tvg-name="RO058:MegaMax-HD" tvg-logo="" group-title="Romania",RO058:MegaMax-HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31818
+#EXTINF:-1 tvg-id="" tvg-name="RO059:DOKU TV ADRIA" tvg-logo="" group-title="Romania",RO059:DOKU TV ADRIA
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31817
+#EXTINF:-1 tvg-id="" tvg-name="RO060:PRO TV" tvg-logo="" group-title="Romania",RO060:PRO TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31816
+#EXTINF:-1 tvg-id="" tvg-name="RO061:Alfa Omega" tvg-logo="" group-title="Romania",RO061:Alfa Omega
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31815
+#EXTINF:-1 tvg-id="" tvg-name="RO062:Antena 1 HD" tvg-logo="" group-title="Romania",RO062:Antena 1 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31814
+#EXTINF:-1 tvg-id="" tvg-name="RO063:Antena 3 HD" tvg-logo="" group-title="Romania",RO063:Antena 3 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31813
+#EXTINF:-1 tvg-id="" tvg-name="RO064:Agro TV" tvg-logo="" group-title="Romania",RO064:Agro TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31812
+#EXTINF:-1 tvg-id="" tvg-name="RO065:AMC" tvg-logo="" group-title="Romania",RO065:AMC
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31811
+#EXTINF:-1 tvg-id="" tvg-name="RO066:ANIMAL PLANET HD" tvg-logo="" group-title="Romania",RO066:ANIMAL PLANET HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31810
+#EXTINF:-1 tvg-id="" tvg-name="RO067:Antena 1 HD" tvg-logo="" group-title="Romania",RO067:Antena 1 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31809
+#EXTINF:-1 tvg-id="" tvg-name="RO068:Antena Stars HD" tvg-logo="" group-title="Romania",RO068:Antena Stars HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31808
+#EXTINF:-1 tvg-id="" tvg-name="RO069:PRO CINEMA" tvg-logo="" group-title="Romania",RO069:PRO CINEMA
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31807
+#EXTINF:-1 tvg-id="" tvg-name="RO070:AXN BLACK" tvg-logo="" group-title="Romania",RO070:AXN BLACK
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31806
+#EXTINF:-1 tvg-id="" tvg-name="RO071:AXN White HD" tvg-logo="" group-title="Romania",RO071:AXN White HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31805
+#EXTINF:-1 tvg-id="" tvg-name="RO072:B1 HD" tvg-logo="" group-title="Romania",RO072:B1 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31804
+#EXTINF:-1 tvg-id="" tvg-name="RO073:Kiss TV" tvg-logo="" group-title="Romania",RO073:Kiss TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31803
+#EXTINF:-1 tvg-id="" tvg-name="RO074:Boomerang" tvg-logo="" group-title="Romania",RO074:Boomerang
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31802
+#EXTINF:-1 tvg-id="" tvg-name="RO075:Happy Channel" tvg-logo="" group-title="Romania",RO075:Happy Channel
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31801
+#EXTINF:-1 tvg-id="" tvg-name="RO076:Cinemax 2 HD" tvg-logo="" group-title="Romania",RO076:Cinemax 2 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31800
+#EXTINF:-1 tvg-id="" tvg-name="RO077:Cinemax HD" tvg-logo="" group-title="Romania",RO077:Cinemax HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31799
+#EXTINF:-1 tvg-id="" tvg-name="RO078:Digi 24 HD" tvg-logo="" group-title="Romania",RO078:Digi 24 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31798
+#EXTINF:-1 tvg-id="" tvg-name="RO079:Digi ANIMAL WORLD HD" tvg-logo="" group-title="Romania",RO079:Digi ANIMAL WORLD HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31797
+#EXTINF:-1 tvg-id="" tvg-name="RO080:Digi Film NOW HD" tvg-logo="" group-title="Romania",RO080:Digi Film NOW HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31796
+#EXTINF:-1 tvg-id="" tvg-name="RO081:Digi Life" tvg-logo="" group-title="Romania",RO081:Digi Life
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31795
+#EXTINF:-1 tvg-id="" tvg-name="RO082:Digi Sport 1 FHD" tvg-logo="" group-title="Romania",RO082:Digi Sport 1 FHD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31794
+#EXTINF:-1 tvg-id="" tvg-name="RO083:Digi Sport 3 HD" tvg-logo="" group-title="Romania",RO083:Digi Sport 3 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31793
+#EXTINF:-1 tvg-id="" tvg-name="RO084:Viasat Nature" tvg-logo="" group-title="Romania",RO084:Viasat Nature
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31792
+#EXTINF:-1 tvg-id="" tvg-name="RO085:Digi WORLD HD" tvg-logo="" group-title="Romania",RO085:Digi WORLD HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31791
+#EXTINF:-1 tvg-id="" tvg-name="RO086:Discovery Channel" tvg-logo="" group-title="Romania",RO086:Discovery Channel
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31790
+#EXTINF:-1 tvg-id="" tvg-name="RO087:Discovery Science HD" tvg-logo="" group-title="Romania",RO087:Discovery Science HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31789
+#EXTINF:-1 tvg-id="" tvg-name="RO088:Disney Junior" tvg-logo="" group-title="Romania",RO088:Disney Junior
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31788
+#EXTINF:-1 tvg-id="" tvg-name="RO089:TVR 2 HD" tvg-logo="" group-title="Romania",RO089:TVR 2 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31787
+#EXTINF:-1 tvg-id="" tvg-name="RO090:Etno HD" tvg-logo="" group-title="Romania",RO090:Etno HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31786
+#EXTINF:-1 tvg-id="" tvg-name="RO091:EUROSPORT 1 HD" tvg-logo="" group-title="Romania",RO091:EUROSPORT 1 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31785
+#EXTINF:-1 tvg-id="" tvg-name="RO092:EUROSPORT 2 FHD" tvg-logo="" group-title="Romania",RO092:EUROSPORT 2 FHD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31784
+#EXTINF:-1 tvg-id="" tvg-name="RO093:ANTENA INTERNATIONAL" tvg-logo="" group-title="Romania",RO093:ANTENA INTERNATIONAL
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31783
+#EXTINF:-1 tvg-id="" tvg-name="RO094:Film Cafe" tvg-logo="" group-title="Romania",RO094:Film Cafe
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31782
+#EXTINF:-1 tvg-id="" tvg-name="RO095:Film Now" tvg-logo="" group-title="Romania",RO095:Film Now
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31781
+#EXTINF:-1 tvg-id="" tvg-name="RO096:Look Sport" tvg-logo="" group-title="Romania",RO096:Look Sport
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31780
+#EXTINF:-1 tvg-id="" tvg-name="RO097:HAPPY CHANNEL HD" tvg-logo="" group-title="Romania",RO097:HAPPY CHANNEL HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31779
+#EXTINF:-1 tvg-id="" tvg-name="RO098:HBO 2 HD" tvg-logo="" group-title="Romania",RO098:HBO 2 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31778
+#EXTINF:-1 tvg-id="" tvg-name="RO099:HBO 3 HD" tvg-logo="" group-title="Romania",RO099:HBO 3 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31777
+#EXTINF:-1 tvg-id="" tvg-name="RO100:HBO HD" tvg-logo="" group-title="Romania",RO100:HBO HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31776
+#EXTINF:-1 tvg-id="" tvg-name="RO101:History Channel" tvg-logo="" group-title="Romania",RO101:History Channel
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31775
+#EXTINF:-1 tvg-id="" tvg-name="RO102:Kanal D HD" tvg-logo="" group-title="Romania",RO102:Kanal D HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31774
+#EXTINF:-1 tvg-id="" tvg-name="RO103:KISS TV HD" tvg-logo="" group-title="Romania",RO103:KISS TV HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31773
+#EXTINF:-1 tvg-id="" tvg-name="RO104:Look Plus HD" tvg-logo="" group-title="Romania",RO104:Look Plus HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31772
+#EXTINF:-1 tvg-id="" tvg-name="RO105:MegaMax HD" tvg-logo="" group-title="Romania",RO105:MegaMax HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31771
+#EXTINF:-1 tvg-id="" tvg-name="RO106:Minimax" tvg-logo="" group-title="Romania",RO106:Minimax
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31770
+#EXTINF:-1 tvg-id="" tvg-name="RO107:MTV Dance" tvg-logo="" group-title="Romania",RO107:MTV Dance
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31769
+#EXTINF:-1 tvg-id="" tvg-name="RO108:Music 1 Channel" tvg-logo="" group-title="Romania",RO108:Music 1 Channel
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31768
+#EXTINF:-1 tvg-id="" tvg-name="RO109:NAT GEO Wild HD" tvg-logo="" group-title="Romania",RO109:NAT GEO Wild HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31767
+#EXTINF:-1 tvg-id="" tvg-name="RO110:National TV" tvg-logo="" group-title="Romania",RO110:National TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31766
+#EXTINF:-1 tvg-id="" tvg-name="RO111:Neptun TV" tvg-logo="" group-title="Romania",RO111:Neptun TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31765
+#EXTINF:-1 tvg-id="" tvg-name="RO112:Nickelodeon HD" tvg-logo="" group-title="Romania",RO112:Nickelodeon HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31764
+#EXTINF:-1 tvg-id="" tvg-name="RO113:Paramount Channel" tvg-logo="" group-title="Romania",RO113:Paramount Channel
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31763
+#EXTINF:-1 tvg-id="" tvg-name="RO114:Look Tv" tvg-logo="" group-title="Romania",RO114:Look Tv
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31762
+#EXTINF:-1 tvg-id="" tvg-name="RO115:Prima Tv" tvg-logo="" group-title="Romania",RO115:Prima Tv
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31761
+#EXTINF:-1 tvg-id="" tvg-name="RO116:PRO 2 (ACASA TV)" tvg-logo="" group-title="Romania",RO116:PRO 2 (ACASA TV)
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31760
+#EXTINF:-1 tvg-id="" tvg-name="RO117:Pro Cinema HD" tvg-logo="" group-title="Romania",RO117:Pro Cinema HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31759
+#EXTINF:-1 tvg-id="" tvg-name="RO118:PRO TV" tvg-logo="" group-title="Romania",RO118:PRO TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31758
+#EXTINF:-1 tvg-id="" tvg-name="RO119:PRO X HD" tvg-logo="" group-title="Romania",RO119:PRO X HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31757
+#EXTINF:-1 tvg-id="" tvg-name="RO120:Romania TV" tvg-logo="" group-title="Romania",RO120:Romania TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31756
+#EXTINF:-1 tvg-id="" tvg-name="RO121:Taraf HD" tvg-logo="" group-title="Romania",RO121:Taraf HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31755
+#EXTINF:-1 tvg-id="" tvg-name="RO122:TELEKOM SPORT 1 FHD" tvg-logo="" group-title="Romania",RO122:TELEKOM SPORT 1 FHD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31754
+#EXTINF:-1 tvg-id="" tvg-name="RO123:TELEKOM SPORT 3 FHD" tvg-logo="" group-title="Romania",RO123:TELEKOM SPORT 3 FHD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31753
+#EXTINF:-1 tvg-id="" tvg-name="RO124:TELEKOM SPORT 4 FHD" tvg-logo="" group-title="Romania",RO124:TELEKOM SPORT 4 FHD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31752
+#EXTINF:-1 tvg-id="" tvg-name="RO125:TLC" tvg-logo="" group-title="Romania",RO125:TLC
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31751
+#EXTINF:-1 tvg-id="" tvg-name="RO126:TNT" tvg-logo="" group-title="Romania",RO126:TNT
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31750
+#EXTINF:-1 tvg-id="" tvg-name="RO127:Travel Mix" tvg-logo="" group-title="Romania",RO127:Travel Mix
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31749
+#EXTINF:-1 tvg-id="" tvg-name="RO128:TRINITAS TV" tvg-logo="" group-title="Romania",RO128:TRINITAS TV
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31748
+#EXTINF:-1 tvg-id="" tvg-name="RO129:TV 1000 HD" tvg-logo="" group-title="Romania",RO129:TV 1000 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31747
+#EXTINF:-1 tvg-id="" tvg-name="RO130:TV5 Monde" tvg-logo="" group-title="Romania",RO130:TV5 Monde
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31746
+#EXTINF:-1 tvg-id="" tvg-name="RO131:TVR 1 HD" tvg-logo="" group-title="Romania",RO131:TVR 1 HD
+http://a1.hdflix.live:8880/test164/emJ2NdMSbf/31745
