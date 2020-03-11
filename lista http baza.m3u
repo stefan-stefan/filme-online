@@ -43,7 +43,7 @@
 
 <item>
 <title>B1 TV</title>
-<link>http://193.228.153.231:4242/bysid/70</link>
+<link>http://tv-he.orange.ro/shls/LIVE$b1tv/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
 <thumbnail>https://www.b1.ro/thumbs/landscape_big/2012/02/06/aplicatia-b1-ro-pentru-iphone-pe-primul-loc-in-topul-descarcarilor-din-apple-store-in-categoria-news-32395.jpg</thumbnail>
 <fanart>https://www.b1.ro/thumbs/landscape_big/2012/02/06/aplicatia-b1-ro-pentru-iphone-pe-primul-loc-in-topul-descarcarilor-din-apple-store-in-categoria-news-32395.jpg</fanart>
 </item>
@@ -72,7 +72,7 @@
  
 <item>
 <title>ANTENA 1</title>
-<link>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</link>
+<link>http://tv-he.orange.ro/shls/LIVE$antena1hd/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
 <thumbnail>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</thumbnail>
 <fanart>https://banner2.cleanpng.com/20180511/qve/kisspng-antena-1-television-channel-romania-logo-5af5f4dbeeb3d5.4067865815260684439777.jpg</fanart>
 </item>
