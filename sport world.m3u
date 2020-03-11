@@ -18,3 +18,12 @@
 <thumbnail>https://media.cdnandroid.com/5c/ad/6e/34/75/imagen-live-sports-tv-cricket-0big.jpg</thumbnail>
 <fanart>https://media.cdnandroid.com/5c/ad/6e/34/75/imagen-live-sports-tv-cricket-0big.jpg</fanart>
 </item>
+
+<plugin>
+<title>[B][COLORlimegreen]Golf Channel[/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</sublink>
+</link>
+<thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart>
+</plugin>
