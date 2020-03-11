@@ -35,7 +35,7 @@
 
 <item>
 <title>DIGI 24</title>
-<link>http://edge75.rcs-rds.ro:80/digi24edge/smil:digi24.smil/chunklist_b2830400_sleng.m3u8</link>
+<link>https://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/chunklist_w1679842574_b2830400_sleng.m3u8</link>
 <thumbnail>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</thumbnail>
 <fanart>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</fanart>
 </item>
@@ -155,7 +155,7 @@
 
 <item>
 <title>Epic Drama</title>
-<link>http://edge81.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://edge24.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000</link>
 <thumbnail>https://media2.pl/g/750/63935.jpg</thumbnail>
 <fanart>https://media2.pl/g/750/63935.jpg</fanart>
 </item>
@@ -204,7 +204,7 @@
 
 <item>
 <title>Film Cafe</title>
-<link>http://edge81.rdsnet.ro/digiedge3/filmcafeemq/chunklist_w1201989155.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://edge84.rdsnet.ro/digiedge3/filmcafeehq/index.m3u8?is=94&src=digi-online.ro&t=00000000000000000000000000000000</link>
 <thumbnail>https://movienews.ro/wp-content/uploads/2015/04/film-cafe-696x392.jpg</thumbnail>
 <fanart>https://movienews.ro/wp-content/uploads/2015/04/film-cafe-696x392.jpg</fanart>
 </item>
@@ -246,7 +246,7 @@
 
 <item>
 <title>Bollywood HD</title>
-<link>http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END</link>
+<link>https://edge84.rcs-rds.ro/digiedge3/bollywoodtvehq/chunklist_w202815946.m3u8?is=96&src=app&t=00000000000000000000000000000000</link>
 <thumbnail>https://archive.is/mjd7G/51f2bcb0c0288b1f8f53cc6e917ca576c47ddf03.png</thumbnail>
 <fanart>https://archive.is/mjd7G/51f2bcb0c0288b1f8f53cc6e917ca576c47ddf03.png</fanart>
 </item>
@@ -302,14 +302,14 @@
 
 <item>
 <title>CBS REALITY</title>
-<link>http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<link>http://edge84.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000</link>
 <thumbnail>https://i.ytimg.com/vi/qUfcN2pcYIA/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/qUfcN2pcYIA/maxresdefault.jpg</fanart>
 </item>
 
 <item>
 <title>Discovery</title>
-<link>http://82.76.40.81/digiedge2/smil:discovery.smil/playlist.m3u8?is=71&src=app&t=00000000000000000000000000000000</link>
+<link>http://82.76.252.30/digiedge2/discoveryehq/index.m3u8?is=71&src=app&t=00000000000000000000000000000000</link>
 <thumbnail>https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg</thumbnail>
 <fanart>https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg</fanart>
 </item>
