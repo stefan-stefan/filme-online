@@ -8,7 +8,7 @@
 
 <plugin>
 <title>TVR 2(sursa 2)</title>
-<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
+<link>plugin://script.sopcast.player/?url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
