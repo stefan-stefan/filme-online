@@ -114,7 +114,7 @@
 
 <item>
 <title>Kanal D</title>
-<link>http://193.228.153.231:4240/bysid/50</link>
+<link>http://tv-he.orange.ro/shls/LIVE$kanaldhd/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
 <thumbnail>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</thumbnail>
 <fanart>https://tvmania.ro/wp-content/uploads/2019/11/Kanal-D-1280x720.jpg</fanart>
 </item>
@@ -170,7 +170,7 @@
 
 <item>
 <title>AXN</title>
-<link>http://82.76.40.81/digiedge2/smil:axn.smil/playlist.m3u8?is=44&src=app&t=00000000000000000000000000000000</link>
+<link>http://tv-he.orange.ro/shls/LIVE$axnhd/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
 <thumbnail>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/04/AXN-%C3%A9-o-canal-mais-assistido-pelas-mulheres-em-2017.jpg</thumbnail>
 <fanart>https://observatoriodatv.bol.uol.com.br/wp-content/uploads/2017/04/AXN-%C3%A9-o-canal-mais-assistido-pelas-mulheres-em-2017.jpg</fanart>
 </item>
@@ -191,7 +191,7 @@
 
 <item>
 <title>AXN SPIN</title>
-<link>http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site</link>
+<link>http://tv-he.orange.ro/shls/LIVE$axnspin/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
 <thumbnail>https://www.paginademedia.ro/wp-content/uploads/2017/05/axn-rebrand-2015-11_tb730.jpg</thumbnail>
 <fanart>https://www.paginademedia.ro/wp-content/uploads/2017/05/axn-rebrand-2015-11_tb730.jpg</fanart>
 </item>
