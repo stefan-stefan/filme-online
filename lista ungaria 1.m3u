@@ -62,6 +62,13 @@
 </item>
 
 <item>
+<title>Comedy Central</title>
+<link>http://92.249.148.48:8001/play/a00c</link>
+<thumbnail>https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png</thumbnail>
+<fanart>https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png</fanart>
+</item>
+
+<item>
 <title>Hbo 2</title>
 <link>http://iptvclub.live:25461/kkgOtPfCwGBvDBo/pYvQpZ4hJS7EgNO/57087</link>
 <thumbnail>https://i.vimeocdn.com/video/128361224_640.jpg</thumbnail>
@@ -151,6 +158,13 @@
 <link>http://92.249.148.48:8001/play/fplus<link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/c/c4/FILM%2B_logo_2014_Hungary.png</fanart>
+</item>
+
+<item>
+<title>Cool TV</title>
+<link>http://92.249.148.48:8001/play/a00j</link>
+<thumbnail>https://img.favpng.com/6/6/17/logo-cool-tv-television-channel-png-favpng-3PhmhGv44c7npLFtMx7zufDKr.jpg</thumbnail>
+<fanart>https://img.favpng.com/6/6/17/logo-cool-tv-television-channel-png-favpng-3PhmhGv44c7npLFtMx7zufDKr.jpg</fanart>
 </item>
 
 <item>
