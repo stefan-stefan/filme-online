@@ -6,6 +6,14 @@
 </item>
 
 <item>
+<title>ANTENA 1(test)(sopcast)</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://8ac91b2e09d7aff37ac7075bfb4b378ab8112046&mode=1&name=acestream&mode=1&name=AV 9
+</link>
+<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
+<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
+</item>
+
+<item>
 <title>ANTENA 1(Acestream)</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
