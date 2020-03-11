@@ -5,13 +5,13 @@
 <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
 </item>
 
-<item>
-<title>ANTENA 1(test)(sopcast)</title>
+<plugin>
+<title>ANTENA 1(test)(acestream)</title>
 <link>plugin://program.plexus/?mode=1&url=acestream://8ac91b2e09d7aff37ac7075bfb4b378ab8112046&mode=1&name=acestream&mode=1&name=AV 9
 </link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
-</item>
+</plugin>
 
 <item>
 <title>ANTENA 1(Acestream)</title>
