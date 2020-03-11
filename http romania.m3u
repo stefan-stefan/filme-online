@@ -19,12 +19,12 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </plugin>
 
-<plugin>
+<dir>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]RCS-RDS [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
 <thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
 <fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
-</plugin>
+</dir>
 
 <plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TS TEST [/COLOR][/B]</title>
