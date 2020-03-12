@@ -5,6 +5,7 @@
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </plugin>
 
+<item>
 <channels>
 <channel>
 <name>1test sop-ace</name>
@@ -15,7 +16,7 @@
 <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </channel>
-
+<item>
 
 <plugin>
 <title>TVR 2V(test sopcast)</title>
