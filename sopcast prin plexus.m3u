@@ -7,14 +7,14 @@
 
 <plugin>
 <title>Ttesttt2(sursa 1)</title>
-<link>plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/149256&mode=&amp;mode=2&amp;name=Acasa</link>
+<link>plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264941&mode=&amp;mode=2&amp;name=Acasa</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </item>
 
 <plugin>
 <title>TVR 2(sursa 2)</title>
-<link>plugin://plugin.video.p2ptv/?url=adresacanal&mode=&amp;mode=1&amp;name=numecanal</link>
+<link>plugin://plugin.video.p2ptv/?url=plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264961&mode=&amp;mode=1&amp;name=numecanal</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </item>
