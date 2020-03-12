@@ -5,6 +5,15 @@
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </plugin>
 
+<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
 <item>
 <channels>
 <channel>
