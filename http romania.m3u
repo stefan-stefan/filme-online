@@ -41,12 +41,12 @@
 <fanart>https://www.latest-kodi.com/wp-content/uploads/2019/03/1552961973_hqdefault.jpg</fanart>
 </plugin>
 
-<plugin>
+<dir>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LIPSA STREAM[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast%20prin%20plexus.m3u</link>
 <thumbnail>https://ak7.picdn.net/shutterstock/videos/25150127/thumb/1.jpg</thumbnail>
 <fanart>https://www.latest-kodi.com/wp-content/uploads/2019/03/1552961973_hqdefault.jpg</fanart>
-</plugin>
+</dir>
 
 <plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA SOPCAST(Necesita Plexus) [/COLOR][/B]</title></title>
