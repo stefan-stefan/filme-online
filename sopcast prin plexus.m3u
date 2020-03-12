@@ -5,7 +5,7 @@
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </plugin>
 
- <plugin>
+ <item>
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
             <regex>
@@ -15,9 +15,9 @@
             <referer></referer>
             <setcookie></setcookie>
             </regex>
-            </plugin>
+            </item>
             
-             <plugin>
+ <plugin>
             <title>tsoppp</title>
             <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
             <regex>
