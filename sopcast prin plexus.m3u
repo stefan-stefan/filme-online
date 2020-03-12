@@ -10,7 +10,7 @@
 <link>plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264941&mode=&amp;mode=2&amp;name=Acasa</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>TEST ACE(P2PTV)</title>
