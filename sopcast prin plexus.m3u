@@ -1,16 +1,16 @@
-<plugin>
+<dir>
 <title>TEST PLEXUS</title>
 <link>plugin: //program.plexus/ mode = 2 & url = sop :? //broker.sopcast.com: 3912/264941&amp;name=SopProg</link>
 <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
-</plugin>
+</dir>
 
-<plugin>
+<dir>
 <title>TVR 2V(test sopcast)</title>
 <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</dir>
 
 <dir>
 <title>Ttesttt3(TEST P2PTV)</title>
@@ -26,12 +26,12 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </dir>
 
-<plugin>
+<dir>
 <title>TEST ACE(P2PTV)</title>
 <link>plugin://plugin.video.p2ptv/?url=plugin://plugin.video.p2ptv/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&mode=&amp;mode=1&amp;name=numecanal</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</dir>
 
 <item>
 <title>TVR 2</title>
