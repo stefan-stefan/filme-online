@@ -49,14 +49,14 @@
 
 <item>
 <title>TVR Moldova</title>
-<link></link>
+<link>plugin://plugin.video.p2p-streams/?url=sop://124.232.150.188:3912/264941&mode=2&name=title+sopcast</link>
 <thumbnail>https://www.romani.md/wp-content/uploads/2019/12/TVR-Moldova.jpg</thumbnail>
 <fanart>https://www.romani.md/wp-content/uploads/2019/12/TVR-Moldova.jpg</fanart>
 </item>
 
 <item>
 <title>DIGI 24</title>
-<link></link>
+<link>plugin://plugin.video.p2p-streams/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=acestream+title</link>
 <thumbnail>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</thumbnail>
 <fanart>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</fanart>
 </item>
