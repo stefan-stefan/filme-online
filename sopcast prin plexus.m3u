@@ -5,7 +5,19 @@
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </plugin>
 
-plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264941&mode=&amp;mode=2&amp;name=Antena
+<plugin>
+<title>TVR 2V(test sopcast)</title>
+<link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
+<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
+<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
+</plugin>
+
+<plugin>
+<title>Ttesttt3(TEST P2PTV)</title>
+<link>plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
+<thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
+<fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
+</plugin>
 
 <plugin>
 <title>Ttesttt2(TEST P2PTV)</title>
