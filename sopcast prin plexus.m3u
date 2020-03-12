@@ -21,7 +21,7 @@
             
  <dir>
             <title>tsoppp</title>
-            <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg</link>
+            <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20baza%20acestram.m3u</link>
             <regex>
             <name>h</name>
             <expres></expres>
