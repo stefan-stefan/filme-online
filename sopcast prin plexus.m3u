@@ -9,7 +9,7 @@
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
             <regex>
-            <name>h</name>
+            <name>plexus</name>
             <expres></expres>
             <page></page>
             <referer></referer>
