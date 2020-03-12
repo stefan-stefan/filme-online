@@ -6,6 +6,13 @@
 </item>
 
 <plugin>
+<title>ANTENA 1(Acestream  plexkk)</title>
+<link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
+<thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
+<fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
+</plugin>
+
+<plugin>
 <title>ANTENA 1(Acestream  plex)</title>
 <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
