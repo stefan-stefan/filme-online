@@ -1,9 +1,9 @@
-<item>
+<plugin>
 <title>TVR 1</title>
 <link></link>
 <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
-</item>
+</plugin>
 
 <plugin>
 <title>Ttesttt2(sursa 1)</title>
@@ -17,7 +17,7 @@
 <link>plugin://plugin.video.p2ptv/?url=plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264961&mode=&amp;mode=1&amp;name=numecanal</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</item>
+</plugin>
 
 <item>
 <title>TVR 2</title>
