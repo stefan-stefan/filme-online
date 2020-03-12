@@ -5,8 +5,8 @@
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </plugin>
 
- <item>
-            <title>ttteeee</title>
+ <plugin>
+            <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=Arenavision</link>
             <regex>
             <name>h</name>
@@ -15,7 +15,7 @@
             <referer></referer>
             <setcookie></setcookie>
             </regex>
-            </item>
+            </plugin>
 
 <plugin>
 <title>Plexus Test</title>
