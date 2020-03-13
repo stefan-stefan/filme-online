@@ -65,12 +65,12 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
 
-<plugin>
-<title>Ttesttt3(TEST P2PTV)</title>
+<item>
+<title>Ttesttt333433(TEST P2PTV)</title>
 <link>plugin://plugin.video.p2ptv/?url=3912/264945&name=SopProg</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>Ttesttt2222(TEST  P2PTV)</title>
@@ -79,12 +79,12 @@
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
 </plugin>
 
-<plugin>
-<title>TEST ACE11(P2PTV)</title>
+<item>
+<title>TEST ACE111111(P2PTV)</title>
 <link>plugin://plugin.video.p2ptv/?url=plugin://plugin.video.p2ptv/?url=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&mode=&amp;mode=1&amp;name=numecanal</link>
 <thumbnail>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</thumbnail>
 <fanart>https://www.cancan.ro/wp-content/uploads/2019/12/tvr2-1280x720.jpg</fanart>
-</plugin>
+</item>
 
 <item>
 <title>TVR 2</title>
@@ -107,12 +107,12 @@
 <fanart>https://www.romani.md/wp-content/uploads/2019/12/TVR-Moldova.jpg</fanart>
 </plugin>
 
-<plugin>
-<title>DIGI 24</title>
+<item>
+<title>DIGI 22224</title>
 <link>plugin://plugin.video.p2p-streams/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=acestream+title</link>
 <thumbnail>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</thumbnail>
 <fanart>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</fanart>
-</plugin>
+</item>
 
 <item>
 <title>B1 TV</title>
