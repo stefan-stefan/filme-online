@@ -3,7 +3,7 @@
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
             <regex>
-            <name>Antena 1</name>
+            <name>Antena 11</name>
             <expres></expres>
             <page></page>
             <referer></referer>
@@ -17,7 +17,7 @@
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
             <regex>
-            <name>Antena 1</name>
+            <name>Antena 22</name>
             <expres></expres>
             <page></page>
             <referer></referer>
