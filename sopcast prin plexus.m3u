@@ -1,8 +1,8 @@
 <plugin>
 <title>SOPCAST(P2PTV)</title>
 <link>plugin://plugin.video.p2ptv/?url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/Dm7cFjhzgHo/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Dm7cFjhzgHo/hqdefault.jpg</fanart>
 </plugin>
 
 
