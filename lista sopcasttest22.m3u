@@ -7,8 +7,7 @@ plugin:///plugin.video.p2ptv/?mode=2&url=sop://broker.sopcast.com:3912/265002&na
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png"group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]TESTTT 
 plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264941&mode=&amp;mode=2&amp;name=Antena
 #EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Diva Universal
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265083&name=SopProg
-sop://broker.sopcast.com:3912/265002
+plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264941&mode=&amp;mode=2&amp;name=Antena
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cinemax
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265011&name=SopProg
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cinemax 2
@@ -167,26 +166,6 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148249&name=So
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=SopProg
 #EXTINF:-1,Romania Tv
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148258&name=SopProg
-#EXTINF:-1,Tlc
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
-#EXTINF:-1,Tv Paprika
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148881&name=SopProg
-#EXTINF:-1,Tv1000
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256337&name=SopProg
-#EXTINF:-1,Tvr 1
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148085&name=SopProg
-#EXTINF:-1,Tvr 1
-plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148085&name=SopProg
-#EXTINF:-1,Viasat Explorer
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149269&name=SopProg
-#EXTINF:-1,Viasat History
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149268&name=SopProg
-#EXTINF:-1,Viasat Nature
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149267&name=SopProg
-#EXTINF:-1,Vladimir29
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/140000&name=SopProg
-#EXTINF:-1,Zu Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148252&name=SopProg
 
 
 
