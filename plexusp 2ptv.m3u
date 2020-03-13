@@ -2,7 +2,7 @@
 <item>
 <title>Plexus Test1</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream Name goes here)</sublink>
+<sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/acestream%20lista%202.m3u</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
