@@ -1,5 +1,5 @@
 
- <dir>
+ <plugin>
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
             <regex>
@@ -11,7 +11,21 @@
             <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
             <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
             </regex>
-            </dir>
+ </plugin>
+ 
+  <dir>
+            <title>ttt</title>
+            <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
+            <regex>
+            <name>Antena 1</name>
+            <expres></expres>
+            <page></page>
+            <referer></referer>
+            <setcookie></setcookie>
+            <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
+            <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
+            </regex>
+ </dir>
             
  <dir>
             <title>tdddd1</title>
