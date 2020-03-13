@@ -1,12 +1,12 @@
 <xml>
-<plugin>
+<item>
 <title>Plexus Test1</title>
 <link>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream Name goes here)</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>Plexus Testace</title>
@@ -17,17 +17,17 @@
 <fanart></fanart>
 </plugin>
 
-<plugin>
-<title>Plexus Test2</title>
+<item>
+<title>Plexus 333Test2</title>
 <link>
 <sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 
 <plugin>
-<title>Plexus Test3</title>
+<title>Plexus 444Test3</title>
 <link>
 <sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
 <animated_thumbnail></animated_thumbnail>
