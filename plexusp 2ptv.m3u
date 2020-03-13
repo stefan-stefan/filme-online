@@ -17,7 +17,7 @@
 
  <item>
 <title>Tastez 2</title>
-<link>$doregex[makelist]</link>
+<link></link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
