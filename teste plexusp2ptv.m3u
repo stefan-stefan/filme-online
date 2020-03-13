@@ -1,7 +1,18 @@
-
 < item >
-  < titlu > </ title >
-  < link > </ link >
+< title > 2015 Filme Trailer </ title >
+< link > $ doregex [makelist] </ link >
+< regex >
+< nume > makelist </ nume >
+< listrepeat > <! [CDATA [
+    <Title> [makelist.param2] </ title>
+    <Link> plugin: //plugin.video.youtube/play/ video_id = [makelist.param1] </ link>
+    <Miniatură> NA </ miniatură>
+]]> </ listrepeat >
+< expres > \ s? .data-video-id = "(. *?)". * data-title = "(. *?)" </ expres >
+< pagina > https://www.youtube.com/playlist?list=PL63F0C78739B09958 </ pagina >
+< SECOND > https://www.youtube.com/user/movieclipsTRAILERS/playlists </ note >
+< cookieJar > </ cookieJar >
+</ regex >
 </ item >
 
 < item >
