@@ -1,19 +1,6 @@
-<plugin>
-<title>Ttesttt2(p2ptv)</title>
-<link>plugin://plugin.video.p2ptv/?url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&mode=&amp;mode=2&amp;name=Antena</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 
 <plugin>
-<title>Ttestttkkk2(p2ptv)</title>
-<link>plugin://plugin.video.p2ptv/?url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&mode=&amp;mode=2&amp;name=Antena</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>tjjjjk2(p2ptv)</title>
+<title>SOPCAST(p2ptv)</title>
 <link>plugin://plugin.video.p2ptv/?url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -21,12 +8,7 @@
 
 
 
-<plugin>
-<title>tjjjjk2(p2ptv)</title>
-<link>plugin://plugin.video.p2ptv/?url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+
 
 
 
