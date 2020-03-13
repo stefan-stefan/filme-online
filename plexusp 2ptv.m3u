@@ -1,8 +1,16 @@
-<item>
+<plugin>
 <title>Arenavision (P2P)</title>
 <link>plugin://plugin.video.p2p-streams/?url=73e94985c43ca2f399a6c40ca3b832e912f3af0d&amp;mode=1&amp;name=Test</link>
 <thumbnail>http://s2.subirimagenes.com/imagen/previo/thump_8805815arenavision.png</thumbnail>
-</item>
+</plugin>
+
+<plugin>
+<title>test 2 (P2P)</title>
+<link>plugin://plugin.video.p2p-streams/?url=73e94985c43ca2f399a6c40ca3b832e912f3af0d&amp;mode=1&amp;name=Test</link>
+<thumbnail>http://s2.subirimagenes.com/imagen/previo/thump_8805815arenavision.png</thumbnail>
+</plugin>
+
+
 <item>
 <title>Liga (P2P)</title>
 <link>plugin://plugin.video.p2p-streams/?url=5d2341391e460050b87694dde553f141c0a5d9ce&amp;mode=1&amp;name=Test</link>
