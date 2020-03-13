@@ -31,14 +31,5 @@
 <link>plugin://plugin.video.p2p-streams/?url=95c43951ff1aab57b59110c7b4b4494a4c3f80e5&amp;mode=1&amp;name=Test</link>
 <thumbnail></thumbnail>
 </item>
-<item>
-<title>Sky sports 1 (P2P)</title>
-<link>plugin://plugin.video.p2p-streams/?url=e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&amp;mode=1&amp;name=Test</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Sky sports 2 (P2P)</title>
-<link>plugin://plugin.video.p2p-streams/?url=4e95bb619dcb9074821af31fa0d3d65c209dcdc1&amp;mode=1&amp;name=Test</link>
-<thumbnail></thumbnail>
-</item>
+
 
