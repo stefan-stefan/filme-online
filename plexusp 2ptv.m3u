@@ -105,8 +105,8 @@
 <item>
     <title>[B][COLOR skyblue]Server 1[/COLOR][/B][COLOR lime] TEST 3[/COLOR]</title>
         <link>$doregex[makelist1]</link>
-        <thumbnail>https://www.kumanda.tv/images/kumandatv.png</thumbnail>
-        <fanart>http://imgh.us/bg_iptv.png</fanart>
+        <thumbnail>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</thumbnail>
+        <fanart>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</fanart>
     <regex>
         <name>makelist1</name>
         <listrepeat><![CDATA[
@@ -144,8 +144,8 @@
 <item>
     <title>[B][COLOR skyblue]Server 2[/COLOR][/B][COLOR lime] TEST 4[/COLOR]</title>
         <link>$doregex[makelist]</link>
-        <thumbnail>http://www.myvideo.az/v4_imgs/logo.png?v4</thumbnail>
-        <fanart>http://imgh.us/bg_iptv.png</fanart>
+        <thumbnail>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</thumbnail>
+        <fanart>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</fanart>
     <regex>
         <name>makelist</name>
         <listrepeat><![CDATA[
@@ -154,7 +154,7 @@
        <thumbnail>http://www.myvideo.az[makelist.param1]</thumbnail>
        ]]></listrepeat>
         <expres>background-image:url\('(.*?)'\);" alt="(.*?)"</expres>
-        <page>http://pastebin.com/raw/AXZj8s1v</page>
+        <page>https://pastebin.com/raw/5aXETiyh</page>
     </regex>
     <regex>
         <name>get-srv</name>
