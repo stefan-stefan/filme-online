@@ -26,13 +26,6 @@
 <fanart>https://hegyvidekharcosai.hu/wp-content/uploads/2019/05/hegyvidektv.jpg</fanart>
 </item>
 
-<item>
-<title>Markiza</title>
-<link>http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13271</link>
-<thumbnail>https://i.ytimg.com/vi/xbq6PUfyeGg/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/xbq6PUfyeGg/hqdefault.jpg</fanart>
-</item>
-
 
 <item>
 <title>Kanizsa TV</title>
@@ -104,12 +97,6 @@
 <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/5/53/TV3_logo_2009.svg/1200px-TV3_logo_2009.svg.png</fanart>
 </item>
 
-<item>
-<title>Life Network </title>
-<link>http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13277</link>
-<thumbnail>https://pbs.twimg.com/profile_images/685126520445243392/XUNIQ33B.png</thumbnail>
-<fanart>https://pbs.twimg.com/profile_images/685126520445243392/XUNIQ33B.png</fanart>
-</item>
 
 <item>
 <title>RTL KLUB</title>
@@ -342,6 +329,13 @@ https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/07/logo-rtlklu
 <link>http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13256</link>
 <thumbnail>https://g.denik.cz/50/03/sport2_cmyk_galerie-980.jpg</thumbnail>
 <fanart>https://g.denik.cz/50/03/sport2_cmyk_galerie-980.jpg</fanart>
+</item>
+
+<item>
+<title>Boomerang</title>
+<link>http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13277</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png</fanart>
 </item>
 
 
