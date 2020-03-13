@@ -1,6 +1,6 @@
 <item>
 <title>Tastez Ro</title>
-<link>$doregex[makelist]</link>
+<link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -17,7 +17,7 @@
 
  <item>
 <title>Tastez 2</title>
-<link></link>
+<linkplugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea></link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
