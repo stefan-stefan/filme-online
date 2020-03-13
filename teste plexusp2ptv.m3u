@@ -1,9 +1,9 @@
-<dir>
+<plugin>
 <title> PLEXUS2</title>
 <link>https://pastebin.com/5aXETiyh</link>
 <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
-</dir>
+</plugin>
 
 < item >
   < titlu > </ title >
@@ -27,7 +27,7 @@
 </ regex >
 </ item >
 
- <dir>
+ <plugin>
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
             <regex>
@@ -39,9 +39,9 @@
             <thumbnail>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</thumbnail>
             <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
             </regex>
-            </dir>
+            </plugin>
             
- <dir>
+ <plugin>
             <title>tdddd</title>
             <link></link>
             <regex>
@@ -51,18 +51,18 @@
             <referer></referer>
             <setcookie></setcookie>
             </regex>
-            </dir>
+            </plugin>
 
-<dir>
+<plugin>
 <title>Plexus Test</title>
 <link>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</dir>
+</plugin>
 
-<dir>
+<dplugin>
 <name>1test sop-ace</name>
 <quality>unknown</quality>
 <livenow>unknown</livenow>
