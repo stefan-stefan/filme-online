@@ -63,6 +63,15 @@
 </plugin>
 
 
+<plugin>
+<title>Plexus Test4</title>
+<link>
+<sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
 
 
 
