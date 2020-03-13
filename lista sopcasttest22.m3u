@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTINF:-1,Pro TV S1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148982&name=Protv
+#EXTINF:-1,Pro TV S2
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149252&name=Protv
+#EXTINF:-1,Acasa
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=Acasa
+#EXTINF:-1,Acasa Gold
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=AcasaGold
+#EXTINF:-1,Antena 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=Antena1
+#EXTINF:-1,Antena Stars
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148255&name=SopProg
+#EXTINF:-1,Antena3
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148084&name=SopProg
+#EXTINF:-1,Axn
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253035&name=SopProg
+#EXTINF:-1,Axn Black
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149261&name=SopProg
+#EXTINF:-1,Axn Spin
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149263&name=SopProg
+#EXTINF:-1,Axn White
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256240&name=SopProg
+#EXTINF:-1,B1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148087&name=SopProg
+#EXTINF:-1,B1
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148087&name=SopProg
+#EXTINF:-1,Bbc Earth
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148257&name=SopProg
+#EXTINF:-1,Bollywood Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148884&name=SopProg
+#EXTINF:-1,Boomerang
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149264&name=SopProg
+#EXTINF:-1,Canal + Hd Liga
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/258921&name=SopProg
+#EXTINF:-1,Cartoon Network
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253470&name=SopProg
+#EXTINF:-1,Cartoon Network
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148254&name=SopProg
+#EXTINF:-1,Cinemax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148882&name=SopProg
+#EXTINF:-1,Comedy Central
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/253470&name=SopProg
+#EXTINF:-1,Digi Film
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149253&name=SopProg 
+#EXTINF:-1,Digi World
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148260&name=SopProg
+#EXTINF:-1,Digisport 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148080&name=SopProg
+#EXTINF:-1,Digisport 2
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148251&name=SopProg
+#EXTINF:-1,Discovery Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=SopProg
+#EXTINF:-1,Discovery Id
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256244&name=SopProg
+#EXTINF:-1,Discovery Science
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256243&name=SopProg
+#EXTINF:-1,Discovery World
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256242&name=SopProg
+#EXTINF:-1,Disney Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253031&name=SopProg
+#EXTINF:-1,Disney Channel
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/253031&name=SopProg
+#EXTINF:-1,Disney Junior
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256239&name=SopProg
+#EXTINF:-1,Diva
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/253034&name=SopProg
+#EXTINF:-1,Diva Universal
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253034&name=SopProg
+#EXTINF:-1,Duck Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148259&name=SopProg
+#EXTINF:-1,Euforia
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253473&name=SopProg
+#EXTINF:-1,Filmbox
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148981&name=SopProg
+#EXTINF:-1,Filmcafe
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256238&name=SopProg
+#EXTINF:-1,Fox Sports 2
+plugin://program.plexus/?mode=2&url=sop://124.232.150.188:3920/5730&name=SopProg
+#EXTINF:-1,Hbo
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149254&name=SopProg
+#EXTINF:-1,Hbo - (broken)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148985&name=SopProg
+#EXTINF:-1,Hbo Comedy
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149259&name=SopProg
+#EXTINF:-1,History Channel
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253032&name=SopProg
+#EXTINF:-1,Kanal D
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149258&name=SopProg
+#EXTINF:-1,Kiss Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148883&name=SopProg
+#EXTINF:-1,Look Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148262&name=SopProg
+#EXTINF:-1,Megamax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256328&name=SopProg
+#EXTINF:-1,Minimax
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148263&name=SopProg
+#EXTINF:-1,Mpfm
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148261&name=SopProg
+#EXTINF:-1,Nat Geo Wild
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253037&name=SopProg
+#EXTINF:-1,National
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/253030&name=SopProg
+#EXTINF:-1,National Geographic
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148248&name=SopProg
+#EXTINF:-1,National Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253030&name=SopProg
+#EXTINF:-1,Nick Jr
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149266&name=SopProg
+#EXTINF:-1,Nickelodeon
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253472&name=SopProg
+#EXTINF:-1,Paramount
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253033&name=SopProg
+#EXTINF:-1,Prima
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148086&name=SopProg
+#EXTINF:-1,Prima Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148086&name=SopProg
+#EXTINF:-1,Pro Cinema
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148249&name=SopProg
+#EXTINF:-1,Realitatea Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=SopProg
+#EXTINF:-1,Romania Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148258&name=SopProg
+#EXTINF:-1,Tlc
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
+#EXTINF:-1,Tv Paprika
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148881&name=SopProg
+#EXTINF:-1,Tv1000
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256337&name=SopProg
+#EXTINF:-1,Tvr 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148085&name=SopProg
+#EXTINF:-1,Tvr 1
+plugin://program.plexus/?mode=2&url=sop://151.80.76.190:3912/148085&name=SopProg
+#EXTINF:-1,Viasat Explorer
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149269&name=SopProg
+#EXTINF:-1,Viasat History
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149268&name=SopProg
+#EXTINF:-1,Viasat Nature
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149267&name=SopProg
+#EXTINF:-1,Vladimir29
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/140000&name=SopProg
+#EXTINF:-1,Zu Tv
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148252&name=SopProg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
