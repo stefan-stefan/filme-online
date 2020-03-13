@@ -22,8 +22,8 @@
             <page></page>
             <referer></referer>
             <setcookie></setcookie>
-            </regex>
-            </dir>
+           </regex> 
+</dir> 
 
 <plugin>
 <title>Plexus Test</title>
