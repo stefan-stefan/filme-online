@@ -2,7 +2,7 @@
 <item>
 <title>Plexus Test1</title>
 <link>
-<sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/acestream%20lista%202.m3u</sublink>
+<sublink>https://github.com/stefan-stefan/filme-online/blob/master/acestream%20lista%202.m3u</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -11,7 +11,7 @@
 <plugin>
 <title>Plexus Test1444</title>
 <link>
-<sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/acestream%20lista%202.m3u</sublink>
+<sublink>https://github.com/stefan-stefan/filme-online/blob/master/acestream%20lista%202.m3u</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -20,57 +20,12 @@
 <dir>
 <title>Plexus Test111111</title>
 <link>
-<sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/acestream%20lista%202.m3u</sublink>
+https://github.com/stefan-stefan/filme-online/blob/master/acestream%20lista%202.m3u<sublink>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/acestream%20lista%202.m3u</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
-<plugin>
-<title>Plexus Testace</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<item>
-<title>Plexus 333Test2</title>
-<link>
-<sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<plugin>
-<title>Plexus 444Test3</title>
-<link>
-<sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>Plexus Test4</title>
-<link>
-<sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-
-<plugin>
-<title>Plexus Test4</title>
-<link>
-<sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
-<animated_thumbnail></animated_thumbnail>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 
 
 
