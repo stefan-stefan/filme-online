@@ -14,8 +14,8 @@
             </dir>
             
  <dir>
-            <title>tdddd</title>
-            <link></link>
+            <title>tdddd1</title>
+            <link>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=Protv</link>
             <regex>
             <name>h</name>
             <expres></expres>
