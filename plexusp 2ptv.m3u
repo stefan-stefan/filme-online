@@ -103,7 +103,7 @@
 </item>
  
 <item>
-    <title>[B][COLOR skyblue]Server 1[/COLOR][/B][COLOR lime] Turk IPTV Canallari listesi[/COLOR]</title>
+    <title>[B][COLOR skyblue]Server 1[/COLOR][/B][COLOR lime] TEST 3[/COLOR]</title>
         <link>$doregex[makelist1]</link>
         <thumbnail>https://www.kumanda.tv/images/kumandatv.png</thumbnail>
         <fanart>http://imgh.us/bg_iptv.png</fanart>
@@ -142,7 +142,7 @@
 </item>
  
 <item>
-    <title>[B][COLOR skyblue]Server 2[/COLOR][/B][COLOR lime] Turk IPTV Canallari listesi[/COLOR]</title>
+    <title>[B][COLOR skyblue]Server 2[/COLOR][/B][COLOR lime] TEST 4[/COLOR]</title>
         <link>$doregex[makelist]</link>
         <thumbnail>http://www.myvideo.az/v4_imgs/logo.png?v4</thumbnail>
         <fanart>http://imgh.us/bg_iptv.png</fanart>
@@ -171,7 +171,7 @@
 </item>
  
 <item>
-    <title>[COLOR lime][B]Zatto Live[/B] [/COLOR]</title>
+    <title>[COLOR lime][B]TEST 5/B] [/COLOR]</title>
     <link>ignore</link>
     <jsonrpc>plugin://plugin.video.zattooHiQ/?mode=channellist</jsonrpc>
     <thumbnail>/storage/.kodi/addons/plugin.video.zattooHiQ/icon.png</thumbnail>
