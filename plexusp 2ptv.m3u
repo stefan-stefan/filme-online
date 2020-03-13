@@ -1,50 +1,22 @@
-<dir>
-<title>Tastez 3344</title>
-<link>https://github.com/demon-bit/JenXML/blob/7120620160bee24ba34addf66611e04b5c95a513/sportzig/worldtv.xml</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param2]</title>
- <link>plugin://program.plexus/?url=sop://185.122.59.8:3912/149257&amp;mode=2&amp;name=[makelist.param2]</link>
- <thumbnail></thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
-<page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
-</regex>
+Plexus
+<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://1618ad4debdff785c863bd320b5e7d16d563a283(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
-</dir>
-
-
- <plugin>
-<title>Tastez 2</title>
-<linkplugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea></link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param2]</title>
- <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=2&amp;name=[makelist.param2]</link>
- <thumbnail></thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
-<page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
-</regex>
-<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
+
+Plexus
 <plugin>
-<title>Tastez 3344</title>
-<link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param2]</title>
- <link>plugin://program.plexus/?url=sop://185.122.59.8:3912/149257&amp;mode=2&amp;name=[makelist.param2]</link>
- <thumbnail></thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
-<page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
-</regex>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg(Sopcast-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
 
