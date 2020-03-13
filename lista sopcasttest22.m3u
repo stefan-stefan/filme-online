@@ -1,7 +1,7 @@
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]    LISTA-SOPCAST-RO    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] AMC FHD 
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264990&name=SopProg
+plugin://plugin.video.p2ptv/?url=sop://broker.sopcast.com:3912/264941&mode=&amp;mode=2&amp;name=Antena
 #EXTINF:-1 tvg-id="" tvg-name="|RO| BOLLYWOOD TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/BOLLYWOOD.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] BOLLYWOOD TV
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265002&name=SopProg
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png"group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Bollywood TV 
