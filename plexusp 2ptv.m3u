@@ -1,4 +1,4 @@
-<plugin>
+<dir>
 <title>Tastez 3344</title>
 <link>https://github.com/demon-bit/JenXML/blob/7120620160bee24ba34addf66611e04b5c95a513/sportzig/worldtv.xml</link>
 <regex>
@@ -12,7 +12,7 @@
 <page>https://0ro.000webhostapp.com/repo/xml/tastez.php</page>
 </regex>
 <thumbnail></thumbnail>
-</plugin>
+</dir>
 
 
  <plugin>
