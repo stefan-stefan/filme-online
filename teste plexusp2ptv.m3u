@@ -5,6 +5,28 @@
 <fanart>https://i0.1616.ro/media/2/2701/33658/18968877/1/tvr1.jpg</fanart>
 </dir>
 
+< item >
+  < titlu > </ title >
+  < link > </ link >
+</ item >
+
+< item >
+< title > 2015 Filme Trailer </ title >
+< link > $ doregex [makelist] </ link >
+< regex >
+< nume > makelist </ nume >
+< listrepeat > <! [CDATA [
+    <Title> [makelist.param2] </ title>
+    <Link> plugin: //plugin.video.youtube/play/ video_id = [makelist.param1] </ link>
+    <Miniatură> NA </ miniatură>
+]]> </ listrepeat >
+< expres > \ s? .data-video-id = "(. *?)". * data-title = "(. *?)" </ expres >
+< pagina > https://www.youtube.com/playlist?list=PL63F0C78739B09958 </ pagina >
+< SECOND > https://www.youtube.com/user/movieclipsTRAILERS/playlists </ note >
+< cookieJar > </ cookieJar >
+</ regex >
+</ item >
+
  <dir>
             <title>ttt</title>
             <link>plugin://program.plexus/?url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&amp;mode=1&amp;name=AceStream</link>
