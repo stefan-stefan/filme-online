@@ -2,14 +2,14 @@
     <title>[COLOR blue][B]IPTV SERVER 1[/B] [/COLOR]</title>
     <link>ignore</link>
     <jsonrpc>plugin://plugin.video.uiptv</jsonrpc>
-    <thumbnail>special://home/addons/plugin.video.uiptv/icon.png</thumbnail>
-    <fanart>http://imgh.us/bg_iptv.png</fanart>
+    <thumbnail>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</thumbnail>
+    <fanart>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</fanart>
 </item>
  
 <item>
     <title>[COLOR blue][B]IPTV SERVER 2[/B] [/COLOR]</title>
-        <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail>
-        <fanart>http://imgh.us/bg_iptv.png</fanart>
+        <thumbnail>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</thumbnail>
+        <fanart>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png/fanart>
         <link>$doregex[makelist2]</link>
     <regex>
         <name>makelist2</name>
@@ -37,8 +37,8 @@
  
 <item>
     <title>[COLOR blue][B]IPTV SERVER 3[/B] [/COLOR]</title>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail>
-    <fanart>http://imgh.us/bg_iptv.png</fanart>
+    <thumbnail>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</thumbnail>
+    <fanart>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</fanart>
     <link>$doregex[leg]</link>
     <regex>
         <name>leg</name>
