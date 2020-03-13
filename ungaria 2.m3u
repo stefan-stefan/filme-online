@@ -1,3 +1,113 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="montecable.com.EK">
- 
+#EXTM3U
+# EXTM3U x-tvg-url = "http://epg.streamstv.me/epg/guide-hungry.xml.gz"
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "" tvg-logo = "" group-title = "", 1Music Channel Ungaria
+http://1music.hu/1music.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/xyG4O6F.jpg" group-title = "", Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF: -1 tvg-id = "Bonum TV-HU" tvg-name = "Bonum TV-HU" tvg-language = "Maghiar" tvg-logo = "https://i.imgur.com/dpGX5SH.png "group-title =" Religios ", Bonus TV
+http://cdn.y5.hu/stream/bonum/hls/stream.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-id = "Bonum TV-HU" tvg-name = "Bonum TV-HU" tvg-language = "Maghiar" tvg-logo = "https://i.imgur.com/dpGX5SH.png "group-title =" Religios ", Bonus TV
+https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8?
+#EXTINF: -1 tvg-id = "Bonum TV-HU" tvg-name = "Bonum TV-HU" tvg-language = "Maghiar" tvg-logo = "https://i.imgur.com/dpGX5SH.png "group-title =" Religios ", Bonus TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/oxF5vwl.png" group-title = "", Budapesta Európa Televízió
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/oxF5vwl.png" group-title = "", Budapesta Európa Televízió
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8?fluxustv.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/xAmYapr.jpg" group-title = "", Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/FoDP1wn.jpg" group-title = "", Fehérvár TV
+http://cloudfront44.lexanetwork.com:1730/HDE016/hls/livestream.sdp.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/64ygAE5.png" group-title = "", Hatoscsatorna
+RTMP: //lpmedia.hu: 1935 / Hatoscsatorna / Livestream
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "" group-title = "", Hegyvidek Tv Budapesta
+http://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/LBV6D4C.png" group-title = "", Kanizsa TV
+https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/G4GDbxM.png" group-title = "", Kapos TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/Q9MWqpE.png" group-title = "", Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/Dl9xtgo.png" group-title = "", Pannon RTV
+http://79.172.194.189/hls/pannonrtv/live.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/Dl9xtgo.png" group-title = "", Pannon RTV
+https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/sZpnm3U.png" group-title = "Sport" , StreamSport
+https://cloudfront44.lexanetwork.com:1344/xlive001/livestream002.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/JgcUO21.jpg" group-title = "XXX" , Super One HD
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/7GFotmy.jpg" group-title = "", Tatai TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/JCHEuWb.jpg" group-title = "", VTV Füzesabony
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/xiSeTRL.jpg" group-title = "", Ózdi Városi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+
+#EXTINF:-1,AMC
+http://92.249.148.48:8001/play/a00x
+#EXTINF:-1,ATV
+http://92.249.148.48:8001/play/atv
+#EXTINF:-1,Comedy Central
+http://92.249.148.48:8001/play/a00c
+#EXTINF:-1,Cool TV
+http://92.249.148.48:8001/play/a00j
+#EXTINF:-1,Cool TV HD
+http://92.249.148.48:8001/play/a00w
+#EXTINF:-1,Film Café
+http://92.249.148.48:8001/play/a00l
+#EXTINF:-1,Film+
+http://92.249.148.48:8001/play/fplus
+#EXTINF:-1,Film+ HD
+http://92.249.148.48:8001/play/a00y
+#EXTINF:-1,Galaxy4
+http://92.249.148.48:8001/play/a00v
+#EXTINF:-1,HISTORY HD
+http://92.249.148.48:8001/play/a00g
+#EXTINF:-1,Hír TV
+http://92.249.148.48:8001/play/a00i
+#EXTINF:-1,Jocky TV
+http://92.249.148.48:8001/play/a005
+#EXTINF:-1,M4 Sport
+http://92.249.148.48:8001/play/m4
+#EXTINF:-1,M4 Sport HD
+http://92.249.148.48:8001/play/m4hd
+#EXTINF:-1,M5
+http://92.249.148.48:8001/play/m5
+#EXTINF:-1,M5 HD
+http://92.249.148.48:8001/play/m5hd
+#EXTINF:-1,Minimax
+http://92.249.148.48:8001/play/a00n
+#EXTINF:-1,Moziverzum
+http://92.249.148.48:8001/play/a006
+#EXTINF:-1,Nick Jr.
+http://92.249.148.48:8001/play/a00f
+#EXTINF:-1,RTL Klub
+http://92.249.148.48:8001/play/rtlklub
+#EXTINF:-1,RTL Klub HD
+http://92.249.148.48:8001/play/rtlklubhd
+#EXTINF:-1,RTLII HD
+http://92.249.148.48:8001/play/rtl2hd
+#EXTINF:-1,Sony Max
+http://92.249.148.48:8001/play/a00e
+#EXTINF:-1,Sony Movie Channel
+http://92.249.148.48:8001/play/a00d
+#EXTINF:-1,Spíler1 TV
+http://92.249.148.48:8001/play/sp1
+#EXTINF:-1,Spíler1 TV HD
+http://92.249.148.48:8001/play/sp1hd
+#EXTINF:-1,Spíler2 TV
+http://92.249.148.48:8001/play/sp2
+#EXTINF:-1,Spíler2 TV HD
+http://92.249.148.48:8001/play/sp2hd
+#EXTINF:-1,Super TV2
+http://92.249.148.48:8001/play/stv2
+#EXTINF:-1,Super TV2 HD
+http://92.249.148.48:8001/play/stv2hd
+#EXTINF:-1,TV Paprika
+http://92.249.148.48:8001/play/a00m
+#EXTINF:-1,TV2
+http://92.249.148.48:8001/play/tv2
+#EXTINF:-1,TV4
+http://92.249.148.48:8001/play/a00t
+#EXTINF:-1,Viasat Explore
+http://92.249.148.48:8001/play/a00o 
