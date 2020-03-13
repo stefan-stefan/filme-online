@@ -2,7 +2,7 @@ Plexus
 <plugin>
 <title>Plexus Test</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://1618ad4debdff785c863bd320b5e7d16d563a283(Acestream-Stream Name goes here)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea(Acestream-Stream Name goes here)</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -13,7 +13,7 @@ Plexus
 <plugin>
 <title>Plexus Test</title>
 <link>
-<sublink>plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg(Sopcast-Stream Name goes here)</sublink>
+<sublink>plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/149257&name=SopProg(Sopcast-Stream Name goes here)</sublink>
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
