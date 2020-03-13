@@ -41,6 +41,13 @@
 </item>
 
 <item>
+<title>Izaura TV</title>
+<link>http://mytv.fun:8080/h0aoahfkhm/96nigw74ol/13279</link>
+<thumbnail>https://tv2.hu/izauratv/data/files/10/10898.jpg</thumbnail>
+<fanart>https://tv2.hu/izauratv/data/files/10/10898.jpg</fanart>
+</item>
+
+<item>
 <title>Lóverseny közvetítés</title>
 <link>http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8</link>
 <thumbnail>https://10.kerulet.ittlakunk.hu/files/ittlakunk/upload/company/1256/kincsem_park_logo.jpg</thumbnail>
