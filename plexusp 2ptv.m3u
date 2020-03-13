@@ -1,4 +1,4 @@
-Plexus
+<xml>
 <plugin>
 <title>Plexus Test</title>
 <link>
@@ -8,8 +8,6 @@ Plexus
 <fanart></fanart>
 </plugin>
 
-
-Plexus
 <plugin>
 <title>Plexus Test</title>
 <link>
