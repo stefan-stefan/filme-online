@@ -1,7 +1,7 @@
 <item>
     <title>[COLOR blue][B]IPTV SERVER 1[/B] [/COLOR]</title>
     <link>ignore</link>
-    <jsonrpc>plugin://plugin.video.uiptv</jsonrpc>
+    <jsonrpc>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</jsonrpc>
     <thumbnail>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</thumbnail>
     <fanart>https://www.sonteklif.net/img/uploads40/1213265/15146427_0_b.png</fanart>
 </item>
@@ -19,14 +19,14 @@
    <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4d/OS_X_Server_Icon.png</thumbnail>
    ]]></listrepeat>
         <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
-        <page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+        <page>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</page>
     </regex>
     <regex>
         <name>makelist</name>
         <listrepeat><![CDATA[
    <title>[B]SERVER [COLORdodgerblue][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B] </title>
    <link>NA</link>
-   <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</externallink>
    <thumbnail></thumbnail>
    ]]></listrepeat>
         <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
@@ -150,7 +150,7 @@
         <name>makelist</name>
         <listrepeat><![CDATA[
        <title>[makelist.param2]</title>
-       <link><link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;name=[makelist.param2]&amp;url=$doregex[get-srv][makelist.param2]/manifest.f4m?token=$doregex[get-token]</link></link>
+       <link><link>plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link></link>
        <thumbnail>http://www.myvideo.az[makelist.param1]</thumbnail>
        ]]></listrepeat>
         <expres>background-image:url\('(.*?)'\);" alt="(.*?)"</expres>
