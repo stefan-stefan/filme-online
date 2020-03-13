@@ -105,3 +105,2999 @@
 <thumbnail>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</thumbnail>
 <fanart>https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMyUyRjI2JTJGMTA1NzE5Ml8xMDU3/MTkyX2RpZ2ktaW5mb3JtYXRpYS1sYS1w/dXRlcmUucG5nJnc9NzgwJmg9NDQwJmhh/c2g9YjQxNzdkZmY3OWEyN2VmMWMzMDZkNWVmN2M5MmI5Mzk=.thumb.jpg</fanart>
 </plugin>
+
+<item>
+<title>M3U LISTE</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[B][makelist3.param1][/B][makelist3.param2]</title>
+<link>$doregex[makelist2]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[fnChangeTab\(event\)">(.*?\/10\/2017)<|http(.*?)\/g.*?name=(.*?)\&.*?ssword=(.*?)\&]]></expres>
+<page>http://www.m3uliste.pw/</page>
+</regex>
+ 
+ 
+#######################################################################################################################################
+<poster>goldentv</poster>
+<fanart></fanart>
+<thumbnail></thumbnail>
+#######################################################################################################################################
+ 
+<item>
+<title>IPTVSHARING</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title> [makelist2.param2]</title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR white]M3ULISTE[/COLOR][/B]</title>
+<thumbnail>http://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('http://www.m3uliste.pw/')
+    express = re.findall('>(http.+?username=(.+?)&.+?)<', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+        <title>[makelist2.param1]</title>
+        <link>[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('[makelist.param1]')
+    express = re.findall('#EXTINF:.+?,([^\n]*)\n([^\n]*)', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR white]TVonlinestreams.com[/B][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title>
+<link>$doregex[zodiac]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('https://www.tvonlinestreams.com/')
+    u += client.request('https://www.tvonlinestreams.com/page/2/')
+    u += client.request('https://www.tvonlinestreams.com/page/3/')
+    e = re.findall('(?s)entry-title"><a\shref="([^"]*).+?">([^<]*).+?(.+?)pubdate">([^<]*)', u)
+    e = [(i[0],i[1],i[2],i[3]) for i in e if 'EXTINF' in i[2]]
+    e = [(i[0],i[1],i[3]) for i in e]
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1]</title>
+<link>[zodiac.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('#EXTINF:.+?,([^<]*).+?\n([^<]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR white]SPORT[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[play]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+ 
+    main = client.request('http://live-sports-stream.net/schedule/')
+    express = '<pre>(.+?)</pre>.+?iframe src="(.+?)"'
+    link = re.compile(express, re.MULTILINE|re.DOTALL).findall(main)
+    link = [(i[0], i[1]) for i in link]
+    link = [(i[0].splitlines(), i[1]) for i in link]
+    link = [[(x, i[1]) for x in i[0]] for i in link]
+    link = sum(link, [])
+    return link
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>play</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+ 
+    main = '[makelist.param2]'
+    from resources.lib.modules import control
+    livestreamer = control.cdnImport('http://legionworldtv.com/source/file.txt', 'livestreamer')
+    livestreamer = livestreamer.streamer()
+   
+    url, ref = livestreamer.redirect(main)
+    u = livestreamer.resolve(url, ref)
+ 
+    return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+ 
+ 
+ 
+<item>
+<title>Updated Daily</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[B][makelist3.param1][/B][makelist3.param2]</title>
+<link>$doregex[makelist2]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[fnChangeTab\(event\)">(.*?\/10\/2017)<|http(.*?)\/g.*?name=(.*?)\&.*?ssword=(.*?)\&]]></expres>
+<page>http://www.m3uliste.pw/</page>
+</regex>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>User:[makelist3.param3]  |  Status:[makelist2.param1][/COLOR] |Connections[makelist2.param2]</title>
+ <link>NA</link>
+ <externallink>http[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
+<page>http[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>GS IPTV</title>
+<link>$doregex[makelist]</link>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]  </title>
+ <link>NA</link>
+<externallink>[makelist.param2]$$TSDOWNLOADER$$</externallink>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>30px;">(.*?)<.*?href="(.*?)"</expres>
+<page>http://www.geantsat.com/free-iptv/</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>IPTVSATLINKS</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>LISTS [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>SERVER[makelist.param1]-  USER [makelist.param2] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ 
+ 
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+ 
+ 
+ 
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<itm>
+<title>IPTV ULTRA</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>$doregex[makelist2]</link>
+   <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvultra.com/2017/09/</page>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title> [makelist2.param2]</title>
+   <link>plugin://plugin.video.f4mTester/?url=[makelist2.param5]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+   <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[\"(.*?)\[\@\](.*?)\[\@\](.*?)\[\@\](.*?)\[\@\](.*?)\"]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>DAILYIPTVLIST</title>
+ 
+<link>$doregex[leg2]</link>
+ 
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+ 
+ 
+ 
+ 
+<item>
+<title>SPORTS</title>
+ 
+<link>$doregex[leg]</link>
+ 
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/sports/</page>
+</regex>
+ 
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+ 
+ 
+ 
+<item>
+<title>ULTIMATE IPTV</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>IPTVSHARING</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>IPTVFREE</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+ 
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>IPTV ESPAÑA</title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,28}href='(.*?)'>(IPTV.*?)<]]></expres>
+<page>http://www.iptvbin.com/search/label/Spain?max-results=18</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2].m3u8&amp;streamtype=HLSRETRY&amp;name=Freeworld [makelist.param1]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:-1,(.*?)<.*>\n(http.*?).m3u8]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<tem>
+  <title>iptv test 02</title>
+  <link>$doregex[makelist]</link>
+ 
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+     <title> [makelist2.param2]  </title>
+<link>$doregex[makelist]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ 
+]]></listrepeat>
+<expres>entry-title[\w\W\s]{0,6}href="(.*?)"[\w\W\s]{0,19}to(.*?)"</expres>
+<page>https://www.tvonlinestreams.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [makelist.param1]  </title>
+    <link>[makelist.param2]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ 
+]]></listrepeat>
+<expres>EXTINF.*,(.*?)<.*\n.*?(http.*ts)<</expres>
+<page>http://dvbsat.ru/smf/index.php?topic=282.1230</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>FLUXUS TV</title>
+<link>ignorme</link>
+<externallink>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<page></page>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>LIVE-TV</title>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/Darkzide-inc/Builds/master/DarkzideTV.xml</externallink>
+<page></page>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>SPORTS DEVIL LIVE TV</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>ROJA IPTV M3U</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ <fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR goldenrod]Jdr63[/COLOR] [makelist.param1]</link>
+ <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>EDOCTOR</title>
+<link>rs</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</externallink>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+<item>
+<title>FLUXUS TV</title>
+<link>rs</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+ <title>IPTV EMBED</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.iptvembed.net/liveiptv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+<item>
+<title>DAILY IPTV M3U 2</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Server: [makelist.param2]</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(http://(.*)/.*)</expres>
+<page>https://pastebin.com/raw/1yiHjtFY</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>  [makelist2.param1]</title>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[makelist2.param1]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+        <fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>[makelist.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>WORLDWIDE IPTV</title>
+<link>$doregex[leg2]</link>
+ 
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+</regex>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>M3U LIST</title>
+<link>$doregex[makelist2]</link>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://pastebin.com/raw/UGBGPay7</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=IPTV[makelist.param1]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+<item>
+<title>WORLD DAILY SERVERS IPTV</title>title>
+<thumbnail></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title> [makelist.param2] ( [makelist.param1] ) </title>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>SERVER ORBIT</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [makelist.param1])  </title>
+     <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>ULTIMATE IPTV</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>  [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]  </link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>IPTV SHARING</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ <item>
+<title>IPTV-FREE</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=SIPTV [makelist.param1]  </link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+<item>
+<title>IPTVSHARING</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title> [makelist2.param2]</title>
+<link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[B][COLOR white]M3ULISTE[/COLOR][/B]</title>
+<thumbnail>http://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('http://www.m3uliste.pw/')
+    express = re.findall('>(http.+?username=(.+?)&.+?)<', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+        <title>[makelist2.param1]</title>
+        <link>[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('[makelist.param1]')
+    express = re.findall('#EXTINF:.+?,([^\n]*)\n([^\n]*)', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+ 
+ 
+<item>
+<name>[B][COLOR white]TVonlinestreams.com[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title>
+<link>$doregex[zodiac]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('https://www.tvonlinestreams.com/')
+    u += client.request('https://www.tvonlinestreams.com/page/2/')
+    u += client.request('https://www.tvonlinestreams.com/page/3/')
+    e = re.findall('(?s)entry-title"><a\shref="([^"]*).+?">([^<]*).+?(.+?)pubdate">([^<]*)', u)
+    e = [(i[0],i[1],i[2],i[3]) for i in e if 'EXTINF' in i[2]]
+    e = [(i[0],i[1],i[3]) for i in e]
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>zodiac</name>
+<listrepeat><![CDATA[
+<title>[zodiac.param1]</title>
+<link>[zodiac.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('#EXTINF:.+?,([^<]*).+?\n([^<]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<title>[B][COLOR white]SPORT[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[play]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+ 
+    main = client.request('http://live-sports-stream.net/schedule/')
+    express = '<pre>(.+?)</pre>.+?iframe src="(.+?)"'
+    link = re.compile(express, re.MULTILINE|re.DOTALL).findall(main)
+    link = [(i[0], i[1]) for i in link]
+    link = [(i[0].splitlines(), i[1]) for i in link]
+    link = [[(x, i[1]) for x in i[0]] for i in link]
+    link = sum(link, [])
+    return link
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>play</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+ 
+    main = '[makelist.param2]'
+    from resources.lib.modules import control
+    livestreamer = control.cdnImport('https://pastebin.com/raw/1ntppHic', 'livestreamer')
+    livestreamer = livestreamer.streamer()
+   
+    url, ref = livestreamer.redirect(main)
+    u = livestreamer.resolve(url, ref)
+ 
+    return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+ 
+<item>
+<title>[B][COLOR white]SPORT[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<fanart></fanart>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>$doregex[play]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+ 
+    main = client.request('http://live-sports-stream.net/schedule/')
+    express = '<pre>(.+?)</pre>.+?iframe src="(.+?)"'
+    link = re.compile(express, re.MULTILINE|re.DOTALL).findall(main)
+    link = [(i[0], i[1]) for i in link]
+    link = [(i[0].splitlines(), i[1]) for i in link]
+    link = [[(x, i[1]) for x in i[0]] for i in link]
+    link = sum(link, [])
+    return link
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>play</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+ 
+    main = '[makelist.param2]'
+    from resources.lib.modules import control
+    livestreamer = control.cdnImport('https://pastebin.com/raw/Bipmh1Lb', 'livestreamer')
+    livestreamer = livestreamer.streamer()
+   
+    url, ref = livestreamer.redirect(main)
+    u = livestreamer.resolve(url, ref)
+ 
+    return u
+]]></expres>
+<page></page>
+</regex>
+</item>
+<item>
+<title>Updated Daily</title>
+<link>$doregex[makelist3]</link>
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[B][makelist3.param1][/B][makelist3.param2]</title>
+<link>$doregex[makelist2]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[fnChangeTab\(event\)">(.*?\/10\/2017)<|http(.*?)\/g.*?name=(.*?)\&.*?ssword=(.*?)\&]]></expres>
+<page>http://www.m3uliste.pw/</page>
+</regex>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>User:[makelist3.param3]  |  Status:[makelist2.param1][/COLOR] |Connections[makelist2.param2]</title>
+ <link>NA</link>
+ <externallink>http[makelist3.param2]/get.php?username=[makelist3.param3]&amp;password=[makelist3.param4]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>status":"(.*?)".*max_connections":"(.*?)",</expres>
+<page>http[makelist3.param2]/panel_api.php?username=[makelist3.param3]&amp;password=[makelist3.param4]</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>GS IPTV</title>
+<link>$doregex[makelist]</link>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]  </title>
+ <link>NA</link>
+<externallink>[makelist.param2]$$TSDOWNLOADER$$</externallink>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>30px;">(.*?)<.*?href="(.*?)"</expres>
+<page>http://www.geantsat.com/free-iptv/</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>IPTVSATLINKS</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>LISTS [makelist2.param2] </title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>SERVER[makelist.param1]-  USER [makelist.param2] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ 
+ 
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+ 
+ 
+ 
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<itm>
+<title>IPTV ULTRA</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>$doregex[makelist2]</link>
+   <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvultra.com/2017/09/</page>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title> [makelist2.param2]</title>
+   <link>plugin://plugin.video.f4mTester/?url=[makelist2.param5]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+   <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[\"(.*?)\[\@\](.*?)\[\@\](.*?)\[\@\](.*?)\[\@\](.*?)\"]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>DAILYIPTVLIST</title>
+ 
+<link>$doregex[leg2]</link>
+ 
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+ 
+ 
+ 
+ 
+<item>
+<title>SPORTS</title>
+ 
+<link>$doregex[leg]</link>
+ 
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.dailyiptvlist.com/sports/</page>
+</regex>
+ 
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download IpTV(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+ 
+ 
+ 
+<item>
+<title>ULTIMATE IPTV</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>IPTVSHARING</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>IPTVFREE</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+ 
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=Freeworld [makelist.param1]  </link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>IPTV ESPAÑA</title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,28}href='(.*?)'>(IPTV.*?)<]]></expres>
+<page>http://www.iptvbin.com/search/label/Spain?max-results=18</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2].m3u8&amp;streamtype=HLSRETRY&amp;name=Freeworld [makelist.param1]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[EXTINF:-1,(.*?)<.*>\n(http.*?).m3u8]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<tem>
+  <title>iptv test 02</title>
+  <link>$doregex[makelist]</link>
+ 
+  <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+     <title> [makelist2.param2]  </title>
+<link>$doregex[makelist]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ 
+]]></listrepeat>
+<expres>entry-title[\w\W\s]{0,6}href="(.*?)"[\w\W\s]{0,19}to(.*?)"</expres>
+<page>https://www.tvonlinestreams.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [makelist.param1]  </title>
+    <link>[makelist.param2]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+ 
+]]></listrepeat>
+<expres>EXTINF.*,(.*?)<.*\n.*?(http.*ts)<</expres>
+<page>http://dvbsat.ru/smf/index.php?topic=282.1230</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>FLUXUS TV</title>
+<link>ignorme</link>
+<externallink>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<page></page>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>LIVE-TV</title>
+<link>ignorme</link>
+<externallink>https://raw.githubusercontent.com/Darkzide-inc/Builds/master/DarkzideTV.xml</externallink>
+<page></page>
+ <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>SPORTS DEVIL LIVE TV</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>ROJA IPTV M3U</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ <fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://dl.dropbox.com/s/8gd67jk61jxi0d2/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR goldenrod]Jdr63[/COLOR] [makelist.param1]</link>
+ <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>EDOCTOR</title>
+<link>rs</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</externallink>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+<item>
+<title>FLUXUS TV</title>
+<link>rs</link>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+ <title>IPTV EMBED</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.iptvembed.net/liveiptv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+<item>
+<title>DAILY IPTV M3U 2</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Server: [makelist.param2]</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>(http://(.*)/.*)</expres>
+<page>https://pastebin.com/raw/1yiHjtFY</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>  [makelist2.param1]</title>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[makelist2.param1]</link>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+        <fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>[makelist.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>WORLDWIDE IPTV</title>
+<link>$doregex[leg2]</link>
+ 
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+</regex>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>M3U LIST</title>
+<link>$doregex[makelist2]</link>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://pastebin.com/raw/UGBGPay7</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=IPTV[makelist.param1]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+ 
+</item>
+ 
+ 
+<item>
+<title>WORLD DAILY SERVERS IPTV</title>title>
+<thumbnail></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title> [makelist.param2] ( [makelist.param1] ) </title>
+    <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>NA</link>
+<externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>SERVER ORBIT</title>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [makelist.param1])  </title>
+     <thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>ULTIMATE IPTV</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>  [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]  </link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>IPTV SHARING</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=RSIPTV [makelist.param1]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ <item>
+<title>IPTV-FREE</title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title> [makelist2.param2]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>http://www.iptv4free.com/search?max-results=40</page>
+</regex>
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title> [makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=SIPTV [makelist.param1]  </link>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,6}>\n(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/PfyQuZLl9CE/maxresdefault.jpg</fanart>
+ 
+</item>
+ 
+ 
+ 
+<SetViewMode>55</SetViewMode>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] BUSCADOR [/B] [/COLOR][COLOR skyblue] SkyTorrents [/COLOR] [COLOR lightslategray] VO[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param2][/B][/UPPERCASE][/COLOR]  </title>
+<link>plugin://plugin.video.quasar/play?uri=[makelist2.param1]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[href="(magnet.*?)"[\w\W\s]{0,34}Download\s(.*?)using]]></expres>
+<page>https://www.skytorrents.in/search/all/ed/1/?q=$doregex[search]</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar Pelicula: ejemplo: Batman', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+ 
+<thumbnail></thumbnail>
+<info></info>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] BUSCADOR [/B] [/COLOR][COLOR skyblue] GranTorrent [/COLOR] [COLOR lightslategray]** Castellano[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param3][/B][/UPPERCASE][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[imagen-post[\w\W\s]{0,8}href="(.*?)"[\w\W\s]{0,7}src="(.*?)"[\w\W\s]{0,400}bloque-inferior">\n(.*?)<]]></expres>
+<page>https://grantorrent.com/?s=$doregex[search]</page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar Pelicula: ejemplo: Batman', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param3][/B][/UPPERCASE][/COLOR]  Calidad:[makelist.param2]  Tamaño:[makelist.param3]  </title>
+<link>plugin://plugin.video.quasar/play?uri=[makelist.param4]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[alt="(.*?)".*?td>\n<td>(.*?)<.*?\n<td>(.*?)<.*?\n.*?href="(.*?torrent)"]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+ 
+ 
+alt="(.*?)".*?td>\n<td>(.*?)<.*?\n<td>(.*?)<.*?\n.*?href="(.*?torrent)"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] BUSCADOR [/B] [/COLOR][COLOR skyblue] ElMejorTorrent [/COLOR] [COLOR lightslategray] Castellano[/COLOR] </title>
+<link>$doregex[makelist2]</link>
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param2][/B][/UPPERCASE][/COLOR] [I][COLOR lightslategray][makelist2.param3][/I][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+<info></info>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[peli-descargar-torrent-(.*?)-.*?darkblue\'>(.*?)<.*?gray\;\'>(.*?)<]]></expres>
+<page>http://www.mejortorrent.com/secciones.php?sec=buscador&amp;valor=$doregex[search]</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar Pelicula: ejemplo: Batman', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR lightblue]Reproducir [B][makelist2.param2][/B] [/COLOR]</title>
+ 
+    <link>plugin://plugin.video.quasar/play?uri=http://www.mejortorrent.com[makelist.param2]</link>
+<thumbnail></thumbnail>
+<info></info>
+]]></listrepeat>
+<expres>href=\'(.*?torrent)\'</expres>
+<page>http://www.mejortorrent.com/secciones.php?sec=descargas&amp;ap=contar&amp;tabla=peliculas&amp;id=[makelist2.param1]&amp;link_bajar=1</page>
+</regex>
+ 
+ 
+<thumbnail></thumbnail>
+<info></info>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR aquamarine][B] BUSCADOR [/B] [/COLOR][COLOR skyblue] TorrentKing [/COLOR] [COLOR lightslategray] [/COLOR] </title>
+<link>$doregex[makelist2]</link>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <SetViewMode>55</SetViewMode>
+   <title>[COLOR lightblue][B][makelist2.param2][/COLOR][/B] [COLOR aquamarine] [makelist2.param3][/COLOR]</title>
+<link>$doregex[makelist]</link>
+ <thumbnail>[makelist2.param4]</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)"\stitle="(.*?)"[\w\W\s]{0,199}title="(.*?)".*?data-src="(.*?)"]]></expres>
+<page>https://torrentking.eu/search?mk=$doregex[search]</page>
+</regex>
+ 
+ 
+href="(.*?)"\stitle="(.*?)"[\w\W\s]{0,180}movie-image.*?data-src="(.*?)"
+ 
+ 
+ 
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar Pelicula: ejemplo: Batman', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <SetViewMode>55</SetViewMode>
+   <title>[COLOR lightblue][B][makelist.param2][/COLOR][/B] [COLOR coral]Tamaño: [makelist.param3][/COLOR] [COLOR aquamarine]Seed:[makelist.param4] - Peers:[makelist.param5] [/COLOR]</title>
+   <link>plugin://plugin.video.quasar/play?uri=[makelist.param1]</link>
+ <thumbnail>[makelist2.param4]</thumbnail>
+ 
+]]></listrepeat>
+<expres><![CDATA[href="(magnet.*?)"\s[\w\W\s]{0,222}Stream[\w\W\s]{0,13}<td>(.*?)<[\w\W\s]{0,23}white-transparent">(.*?)<[\w\W\s]{0,23}white-transparent">(.*?)<[\w\W\s]{0,20}white-transparent">(.*?)<]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+ 
+<thumbnail></thumbnail>
+<info></info>
+</item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B]PasateATorrent[/B] [/COLOR][COLOR skyblue] CARTELERA [/COLOR] [COLOR lightslategray] Castellano[/COLOR] </title>
+<link>$doregex[makelist3]</link>
+ 
+ 
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>Pagina [makelist3.param1]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+<info></info>
+]]></listrepeat>
+<expres>'(.*?)'</expres>
+<page>'1''2''3''4''5''6''7''8''9''10''11''12''13''14''15''16''17''18''19''20''21''22''23''24''25'</page>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B][makelist2.param3]   [/B][/UPPERCASE][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[imagen-post[\w\W\s]{0,8}href="(.*?)".*?src=(.*?)".*?\n.*?bloque-inferior">\n(.*?)<]]></expres>
+<page>https://grantorrent.com/page/[makelist3.param1]/</page>
+</regex>
+ 
+ 
+ 
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <SetViewMode>55</SetViewMode>
+ <title>[COLOR skyblue][UPPERCASE][B] [makelist2.param3][/B][/UPPERCASE][/COLOR]  Calidad:[makelist.param2]  Tamaño:[makelist.param3]  </title>
+<link>plugin://plugin.video.quasar/play?uri=[makelist.param4]</link>
+<thumbnail>[makelist2.param2]</thumbnail>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[alt="(.*?)".*?td>\n<td>(.*?)<.*?\n<td>(.*?)<.*?\n.*?href="(.*?torrent)"]]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PeliculasDK / Estrenos[/B]  [/COLOR][COLOR skyblue]    [/COLOR] </title>
+ <link>$doregex[makelist3]</link>
+ 
+ 
+ 
+<regex>
+   <name>makelist3</name>
+   <listrepeat><![CDATA[
+       <title>Pagina [makelist3.param1]</title>
+ 
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+   ]]></listrepeat>
+   <expres><![CDATA[paginado:"(.*?)";]]></expres>
+   <page></page>
+   <cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param2]  [COLOR lightblue] idioma:[makelist2.param4][/COLOR][/COLOR] </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,7}src="(.*?)"[\w\W\s]{0,300}idioma/(.*?)"]]></expres>
+<page>http://www.peliculasdk.com/ver/estrenos/page/[makelist3.param1]</page>
+ </regex>
+ 
+ 
+ 
+<regex>
+   <name>makelist</name>
+   <listrepeat><![CDATA[
+          <title>[makelist2.param2]</title>
+          <link>$doregex[id3]</link>
+          <thumbnail>[makelist2.param3]</thumbnail>
+        <fanart>[makelist2.param3]</fanart>
+   ]]></listrepeat>
+   <expres><![CDATA[open\("(.*?)"]]></expres>
+   <page>[makelist2.param1]</page>
+   <cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = 'https://openload.co/embed/[makelist.param1]/'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = 'http://adryantv.org/error.mp4'
+    return u
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail><fanart></fanart></item>
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]PeliculasDK / Categorias[/B]  [/COLOR][COLOR skyblue]     [/COLOR] </title>
+<link>$doregex[makelist3]</link>
+ 
+ 
+ 
+ <regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist3.param2][/COLOR] </title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.peliculasdk.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue] [makelist2.param2]   [COLOR lightblue] idioma:[makelist2.param4][/COLOR][/COLOR] </title>
+<link>$doregex[makelist]</link>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)"[\w\W\s]{0,2}title="(.*?)"[\w\W\s]{0,7}src="(.*?)"[\w\W\s]{0,300}idioma/(.*?)"]]></expres>
+<page>http://www.peliculasdk.com[makelist3.param1]</page>
+ 
+ </regex>
+ 
+ 
+ 
+ 
+<regex>
+   <name>makelist</name>
+   <listrepeat><![CDATA[
+          <title>[makelist2.param2]</title>
+          <link>$doregex[id3]</link>
+          <thumbnail>[makelist2.param3]</thumbnail>
+        <fanart>[makelist2.param3]</fanart>
+   ]]></listrepeat>
+   <expres><![CDATA[open\("(.*?)"]]></expres>
+   <page>[makelist2.param1]</page>
+   <cookieJar></cookieJar>
+</regex>
+ 
+ 
+ 
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import urlresolver
+    url = 'https://openload.co/embed/[makelist.param1]/'
+    try:
+        u = urlresolver.resolve(url)
+    except:
+        u = 'http://adryantv.org/error.mp4'
+    return u
+]]></expres>
+<page></page>
+</regex>
+ 
+<thumbnail></thumbnail><fanart></fanart></item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B]Gnula.nu[/B] [/COLOR][COLOR skyblue]Generos[/COLOR] </title>
+<link>$doregex[makelist3]</link>
+ 
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+   <title>[makelist3.param1]</title>
+    <link>$doregex[makelist2]</link>
+ 
+]]></listrepeat>
+<expres>strong>(.*?)<[\w\W\s]{0,13}href="(.*?)"</expres>
+<page>http://gnula.nu/generos/lista-de-generos/</page>
+<referer>http://gnula.nu</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+ 
+</regex>
+ 
+<regex>
+        <name>createCFCookie</name>
+        <expres></expres>
+        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
+        <cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+   <title>[makelist2.param2]</title>
+    <link>$doregex[makelist]</link>
+ <thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>class="Ntooltip" href="(.*?)">(.*?)<[\w\W\s]{0,29}src="(.*?)"</expres>
+<page>[makelist3.param2]</page>
+<referer>http://gnula.nu</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+ 
+</regex>
+ 
+<regex>
+        <name>createCFCookie</name>
+        <expres></expres>
+        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
+        <cookieJar></cookieJar>
+</regex>
+ 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightblue][makelist2.param2][/COLOR]</title>
+<link>$doregex[url]/$doregex[id2]/v.flv</link>
+<regex>
+<name>url</name>
+<expres>vplayer[\w\W\s]{0,8}src="(.*?)\/i</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<regex>
+<name>id2</name>
+<expres>image\|[\w\W\s]{0,3}\|(.*?)\|file</expres>
+<page>http://streamin.to/embed-[makelist.param1]-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>[makelist2.param3]</thumbnail>
+<fanart>[makelist2.param3]</fanart>
+]]></listrepeat>
+<expres>http://streamin.to/(.*?)"</expres>
+<page>[makelist2.param1]</page>
+<referer>http://gnula.nu</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+ 
+</regex>
+ 
+<regex>
+        <name>createCFCookie</name>
+        <expres></expres>
+        <page>$pyFunction:cloudflare.createCookie('http://gnula.nu',Cookie_Jar,'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36')</page>
+        <cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail><fanart></fanart>
+</item>
+ 
+ 
+ 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red]  [B]TODAS LAS LIGAS DE FUTBOL [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ 
+<title>[COLOR lime][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR red][makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR lime] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Super Mospy TV [COLOR lime][makelist.param4][/COLOR]</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/$doregex[canal]</page>
+            <referer>http://arenavision2017.tk/</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+            <regex>
+            <name>canal</name>          <expres>$pyFunction:'[makelist.param5]'.replace('>4','04').replace('>5','05').replace('>6','06').replace('>7','07').replace('>8','08').replace('>9','09').replace('>10','10').replace('>11','11').replace('>12','12').replace('>13','13').replace('>14','14').replace('>15','15').replace('>16','16').replace('>17','17').replace('>18','18').replace('>19','19').replace('>20','20').replace('>21','21').replace('>22','22').replace('>23','23').replace('>24','24').replace('>25','25').replace('>26','26').replace('>27','27').replace('>28','28').replace('>29','29').replace('>30','30').replace('>31','31').replace('>32','32').replace('>33','33').replace('>34','34').replace('>35','35').replace('>1','01').replace('>2','02').replace('>3','03')</expres>
+            <page></page>
+            </regex>
+ 
+ 
+]]></listrepeat>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}$doregex[select][\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px"(>[0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
+<Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
+</regex>
+ 
+ <regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige tu Liga ', ['LA LIGA', 'LA LIGA 2', 'ARGENTINA SUPERLIGA', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'COPA DE ESPAÑA', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE'])
+   lists = ['SPANISH LA LIGA', 'SPANISH LA LIGA 2', 'ARGENTINA SUPERLIGA', 'COPA LIBERTADORES', 'COPA SUDAMERICANA', 'PREMIER LEAGUE', 'UEFA CHAMPIONS LEAGUE', 'SPANISH CUP', 'BUNDESLIGA', 'FRANCE LIGUE 1', 'PORTUGAL A LIGA', 'EFL CUP', 'USA MLS', 'COLOMBIA PRIMERA', 'MEXICO LIGA MX', 'MEXICO COPA MX', 'CHILE LEAGUE']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+ 
+</regex>
+<thumbnail>https://s5.postimg.org/8725a5scn/12742577_1687994038144436_517276981474093344_n.jpg</thumbnail>
+<fanart>https://s5.postimg.org/lvxb3577r/tv_digital_0-890x480.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red]  [B] CANALES ARENAVISION [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Super Mospy TV</link>
+            <regex>
+            <name>hash</name>
+            <expres>this.loadPlayer\("(.*?)"</expres>
+            <page>http://arenavision2017.tk/$doregex[select]</page>
+            <referer>http://arenavision2017.tk</referer>
+            <setcookie>beget=begetok</setcookie>
+            </regex>
+           
+             <regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Elige un Canal ', ['AV 1','AV 2','AV 3','AV 4','AV 5','AV 6','AV 7','AV 8','AV 9','AV 10','AV 11','AV 12','AV 13','AV 14','AV 15','AV 16','AV 17','AV 18','AV 19','AV 20','AV 21','AV 22','AV 23','AV 24','AV 25','AV 26','AV 27','AV 28','AV 29','AV 30','AV 31','AV 32','AV 33','AV 34','AV 35',])
+   lists = ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+ <thumbnail></thumbnail>
+</item>
+ 
+ 
+ 
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+<stream>
+ 
+<item>
+<title>[COLOR red][B] DARKBOZ [/COLOR][COLOR  lime] ( ATUALIZADO 20/01/2018) [/B][/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail>https://s5.postimg.org/8725a5scn/12742577_1687994038144436_517276981474093344_n.jpg</thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV ARGENTINA[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION DE LA REPUBLICA ARGENTINA, CANALES ABIERTO, TDT Y CANALES DEL INTERIOR DEL PAIS</info>
+<externallink>https://goo.gl/nN7caf</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/argentina_flags_flag_16969.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV URUGUAY[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION DE LA REPUBLICA ORIENTAL DEL URUGUAY.
+CANALES VARIADOS  </info>
+<externallink>https://goo.gl/PG1b6W</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/uruguay_flags_flag_17081.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV BRASIL[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION DE LA REPUBLICA FEDERATIVA DE BRASIL CANALES VARIADOS </info>
+<externallink>http://www.radiosargentina.com.ar/TVBR.m3u</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/brazil_flags_flag_16979.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV PERU[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION DE LA REPUBLICA DEL PERU CANALES VARIADOS </info>
+<externallink>http://addons.kodipro.org/IPTV/PERUTV.xml</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/peru_flags_flag_17051.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV ESPAÑA M.+A[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION ESPAÑOLA CANALES TDT Y LOS FAMOSOS MOVISTAR +</info>
+<externallink>https://goo.gl/fi5vvF</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/spain_flags_flag_17068.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV ESPAÑA[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION ESPAÑOLA CANALES VARIADOS</info>
+<externallink>http://www.radiosargentina.com.ar/TVES.m3u</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/spain_flags_flag_17068.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV ESPAÑA 2[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION ESPAÑOLA CANALES TDT Y LOS FAMOSOS MOVISTAR +</info>
+<externallink>http://addons.kodipro.org/IPTV/espa%C3%B1a2.xml</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/spain_flags_flag_17068.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV USA[/B][/COLOR]</title>
+<link>NA</link>
+<info>TELEVISION DE LOS ESTADOS UNIDOS CANALES PUBLICOS </info>
+<externallink>http://www.radiosargentina.com.ar/TVUS.m3u</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/united_states_flags_flag_17080.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV LATINO AMERICA[/B][/COLOR]</title>
+<link>NA</link>
+<info>CANALES VARIADOS DE TODA LATINO AMERICA </info>
+<externallink>http://www.radiosargentina.com.ar/TVLA.m3u</externallink>
+<thumbnail>https://btodigital.com/wp-content/uploads/2016/07/mapa-icono.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TV RUSSIA / TV UKRANINE [/B][/COLOR]</title>
+<link>NA</link>
+<info>Bienvenido/a a achoTV, puedes ver canales de television gratis las 24 horas en vivo, en directo y online.</info>
+<externallink>https://raw.githubusercontent.com/SeryogaBrigada/iptv/master/iptv.m3u</externallink>
+<thumbnail>http://icons.iconarchive.com/icons/hopstarter/flag-borderless/128/Russia-icon.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] IPTV JNUX TV[/B][/COLOR] [COLOR lime][B] TV VARIADA [/B][/COLOR]</title>
+<link>NA</link>
+<info>CANALES VARIADOS DE TODA LATINO AMERICA Y ALGUNOS CANALES EUROPEOS  </info>
+<externallink>https://jnuxteam.com/jnuxtv.m3u</externallink>
+<thumbnail>http://lh5.googleusercontent.com/-WqnHsqRNCLs/AAAAAAAAAAI/AAAAAAAAAAo/g-I7EWe_1e4/s120-c-pf/photo.jpg<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] IPTV JUNIORTV[/B][/COLOR] [COLOR lime][B] TV VARIADA [/B][/COLOR]</title>
+<link>NA</link>
+<info>CANALES VARIADOS DE TODA LATINO AMERICA Y ALGUNOS CANALES EUROPEOS  </info>
+<externallink>http://galeon.com/juniortv/IPTV.m3u</externallink>
+<thumbnail>https://img14.androidappsapk.co/300/a/b/5/com.iptv.androidwatch.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] IPTV RAGNAROK TV[/B][/COLOR] [COLOR lime][B] TV VARIADA [/B][/COLOR]</title>
+<link>NA</link>
+<info>CANALES VARIADOS DE TODA LATINO AMERICA Y ALGUNOS CANALES EUROPEOS  </info>
+<externallink>http://ragnaroktv.com/tv/lista.m3u</externallink>
+<thumbnail>http://ragnaroktv.com/3.0/ragnarok-white-small.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+ 
+ 
+ 
+item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] PREMIER IPTV[/B][/COLOR] [COLOR lime][B] TV VARIADA [/B][/COLOR]</title>
+<link>NA</link>
+<info>CANALES VARIADOS DE TODA LATINO AMERICA Y ALGUNOS CANALES EUROPEOS  </info>
+<externallink>https://www.premieriptv.cl/iptvgratis.m3u</externallink>
+<thumbnail>https://scontent.faep8-2.fna.fbcdn.net/v/t1.0-9/22365326_1402728346443325_701746322858645041_n.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] GURU TV [/B] [/COLOR]</title>
+<link>ignorme</link>
+<info>GURU TVUNA DE LAS LISTAS MAS CONOCIDAS DE IPTV CANALES VARIADOS, CONTENIDO EN INGLES, ESPAÑOL, Y ETC </info>
+<externallink>http://guru-tv.xyz/canales.m3u</externallink>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+ <thumbnail>https://s14.postimg.org/ee0irp0xt/25158077_268128797047746_974460377270783642_n.jpg</thumbnail>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] FLUXUS TV[/B] [/COLOR]</title>
+<link>ignorme</link>
+<info>FLUXUS UNA DE LAS LISTAS MAS CONOCIDAS DE IPTV CANALES VARIADOS, CONTENIDO EN INGLES, FRANCES, ESPAÑOL, PORTUGUES Y ETC </info>
+<externallink>http://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u</externallink>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+ <thumbnail>http://i.imgur.com/CvQCnwZ.png</thumbnail>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] TECNO TV[/B][/COLOR]</title>
+<link>NA</link>
+<info>Tecnotv, sitio oficial donde pondras encontrar listas remotas de canales de forma gratuita</info>
+<externallink>http://tecnotv.xyz/lista.m3u</externallink>
+<thumbnail>https://s5.postimg.org/aomqfht6v/10-tecnotv.jpg<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] CHILEIPTV TV[/B][/COLOR]</title>
+<link>NA</link>
+<info>Este es el grupo actual de canales de tv incluidos en nuestra listada. Las señales incluídas son gratuitas y han sido recopiladas exclusivamente desde las páginas corporativas de estos medios.</info>
+<externallink>http://chileiptv.cl/cl.m3u</externallink>
+<thumbnail>https://icon-icons.com/icons2/97/PNG/256/chile_flags_flag_16984.png<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] SR REGIO TV[/B][/COLOR]</title>
+<link>NA</link>
+<info>Tecnotv, sitio oficial donde pondras encontrar listas remotas de canales de forma gratuita</info>
+<externallink>http://srregio.xyz/regiotv.m3u</externallink>
+<thumbnail>https://s5.postimg.org/7ujl273x3/icon.jpg<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] ANCHO TV [/B][/COLOR]</title>
+<link>NA</link>
+<info>Bienvenido/a a achoTV, puedes ver canales de television gratis las 24 horas en vivo, en directo y online.</info>
+<externallink>http://www.achotv.com/listas/canales.m3u</externallink>
+<thumbnail>https://s5.postimg.org/b1e4ls6cn/V8b9_Qk_FU_400x400.jpg<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR red][B] CECEGEEK TV [/B][/COLOR]</title>
+<link>NA</link>
+<info>Bienvenido/a a achoTV, puedes ver canales de television gratis las 24 horas en vivo, en directo y online.</info>
+<externallink>http://cecegeek.com/1tv.m3u</externallink>
+<thumbnail>https://s5.postimg.org/i4m01gwdj/logocece.jpg<thumbnail>
+<fanart>https://s5.postimg.org/45xib51vr/tv_digital_0-890x4801.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR aquamarine][B]Selecciona una lista[/B][/COLOR]</title>
+ 
+<link>NA</link>
+<externallink>$doregex[select]</externallink>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import xbmcgui
+   dialog = xbmcgui.Dialog()
+   ret = dialog.select('Seleciona una Lista ', ['Bozlist', 'Darkboz', 'ExabyteTV', 'TecnoTV', 'G67', 'Sr.RegioTV', 'PremierTV', 'GSat Latino', 'ChileIPTV'])
+   lists = ['http://adryanlist.org/adryan/tecno.m3u', 'https://pastebin.com/raw/cyH7vTu8', 'http://exabytetv.info/lista.m3u', 'http://tecnotv.xyz/lista.m3u', 'https://raw.githubusercontent.com/G67/G/master/G67C.m3u', 'http://srregio.net/regiotv.m3u', 'http://www.premieriptv.cl/freeiptv.m3u', 'http://www.geantsat.com/freeiptv/s9.m3u', 'http://chileiptv.cl/cl.m3u']
+   return lists[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
