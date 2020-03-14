@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,HBO HD(test acestream)
+http://s2.stream.cwdw.live:8080/295/2005/d4239a432ee921a0bf7eac2e6807783e35ac6daf
+#EXTINF:-1,HBO HD(test sopcast
+http://s2.stream.cwdw.live:8080/295/2005/d4239a432ee921a0bf7eac2e6807783e35ac6daf
 # EXTM3U x-tvg-url = "http://epg.streamstv.me/epg/guide-hungry.xml.gz"
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "" tvg-logo = "" group-title = "", 1Music Channel Ungaria
 http://1music.hu/1music.m3u8
