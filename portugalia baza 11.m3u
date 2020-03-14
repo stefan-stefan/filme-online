@@ -1,301 +1,911 @@
 #EXTM3U
-#EXTINF:-1,PT: 24 Kitchen HD
-http://livegopanel.club:8080/Teddy/Teddy/12609
-#EXTINF:-1,PT: A Bola TV
-http://livegopanel.club:8080/Teddy/Teddy/4482
-#EXTINF:-1,PT: AandE TV
-http://livegopanel.club:8080/Teddy/Teddy/12599
-#EXTINF:-1,PT: Afro Music
-http://livegopanel.club:8080/Teddy/Teddy/4496
-#EXTINF:-1,PT: AMC
-http://livegopanel.club:8080/Teddy/Teddy/3667
-#EXTINF:-1,PT: AMC FHD
-http://livegopanel.club:8080/Teddy/Teddy/9646
-#EXTINF:-1,PT: AR TV HD
-http://livegopanel.club:8080/Teddy/Teddy/12604
-#EXTINF:-1,PT: AXN FHD
-http://livegopanel.club:8080/Teddy/Teddy/9644
-#EXTINF:-1,PT: AXN HD
-http://livegopanel.club:8080/Teddy/Teddy/4667
-#EXTINF:-1,PT: AXN WHITE FHD
-http://livegopanel.club:8080/Teddy/Teddy/9643
-#EXTINF:-1,PT: AXN WHITE HD
-http://livegopanel.club:8080/Teddy/Teddy/4668
-#EXTINF:-1,PT: AXN BLACK FHD
-http://livegopanel.club:8080/Teddy/Teddy/9645
-#EXTINF:-1,PT: AXN BLACK HD
-http://livegopanel.club:8080/Teddy/Teddy/4669
-#EXTINF:-1,PT: BABY TV
-http://livegopanel.club:8080/Teddy/Teddy/3666
-#EXTINF:-1,PT: BTV FHD
-http://livegopanel.club:8080/Teddy/Teddy/9642
-#EXTINF:-1,PT: Benfica TV HD
-http://livegopanel.club:8080/Teddy/Teddy/3645
-#EXTINF:-1,PT: Biggs
-http://livegopanel.club:8080/Teddy/Teddy/12623
-#EXTINF:-1,PT: Blaze
-http://livegopanel.club:8080/Teddy/Teddy/4495
-#EXTINF:-1,PT: Caçae Pesca
-http://livegopanel.club:8080/Teddy/Teddy/12627
-#EXTINF:-1,PT: CAÇÃVISION
-http://livegopanel.club:8080/Teddy/Teddy/4666
-#EXTINF:-1,PT: Canal 11 FHD
-http://livegopanel.club:8080/Teddy/Teddy/30725
-#EXTINF:-1,PT: Canal 180
-http://livegopanel.club:8080/Teddy/Teddy/4497
-#EXTINF:-1,PT: Canal de Historia
-http://livegopanel.club:8080/Teddy/Teddy/3665
-#EXTINF:-1,PT: Canal Panda
-http://livegopanel.club:8080/Teddy/Teddy/3664
-#EXTINF:-1,PT: Canal Q
-http://livegopanel.club:8080/Teddy/Teddy/28964
-#EXTINF:-1,PT: Cinemundo
-http://livegopanel.club:8080/Teddy/Teddy/3663
-#EXTINF:-1,PT: Clubbing TV
-http://livegopanel.club:8080/Teddy/Teddy/12597
-#EXTINF:-1,PT: CM TV
-http://livegopanel.club:8080/Teddy/Teddy/3662
-#EXTINF:-1,PT: CM TV HD
-http://livegopanel.club:8080/Teddy/Teddy/15202
-#EXTINF:-1,PT: Crime & Incvestigation
-http://livegopanel.club:8080/Teddy/Teddy/12598
-#EXTINF:-1,PT: Discovery Channel
-http://livegopanel.club:8080/Teddy/Teddy/4490
-#EXTINF:-1,PT: Discovery Channel FHD
-http://livegopanel.club:8080/Teddy/Teddy/31446
-#EXTINF:-1,PT: Disney Channel
-http://livegopanel.club:8080/Teddy/Teddy/4493
-#EXTINF:-1,PT: Disney Junior
-http://livegopanel.club:8080/Teddy/Teddy/3661
-#EXTINF:-1,PT: DOG HD
-http://livegopanel.club:8080/Teddy/Teddy/14629
-#EXTINF:-1,PT: E! Entertainment
-http://livegopanel.club:8080/Teddy/Teddy/12621
-#EXTINF:-1,PT: Euro Channel
-http://livegopanel.club:8080/Teddy/Teddy/31321
-#EXTINF:-1,PT: EuroNews
-http://livegopanel.club:8080/Teddy/Teddy/12626
-#EXTINF:-1,PT: EUROSPORT HD
-http://livegopanel.club:8080/Teddy/Teddy/1520
-#EXTINF:-1,PT: EUROSPORT 1 FHD
-http://livegopanel.club:8080/Teddy/Teddy/9641
-#EXTINF:-1,PT: EUROSPORT 2
-http://livegopanel.club:8080/Teddy/Teddy/12367
-#EXTINF:-1,PT: Fashion TV
-http://livegopanel.club:8080/Teddy/Teddy/3659
-#EXTINF:-1,PT: FIGHT NETWORK FHD
-http://livegopanel.club:8080/Teddy/Teddy/9639
-#EXTINF:-1,PT: FightBOX HD
-http://livegopanel.club:8080/Teddy/Teddy/12602
-#EXTINF:-1,PT: Fine Living Network FHD
-http://livegopanel.club:8080/Teddy/Teddy/31317
-#EXTINF:-1,PT: Food Network
-http://livegopanel.club:8080/Teddy/Teddy/12607
-#EXTINF:-1,PT: FOX FHD
-http://livegopanel.club:8080/Teddy/Teddy/9636
-#EXTINF:-1,PT: FOX HD
-http://livegopanel.club:8080/Teddy/Teddy/4664
-#EXTINF:-1,PT: FOX Comedy FHD
-http://livegopanel.club:8080/Teddy/Teddy/9638
-#EXTINF:-1,PT: FOX Comedy
-http://livegopanel.club:8080/Teddy/Teddy/4488
-#EXTINF:-1,PT: FOX CRIME FHD
-http://livegopanel.club:8080/Teddy/Teddy/9637
-#EXTINF:-1,PT: FOX CRIME HD
-http://livegopanel.club:8080/Teddy/Teddy/4665
-#EXTINF:-1,PT: FOX LIFE FHD
-http://livegopanel.club:8080/Teddy/Teddy/9635
-#EXTINF:-1,PT: FOX LIFE HD
-http://livegopanel.club:8080/Teddy/Teddy/4663
-#EXTINF:-1,PT: FOX Movies FHD
-http://livegopanel.club:8080/Teddy/Teddy/9640
-#EXTINF:-1,PT: FOX Movies
-http://livegopanel.club:8080/Teddy/Teddy/4489
-#EXTINF:-1,PT: FOX News
-http://livegopanel.club:8080/Teddy/Teddy/12622
-#EXTINF:-1,PT: France 24
-http://livegopanel.club:8080/Teddy/Teddy/12616
-#EXTINF:-1,PT: Fuel TV
-http://livegopanel.club:8080/Teddy/Teddy/4484
-#EXTINF:-1,PT: FUEL TV FHD
-http://livegopanel.club:8080/Teddy/Teddy/9634
-#EXTINF:-1,PT: GLOBO PREMIUM
-http://livegopanel.club:8080/Teddy/Teddy/4661
-#EXTINF:-1,PT: Hollywood FHD
-http://livegopanel.club:8080/Teddy/Teddy/33151
-#EXTINF:-1,PT: Hollywood HD
-http://livegopanel.club:8080/Teddy/Teddy/4486
-#EXTINF:-1,PT: ID Investigation Discovery FHD
-http://livegopanel.club:8080/Teddy/Teddy/33152
-#EXTINF:-1,PT: JIM JAM
-http://livegopanel.club:8080/Teddy/Teddy/3660
-#EXTINF:-1,PT: Kuriakos TV
-http://livegopanel.club:8080/Teddy/Teddy/12600
-#EXTINF:-1,PT: MACAU TV
-http://livegopanel.club:8080/Teddy/Teddy/31320
-#EXTINF:-1,PT: MÁS CHIC
-http://livegopanel.club:8080/Teddy/Teddy/12613
-#EXTINF:-1,PT: MCM POP
-http://livegopanel.club:8080/Teddy/Teddy/12596
-#EXTINF:-1,PT: MCM TOP
-http://livegopanel.club:8080/Teddy/Teddy/4498
-#EXTINF:-1,PT: Motorvision
-http://livegopanel.club:8080/Teddy/Teddy/4485
-#EXTINF:-1,PT: MTV
-http://livegopanel.club:8080/Teddy/Teddy/3658
-#EXTINF:-1,PT: MVM
-http://livegopanel.club:8080/Teddy/Teddy/12619
-#EXTINF:-1,PT: My Cuisine
-http://livegopanel.club:8080/Teddy/Teddy/12625
-#EXTINF:-1,PT: Nat Geo Wild
-http://livegopanel.club:8080/Teddy/Teddy/4491
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://livegopanel.club:8080/Teddy/Teddy/4662
-#EXTINF:-1,PT: NBA HD
-http://livegopanel.club:8080/Teddy/Teddy/12603
-#EXTINF:-1,PT: Nickelodeon
-http://livegopanel.club:8080/Teddy/Teddy/3657
-#EXTINF:-1,PT: Nick Jr.
-http://livegopanel.club:8080/Teddy/Teddy/34652
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://livegopanel.club:8080/Teddy/Teddy/31316
-#EXTINF:-1,PT: NOW
-http://livegopanel.club:8080/Teddy/Teddy/31322
-#EXTINF:-1,PT: ODISSEIA
-http://livegopanel.club:8080/Teddy/Teddy/1517
-#EXTINF:-1,PT: Panda
-http://livegopanel.club:8080/Teddy/Teddy/4492
-#EXTINF:-1,PT: PANDA BIGGS
-http://livegopanel.club:8080/Teddy/Teddy/3656
-#EXTINF:-1,PT: PFC
-http://livegopanel.club:8080/Teddy/Teddy/4660
-#EXTINF:-1,PT: Porto Canal
-http://livegopanel.club:8080/Teddy/Teddy/3655
-#EXTINF:-1,PT: Regiões TV
-http://livegopanel.club:8080/Teddy/Teddy/12620
-#EXTINF:-1,PT: RTP 1 FHD
-http://livegopanel.club:8080/Teddy/Teddy/33153
-#EXTINF:-1,PT: RTP 1
-http://livegopanel.club:8080/Teddy/Teddy/3643
-#EXTINF:-1,PT: RTP 2 FHD
-http://livegopanel.club:8080/Teddy/Teddy/5427
-#EXTINF:-1,PT: RTP 2
-http://livegopanel.club:8080/Teddy/Teddy/3654
-#EXTINF:-1,PT: RTP 3
-http://livegopanel.club:8080/Teddy/Teddy/3642
-#EXTINF:-1,PT: RTP Açores
-http://livegopanel.club:8080/Teddy/Teddy/4481
-#EXTINF:-1,PT: RTP Africa
-http://livegopanel.club:8080/Teddy/Teddy/4480
-#EXTINF:-1,PT: RTP MADEIRA
-http://livegopanel.club:8080/Teddy/Teddy/3653
-#EXTINF:-1,PT: RTP MEMORIA
-http://livegopanel.club:8080/Teddy/Teddy/3652
-#EXTINF:-1,PT: SIC FHD
-http://livegopanel.club:8080/Teddy/Teddy/33154
-#EXTINF:-1,PT: SIC
-http://livegopanel.club:8080/Teddy/Teddy/4476
-#EXTINF:-1,PT: SIC Caras FHD
-http://livegopanel.club:8080/Teddy/Teddy/33155
-#EXTINF:-1,PT: Sic Caras
-http://livegopanel.club:8080/Teddy/Teddy/14615
-#EXTINF:-1,PT: SIC K
-http://livegopanel.club:8080/Teddy/Teddy/3651
-#EXTINF:-1,PT: Sic Kids
-http://livegopanel.club:8080/Teddy/Teddy/4494
-#EXTINF:-1,PT: SIC MULHER
-http://livegopanel.club:8080/Teddy/Teddy/3650
-#EXTINF:-1,PT: SIC NOTICIAS FHD
-http://livegopanel.club:8080/Teddy/Teddy/9633
-#EXTINF:-1,PT: SIC NOTICIAS
-http://livegopanel.club:8080/Teddy/Teddy/3649
-#EXTINF:-1,PT: SIC RADICAL FHD
-http://livegopanel.club:8080/Teddy/Teddy/9632
-#EXTINF:-1,PT: SIC Radical
-http://livegopanel.club:8080/Teddy/Teddy/4479
-#EXTINF:-1,PT: SKYNews
-http://livegopanel.club:8080/Teddy/Teddy/12615
-#EXTINF:-1,PT: Sport TV1
-http://livegopanel.club:8080/Teddy/Teddy/6494
-#EXTINF:-1,PT: Sport TV2
-http://livegopanel.club:8080/Teddy/Teddy/6495
-#EXTINF:-1,PT: Sport TV3
-http://livegopanel.club:8080/Teddy/Teddy/6496
-#EXTINF:-1,PT: Sport TV4
-http://livegopanel.club:8080/Teddy/Teddy/6497
-#EXTINF:-1,PT: Sport TV5
-http://livegopanel.club:8080/Teddy/Teddy/6498
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://livegopanel.club:8080/Teddy/Teddy/16056
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://livegopanel.club:8080/Teddy/Teddy/16055
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://livegopanel.club:8080/Teddy/Teddy/16054
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://livegopanel.club:8080/Teddy/Teddy/16053
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://livegopanel.club:8080/Teddy/Teddy/16052
-#EXTINF:-1,PT: SPORT TV+FHD
-http://livegopanel.club:8080/Teddy/Teddy/16057
-#EXTINF:-1,PT: Sport TV NBA HD
-http://livegopanel.club:8080/Teddy/Teddy/4483
-#EXTINF:-1,PT: Sporting TV FHD
-http://livegopanel.club:8080/Teddy/Teddy/9625
-#EXTINF:-1,PT: SyFy
-http://livegopanel.club:8080/Teddy/Teddy/4487
-#EXTINF:-1,PT: SyFy FHD
-http://livegopanel.club:8080/Teddy/Teddy/9624
-#EXTINF:-1,PT: TCV Cabo Verde
-http://livegopanel.club:8080/Teddy/Teddy/12612
-#EXTINF:-1,PT: TLC
-http://livegopanel.club:8080/Teddy/Teddy/12611
-#EXTINF:-1,PT: Toros TV
-http://livegopanel.club:8080/Teddy/Teddy/12610
-#EXTINF:-1,PT: TPA ANGOLA
-http://livegopanel.club:8080/Teddy/Teddy/12614
-#EXTINF:-1,PT: Trace TV
-http://livegopanel.club:8080/Teddy/Teddy/12617
-#EXTINF:-1,PT: Travel HD
-http://livegopanel.club:8080/Teddy/Teddy/12605
-#EXTINF:-1,PT: TVCINE TOP FHD
-http://livegopanel.club:8080/Teddy/Teddy/16051
-#EXTINF:-1,PT: TV Cine TOP HD
-http://livegopanel.club:8080/Teddy/Teddy/6499
-#EXTINF:-1,PT: TVCINE Edition FHD
-http://livegopanel.club:8080/Teddy/Teddy/16050
-#EXTINF:-1,PT: TV Cine Edition HD
-http://livegopanel.club:8080/Teddy/Teddy/6500
-#EXTINF:-1,PT: TVCINE Emotion FHD
-http://livegopanel.club:8080/Teddy/Teddy/16049
-#EXTINF:-1,PT: TV Cine Emotion HD
-http://livegopanel.club:8080/Teddy/Teddy/6501
-#EXTINF:-1,PT: TVCINE Action FHD
-http://livegopanel.club:8080/Teddy/Teddy/16048
-#EXTINF:-1,PT: TV Cine Action HD
-http://livegopanel.club:8080/Teddy/Teddy/6502
-#EXTINF:-1,PT: TV SERIES FHD
-http://livegopanel.club:8080/Teddy/Teddy/31447
-#EXTINF:-1,PT: TV SERIES
-http://livegopanel.club:8080/Teddy/Teddy/6503
-#EXTINF:-1,PT: TV Globo
-http://livegopanel.club:8080/Teddy/Teddy/5426
-#EXTINF:-1,PT: Tv Record
-http://livegopanel.club:8080/Teddy/Teddy/3648
-#EXTINF:-1,PT: TVI
-http://livegopanel.club:8080/Teddy/Teddy/4477
-#EXTINF:-1,PT: Tvi 24
-http://livegopanel.club:8080/Teddy/Teddy/3647
-#EXTINF:-1,PT: TVI FICCAO
-http://livegopanel.club:8080/Teddy/Teddy/3646
-#EXTINF:-1,PT: TVI HD
-http://livegopanel.club:8080/Teddy/Teddy/955
-#EXTINF:-1,PT: TVI Reality
-http://livegopanel.club:8080/Teddy/Teddy/4478
-#EXTINF:-1,PT: TVM INT. MOÇAMBIQUE
-http://livegopanel.club:8080/Teddy/Teddy/31319
-#EXTINF:-1,PT: TVM MOÇAMBIQUE
-http://livegopanel.club:8080/Teddy/Teddy/31318
-#EXTINF:-1,PT: VH1
-http://livegopanel.club:8080/Teddy/Teddy/12618
-#EXTINF:-1,PT: ZAP VIVA HD
-http://livegopanel.club:8080/Teddy/Teddy/31315
+#EXTINF:-1 tvg-ID="" tvg-name="===== Portugal =====" tvg-logo="" group-title="",===== Portugal =====
+http://livegopanel.club:8080/0226047/98401321040/1198
+#EXTINF:-1 tvg-ID="24kitchen.pt" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="Live: Portugal",PT: 24 Kitchen HD
+http://livegopanel.club:8080/0226047/98401321040/12609
+#EXTINF:-1 tvg-ID="abolatv.pt" tvg-name="PT: A Bola TV" tvg-logo="[""]" group-title="Live: Portugal",PT: A Bola TV
+http://livegopanel.club:8080/0226047/98401321040/4482
+#EXTINF:-1 tvg-ID="angelustv.pt" tvg-name="PT: AandE TV" tvg-logo="[" group-title="Live: Portugal",PT: AandE TV
+http://livegopanel.club:8080/0226047/98401321040/12599
+#EXTINF:-1 tvg-ID="afromusicchannel.pt" tvg-name="PT: Afro Music" tvg-logo="" group-title="Live: Portugal",PT: Afro Music
+http://livegopanel.club:8080/0226047/98401321040/4496
+#EXTINF:-1 tvg-ID="amc.pt" tvg-name="PT: AMC" tvg-logo="" group-title="Live: Portugal",PT: AMC
+http://livegopanel.club:8080/0226047/98401321040/3667
+#EXTINF:-1 tvg-ID="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="[" group-title="Live: Portugal",PT: AMC FHD
+http://livegopanel.club:8080/0226047/98401321040/9646
+#EXTINF:-1 tvg-ID="artv.pt" tvg-name="PT: AR TV HD" tvg-logo="[""]" group-title="Live: Portugal",PT: AR TV HD
+http://livegopanel.club:8080/0226047/98401321040/12604
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: AXN FHD" tvg-logo="" group-title="Live: Portugal",PT: AXN FHD
+http://livegopanel.club:8080/0226047/98401321040/9644
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT: AXN HD" tvg-logo="[" group-title="Live: Portugal",PT: AXN HD
+http://livegopanel.club:8080/0226047/98401321040/4667
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="[" group-title="Live: Portugal",PT: AXN WHITE FHD
+http://livegopanel.club:8080/0226047/98401321040/9643
+#EXTINF:-1 tvg-ID="axnwhite.pt" tvg-name="PT: AXN WHITE HD" tvg-logo="[""]" group-title="Live: Portugal",PT: AXN WHITE HD
+http://livegopanel.club:8080/0226047/98401321040/4668
+#EXTINF:-1 tvg-ID="axn.pt" tvg-name="PT: AXN BLACK FHD" tvg-logo="[" group-title="Live: Portugal",PT: AXN BLACK FHD
+http://livegopanel.club:8080/0226047/98401321040/9645
+#EXTINF:-1 tvg-ID="axnblack.pt" tvg-name="PT: AXN BLACK HD" tvg-logo="[""]" group-title="Live: Portugal",PT: AXN BLACK HD
+http://livegopanel.club:8080/0226047/98401321040/4669
+#EXTINF:-1 tvg-ID="babytv.pt" tvg-name="PT: BABY TV" tvg-logo="[" group-title="Live: Portugal",PT: BABY TV
+http://livegopanel.club:8080/0226047/98401321040/3666
+#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: BTV FHD" tvg-logo="[" group-title="Live: Portugal",PT: BTV FHD
+http://livegopanel.club:8080/0226047/98401321040/9642
+#EXTINF:-1 tvg-ID="benficatv1.pt" tvg-name="PT: Benfica TV HD" tvg-logo="[" group-title="Live: Portugal",PT: Benfica TV HD
+http://livegopanel.club:8080/0226047/98401321040/3645
+#EXTINF:-1 tvg-ID="biggs.pt" tvg-name="PT: Biggs" tvg-logo="[""]" group-title="Live: Portugal",PT: Biggs
+http://livegopanel.club:8080/0226047/98401321040/12623
+#EXTINF:-1 tvg-ID="blaze.pt" tvg-name="PT: Blaze" tvg-logo="[" group-title="Live: Portugal",PT: Blaze
+http://livegopanel.club:8080/0226047/98401321040/4495
+#EXTINF:-1 tvg-ID="cacaepesca.pt" tvg-name="PT: Caçae Pesca" tvg-logo="[" group-title="Live: Portugal",PT: Caçae Pesca
+http://livegopanel.club:8080/0226047/98401321040/12627
+#EXTINF:-1 tvg-ID="cacavision.pt" tvg-name="PT: CAÇÃVISION" tvg-logo="" group-title="Live: Portugal",PT: CAÇÃVISION
+http://livegopanel.club:8080/0226047/98401321040/4666
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Canal 11 FHD" tvg-logo="" group-title="Live: Portugal",PT: Canal 11 FHD
+http://livegopanel.club:8080/0226047/98401321040/30725
+#EXTINF:-1 tvg-ID="canal180.pt" tvg-name="PT: Canal 180" tvg-logo="[" group-title="Live: Portugal",PT: Canal 180
+http://livegopanel.club:8080/0226047/98401321040/4497
+#EXTINF:-1 tvg-ID="historychannel.pt" tvg-name="PT: Canal de Historia" tvg-logo="[" group-title="Live: Portugal",PT: Canal de Historia
+http://livegopanel.club:8080/0226047/98401321040/3665
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="PT: Canal Panda" tvg-logo="" group-title="Live: Portugal",PT: Canal Panda
+http://livegopanel.club:8080/0226047/98401321040/3664
+#EXTINF:-1 tvg-ID="canalq.pt" tvg-name="PT: Canal Q" tvg-logo="[""]" group-title="Live: Portugal",PT: Canal Q
+http://livegopanel.club:8080/0226047/98401321040/28964
+#EXTINF:-1 tvg-ID="cinemundo.pt" tvg-name="PT: Cinemundo" tvg-logo="" group-title="Live: Portugal",PT: Cinemundo
+http://livegopanel.club:8080/0226047/98401321040/3663
+#EXTINF:-1 tvg-ID="discoveryshowcase.pt" tvg-name="PT: Clubbing TV" tvg-logo="[" group-title="Live: Portugal",PT: Clubbing TV
+http://livegopanel.club:8080/0226047/98401321040/12597
+#EXTINF:-1 tvg-ID="cmtv.pt" tvg-name="PT: CM TV" tvg-logo="" group-title="Live: Portugal",PT: CM TV
+http://livegopanel.club:8080/0226047/98401321040/3662
+#EXTINF:-1 tvg-ID="cmtv.pt" tvg-name="PT: CM TV HD" tvg-logo="" group-title="Live: Portugal",PT: CM TV HD
+http://livegopanel.club:8080/0226047/98401321040/15202
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Crime & Incvestigation" tvg-logo="[""]" group-title="Live: Portugal",PT: Crime & Incvestigation
+http://livegopanel.club:8080/0226047/98401321040/12598
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="PT: Discovery Channel" tvg-logo="" group-title="Live: Portugal",PT: Discovery Channel
+http://livegopanel.club:8080/0226047/98401321040/4490
+#EXTINF:-1 tvg-ID="discoverychannel.pt" tvg-name="PT: Discovery Channel FHD" tvg-logo="[" group-title="Live: Portugal",PT: Discovery Channel FHD
+http://livegopanel.club:8080/0226047/98401321040/31446
+#EXTINF:-1 tvg-ID="disneychannel.pt" tvg-name="PT: Disney Channel" tvg-logo="[""]" group-title="Live: Portugal",PT: Disney Channel
+http://livegopanel.club:8080/0226047/98401321040/4493
+#EXTINF:-1 tvg-ID="disneyjunior.pt" tvg-name="PT: Disney Junior" tvg-logo="" group-title="Live: Portugal",PT: Disney Junior
+http://livegopanel.club:8080/0226047/98401321040/3661
+#EXTINF:-1 tvg-ID="dogtv.pt" tvg-name="PT: DOG HD" tvg-logo="" group-title="Live: Portugal",PT: DOG HD
+http://livegopanel.club:8080/0226047/98401321040/14629
+#EXTINF:-1 tvg-ID="eentertainment.pt" tvg-name="PT: E! Entertainment" tvg-logo="[""]" group-title="Live: Portugal",PT: E! Entertainment
+http://livegopanel.club:8080/0226047/98401321040/12621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Euro Channel" tvg-logo="" group-title="Live: Portugal",PT: Euro Channel
+http://livegopanel.club:8080/0226047/98401321040/31321
+#EXTINF:-1 tvg-ID="euronews.pt" tvg-name="PT: EuroNews" tvg-logo="[" group-title="Live: Portugal",PT: EuroNews
+http://livegopanel.club:8080/0226047/98401321040/12626
+#EXTINF:-1 tvg-ID="eurosport1.pt" tvg-name="PT: EUROSPORT HD" tvg-logo="[""]" group-title="Live: Portugal",PT: EUROSPORT HD
+http://livegopanel.club:8080/0226047/98401321040/1520
+#EXTINF:-1 tvg-ID="eurosport1.pt" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: EUROSPORT 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/9641
+#EXTINF:-1 tvg-ID="eurosport2.pt" tvg-name="PT: EUROSPORT 2" tvg-logo="[""]" group-title="Live: Portugal",PT: EUROSPORT 2
+http://livegopanel.club:8080/0226047/98401321040/12367
+#EXTINF:-1 tvg-ID="fashiontv.pt" tvg-name="PT: Fashion TV" tvg-logo="" group-title="Live: Portugal",PT: Fashion TV
+http://livegopanel.club:8080/0226047/98401321040/3659
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FIGHT NETWORK FHD" tvg-logo="" group-title="Live: Portugal",PT: FIGHT NETWORK FHD
+http://livegopanel.club:8080/0226047/98401321040/9639
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FightBOX HD" tvg-logo="" group-title="Live: Portugal",PT: FightBOX HD
+http://livegopanel.club:8080/0226047/98401321040/12602
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Fine Living Network FHD" tvg-logo="[""]" group-title="Live: Portugal",PT: Fine Living Network FHD
+http://livegopanel.club:8080/0226047/98401321040/31317
+#EXTINF:-1 tvg-ID="foodnetwork.pt" tvg-name="PT: Food Network" tvg-logo="[" group-title="Live: Portugal",PT: Food Network
+http://livegopanel.club:8080/0226047/98401321040/12607
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX FHD
+http://livegopanel.club:8080/0226047/98401321040/9636
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="PT: FOX HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX HD
+http://livegopanel.club:8080/0226047/98401321040/4664
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT: FOX Comedy FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX Comedy FHD
+http://livegopanel.club:8080/0226047/98401321040/9638
+#EXTINF:-1 tvg-ID="foxcomedy.pt" tvg-name="PT: FOX Comedy" tvg-logo="[""]" group-title="Live: Portugal",PT: FOX Comedy
+http://livegopanel.club:8080/0226047/98401321040/4488
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX CRIME FHD
+http://livegopanel.club:8080/0226047/98401321040/9637
+#EXTINF:-1 tvg-ID="foxcrime.pt" tvg-name="PT: FOX CRIME HD" tvg-logo="[" group-title="Live: Portugal",PT: FOX CRIME HD
+http://livegopanel.club:8080/0226047/98401321040/4665
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX LIFE FHD
+http://livegopanel.club:8080/0226047/98401321040/9635
+#EXTINF:-1 tvg-ID="foxlife.pt" tvg-name="PT: FOX LIFE HD" tvg-logo="[""]" group-title="Live: Portugal",PT: FOX LIFE HD
+http://livegopanel.club:8080/0226047/98401321040/4663
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT: FOX Movies FHD" tvg-logo="[" group-title="Live: Portugal",PT: FOX Movies FHD
+http://livegopanel.club:8080/0226047/98401321040/9640
+#EXTINF:-1 tvg-ID="foxmovies.pt" tvg-name="PT: FOX Movies" tvg-logo="[""]" group-title="Live: Portugal",PT: FOX Movies
+http://livegopanel.club:8080/0226047/98401321040/4489
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: FOX News" tvg-logo="[" group-title="Live: Portugal",PT: FOX News
+http://livegopanel.club:8080/0226047/98401321040/12622
+#EXTINF:-1 tvg-ID="" tvg-name="PT: France 24" tvg-logo="" group-title="Live: Portugal",PT: France 24
+http://livegopanel.club:8080/0226047/98401321040/12616
+#EXTINF:-1 tvg-ID="fueltv.pt" tvg-name="PT: Fuel TV" tvg-logo="[""]" group-title="Live: Portugal",PT: Fuel TV
+http://livegopanel.club:8080/0226047/98401321040/4484
+#EXTINF:-1 tvg-ID="fueltv.pt" tvg-name="PT: FUEL TV FHD" tvg-logo="[" group-title="Live: Portugal",PT: FUEL TV FHD
+http://livegopanel.club:8080/0226047/98401321040/9634
+#EXTINF:-1 tvg-ID="globonow.pt" tvg-name="PT: GLOBO PREMIUM" tvg-logo="" group-title="Live: Portugal",PT: GLOBO PREMIUM
+http://livegopanel.club:8080/0226047/98401321040/4661
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood FHD" tvg-logo="" group-title="Live: Portugal",PT: Hollywood FHD
+http://livegopanel.club:8080/0226047/98401321040/33151
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Hollywood HD" tvg-logo="" group-title="Live: Portugal",PT: Hollywood HD
+http://livegopanel.club:8080/0226047/98401321040/4486
+#EXTINF:-1 tvg-ID="" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="" group-title="Live: Portugal",PT: ID Investigation Discovery FHD
+http://livegopanel.club:8080/0226047/98401321040/33152
+#EXTINF:-1 tvg-ID="jimjam.pt" tvg-name="PT: JIM JAM" tvg-logo="[""]" group-title="Live: Portugal",PT: JIM JAM
+http://livegopanel.club:8080/0226047/98401321040/3660
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Kuriakos TV" tvg-logo="" group-title="Live: Portugal",PT: Kuriakos TV
+http://livegopanel.club:8080/0226047/98401321040/12600
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MACAU TV" tvg-logo="" group-title="Live: Portugal",PT: MACAU TV
+http://livegopanel.club:8080/0226047/98401321040/31320
+#EXTINF:-1 tvg-ID="" tvg-name="PT: MÁS CHIC" tvg-logo="[""]" group-title="Live: Portugal",PT: MÁS CHIC
+http://livegopanel.club:8080/0226047/98401321040/12613
+#EXTINF:-1 tvg-ID="mcsultra.pt" tvg-name="PT: MCM POP" tvg-logo="[" group-title="Live: Portugal",PT: MCM POP
+http://livegopanel.club:8080/0226047/98401321040/12596
+#EXTINF:-1 tvg-ID="mcmtophd.pt" tvg-name="PT: MCM TOP" tvg-logo="[""]" group-title="Live: Portugal",PT: MCM TOP
+http://livegopanel.club:8080/0226047/98401321040/4498
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: Motorvision" tvg-logo="[" group-title="Live: Portugal",PT: Motorvision
+http://livegopanel.club:8080/0226047/98401321040/4485
+#EXTINF:-1 tvg-ID="mtv.pt" tvg-name="PT: MTV" tvg-logo="[""]" group-title="Live: Portugal",PT: MTV
+http://livegopanel.club:8080/0226047/98401321040/3658
+#EXTINF:-1 tvg-ID="mvm.pt" tvg-name="PT: MVM" tvg-logo="[""]" group-title="Live: Portugal",PT: MVM
+http://livegopanel.club:8080/0226047/98401321040/12619
+#EXTINF:-1 tvg-ID="mycuisinehd.pt" tvg-name="PT: My Cuisine" tvg-logo="" group-title="Live: Portugal",PT: My Cuisine
+http://livegopanel.club:8080/0226047/98401321040/12625
+#EXTINF:-1 tvg-ID="natgeo.pt" tvg-name="PT: Nat Geo Wild" tvg-logo="[""]" group-title="Live: Portugal",PT: Nat Geo Wild
+http://livegopanel.club:8080/0226047/98401321040/4491
+#EXTINF:-1 tvg-ID="natgeo.pt" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Live: Portugal",PT: NATIONAL GEOGRAPHIC HD
+http://livegopanel.club:8080/0226047/98401321040/4662
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NBA HD" tvg-logo="[""]" group-title="Live: Portugal",PT: NBA HD
+http://livegopanel.club:8080/0226047/98401321040/12603
+#EXTINF:-1 tvg-ID="nickelodeon.pt" tvg-name="PT: Nickelodeon" tvg-logo="[""]" group-title="Live: Portugal",PT: Nickelodeon
+http://livegopanel.club:8080/0226047/98401321040/3657
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Nick Jr." tvg-logo="" group-title="Live: Portugal",PT: Nick Jr.
+http://livegopanel.club:8080/0226047/98401321040/34652
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: NOS STUDIOS HD" tvg-logo="" group-title="Live: Portugal",PT: NOS STUDIOS HD
+http://livegopanel.club:8080/0226047/98401321040/31316
+#EXTINF:-1 tvg-ID="" tvg-name="PT: NOW" tvg-logo="[""]" group-title="Live: Portugal",PT: NOW
+http://livegopanel.club:8080/0226047/98401321040/31322
+#EXTINF:-1 tvg-ID="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="[""]" group-title="Live: Portugal",PT: ODISSEIA
+http://livegopanel.club:8080/0226047/98401321040/1517
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="PT: Panda" tvg-logo="[""]" group-title="Live: Portugal",PT: Panda
+http://livegopanel.club:8080/0226047/98401321040/4492
+#EXTINF:-1 tvg-ID="biggs.pt" tvg-name="PT: PANDA BIGGS" tvg-logo="[" group-title="Live: Portugal",PT: PANDA BIGGS
+http://livegopanel.club:8080/0226047/98401321040/3656
+#EXTINF:-1 tvg-ID="pfc.pt" tvg-name="PT: PFC" tvg-logo="[""]" group-title="Live: Portugal",PT: PFC
+http://livegopanel.club:8080/0226047/98401321040/4660
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Porto Canal" tvg-logo="[""]" group-title="Live: Portugal",PT: Porto Canal
+http://livegopanel.club:8080/0226047/98401321040/3655
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Regiões TV" tvg-logo="[""]" group-title="Live: Portugal",PT: Regiões TV
+http://livegopanel.club:8080/0226047/98401321040/12620
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Live: Portugal",PT: RTP 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/33153
+#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="" group-title="Live: Portugal",PT: RTP 1
+http://livegopanel.club:8080/0226047/98401321040/3643
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: RTP 2 FHD
+http://livegopanel.club:8080/0226047/98401321040/5427
+#EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="" group-title="Live: Portugal",PT: RTP 2
+http://livegopanel.club:8080/0226047/98401321040/3654
+#EXTINF:-1 tvg-ID="rtp3.pt" tvg-name="PT: RTP 3" tvg-logo="[" group-title="Live: Portugal",PT: RTP 3
+http://livegopanel.club:8080/0226047/98401321040/3642
+#EXTINF:-1 tvg-ID="rtpacores.pt" tvg-name="PT: RTP Açores" tvg-logo="" group-title="Live: Portugal",PT: RTP Açores
+http://livegopanel.club:8080/0226047/98401321040/4481
+#EXTINF:-1 tvg-ID="rtpafrica.pt" tvg-name="PT: RTP Africa" tvg-logo="[" group-title="Live: Portugal",PT: RTP Africa
+http://livegopanel.club:8080/0226047/98401321040/4480
+#EXTINF:-1 tvg-ID="rtpmadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="" group-title="Live: Portugal",PT: RTP MADEIRA
+http://livegopanel.club:8080/0226047/98401321040/3653
+#EXTINF:-1 tvg-ID="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="[" group-title="Live: Portugal",PT: RTP MEMORIA
+http://livegopanel.club:8080/0226047/98401321040/3652
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SIC FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC FHD
+http://livegopanel.club:8080/0226047/98401321040/33154
+#EXTINF:-1 tvg-ID="sic.pt" tvg-name="PT: SIC" tvg-logo="[""]" group-title="Live: Portugal",PT: SIC
+http://livegopanel.club:8080/0226047/98401321040/4476
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SIC Caras FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC Caras FHD
+http://livegopanel.club:8080/0226047/98401321040/33155
+#EXTINF:-1 tvg-ID="siccaras.pt" tvg-name="PT: Sic Caras" tvg-logo="" group-title="Live: Portugal",PT: Sic Caras
+http://livegopanel.club:8080/0226047/98401321040/14615
+#EXTINF:-1 tvg-ID="sick.pt" tvg-name="PT: SIC K" tvg-logo="" group-title="Live: Portugal",PT: SIC K
+http://livegopanel.club:8080/0226047/98401321040/3651
+#EXTINF:-1 tvg-ID="sick.pt" tvg-name="PT: Sic Kids" tvg-logo="[""]" group-title="Live: Portugal",PT: Sic Kids
+http://livegopanel.club:8080/0226047/98401321040/4494
+#EXTINF:-1 tvg-ID="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="" group-title="Live: Portugal",PT: SIC MULHER
+http://livegopanel.club:8080/0226047/98401321040/3650
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="[" group-title="Live: Portugal",PT: SIC NOTICIAS FHD
+http://livegopanel.club:8080/0226047/98401321040/9633
+#EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="" group-title="Live: Portugal",PT: SIC NOTICIAS
+http://livegopanel.club:8080/0226047/98401321040/3649
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="Live: Portugal",PT: SIC RADICAL FHD
+http://livegopanel.club:8080/0226047/98401321040/9632
+#EXTINF:-1 tvg-ID="sicradical.pt" tvg-name="PT: SIC Radical" tvg-logo="[" group-title="Live: Portugal",PT: SIC Radical
+http://livegopanel.club:8080/0226047/98401321040/4479
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: SKYNews" tvg-logo="" group-title="Live: Portugal",PT: SKYNews
+http://livegopanel.club:8080/0226047/98401321040/12615
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: Sport TV1" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV1
+http://livegopanel.club:8080/0226047/98401321040/6494
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: Sport TV2" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV2
+http://livegopanel.club:8080/0226047/98401321040/6495
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: Sport TV3" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV3
+http://livegopanel.club:8080/0226047/98401321040/6496
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: Sport TV4" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV4
+http://livegopanel.club:8080/0226047/98401321040/6497
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: Sport TV5" tvg-logo="[" group-title="Live: Portugal",PT: Sport TV5
+http://livegopanel.club:8080/0226047/98401321040/6498
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/16056
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 2 FHD
+http://livegopanel.club:8080/0226047/98401321040/16055
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 3 FHD
+http://livegopanel.club:8080/0226047/98401321040/16054
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 4 FHD
+http://livegopanel.club:8080/0226047/98401321040/16053
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV 5 FHD
+http://livegopanel.club:8080/0226047/98401321040/16052
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="PT: SPORT TV+FHD" tvg-logo="[" group-title="Live: Portugal",PT: SPORT TV+FHD
+http://livegopanel.club:8080/0226047/98401321040/16057
+#EXTINF:-1 tvg-ID="" tvg-name="PT: Sport TV NBA HD" tvg-logo="[""]" group-title="Live: Portugal",PT: Sport TV NBA HD
+http://livegopanel.club:8080/0226047/98401321040/4483
+#EXTINF:-1 tvg-ID="sportingtv.pt" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="Live: Portugal",PT: Sporting TV FHD
+http://livegopanel.club:8080/0226047/98401321040/9625
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy" tvg-logo="[""]" group-title="Live: Portugal",PT: SyFy
+http://livegopanel.club:8080/0226047/98401321040/4487
+#EXTINF:-1 tvg-ID="syfy.pt" tvg-name="PT: SyFy FHD" tvg-logo="[" group-title="Live: Portugal",PT: SyFy FHD
+http://livegopanel.club:8080/0226047/98401321040/9624
+#EXTINF:-1 tvg-ID="tcvinternational.pt" tvg-name="PT: TCV Cabo Verde" tvg-logo="[" group-title="Live: Portugal",PT: TCV Cabo Verde
+http://livegopanel.club:8080/0226047/98401321040/12612
+#EXTINF:-1 tvg-ID="tlc.pt" tvg-name="PT: TLC" tvg-logo="[""]" group-title="Live: Portugal",PT: TLC
+http://livegopanel.club:8080/0226047/98401321040/12611
+#EXTINF:-1 tvg-ID="toros.pt" tvg-name="PT: Toros TV" tvg-logo="[""]" group-title="Live: Portugal",PT: Toros TV
+http://livegopanel.club:8080/0226047/98401321040/12610
+#EXTINF:-1 tvg-ID="tpainternational.pt" tvg-name="PT: TPA ANGOLA" tvg-logo="[" group-title="Live: Portugal",PT: TPA ANGOLA
+http://livegopanel.club:8080/0226047/98401321040/12614
+#EXTINF:-1 tvg-ID="trace.pt" tvg-name="PT: Trace TV" tvg-logo="[""]" group-title="Live: Portugal",PT: Trace TV
+http://livegopanel.club:8080/0226047/98401321040/12617
+#EXTINF:-1 tvg-ID="travelchannel.pt" tvg-name="PT: Travel HD" tvg-logo="" group-title="Live: Portugal",PT: Travel HD
+http://livegopanel.club:8080/0226047/98401321040/12605
+#EXTINF:-1 tvg-ID="tvcine1.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE TOP FHD
+http://livegopanel.club:8080/0226047/98401321040/16051
+#EXTINF:-1 tvg-ID="tvcine1.pt" tvg-name="PT: TV Cine TOP HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine TOP HD
+http://livegopanel.club:8080/0226047/98401321040/6499
+#EXTINF:-1 tvg-ID="tvcine2.pt" tvg-name="PT: TVCINE Edition FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE Edition FHD
+http://livegopanel.club:8080/0226047/98401321040/16050
+#EXTINF:-1 tvg-ID="tvcine2.pt" tvg-name="PT: TV Cine Edition HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Edition HD
+http://livegopanel.club:8080/0226047/98401321040/6500
+#EXTINF:-1 tvg-ID="tvcine3.pt" tvg-name="PT: TVCINE Emotion FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE Emotion FHD
+http://livegopanel.club:8080/0226047/98401321040/16049
+#EXTINF:-1 tvg-ID="tvcine3.pt" tvg-name="PT: TV Cine Emotion HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Emotion HD
+http://livegopanel.club:8080/0226047/98401321040/6501
+#EXTINF:-1 tvg-ID="tvcine4.pt" tvg-name="PT: TVCINE Action FHD" tvg-logo="[" group-title="Live: Portugal",PT: TVCINE Action FHD
+http://livegopanel.club:8080/0226047/98401321040/16048
+#EXTINF:-1 tvg-ID="tvcine4.pt" tvg-name="PT: TV Cine Action HD" tvg-logo="[" group-title="Live: Portugal",PT: TV Cine Action HD
+http://livegopanel.club:8080/0226047/98401321040/6502
+#EXTINF:-1 tvg-ID="tvseries.pt" tvg-name="PT: TV SERIES FHD" tvg-logo="[""]" group-title="Live: Portugal",PT: TV SERIES FHD
+http://livegopanel.club:8080/0226047/98401321040/31447
+#EXTINF:-1 tvg-ID="tvseries.pt" tvg-name="PT: TV SERIES" tvg-logo="" group-title="Live: Portugal",PT: TV SERIES
+http://livegopanel.club:8080/0226047/98401321040/6503
+#EXTINF:-1 tvg-ID="globo.pt" tvg-name="PT: TV Globo" tvg-logo="[""]" group-title="Live: Portugal",PT: TV Globo
+http://livegopanel.club:8080/0226047/98401321040/5426
+#EXTINF:-1 tvg-ID="recordtv.pt" tvg-name="PT: Tv Record" tvg-logo="[""]" group-title="Live: Portugal",PT: Tv Record
+http://livegopanel.club:8080/0226047/98401321040/3648
+#EXTINF:-1 tvg-ID="tvi.pt" tvg-name="PT: TVI" tvg-logo="" group-title="Live: Portugal",PT: TVI
+http://livegopanel.club:8080/0226047/98401321040/4477
+#EXTINF:-1 tvg-ID="tvi24.pt" tvg-name="PT: Tvi 24" tvg-logo="" group-title="Live: Portugal",PT: Tvi 24
+http://livegopanel.club:8080/0226047/98401321040/3647
+#EXTINF:-1 tvg-ID="tvificcao.pt" tvg-name="PT: TVI FICCAO" tvg-logo="" group-title="Live: Portugal",PT: TVI FICCAO
+http://livegopanel.club:8080/0226047/98401321040/3646
+#EXTINF:-1 tvg-ID="tvi.pt" tvg-name="PT: TVI HD" tvg-logo="[" group-title="Live: Portugal",PT: TVI HD
+http://livegopanel.club:8080/0226047/98401321040/955
+#EXTINF:-1 tvg-ID="tviinternacional.pt" tvg-name="PT: TVI Reality" tvg-logo="[""]" group-title="Live: Portugal",PT: TVI Reality
+http://livegopanel.club:8080/0226047/98401321040/4478
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVM INT. MOÇAMBIQUE" tvg-logo="[" group-title="Live: Portugal",PT: TVM INT. MOÇAMBIQUE
+http://livegopanel.club:8080/0226047/98401321040/31319
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: TVM MOÇAMBIQUE" tvg-logo="" group-title="Live: Portugal",PT: TVM MOÇAMBIQUE
+http://livegopanel.club:8080/0226047/98401321040/31318
+#EXTINF:-1 tvg-ID="vh1.pt" tvg-name="PT: VH1" tvg-logo="[" group-title="Live: Portugal",PT: VH1
+http://livegopanel.club:8080/0226047/98401321040/12618
+#EXTINF:-1 tvg-ID="NULL" tvg-name="PT: ZAP VIVA HD" tvg-logo="[" group-title="Live: Portugal",PT: ZAP VIVA HD
+http://livegopanel.club:8080/0226047/98401321040/31315
+#EXTINF:-1 tvg-ID="" tvg-name="===== Spain =====" tvg-logo="" group-title="",===== Spain =====
+http://livegopanel.club:8080/0226047/98401321040/1197
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="Live: Spain",ES: LA 1 HD
+http://livegopanel.club:8080/0226047/98401321040/3364
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: LA 2" tvg-logo="" group-title="Live: Spain",ES: LA 2
+http://livegopanel.club:8080/0226047/98401321040/622
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: ANTENA3 HD" tvg-logo="[" group-title="Live: Spain",ES: ANTENA3 HD
+http://livegopanel.club:8080/0226047/98401321040/3383
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="" group-title="Live: Spain",ES: CUATRO FHD
+http://livegopanel.club:8080/0226047/98401321040/3391
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="[" group-title="Live: Spain",ES: TELECINCO HD
+http://livegopanel.club:8080/0226047/98401321040/3384
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="[" group-title="Live: Spain",ES: LA SEXTA FHD
+http://livegopanel.club:8080/0226047/98401321040/3392
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="Live: Spain",ES: 7RM FHD
+http://livegopanel.club:8080/0226047/98401321040/23076
+#EXTINF:-1 tvg-ID="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="" group-title="Live: Spain",ES: 8TV Madrid
+http://livegopanel.club:8080/0226047/98401321040/1090
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos SD" tvg-logo="" group-title="Live: Spain",ES: # Vamos SD
+http://livegopanel.club:8080/0226047/98401321040/34551
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos" tvg-logo="" group-title="Live: Spain",ES: # Vamos
+http://livegopanel.club:8080/0226047/98401321040/1085
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="[" group-title="Live: Spain",ES: # Vamos FHD
+http://livegopanel.club:8080/0226047/98401321040/23061
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos HD" tvg-logo="" group-title="Live: Spain",ES: # Vamos HD
+http://livegopanel.club:8080/0226047/98401321040/3372
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR
+http://livegopanel.club:8080/0226047/98401321040/34556
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 1" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 1
+http://livegopanel.club:8080/0226047/98401321040/34557
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 2" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 2
+http://livegopanel.club:8080/0226047/98401321040/34558
+#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="ES: #0" tvg-logo="" group-title="Live: Spain",ES: #0
+http://livegopanel.club:8080/0226047/98401321040/635
+#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD" tvg-logo="" group-title="Live: Spain",ES: #O HD
+http://livegopanel.club:8080/0226047/98401321040/2401
+#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: #O HD FHD
+http://livegopanel.club:8080/0226047/98401321040/23060
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="Live: Spain",ES: 24 HORAS
+http://livegopanel.club:8080/0226047/98401321040/2630
+#EXTINF:-1 tvg-ID="" tvg-name="ES: 3/24" tvg-logo="" group-title="Live: Spain",ES: 3/24
+http://livegopanel.club:8080/0226047/98401321040/1441
+#EXTINF:-1 tvg-ID="" tvg-name="ES: 33" tvg-logo="" group-title="Live: Spain",ES: 33
+http://livegopanel.club:8080/0226047/98401321040/23077
+#EXTINF:-1 tvg-ID="aande.es" tvg-name="ES: A&E" tvg-logo="[""]" group-title="Live: Spain",ES: A&E
+http://livegopanel.club:8080/0226047/98401321040/2643
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3 Series" tvg-logo="[""]" group-title="Live: Spain",ES: A3 Series
+http://livegopanel.club:8080/0226047/98401321040/12630
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3Series HD" tvg-logo="[" group-title="Live: Spain",ES: A3Series HD
+http://livegopanel.club:8080/0226047/98401321040/19208
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC" tvg-logo="[""]" group-title="Live: Spain",ES: AMC
+http://livegopanel.club:8080/0226047/98401321040/2638
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AMC FHD
+http://livegopanel.club:8080/0226047/98401321040/23020
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC HD" tvg-logo="" group-title="Live: Spain",ES: AMC HD
+http://livegopanel.club:8080/0226047/98401321040/3371
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="Live: Spain",ES: Andalucia TV
+http://livegopanel.club:8080/0226047/98401321040/1440
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="" group-title="Live: Spain",ES: Antena3
+http://livegopanel.club:8080/0226047/98401321040/1097
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Aragon" tvg-logo="" group-title="Live: Spain",ES: Aragon
+http://livegopanel.club:8080/0226047/98401321040/8211
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN FHD
+http://livegopanel.club:8080/0226047/98401321040/23059
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN HD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN HD
+http://livegopanel.club:8080/0226047/98401321040/3385
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: Axn Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn Spain
+http://livegopanel.club:8080/0226047/98401321040/641
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN White FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN White FHD
+http://livegopanel.club:8080/0226047/98401321040/23058
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="Live: Spain",ES: AXN WHITE HD
+http://livegopanel.club:8080/0226047/98401321040/3366
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: Axn White Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn White Spain
+http://livegopanel.club:8080/0226047/98401321040/640
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="ES: Baby TV" tvg-logo="" group-title="Live: Spain",ES: Baby TV
+http://livegopanel.club:8080/0226047/98401321040/23074
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="ES: Barca tv" tvg-logo="" group-title="Live: Spain",ES: Barca tv
+http://livegopanel.club:8080/0226047/98401321040/639
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES: Be MAD TV HD" tvg-logo="[""]" group-title="Live: Spain",ES: Be MAD TV HD
+http://livegopanel.club:8080/0226047/98401321040/19209
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga FHD
+http://livegopanel.club:8080/0226047/98401321040/23057
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga HD
+http://livegopanel.club:8080/0226047/98401321040/19207
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga
+http://livegopanel.club:8080/0226047/98401321040/2409
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga SD" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga SD
+http://livegopanel.club:8080/0226047/98401321040/33150
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLIga 1 (event only)" tvg-logo="[""]" group-title="Live: Spain",ES: M. LaLIga 1 (event only)
+http://livegopanel.club:8080/0226047/98401321040/7181
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 1FHD (event only)
+http://livegopanel.club:8080/0226047/98401321040/23105
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[""]" group-title="Live: Spain",ES: M. LaLIga 2 (event only)
+http://livegopanel.club:8080/0226047/98401321040/7182
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 2FHD (event only)
+http://livegopanel.club:8080/0226047/98401321040/23104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 3 (event only)
+http://livegopanel.club:8080/0226047/98401321040/7183
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="" group-title="Live: Spain",ES: M. LaLIga 3FHD (event only)
+http://livegopanel.club:8080/0226047/98401321040/34550
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 4 (event only)
+http://livegopanel.club:8080/0226047/98401321040/23103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 5 (event only)
+http://livegopanel.club:8080/0226047/98401321040/23102
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[""]" group-title="Live: Spain",ES: M. LaLIga 6 (event only)
+http://livegopanel.club:8080/0226047/98401321040/23101
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[""]" group-title="Live: Spain",ES: M. LaLIga 7 (event only)
+http://livegopanel.club:8080/0226047/98401321040/23100
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[""]" group-title="Live: Spain",ES: M. LaLIga 8 (event only)
+http://livegopanel.club:8080/0226047/98401321040/23099
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="ES: BLAZE" tvg-logo="" group-title="Live: Spain",ES: BLAZE
+http://livegopanel.club:8080/0226047/98401321040/23075
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES: Boing" tvg-logo="[""]" group-title="Live: Spain",ES: Boing
+http://livegopanel.club:8080/0226047/98401321040/2211
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="Live: Spain",ES: Bom Cine HD
+http://livegopanel.club:8080/0226047/98401321040/23073
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="ES: C&I" tvg-logo="[""]" group-title="Live: Spain",ES: C&I
+http://livegopanel.club:8080/0226047/98401321040/8209
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Cadena Elite" tvg-logo="" group-title="Live: Spain",ES: Cadena Elite
+http://livegopanel.club:8080/0226047/98401321040/23072
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: Calle 13" tvg-logo="" group-title="Live: Spain",ES: Calle 13
+http://livegopanel.club:8080/0226047/98401321040/1096
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CALLE 13 FHD
+http://livegopanel.club:8080/0226047/98401321040/23056
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="Live: Spain",ES: CALLE 13 HD
+http://livegopanel.club:8080/0226047/98401321040/3368
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="Live: Spain",ES: Canal Coccina
+http://livegopanel.club:8080/0226047/98401321040/1103
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="ES: Canal Decasa" tvg-logo="" group-title="Live: Spain",ES: Canal Decasa
+http://livegopanel.club:8080/0226047/98401321040/2632
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="ES: Canal Sur FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Canal Sur FHD
+http://livegopanel.club:8080/0226047/98401321040/23070
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: Caza y pesca" tvg-logo="[""]" group-title="Live: Spain",ES: Caza y pesca
+http://livegopanel.club:8080/0226047/98401321040/1102
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CAZA Y PESCA FHD
+http://livegopanel.club:8080/0226047/98401321040/23055
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="Live: Spain",ES: CAZA Y PESCA HD
+http://livegopanel.club:8080/0226047/98401321040/8206
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="ES: Clan Tve" tvg-logo="" group-title="Live: Spain",ES: Clan Tve
+http://livegopanel.club:8080/0226047/98401321040/1100
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Classica" tvg-logo="[""]" group-title="Live: Spain",ES: Classica
+http://livegopanel.club:8080/0226047/98401321040/2637
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CMM TV" tvg-logo="" group-title="Live: Spain",ES: CMM TV
+http://livegopanel.club:8080/0226047/98401321040/23069
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="[""]" group-title="Live: Spain",ES: Comedy Central
+http://livegopanel.club:8080/0226047/98401321040/2633
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="[""]" group-title="Live: Spain",ES: COMEDY CENTRAL FHD
+http://livegopanel.club:8080/0226047/98401321040/23054
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="Live: Spain",ES: COMEDY CENTRAL HD
+http://livegopanel.club:8080/0226047/98401321040/3386
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="[""]" group-title="Live: Spain",ES: COSMO FHD
+http://livegopanel.club:8080/0226047/98401321040/23053
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO HD" tvg-logo="" group-title="Live: Spain",ES: COSMO HD
+http://livegopanel.club:8080/0226047/98401321040/3387
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: Cuatro hd" tvg-logo="" group-title="Live: Spain",ES: Cuatro hd
+http://livegopanel.club:8080/0226047/98401321040/627
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Dcine" tvg-logo="" group-title="Live: Spain",ES: Dcine
+http://livegopanel.club:8080/0226047/98401321040/634
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL FHD
+http://livegopanel.club:8080/0226047/98401321040/23052
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL HD
+http://livegopanel.club:8080/0226047/98401321040/3376
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="[""]" group-title="Live: Spain",ES: DISNEY CHANNEL FHD
+http://livegopanel.club:8080/0226047/98401321040/23051
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISNEY CHANNEL HD
+http://livegopanel.club:8080/0226047/98401321040/3382
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: Disney Channel Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Disney Channel Spain
+http://livegopanel.club:8080/0226047/98401321040/633
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="ES: Disney Junior" tvg-logo="[""]" group-title="Live: Spain",ES: Disney Junior
+http://livegopanel.club:8080/0226047/98401321040/12631
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="ES: Disney XD" tvg-logo="" group-title="Live: Spain",ES: Disney XD
+http://livegopanel.club:8080/0226047/98401321040/12632
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="" group-title="Live: Spain",ES: DIVINITY
+http://livegopanel.club:8080/0226047/98401321040/2218
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES: DKiss" tvg-logo="" group-title="Live: Spain",ES: DKiss
+http://livegopanel.club:8080/0226047/98401321040/12633
+#EXTINF:-1 tvg-ID="discoverymax.es" tvg-name="ES: Dmax" tvg-logo="" group-title="Live: Spain",ES: Dmax
+http://livegopanel.club:8080/0226047/98401321040/2641
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DW" tvg-logo="" group-title="Live: Spain",ES: DW
+http://livegopanel.club:8080/0226047/98401321040/12634
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES: Energy" tvg-logo="" group-title="Live: Spain",ES: Energy
+http://livegopanel.club:8080/0226047/98401321040/1099
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1FHD" tvg-logo="[""]" group-title="Live: Spain",ES: EUROSPORT 1FHD
+http://livegopanel.club:8080/0226047/98401321040/23050
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1HD" tvg-logo="[""]" group-title="Live: Spain",ES: EUROSPORT 1HD
+http://livegopanel.club:8080/0226047/98401321040/8204
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="Live: Spain",ES: EUROSPORT 2
+http://livegopanel.club:8080/0226047/98401321040/8208
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2FHD" tvg-logo="[""]" group-title="Live: Spain",ES: EUROSPORT 2FHD
+http://livegopanel.club:8080/0226047/98401321040/23049
+#EXTINF:-1 tvg-ID="canalextremadurasat.es" tvg-name="ES: ExtraMadura TV" tvg-logo="" group-title="Live: Spain",ES: ExtraMadura TV
+http://livegopanel.club:8080/0226047/98401321040/23067
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="ES: FDF" tvg-logo="" group-title="Live: Spain",ES: FDF
+http://livegopanel.club:8080/0226047/98401321040/1098
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: Fox" tvg-logo="[""]" group-title="Live: Spain",ES: Fox
+http://livegopanel.club:8080/0226047/98401321040/631
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX FHD" tvg-logo="[""]" group-title="Live: Spain",ES: FOX FHD
+http://livegopanel.club:8080/0226047/98401321040/23048
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: FOX HD" tvg-logo="" group-title="Live: Spain",ES: FOX HD
+http://livegopanel.club:8080/0226047/98401321040/3367
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="[""]" group-title="Live: Spain",ES: FOX LIFE FHD
+http://livegopanel.club:8080/0226047/98401321040/23047
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Live: Spain",ES: FOX LIFE HD
+http://livegopanel.club:8080/0226047/98401321040/6815
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX News" tvg-logo="" group-title="Live: Spain",ES: FOX News
+http://livegopanel.club:8080/0226047/98401321040/23068
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="ES: GOL T" tvg-logo="" group-title="Live: Spain",ES: GOL T
+http://livegopanel.club:8080/0226047/98401321040/1084
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia" tvg-logo="[""]" group-title="Live: Spain",ES: Historia
+http://livegopanel.club:8080/0226047/98401321040/630
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Historia FHD
+http://livegopanel.club:8080/0226047/98401321040/23023
+#EXTINF:-1 tvg-ID="" tvg-name="ES: HIT TV" tvg-logo="" group-title="Live: Spain",ES: HIT TV
+http://livegopanel.club:8080/0226047/98401321040/23066
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: Hollywood" tvg-logo="" group-title="Live: Spain",ES: Hollywood
+http://livegopanel.club:8080/0226047/98401321040/629
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD FHD
+http://livegopanel.club:8080/0226047/98401321040/23046
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD HD
+http://livegopanel.club:8080/0226047/98401321040/3369
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="ES: Iberlia TV" tvg-logo="" group-title="Live: Spain",ES: Iberlia TV
+http://livegopanel.club:8080/0226047/98401321040/2629
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1" tvg-logo="" group-title="Live: Spain",ES: LA 1
+http://livegopanel.club:8080/0226047/98401321040/623
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: La 2 SD" tvg-logo="[""]" group-title="Live: Spain",ES: La 2 SD
+http://livegopanel.club:8080/0226047/98401321040/23025
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR SD
+http://livegopanel.club:8080/0226047/98401321040/34552
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR FHD
+http://livegopanel.club:8080/0226047/98401321040/23045
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR HD
+http://livegopanel.club:8080/0226047/98401321040/7180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR M1" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M1
+http://livegopanel.club:8080/0226047/98401321040/23065
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M2" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M2
+http://livegopanel.club:8080/0226047/98401321040/34553
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M3" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M3
+http://livegopanel.club:8080/0226047/98401321040/34554
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M4" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M4
+http://livegopanel.club:8080/0226047/98401321040/34555
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="Live: Spain",ES: INTERECONOMIA
+http://livegopanel.club:8080/0226047/98401321040/12637
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: La Sexta hd" tvg-logo="[" group-title="Live: Spain",ES: La Sexta hd
+http://livegopanel.club:8080/0226047/98401321040/628
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Melilla TV" tvg-logo="" group-title="Live: Spain",ES: Melilla TV
+http://livegopanel.club:8080/0226047/98401321040/12636
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Levante TV" tvg-logo="" group-title="Live: Spain",ES: Levante TV
+http://livegopanel.club:8080/0226047/98401321040/2640
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion" tvg-logo="" group-title="Live: Spain",ES: M. Accion
+http://livegopanel.club:8080/0226047/98401321040/638
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion FHD" tvg-logo="" group-title="Live: Spain",ES: M. Accion FHD
+http://livegopanel.club:8080/0226047/98401321040/23042
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion HD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Accion HD
+http://livegopanel.club:8080/0226047/98401321040/2402
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama" tvg-logo="[""]" group-title="Live: Spain",ES: M. Drama
+http://livegopanel.club:8080/0226047/98401321040/17207
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia" tvg-logo="" group-title="Live: Spain",ES: M. Comedia
+http://livegopanel.club:8080/0226047/98401321040/637
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia FHD" tvg-logo="" group-title="Live: Spain",ES: M. Comedia FHD
+http://livegopanel.club:8080/0226047/98401321040/23043
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia HD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Comedia HD
+http://livegopanel.club:8080/0226047/98401321040/2403
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Deportes FHD
+http://livegopanel.club:8080/0226047/98401321040/23041
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes HD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Deportes HD
+http://livegopanel.club:8080/0226047/98401321040/2407
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes" tvg-logo="" group-title="Live: Spain",ES: M. Deportes
+http://livegopanel.club:8080/0226047/98401321040/636
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1
+http://livegopanel.club:8080/0226047/98401321040/23094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/23032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 2
+http://livegopanel.club:8080/0226047/98401321040/23093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 3
+http://livegopanel.club:8080/0226047/98401321040/23092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 4
+http://livegopanel.club:8080/0226047/98401321040/23091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 5
+http://livegopanel.club:8080/0226047/98401321040/23090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 6
+http://livegopanel.club:8080/0226047/98401321040/23089
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 7" tvg-logo="" group-title="Live: Spain",ES: M. Deportes 7
+http://livegopanel.club:8080/0226047/98401321040/23088
+#EXTINF:-1 tvg-ID="mdisney.es" tvg-name="ES: M. DISNEY" tvg-logo="[" group-title="Live: Spain",ES: M. DISNEY
+http://livegopanel.club:8080/0226047/98401321040/23031
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll" tvg-logo="" group-title="Live: Spain",ES: M. Doc&Roll
+http://livegopanel.club:8080/0226047/98401321040/1091
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll FHD
+http://livegopanel.club:8080/0226047/98401321040/23040
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll HD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Doc&Roll HD
+http://livegopanel.club:8080/0226047/98401321040/3388
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama FHD" tvg-logo="" group-title="Live: Spain",ES: M. Drama FHD
+http://livegopanel.club:8080/0226047/98401321040/23039
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama HD" tvg-logo="" group-title="Live: Spain",ES: M. Drama HD
+http://livegopanel.club:8080/0226047/98401321040/2404
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos
+http://livegopanel.club:8080/0226047/98401321040/1094
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Estrenos FHD
+http://livegopanel.club:8080/0226047/98401321040/23038
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos HD" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos HD
+http://livegopanel.club:8080/0226047/98401321040/2405
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: M. Formula 1" tvg-logo="[" group-title="Live: Spain",ES: M. Formula 1
+http://livegopanel.club:8080/0226047/98401321040/1087
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Formula 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/23037
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: M. Formula 1 HD" tvg-logo="" group-title="Live: Spain",ES: M. Formula 1 HD
+http://livegopanel.club:8080/0226047/98401321040/2570
+#EXTINF:-1 tvg-ID="movistarfutbol.es" tvg-name="ES: M. Futbol HD" tvg-logo="" group-title="Live: Spain",ES: M. Futbol HD
+http://livegopanel.club:8080/0226047/98401321040/2408
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf
+http://livegopanel.club:8080/0226047/98401321040/1086
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf FHD
+http://livegopanel.club:8080/0226047/98401321040/23036
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones FHD
+http://livegopanel.club:8080/0226047/98401321040/23035
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones HD
+http://livegopanel.club:8080/0226047/98401321040/19206
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones
+http://livegopanel.club:8080/0226047/98401321040/6491
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1 HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 1 HD
+http://livegopanel.club:8080/0226047/98401321040/19205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 2
+http://livegopanel.club:8080/0226047/98401321040/19204
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 3
+http://livegopanel.club:8080/0226047/98401321040/19203
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 4
+http://livegopanel.club:8080/0226047/98401321040/19202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 5
+http://livegopanel.club:8080/0226047/98401321040/19201
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[""]" group-title="Live: Spain",ES: M. Liga De Campeones 6
+http://livegopanel.club:8080/0226047/98401321040/23098
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[""]" group-title="Live: Spain",ES: M. Liga De Campeones 7
+http://livegopanel.club:8080/0226047/98401321040/19200
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[""]" group-title="Live: Spain",ES: M. Liga De Campeones 8
+http://livegopanel.club:8080/0226047/98401321040/19199
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series" tvg-logo="[""]" group-title="Live: Spain",ES: M. Series
+http://livegopanel.club:8080/0226047/98401321040/1093
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Series FHD
+http://livegopanel.club:8080/0226047/98401321040/23034
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series HD" tvg-logo="" group-title="Live: Spain",ES: M. Series HD
+http://livegopanel.club:8080/0226047/98401321040/2406
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Series Mania FHD
+http://livegopanel.club:8080/0226047/98401321040/23033
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania HD" tvg-logo="" group-title="Live: Spain",ES: M. Series Mania HD
+http://livegopanel.club:8080/0226047/98401321040/3365
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. SeriesMania" tvg-logo="[""]" group-title="Live: Spain",ES: M. SeriesMania
+http://livegopanel.club:8080/0226047/98401321040/1095
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M.Golf  HD" tvg-logo="" group-title="Live: Spain",ES: M.Golf  HD
+http://livegopanel.club:8080/0226047/98401321040/3373
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="ES: Mega HD" tvg-logo="[""]" group-title="Live: Spain",ES: Mega HD
+http://livegopanel.club:8080/0226047/98401321040/2217
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="Live: Spain",ES: MEZZO LIVE HD
+http://livegopanel.club:8080/0226047/98401321040/8205
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES: MTV Spana" tvg-logo="[""]" group-title="Live: Spain",ES: MTV Spana
+http://livegopanel.club:8080/0226047/98401321040/2213
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte" tvg-logo="" group-title="Live: Spain",ES: Multideporte
+http://livegopanel.club:8080/0226047/98401321040/12629
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 1" tvg-logo="" group-title="Live: Spain",ES: Multideporte 1
+http://livegopanel.club:8080/0226047/98401321040/23087
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 2" tvg-logo="" group-title="Live: Spain",ES: Multideporte 2
+http://livegopanel.club:8080/0226047/98401321040/23086
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 3" tvg-logo="" group-title="Live: Spain",ES: Multideporte 3
+http://livegopanel.club:8080/0226047/98401321040/23085
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 4" tvg-logo="" group-title="Live: Spain",ES: Multideporte 4
+http://livegopanel.club:8080/0226047/98401321040/23084
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 5" tvg-logo="" group-title="Live: Spain",ES: Multideporte 5
+http://livegopanel.club:8080/0226047/98401321040/23083
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 6" tvg-logo="" group-title="Live: Spain",ES: Multideporte 6
+http://livegopanel.club:8080/0226047/98401321040/23082
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 7" tvg-logo="" group-title="Live: Spain",ES: Multideporte 7
+http://livegopanel.club:8080/0226047/98401321040/23081
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 8" tvg-logo="" group-title="Live: Spain",ES: Multideporte 8
+http://livegopanel.club:8080/0226047/98401321040/23080
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: Nat Geo" tvg-logo="[""]" group-title="Live: Spain",ES: Nat Geo
+http://livegopanel.club:8080/0226047/98401321040/1101
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: Nat Geo Wild" tvg-logo="[""]" group-title="Live: Spain",ES: Nat Geo Wild
+http://livegopanel.club:8080/0226047/98401321040/626
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NAT GEO WILD FHD
+http://livegopanel.club:8080/0226047/98401321040/23030
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="Live: Spain",ES: NAT GEO WILD HD
+http://livegopanel.club:8080/0226047/98401321040/3389
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC FHD
+http://livegopanel.club:8080/0226047/98401321040/23029
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC HD
+http://livegopanel.club:8080/0226047/98401321040/3375
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="ES: NEOX HD" tvg-logo="[" group-title="Live: Spain",ES: NEOX HD
+http://livegopanel.club:8080/0226047/98401321040/2216
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="ES: Nick Jr" tvg-logo="[""]" group-title="Live: Spain",ES: Nick Jr
+http://livegopanel.club:8080/0226047/98401321040/12635
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="" group-title="Live: Spain",ES: NICKELODEON FHD
+http://livegopanel.club:8080/0226047/98401321040/23028
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="[""]" group-title="Live: Spain",ES: NICKELODEON HD
+http://livegopanel.club:8080/0226047/98401321040/6817
+#EXTINF:-1 tvg-ID="nonstoppeople.es" tvg-name="ES: NONSTOPEOPLE" tvg-logo="" group-title="Live: Spain",ES: NONSTOPEOPLE
+http://livegopanel.club:8080/0226047/98401321040/8207
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="ES: NOVA" tvg-logo="" group-title="Live: Spain",ES: NOVA
+http://livegopanel.club:8080/0226047/98401321040/2214
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="ES: Odisea" tvg-logo="" group-title="Live: Spain",ES: Odisea
+http://livegopanel.club:8080/0226047/98401321040/2631
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="ES: Orbe 21" tvg-logo="" group-title="Live: Spain",ES: Orbe 21
+http://livegopanel.club:8080/0226047/98401321040/2215
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="ES: Panda" tvg-logo="[""]" group-title="Live: Spain",ES: Panda
+http://livegopanel.club:8080/0226047/98401321040/23019
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="ES: Paramount" tvg-logo="[""]" group-title="Live: Spain",ES: Paramount
+http://livegopanel.club:8080/0226047/98401321040/2642
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="Live: Spain",ES: RealMadrid TV
+http://livegopanel.club:8080/0226047/98401321040/632
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: Realmadrid TV HD" tvg-logo="[" group-title="Live: Spain",ES: Realmadrid TV HD
+http://livegopanel.club:8080/0226047/98401321040/22796
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="" group-title="Live: Spain",ES: Realmadrid TV ( English )
+http://livegopanel.club:8080/0226047/98401321040/30051
+#EXTINF:-1 tvg-ID="rtespanol.es" tvg-name="ES: RTVC" tvg-logo="" group-title="Live: Spain",ES: RTVC
+http://livegopanel.club:8080/0226047/98401321040/17206
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV" tvg-logo="" group-title="Live: Spain",ES: Sundance TV
+http://livegopanel.club:8080/0226047/98401321040/12641
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Sundance TV FHD
+http://livegopanel.club:8080/0226047/98401321040/23027
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY
+http://livegopanel.club:8080/0226047/98401321040/2639
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="" group-title="Live: Spain",ES: SYFY FHD
+http://livegopanel.club:8080/0226047/98401321040/23026
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY HD" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY HD
+http://livegopanel.club:8080/0226047/98401321040/6814
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM FHD
+http://livegopanel.club:8080/0226047/98401321040/23021
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM HD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM HD
+http://livegopanel.club:8080/0226047/98401321040/3370
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: Telecinco" tvg-logo="[" group-title="Live: Spain",ES: Telecinco
+http://livegopanel.club:8080/0226047/98401321040/624
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="ES: Teledeporte" tvg-logo="" group-title="Live: Spain",ES: Teledeporte
+http://livegopanel.club:8080/0226047/98401321040/1089
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: RTVCE Ceuta" tvg-logo="" group-title="Live: Spain",ES: RTVCE Ceuta
+http://livegopanel.club:8080/0226047/98401321040/23024
+#EXTINF:-1 tvg-ID="ten.es" tvg-name="ES: Ten" tvg-logo="" group-title="Live: Spain",ES: Ten
+http://livegopanel.club:8080/0226047/98401321040/12639
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES: TNT" tvg-logo="[""]" group-title="Live: Spain",ES: TNT
+http://livegopanel.club:8080/0226047/98401321040/2634
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TOROS FHD
+http://livegopanel.club:8080/0226047/98401321040/23079
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS HD" tvg-logo="" group-title="Live: Spain",ES: TOROS HD
+http://livegopanel.club:8080/0226047/98401321040/6816
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: Torros" tvg-logo="" group-title="Live: Spain",ES: Torros
+http://livegopanel.club:8080/0226047/98401321040/1092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL MALGA" tvg-logo="" group-title="Live: Spain",ES: CANAL MALGA
+http://livegopanel.club:8080/0226047/98401321040/23063
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TV Galicia" tvg-logo="" group-title="Live: Spain",ES: TV Galicia
+http://livegopanel.club:8080/0226047/98401321040/1429
+#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 Cataluña FHD" tvg-logo="[" group-title="Live: Spain",ES: TV3 Cataluña FHD
+http://livegopanel.club:8080/0226047/98401321040/23062
+#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 HD" tvg-logo="" group-title="Live: Spain",ES: TV3 HD
+http://livegopanel.club:8080/0226047/98401321040/2210
+#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR FHD
+http://livegopanel.club:8080/0226047/98401321040/23078
+#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR HD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR HD
+http://livegopanel.club:8080/0226047/98401321040/3390
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 1" tvg-logo="" group-title="Live: Spain",ES: Alquiler 1
+http://livegopanel.club:8080/0226047/98401321040/12642
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 2" tvg-logo="" group-title="Live: Spain",ES: Alquiler 2
+http://livegopanel.club:8080/0226047/98401321040/12644
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 3" tvg-logo="" group-title="Live: Spain",ES: Alquiler 3
+http://livegopanel.club:8080/0226047/98401321040/12645
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 4" tvg-logo="" group-title="Live: Spain",ES: Alquiler 4
+http://livegopanel.club:8080/0226047/98401321040/12646
+#EXTINF:-1 tvg-ID="alquiler5.es" tvg-name="ES: Alquiler 5" tvg-logo="" group-title="Live: Spain",ES: Alquiler 5
+http://livegopanel.club:8080/0226047/98401321040/12647
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="ES: Alquiler 6" tvg-logo="" group-title="Live: Spain",ES: Alquiler 6
+http://livegopanel.club:8080/0226047/98401321040/12648
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 7" tvg-logo="" group-title="Live: Spain",ES: Alquiler 7
+http://livegopanel.club:8080/0226047/98401321040/12649
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 8" tvg-logo="" group-title="Live: Spain",ES: Alquiler 8
+http://livegopanel.club:8080/0226047/98401321040/12650
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 9" tvg-logo="" group-title="Live: Spain",ES: Alquiler 9
+http://livegopanel.club:8080/0226047/98401321040/12651
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 10" tvg-logo="" group-title="Live: Spain",ES: Alquiler 10
+http://livegopanel.club:8080/0226047/98401321040/12643
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP Portugal ======" tvg-logo="" group-title="",===== VIP Portugal ======
+http://livegopanel.club:8080/0226047/98401321040/18829
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Laliga UHD 4K
+http://livegopanel.club:8080/0226047/98401321040/30737
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Campeones UHD 4K
+http://livegopanel.club:8080/0226047/98401321040/34560
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Formula 1 UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Formula 1 UHD 4K
+http://livegopanel.club:8080/0226047/98401321040/34561
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN Espana HD  (Only During Events )" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN Espana HD  (Only During Events )
+http://livegopanel.club:8080/0226047/98401321040/23016
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN Espana 2 HD  (Only During Events )" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN Espana 2 HD  (Only During Events )
+http://livegopanel.club:8080/0226047/98401321040/26568
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Realmadrid TV FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: Realmadrid TV FHD
+http://livegopanel.club:8080/0226047/98401321040/26929
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 1HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 1HD
+http://livegopanel.club:8080/0226047/98401321040/20621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 2HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 2HD
+http://livegopanel.club:8080/0226047/98401321040/26925
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 3" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 3
+http://livegopanel.club:8080/0226047/98401321040/26926
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 4" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 4
+http://livegopanel.club:8080/0226047/98401321040/26927
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="VIP ES: GOL HD" tvg-logo="[" group-title="Live: Spain",VIP ES: GOL HD
+http://livegopanel.club:8080/0226047/98401321040/12640
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="VIP ES: TELEDEPORTE HD" tvg-logo="[" group-title="Live: Spain",VIP ES: TELEDEPORTE HD
+http://livegopanel.club:8080/0226047/98401321040/3374
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Esport3" tvg-logo="[" group-title="Live: Spain",VIP ES: Esport3
+http://livegopanel.club:8080/0226047/98401321040/20620
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: U-BEAT HD" tvg-logo="[" group-title="Live: Spain",VIP ES: U-BEAT HD
+http://livegopanel.club:8080/0226047/98401321040/26924
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: TVM" tvg-logo="[" group-title="Live: Spain",VIP ES: TVM
+http://livegopanel.club:8080/0226047/98401321040/12628
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: POPULAR TV" tvg-logo="[" group-title="Live: Spain",VIP ES: POPULAR TV
+http://livegopanel.club:8080/0226047/98401321040/23071
+#EXTINF:-1 tvg-ID="dark.es" tvg-name="VIP ES: DARK" tvg-logo="[" group-title="Live: Spain",VIP ES: DARK
+http://livegopanel.club:8080/0226047/98401321040/656
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Somos" tvg-logo="[" group-title="Live: Spain",VIP ES: Somos
+http://livegopanel.club:8080/0226047/98401321040/20623
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: XTRM HD" tvg-logo="[" group-title="Live: Spain",VIP ES: XTRM HD
+http://livegopanel.club:8080/0226047/98401321040/8210
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOL Musica" tvg-logo="[" group-title="Live: Spain",VIP ES: SOL Musica
+http://livegopanel.club:8080/0226047/98401321040/23064
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="VIP ES: ODESIA FHD" tvg-logo="[""]" group-title="Live: Spain",VIP ES: ODESIA FHD
+http://livegopanel.club:8080/0226047/98401321040/23022
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CAZAVISION" tvg-logo="" group-title="Live: Spain",VIP ES: CAZAVISION
+http://livegopanel.club:8080/0226047/98401321040/34559
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: IBERALIA 100% CAZA HD" tvg-logo="[""]" group-title="Live: Spain",VIP ES: IBERALIA 100% CAZA HD
+http://livegopanel.club:8080/0226047/98401321040/26930
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ES: DISCOVERY FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: ES: DISCOVERY FHD
+http://livegopanel.club:8080/0226047/98401321040/23018
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Presentation" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Presentation
+http://livegopanel.club:8080/0226047/98401321040/35091
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/35079
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 2 FHD
+http://livegopanel.club:8080/0226047/98401321040/35080
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 3 FHD
+http://livegopanel.club:8080/0226047/98401321040/35081
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 4 FHD
+http://livegopanel.club:8080/0226047/98401321040/35082
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 5 FHD
+http://livegopanel.club:8080/0226047/98401321040/35083
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 6 FHD
+http://livegopanel.club:8080/0226047/98401321040/35084
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 7 FHD
+http://livegopanel.club:8080/0226047/98401321040/35085
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 8 FHD
+http://livegopanel.club:8080/0226047/98401321040/35086
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 9 FHD
+http://livegopanel.club:8080/0226047/98401321040/35087
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 10 FHD
+http://livegopanel.club:8080/0226047/98401321040/35088
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 11 FHD
+http://livegopanel.club:8080/0226047/98401321040/35089
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 12 FHD
+http://livegopanel.club:8080/0226047/98401321040/35090
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 13 FHD
+http://livegopanel.club:8080/0226047/98401321040/35094
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 14 FHD
+http://livegopanel.club:8080/0226047/98401321040/35095
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 15 FHD
+http://livegopanel.club:8080/0226047/98401321040/35096
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 16 FHD
+http://livegopanel.club:8080/0226047/98401321040/35097
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 17 FHD
+http://livegopanel.club:8080/0226047/98401321040/35098
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 18 FHD
+http://livegopanel.club:8080/0226047/98401321040/35099
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/35092
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 2 FHD
+http://livegopanel.club:8080/0226047/98401321040/35093
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Sport TV 4K" tvg-logo="" group-title="Live: Portugal",VIP PT: Sport TV 4K
+http://livegopanel.club:8080/0226047/98401321040/23017
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1
+http://livegopanel.club:8080/0226047/98401321040/30988
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 1 HD
+http://livegopanel.club:8080/0226047/98401321040/30987
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="VIP PT: Eleven Sport 1 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 1 FHD
+http://livegopanel.club:8080/0226047/98401321040/18818
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2
+http://livegopanel.club:8080/0226047/98401321040/30986
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 2 HD
+http://livegopanel.club:8080/0226047/98401321040/30985
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="VIP PT: Eleven Sport 2 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 2 FHD
+http://livegopanel.club:8080/0226047/98401321040/18819
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 HD
+http://livegopanel.club:8080/0226047/98401321040/30984
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="VIP PT: Eleven Sport 3 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 3 FHD
+http://livegopanel.club:8080/0226047/98401321040/18820
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 HD
+http://livegopanel.club:8080/0226047/98401321040/30983
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="VIP PT: Eleven Sport 4 FHD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 4 FHD
+http://livegopanel.club:8080/0226047/98401321040/18821
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 5 HD
+http://livegopanel.club:8080/0226047/98401321040/30982
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="VIP PT: Eleven Sport 5 FHD" tvg-logo="[" group-title="Live: Portugal",VIP PT: Eleven Sport 5 FHD
+http://livegopanel.club:8080/0226047/98401321040/18822
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP PT: Eleven Sport 6 HD" tvg-logo="" group-title="Live: Portugal",VIP PT: Eleven Sport 6 HD
+http://livegopanel.club:8080/0226047/98401321040/30981
+#EXTINF:-1 tvg-ID="" tvg-name="VIP PT: Eleven Sport 6 FHD" tvg-logo="[""]" group-title="Live: Portugal",VIP PT: Eleven Sport 6 FHD
+http://livegopanel.club:8080/0226047/98401321040/18823
+#EXTINF:-1 tvg-ID="" tvg-name="===== VIP RSA ======" tvg-logo="" group-title="",===== VIP RSA ======
+http://livegopanel.club:8080/0226047/98401321040/19102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 1 HD 1080P" tvg-logo="" group-title="Live: OSN & My HD",VIP AR: KSA Sports 1 HD 1080P
+http://livegopanel.club:8080/0226047/98401321040/19100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 2 HD 1080P" tvg-logo="" group-title="Live: OSN & My HD",VIP AR: KSA Sports 2 HD 1080P
+http://livegopanel.club:8080/0226047/98401321040/19101
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 4 HD 1080P" tvg-logo="" group-title="Live: OSN & My HD",VIP AR: KSA Sports 4 HD 1080P
+http://livegopanel.club:8080/0226047/98401321040/20357
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP AR: KSA Sports 3 HD 1080P" tvg-logo="" group-title="Live: OSN & My HD",VIP AR: KSA Sports 3 HD 1080P
+http://livegopanel.club:8080/0226047/98401321040/20356
