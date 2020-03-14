@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Antena 1 
+#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] test acestream 
 plugin://program.plexus/?mode=1&url=aacestream://66af1ae0b02d25310955cb10869f0375e3b23af5&name=AceStream
 
 #EXTINF:-1,HBO HD(test11 acestream)
