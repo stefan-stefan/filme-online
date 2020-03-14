@@ -1,48 +1,16 @@
-
-   <channels>
-<channel>
-<name>[COLOR white]PLAYLISTS[/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/24/items/maxresdefault_20200226/maxresdefault.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/UKQB107L</externallink>
-<fanart>https://ia801406.us.archive.org/18/items/camiseta-do-corinthians-ambrosio-19-masculina-img/fanart.jpg</fanart>
-<info>(Instale o Youtube e depois configure as keys API na sua conta google e adicione no add-on do youtube atraves das configuracoes. API Key, API ID , Secret Key)</info>
- 
- 
-[COLOR yellow]|||[/COLOR] - AS MELHORES PLAYLISTS DO CORINTHIANS - [COLOR yellow]|||[/COLOR]</info>
-</channel>
-</channels>
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
- 
-<channels>
-<channel>
-<name>[COLOR white]JOGOS[/COLOR] [COLOR white]COMPLETOS[/COLOR]</name>
-<thumbnail>https://ia601502.us.archive.org/24/items/maxresdefault_20200226/hqdefault.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/qkZq26N9</externallink>
-<fanart>https://ia801406.us.archive.org/18/items/camiseta-do-corinthians-ambrosio-19-masculina-img/fanart.jpg</fanart>
-<info>
- 
- 
-[COLOR blue]|||[/COLOR] - ASSISTA OS JOGOS COMPLETOS DO CORINTHIANS - [COLOR blue]|||[/COLOR]</info>
-</channel>
-</channels>
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
- 
- 
-<channels>
-<channel>
-<name>[COLOR white]TRANSMISSAO[/COLOR] [COLOR white]AO VIVO[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/sEF80MPR</externallink>
-<fanart>https://ia801406.us.archive.org/18/items/camiseta-do-corinthians-ambrosio-19-masculina-img/fanart.jpg</fanart>
-<info>
- 
- 
-[COLOR blue]|||[/COLOR] - ASSISTA OS JOGOS A0 VIVO - [COLOR blue]|||[/COLOR]</info>
-</channel>
-</channels>
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    
+<item>
+<title>[COLOR orange][B]TEST ACESTREAM[/B][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</fanart>
+<urlsolve>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</urlsolve>
+<info></info>
+</item>
 
 
+<plugin>
+<title>[COLOR orange][B]TEST ACESTREAM[/B][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</fanart>
+<urlsolve>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</urlsolve>
+<info></info>
+</plugin>
