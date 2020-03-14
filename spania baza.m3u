@@ -1,5 +1,6 @@
-#EXTINF:-1,La 1 GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="===== SPANIA =====" tvg-logo="" group-title="",===== SPANIA =====
+http://livegopanel.club:8080/0226047/98401321040/1198
 #EXTINF:-1,La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1,La 2 GEO
