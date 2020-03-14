@@ -1,5 +1,6 @@
-#EXTM3U cache=1000 nocache=1 url-tvg="http://www.teleguide.info/download/new3/jtv.zip,http://epg.zuram.net/xmltv.xml.gz,http://epg.in.ua/epg/tvprogram_ua_ru.gz,http://programtv.ru/xmltv.xml.gz" tvg-shift="TZ-3" audio-track=ru m3uautoload=1
-#EXTINF:0 ,MD| MOLDOVA 1
+# EXTM3U
+#EXTINF: -1 tvg-ID = "" tvg-name = "===== MOLDOVA =====" tvg-logo = "" group-title = "", ===== MOLDOVA === ==
+http://livegopanel.club:8080/0226047/98401321040/1198
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:0 ,MD| MOLDOVA 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
