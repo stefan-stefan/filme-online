@@ -3,7 +3,7 @@
 plugin://program.plexus/?mode=1&url=acestream://955bc653f090c238b8d933b41d8a66fee1bf78935&name=AceStream
 
 #EXTINF:-1,HBO HD(test11 acestream)
-http://127.0.0.1:6878/ace/getstream?id=66af1ae0b02d25310955cb10869f0375e3b23af5
+http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf78935
 #EXTINF:-1,HBO HD(test sopcast
 http://s2.stream.cwdw.live:8080/295/2005/d4239a432ee921a0bf7eac2e6807783e35ac6daf
 #EXTINF:-1,HBO HD(testdfdf sopcast
