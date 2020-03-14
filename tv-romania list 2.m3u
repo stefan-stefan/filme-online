@@ -12,12 +12,12 @@
 <fanart>https://s1.1zoom.me/b5050/29/Romania_Castles_Landscape_design_Peles_Castle_Lawn_546756_3840x2400.jpg</fanart>
 </dir>
 
-<plugin>
+<item>
 <title>[COLOR orange]...[B]MOLDOVA TV...[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/moldova%20tv.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Moldova_flag_large-02.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/8/8e/Moldova_flag_large-02.png</fanart>
-</plugin>
+</item>
 
 <dir>
 <title>[COLOR orange]...[B]WORLD TV...[/B][/COLOR]</title>
