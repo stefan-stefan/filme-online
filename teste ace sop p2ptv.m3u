@@ -14,3 +14,11 @@
 <urlsolve>https://pastebin.com/raw/UKQB107L</urlsolve>
 <info></info>
 </plugin>
+
+<item>
+<title>[COLOR orange][B]TEST ACESTREAM[/B][/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</fanart>
+<urlsolve>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</urlsolve>
+<info></info>
+</item>
