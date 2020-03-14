@@ -1,6 +1,7 @@
 # EXTM3U
 #EXTINF: -1 tvg-ID = "" tvg-name = "===== MOLDOVA =====" tvg-logo = "" group-title = "", ===== MOLDOVA === ==
 http://livegopanel.club:8080/0226047/98401321040/1198
+#EXTINF:-1,MOLDOVA 1
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:0 ,MD| MOLDOVA 2
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
