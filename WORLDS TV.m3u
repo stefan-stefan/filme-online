@@ -1,16 +1,9 @@
 <dir>
-<title>UNGARIA LISTA (1)</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20ungaria%201.m3u</link>
+<title>[COLOR orange][B]UNGARIA[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%20tv.m3u</link>
 <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</thumbnail>
-<fanart>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</fanart>
+<fanart>https://cdn.travelfuse.ro/images/_top_da04ea87fbb4257ee526ec9e7b35acbd.jpg</fanart>
 </dir>
-
-<plugin>
-<title>UNGARIA LISTA (2)</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%202.m3u</link>
-<thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</thumbnail>
-<fanart>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</fanart>
-</plugin>
 
 
 <dir>
@@ -19,58 +12,31 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/350px-Flag_of_Greece.svg.png</thumbnail>
 <fanart>https://static.unica.ro/wp-content/uploads/2014/08/RTEmagicC_santorini_01.jpg.jpg</fanart>
 </dir>
+
 <dir>
-<title>FRANTA(1)</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/franta%20de%20baza.m3u</link>
+<title>[COLOR orange][B]FRANTA[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/franta%20tv.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
+<fanart>https://www.danielsima.ro/wp-content/gallery/paris-2012/eiffel1.jpg</fanart>
 </dir>
 
-<plugin>
-<title>FRANTA 2</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/franta%20tv%20baza.m3u</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
-</plugin>
-
 <dir>
-<title>PORTUGALIA 1</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/portugalia%20lista%202.m3u</link>
-<thumbnail>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</thumbnail>
-<fanart>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</fanart>
+<title>[COLOR orange][B]PORTUGALIA[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/portugalia%20tv.m3u</link>
+<thumbnail>https://cdn.countryflags.com/thumbs/portugal/flag-wave-250.png</thumbnail>
+<fanart>https://cdn.travelfuse.ro/images/_top_665f71ca1b2437e34c235961c33bed4e.jpg</fanart>
 </dir>
- 
-<plugin>
-<title>PORTUGALIA 2</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/portugalia%20baza%2011.m3u</link>
-<thumbnail>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</thumbnail>
-<fanart>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</fanart>
-</plugin>
 
 <dir>
-<title>SPANIA(1)</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/spania%20ts%20script.m3u</link>
+<title>[COLOR orange][B]SPANIA[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/spania%20tv1.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</fanart>
+<fanart>https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2019/05/10/15575227046223.jpg</fanart>
 </dir>
-
-<plugin>
-<title>SPANIA(2)</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/spania%20baza.m3u</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</fanart>
-</plugin>
 
 <dir>
-<title>ITALIA (1)</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/italia%20de%20baza.m3u</link>
+<title>[COLOR orange][B]ITALIA[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/italia%20tv.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png</fanart>
+<fanart>https://duxtravel.ro/images/uploads/articles/13/colosseum_roma.jpg</fanart>
 </dir>
- 
-<plugin>
-<title>ITALIA (2)</title>
-<link>https://iptv-org.github.io/iptv/languages/it.m3u</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1024px-Flag_of_Italy.svg.png</fanart>
-</plugin>
