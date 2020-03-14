@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,HBO HD(test acestream)
-http://s2.stream.cwdw.live:8080/295/2005/d4239a432ee921a0bf7eac2e6807783e35ac6daf
+#EXTINF:-1,HBO HD(test1 acestream)
+http://s2.stream.cwdw.live:8080/295/2005/66af1ae0b02d25310955cb10869f0375e3b23af5
 #EXTINF:-1,HBO HD(test sopcast
 http://s2.stream.cwdw.live:8080/295/2005/d4239a432ee921a0bf7eac2e6807783e35ac6daf
 # EXTM3U x-tvg-url = "http://epg.streamstv.me/epg/guide-hungry.xml.gz"
