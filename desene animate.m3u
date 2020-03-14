@@ -6,10 +6,33 @@
 </item>
 
 <item>
-<title>BabyTV</title>
-<link>https://www.youtube.com/watch?v=_LIqJlfTF2k</link>
-<thumbnail>https://img.favpng.com/6/11/7/babytv-television-channel-streaming-media-fox-international-channels-png-favpng-errChQcGEtfzQbax2y0NiqiZ1.jpg</thumbnail>
-<fanart>https://img.favpng.com/6/11/7/babytv-television-channel-streaming-media-fox-international-channels-png-favpng-errChQcGEtfzQbax2y0NiqiZ1.jpg</fanart>
+    <title>BabyTV</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=_LIqJlfTF2k</sublink>
+    </link>
+    <thumbnail>https://img.favpng.com/6/11/7/babytv-television-channel-streaming-media-fox-international-channels-png-favpng-errChQcGEtfzQbax2y0NiqiZ1.jpg</thumbnail>
+    <fanart>https://img.favpng.com/6/11/7/babytv-television-channel-streaming-media-fox-international-channels-png-favpng-errChQcGEtfzQbax2y0NiqiZ1.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Baby Shark , Rain Rain Go</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</item>
+
+<item>
+    <title>Baby Shark , Rain Rain Go</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=IY9P2XVTJpE</sublink>
+    </link>
+    <thumbnail>https://i.ytimg.com/vi/I9sP9Tk7t1A/maxresdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/I9sP9Tk7t1A/maxresdefault.jpg</fanart>
+    <content>movie</content>
+    <meta>
+        <title>Baby Shark , Rain Rain Go</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
 </item>
 
 <item>
