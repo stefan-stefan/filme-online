@@ -1,10 +1,3 @@
-<item>
-<title>[COLOR orange][B]TEST ACESTREAM166[/B][/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</fanart>
-<urlsolve>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</urlsolve>
-<info></info>
-</item>
 
 <item>
 <title>[COLOR orange][B]TEST ACESTREAM[/B][/COLOR]</title>
@@ -23,13 +16,7 @@
 <info></info>
 </item>
 
-<item>
-<title>[COLOR orange][B]TEST ACESTREAM[/B][/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</fanart>
-<urlsolve>plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream</urlsolve>
-<info></info>
-</item>
+
 <item>
 <title>[COLOR orange][B]TEST ACESTREAM[/B][/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Only_fools_logo.jpg/250px-Only_fools_logo.jpg</thumbnail>
@@ -38,18 +25,5 @@
 <info></info>
 </item>
 
-<item>
-<title>[COLOR lightgreen][B]=========IN PUII--MEI=========[/B][/COLOR]</title>
-<link></link>
-<externallink></externallink>
-<info></info>
-</item>
-<item>
-<title>[COLOR orange][B]Sezoni 1[/B][/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://tellyseries.cc/wp-content/uploads/2017/05/Gomorrah-season-1-poster-e1493735097818.jpg</thumbnail>
-<fanart>http://tellyseries.cc/wp-content/uploads/2017/05/Gomorrah-season-1-poster-e1493735097818.jpg</fanart>
-<externallink>https://pastebin.com/raw/5aXETiyh</externallink>
-<info></info>
-</item>
+
 
