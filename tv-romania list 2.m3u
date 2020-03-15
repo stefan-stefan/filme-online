@@ -19,6 +19,13 @@
 <fanart>https://transparentnews.ro/wp-content/uploads/2017/09/slanic-moldova.jpg</fanart>
 </plugin>
 
+<plugin>
+<title>[COLOR orange]....[B]CANALE STIRI LIVE....[/B][/COLOR]</title>
+<link></link>
+<thumbnail>https://pbs.twimg.com/profile_images/1024841002929070080/oGTSitAK.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/1024841002929070080/oGTSitAK.jpg</fanart>
+</plugin>
+
 <dir>
 <title>[COLOR orange]..,,.[B]WORLD TV..,.[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/WORLDS%20TV.m3u</link>
