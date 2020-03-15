@@ -14,6 +14,27 @@
 </item>
 
 <item>
+<title>ANTENA 3</title>
+<link>http://iptvtool.es:9977/live/6W464643/Porranko1/155335.m3u8</link>
+<thumbnail>https://specialarad.ro/wp-content/uploads/2018/02/antena-3-1060x540.jpg</thumbnail>
+<fanart>https://specialarad.ro/wp-content/uploads/2018/02/antena-3-1060x540.jpg</fanart>
+</item>
+
+<item>
+<title>B1 TV</title>
+<link>http://tv-he.orange.ro/shls/LIVE$b1tv/10.m3u8/Level%282306867%29?start=LIVE&end=END</link>
+<thumbnail>https://www.b1.ro/thumbs/landscape_big/2012/02/06/aplicatia-b1-ro-pentru-iphone-pe-primul-loc-in-topul-descarcarilor-din-apple-store-in-categoria-news-32395.jpg</thumbnail>
+<fanart>https://www.b1.ro/thumbs/landscape_big/2012/02/06/aplicatia-b1-ro-pentru-iphone-pe-primul-loc-in-topul-descarcarilor-din-apple-store-in-categoria-news-32395.jpg</fanart>
+</item>
+
+<item>
+<title>Realitatea Tv</title>
+<link>http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8</link>
+<thumbnail>https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png</thumbnail>
+<fanart>https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png</fanart>
+</item>
+
+<item>
     <title>Canal 33(Live)</title>
     <link>
         <sublink>https://www.youtube.com/watch?v=lN2P816CIP4</sublink>
