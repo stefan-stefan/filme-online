@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0,DIGI 24(test)
+http://cdn.ch01.spr24.net:81/22919/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1,RO | Acasa
 http://iptvtool.es:9977/live/6W464643/Porranko1/155331.m3u8
 #EXTINF:-1,RO | Acasa Gold
