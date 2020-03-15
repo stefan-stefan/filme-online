@@ -14,6 +14,13 @@
 </item>
 
 <item>
+<title>RPRO TV NEWS</title>
+<link>http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1</link>
+<thumbnail>https://assets.yoda.ro/assets/yoda/2012/07/25/image_galleries/11805/voyo-news-devine-canalul-de-stiri-online-protv-news_size1.jpg</thumbnail>
+<fanart>https://assets.yoda.ro/assets/yoda/2012/07/25/image_galleries/11805/voyo-news-devine-canalul-de-stiri-online-protv-news_size1.jpg</fanart>
+</item>
+
+<item>
 <title>ROMANIA TV</title>
 <link>http://iptvtool.es:9977/live/6W464643/Porranko1/155404.m3u8</link>
 <thumbnail>https://revistablogurilor.ro/wp-content/uploads/2017/01/Romania-TV.png</thumbnail>
