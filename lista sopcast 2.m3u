@@ -7,15 +7,15 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390&name=TV
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TVR 2(stream 1) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256336&name=TVR 2
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 2(stream 2) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=TVR 2
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]REALITATEA TV(stream 1) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=REALITATEA TV(stream 1
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=REALITATEA TV
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]REALITATEA TV(stream 2) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=REALITATEA TV(stream 2)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=REALITATEA TV
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue] ANTENA 1(stream 1) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=ANTENA 1(stream 1)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=ANTENA 1
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1(stream 2) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=ANTENA 1(stream 2)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149257&name=ANTENA 
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue] PRO TV(stream 1) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV(stream 2)[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
