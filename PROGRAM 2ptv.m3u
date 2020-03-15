@@ -1,0 +1,267 @@
+#EXTM3U
+#EXTINF:-1,Romania TV By Stefan-stefan
+#EXTINF:-1,ProTV HD
+sop://broker.sopcast.com:3912/149252
+#EXTINF:-1,Pro TV
+sop://broker.sopcast.com:3912/151380
+#EXTINF:-1,ProTV HD Sursa 2
+sop://broker.sopcast.com:3912/151380
+#EXTINF:-1,ProTV HD Sursa 3
+sop://broker.sopcast.com:3912/263263
+#EXTINF:-1,Pro TV HD
+sop://broker.sopcast.com:3912/149252
+#EXTINF:-1,Antena 1 HD
+sop://broker.sopcast.com:3912/149257
+#EXTINF:-1,Antena 1 HD Sursa 2
+sop://broker.sopcast.com:3912/151301
+#EXTINF:-1,HBO HD
+sop://broker.sopcast.com:3912/259497
+#EXTINF:-1,HBO HD Sursa 2
+sop://broker.sopcast.com:3912/260710
+#EXTINF:-1,HBO 2
+sop://broker.sopcast.com:3912/149259
+#EXTINF:-1,HBO 3
+sop://broker.sopcast.com:3912/149255
+#EXTINF:-1,HBO Romania
+sop://broker.sopcast.com:3912/148985
+#EXTINF:-1,HBO Comedy
+sop://broker.sopcast.com:3912/149255
+#EXTINF:-1,Discovery Channel
+sop://broker.sopcast.com:3912/256241
+#EXTINF:-1,Discovery Science
+sop://broker.sopcast.com:3912/256243
+#EXTINF:-1,History Channel
+sop://broker.sopcast.com:3912/253032
+#EXTINF:-1,National Geographic
+sop://broker.sopcast.com:3912/148248
+#EXTINF:-1,National Geographic Wild
+sop://broker.sopcast.com:3912/253037
+#EXTINF:-1,Discovery
+sop://broker.sopcast.com:3912/256241
+#EXTINF:-1,Discovery World
+sop://broker.sopcast.com:3912/256242
+#EXTINF:-1,Discovery Science
+sop://broker.sopcast.com:3912/256243
+#EXTINF:-1,Discovery ID
+sop://broker.sopcast.com:3912/148975
+#EXTINF:-1,National Geografic
+sop://broker.sopcast.com:3912/148248
+#EXTINF:-1,Viasat History
+sop://broker.sopcast.com:3912/149268
+#EXTINF:-1,Viasat Explorer
+sop://broker.sopcast.com:3912/149269
+#EXTINF:-1,Viasat Nature
+sop://broker.sopcast.com:3912/149267
+#EXTINF:-1,National Geografic Wild
+sop://broker.sopcast.com:3912/253037
+#EXTINF:-1,History Channel
+sop://broker.sopcast.com:3912/253032
+#EXTINF:-1,IDX
+sop://broker.sopcast.com:3912/256244
+#EXTINF:-1,TLC
+sop://broker.sopcast.com:3912/148256
+#EXTINF:-1,Viasat History
+sop://broker.sopcast.com:3912/151300
+#EXTINF:-1,BBC Earth
+sop://broker.sopcast.com:3912/148257
+#EXTINF:-1,TV Paprika
+sop://broker.sopcast.com:3912/148881
+#EXTINF:-1,Travel Channel
+sop://broker.sopcast.com:3912/148885
+#EXTINF:-1,Mireasa pentru fiul meu
+sop://broker.sopcast.com:3912/151379
+#EXTINF:-1,Kanal D
+sop://broker.sopcast.com:3912/149258
+#EXTINF:-1,Kanal D Sursa 2
+sop://broker.sopcast.com:3912/256720
+#EXTINF:-1,Prima TV
+sop://broker.sopcast.com:3912/148086
+#EXTINF:-1,Acasa TV
+sop://broker.sopcast.com:3912/149256
+#EXTINF:-1,Antena Stars
+sop://broker.sopcast.com:3912/148255
+#EXTINF:-1,National TV
+sop://broker.sopcast.com:3912/253030
+#EXTINF:-1,TVR 1
+sop://broker.sopcast.com:3912/148085
+#EXTINF:-1,TVR 2
+sop://broker.sopcast.com:3912/173286
+#EXTINF:-1,Trinitas TV
+sop://broker.sopcast.com:3912/150749
+#EXTINF:-1,Dolce Sport 1
+sop://broker.sopcast.com:3912/253874
+#EXTINF:-1,Dolce Sport 2
+sop://broker.sopcast.com:3912/258991
+#EXTINF:-1,Dolce Sport 3
+sop://broker.sopcast.com:3912/256179
+#EXTINF:-1,Dolce Sport 4
+sop://broker.sopcat.com:3912/257940
+#EXTINF:-1,Digi Sport 2
+sop://broker.sopcast.com:3912/263242
+#EXTINF:-1,Eurosport 1
+sop://broker.sopcast.com:3912/263056
+#EXTINF:-1,Eurosport 2
+sop://broker.sopcast.com:3912/257488
+#EXTINF:-1,Serie A TV
+sop://broker.sopcast.com:3912/139689
+#EXTINF:-1,Ligue 1 TV
+sop://broker.sopcast.com:3912/140544
+#EXTINF:-1,Fox Sports 2
+sop://124.232.150.188:3920/5730
+#EXTINF:-1,Sport.ro
+sop://broker.sopcast.com:3912/178547
+#EXTINF:-1,TV1000
+sop://broker.sopcast.com:3912/256337
+#EXTINF:-1,AXN
+sop://broker.sopcast.com:3912/253035
+#EXTINF:-1,AXN Black
+sop://broker.sopcast.com:3912/149261
+#EXTINF:-1,Pro Cinema
+sop://broker.sopcat.com:3912/148249
+#EXTINF:-1,Paramount Channel
+sop://broker.sopcast.com:3912/253033
+#EXTINF:-1,Happy Channel
+sop://broker.sopcst.com:3912/253473
+#EXTINF:-1,Film Cafe
+sop://broker.sopcast.com:3912/256238
+#EXTINF:-1,Cinemax
+sop://broker.sopcast.com:3912/148882
+#EXTINF:-1,Diva
+sop://broker.sopcast.com:3912/253034
+#EXTINF:-1,Acasa Gold
+sop://broker.sopcast.com:3912/253471
+#EXTINF:-1,Disney Channel
+sop://broker.sopcast.com:3912/253031
+#EXTINF:-1,Disney Junior
+sop://broker.sopcast.com:3912/256239
+#EXTINF:-1,Boomerang
+sop://broker.sopcast.com:3912/149264
+#EXTINF:-1,Minimax
+sop://broker.sopcast.com:3912/148263
+#EXTINF:-1,Cartoon Network/TNT
+sop://broker.sopcast.com:3912/148254
+#EXTINF:-1,Nickelodeon
+sop://broker.sopcast.com:3912/253472
+#EXTINF:-1,Duck TV
+sop://broker.sopcast.com:3912/148259
+#EXTINF:-1,Romania TV
+sop://broker.sopcast.com:3912/148258
+#EXTINF:-1,Antena 3
+sop://broker.sopcast.com:3912/148084
+#EXTINF:-1,Realitatea TV
+sop://broker.sopcast.com:3912/253036
+#EXTINF:-1,B1
+sop://broker.sopcast.com:3912/148087
+#EXTINF:-1,ZU TV
+sop://broker.sopcast.com:3912/148252
+#EXTINF:-1,Etno
+sop://broker.sopcast.com:3912/173116
+#EXTINF:-1,Impact TV
+sop://broker.sopcast.com:3912/108790
+#EXTINF:-1,Update 13-01-2017
+nolink
+#EXTINF:-1,DolceSport1 HD
+sop://broker.sopcast.com:3912/255726
+#EXTINF:-1,DolceSport2
+sop://broker.sopcast.com:3912/149384
+#EXTINF:-1,DolceSport3
+sop://broker.sopcast.com:3912/256180
+#EXTINF:-1,DolceSport4
+sop://broker.sopcast.com:3912/151638
+#EXTINF:-1,Eurosport
+sop://broker.sopcast.com:3912/263056
+#EXTINF:-1,Eurosport 2
+sop://broker.sopcast.com:3912/257488
+#EXTINF:-1,SportRO
+sop://broker.sopcast.com:3912/178547
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258920
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258921
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258922
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258923
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258924
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258925
+#EXTINF:-1,Soccer TV & Canal+
+sop://broker.sopcast.com:3912/258926
+#EXTINF:-1,Mireasa pentru fiul meu
+sop://broker.sopcast.com:3912/148261
+#EXTINF:-1,TVR 1
+sop://broker.sopcast.com:3912/148085
+#EXTINF:-1,TVR HD
+sop://broker.sopcast.com:3912/253827
+#EXTINF:-1,Antena 1
+sop://broker.sopcast.com:3912/149257
+#EXTINF:-1,Prima TV
+sop://broker.sopcast.com:3912/148086
+#EXTINF:-1,Pro Cinema
+sop://broker.sopcast.com:3912/148249
+#EXTINF:-1,Acasa TV
+sop://broker.sopcast.com:3912/149256
+#EXTINF:-1,Acasa TV GOLD
+sop://broker.sopcast.com:3912/253471
+#EXTINF:-1,Kanal D
+sop://broker.sopcast.com:3912/149258
+#EXTINF:-1,National TV
+sop://broker.sopcast.com:3912/253030
+#EXTINF:-1,Euforia TV
+sop://broker.sopcast.com:3912/253473
+#EXTINF:-1,Antena STARS
+sop://broker.sopcast.com:3912/148255
+#EXTINF:-1,Romania TV
+sop://broker.sopcast.com:3912/148258
+#EXTINF:-1,Antena 3
+sop://broker.sopcast.com:3912/148084
+#EXTINF:-1,Realitatea TV
+sop://broker.sopcast.com:3912/253036
+#EXTINF:-1,B1 TV
+sop://broker.sopcast.com:3912/148087
+#EXTINF:-1,AXN
+sop://broker.sopcast.com:3912/253035
+#EXTINF:-1,AXN
+sop://broker.sopcast.com:3912/149261
+#EXTINF:-1,AXN
+sop://broker.sopcast.com:3912/256240
+#EXTINF:-1,AXN
+sop://broker.sopcast.com:3912/149263
+#EXTINF:-1,TV 1000
+sop://broker.sopcast.com:3912/256337
+#EXTINF:-1,Film Cafe
+sop://broker.sopcast.com:3912/256238
+#EXTINF:-1,Comedy Central Extra
+sop://broker.sopcast.com:3912/253470
+#EXTINF:-1,Paramount Channel
+sop://broker.sopcast.com:3912/253033
+#EXTINF:-1,Diva
+sop://broker.sopcast.com:3912/253034
+#EXTINF:-1,Megamax
+sop://broker.sopcast.com:3912/256328
+#EXTINF:-1,Minimax
+sop://broker.sopcast.com:3912/148263
+#EXTINF:-1,Nickeldon
+sop://broker.sopcast.com:3912/253472
+#EXTINF:-1,Nick JR
+sop://broker.sopcast.com:3912/149266
+#EXTINF:-1,Disney TV
+sop://broker.sopcast.com:3912/253031
+#EXTINF:-1,DisneyJunior
+sop://broker.sopcast.com:3912/256239
+#EXTINF:-1,Boomerang
+sop://broker.sopcast.com:3912/149264
+#EXTINF:-1,Cartoon Network
+sop://broker.sopcast.com:3912/148254
+#EXTINF:-1,Taraf TV
+sop://broker.sopcast.com:3912/148250
+#EXTINF:-1,ZU TV
+sop://broker.sopcast.com:3912/148252
+
+
+
+
+
+
+
