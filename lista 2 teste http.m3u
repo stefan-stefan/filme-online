@@ -2,391 +2,65 @@
 #EXTM3U
 #EXTINF:0,DIGI 24(test)
 http://cdn.ch01.spr24.net:81/22919/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1,RO | Acasa
-http://iptvtool.es:9977/live/6W464643/Porranko1/155331.m3u8
-#EXTINF:-1,RO | Acasa Gold
-http://iptvtool.es:9977/live/6W464643/Porranko1/155332.m3u8
-#EXTINF:-1,RO | AgroTV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155333.m3u8
-#EXTINF:-1,RO | Antena 1
-http://iptvtool.es:9977/live/6W464643/Porranko1/155334.m3u8
-#EXTINF:-1,RO | Antena 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/155335.m3u8
-#EXTINF:-1,RO | Antena Stars
-http://iptvtool.es:9977/live/6W464643/Porranko1/155336.m3u8
-#EXTINF:-1,RO | AXN
-http://iptvtool.es:9977/live/6W464643/Porranko1/155337.m3u8
-#EXTINF:-1,RO | AXN Black
-http://iptvtool.es:9977/live/6W464643/Porranko1/155338.m3u8
-#EXTINF:-1,RO | AXN SPIN
-http://iptvtool.es:9977/live/6W464643/Porranko1/155339.m3u8
-#EXTINF:-1,RO | AXN White
-http://iptvtool.es:9977/live/6W464643/Porranko1/155340.m3u8
-#EXTINF:-1,RO | B1
-http://iptvtool.es:9977/live/6W464643/Porranko1/155341.m3u8
-#EXTINF:-1,RO | Boomerang
-http://iptvtool.es:9977/live/6W464643/Porranko1/155342.m3u8
-#EXTINF:-1,RO | Cinemax 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/155345.m3u8
-#EXTINF:-1,RO | Comedy Central
-http://iptvtool.es:9977/live/6W464643/Porranko1/155346.m3u8
-#EXTINF:-1,RO | Da Vinci Learning
-http://iptvtool.es:9977/live/6W464643/Porranko1/155347.m3u8
-#EXTINF:-1,RO | DIGI 24
-http://iptvtool.es:9977/live/6W464643/Porranko1/155348.m3u8
-#EXTINF:-1,RO | DIGI ANIMAL WORLD
-http://iptvtool.es:9977/live/6W464643/Porranko1/155349.m3u8
-#EXTINF:-1,RO | DIGI Life
-http://iptvtool.es:9977/live/6W464643/Porranko1/155351.m3u8
-#EXTINF:-1,RO | DIGI Sport 1
-http://iptvtool.es:9977/live/6W464643/Porranko1/155352.m3u8
-#EXTINF:-1,RO | DIGI Sport 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/155353.m3u8
-#EXTINF:-1,RO | DIGI Sport 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/155354.m3u8
-#EXTINF:-1,RO | DIGI Sport 4
-http://iptvtool.es:9977/live/6W464643/Porranko1/155355.m3u8
-#EXTINF:-1,RO | DIGI WORLD
-http://iptvtool.es:9977/live/6W464643/Porranko1/155356.m3u8
-#EXTINF:-1,RO | Discovery
-http://iptvtool.es:9977/live/6W464643/Porranko1/155357.m3u8
-#EXTINF:-1,RO | Discovery ID
-http://iptvtool.es:9977/live/6W464643/Porranko1/155358.m3u8
-#EXTINF:-1,RO | Discovery Science
-http://iptvtool.es:9977/live/6W464643/Porranko1/155359.m3u8
-#EXTINF:-1,RO | Disney Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/155360.m3u8
-#EXTINF:-1,RO | Disney Jr
-http://iptvtool.es:9977/live/6W464643/Porranko1/155361.m3u8
-#EXTINF:-1,RO | Diva
-http://iptvtool.es:9977/live/6W464643/Porranko1/155362.m3u8
-#EXTINF:-1,RO | DTX
-http://iptvtool.es:9977/live/6W464643/Porranko1/155363.m3u8
-#EXTINF:-1,RO | E! Entertainment
-http://iptvtool.es:9977/live/6W464643/Porranko1/155364.m3u8
-#EXTINF:-1,RO | Etno
-http://iptvtool.es:9977/live/6W464643/Porranko1/155365.m3u8
-#EXTINF:-1,RO | Eurosport 1
-http://iptvtool.es:9977/live/6W464643/Porranko1/155366.m3u8
-#EXTINF:-1,RO | Eurosport 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/155367.m3u8
-#EXTINF:-1,RO | Extreme Sport
-http://iptvtool.es:9977/live/6W464643/Porranko1/155368.m3u8
-#EXTINF:-1,RO | Favorit TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155369.m3u8
-#EXTINF:-1,RO | Film Caf?
-http://iptvtool.es:9977/live/6W464643/Porranko1/155370.m3u8
-#EXTINF:-1,RO | Fishingand Hunting
-http://iptvtool.es:9977/live/6W464643/Porranko1/155371.m3u8
-#EXTINF:-1,RO | Food Network
-http://iptvtool.es:9977/live/6W464643/Porranko1/155372.m3u8
-#EXTINF:-1,RO | Happy Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/155373.m3u8
-#EXTINF:-1,RO | HBO
-http://iptvtool.es:9977/live/6W464643/Porranko1/155374.m3u8
-#EXTINF:-1,RO | HBO 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/155375.m3u8
-#EXTINF:-1,RO | HBO2
-http://iptvtool.es:9977/live/6W464643/Porranko1/155376.m3u8
-#EXTINF:-1,RO | HBOmania
-http://iptvtool.es:9977/live/6W464643/Porranko1/155377.m3u8
-#EXTINF:-1,RO | History
-http://iptvtool.es:9977/live/6W464643/Porranko1/155378.m3u8
-#EXTINF:-1,RO | HIT MUSIC
-http://iptvtool.es:9977/live/6W464643/Porranko1/155379.m3u8
-#EXTINF:-1,RO | Hora TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155380.m3u8
-#EXTINF:-1,RO | JimJam
-http://iptvtool.es:9977/live/6W464643/Porranko1/155381.m3u8
-#EXTINF:-1,RO | Kanal D
-http://iptvtool.es:9977/live/6W464643/Porranko1/155382.m3u8
-#EXTINF:-1,RO | Kiss TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155383.m3u8
-#EXTINF:-1,RO | Look Plus
-http://iptvtool.es:9977/live/6W464643/Porranko1/155384.m3u8
-#EXTINF:-1,RO | Look TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155385.m3u8
-#EXTINF:-1,RO | Minimax
-http://iptvtool.es:9977/live/6W464643/Porranko1/155387.m3u8
-#EXTINF:-1,RO | MTV Dance
-http://iptvtool.es:9977/live/6W464643/Porranko1/155389.m3u8
-#EXTINF:-1,RO | MTV Hits
-http://iptvtool.es:9977/live/6W464643/Porranko1/155390.m3u8
-#EXTINF:-1,RO | MTV Rocks
-http://iptvtool.es:9977/live/6W464643/Porranko1/155391.m3u8
-#EXTINF:-1,RO | Music Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/155392.m3u8
-#EXTINF:-1,RO | Nat Geo
-http://iptvtool.es:9977/live/6W464643/Porranko1/155393.m3u8
-#EXTINF:-1,RO | Nat Geo Wild
-http://iptvtool.es:9977/live/6W464643/Porranko1/155394.m3u8
-#EXTINF:-1,RO | National 24
-http://iptvtool.es:9977/live/6W464643/Porranko1/155395.m3u8
-#EXTINF:-1,RO | National Geographic
-http://iptvtool.es:9977/live/6W464643/Porranko1/155396.m3u8
-#EXTINF:-1,RO | National TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155397.m3u8
-#EXTINF:-1,RO | Nickelodeon
-http://iptvtool.es:9977/live/6W464643/Porranko1/155398.m3u8
-#EXTINF:-1,RO | Paramount Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/155399.m3u8
-#EXTINF:-1,RO | Prima TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155400.m3u8
-#EXTINF:-1,RO | PRO TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155402.m3u8
-#EXTINF:-1,RO | Realitatea TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155403.m3u8
-#EXTINF:-1,RO | ROmania TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155404.m3u8
-#EXTINF:-1,RO | Sport
-http://iptvtool.es:9977/live/6W464643/Porranko1/155405.m3u8
-#EXTINF:-1,RO | TLC
-http://iptvtool.es:9977/live/6W464643/Porranko1/155410.m3u8
-#EXTINF:-1,RO | TNT
-http://iptvtool.es:9977/live/6W464643/Porranko1/155411.m3u8
-#EXTINF:-1,RO | Travel
-http://iptvtool.es:9977/live/6W464643/Porranko1/155412.m3u8
-#EXTINF:-1,RO | Travel Mix
-http://iptvtool.es:9977/live/6W464643/Porranko1/155413.m3u8
-#EXTINF:-1,RO | TV Paprika
-http://iptvtool.es:9977/live/6W464643/Porranko1/155414.m3u8
-#EXTINF:-1,RO | TV1000
-http://iptvtool.es:9977/live/6W464643/Porranko1/155415.m3u8
-#EXTINF:-1,RO | TVR
-http://iptvtool.es:9977/live/6W464643/Porranko1/155416.m3u8
-#EXTINF:-1,RO | TVR1
-http://iptvtool.es:9977/live/6W464643/Porranko1/155417.m3u8
-#EXTINF:-1,RO | TVR2
-http://iptvtool.es:9977/live/6W464643/Porranko1/155418.m3u8
-#EXTINF:-1,RO | TVR3
-http://iptvtool.es:9977/live/6W464643/Porranko1/155419.m3u8
-#EXTINF:-1,RO | UTV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155420.m3u8
-#EXTINF:-1,RO | VH1
-http://iptvtool.es:9977/live/6W464643/Porranko1/155421.m3u8
-#EXTINF:-1,RO | VH1 Classic
-http://iptvtool.es:9977/live/6W464643/Porranko1/155422.m3u8
-#EXTINF:-1,RO | Viasat History
-http://iptvtool.es:9977/live/6W464643/Porranko1/155424.m3u8
-#EXTINF:-1,RO | Viasat Nature
-http://iptvtool.es:9977/live/6W464643/Porranko1/155425.m3u8
-#EXTINF:-1,RO | ZU TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/155426.m3u8
-#EXTINF:-1,RO: TVR 1
-http://iptvtool.es:9977/live/6W464643/Porranko1/116390.m3u8
-#EXTINF:-1,RO: TVR 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/116391.m3u8
-#EXTINF:-1,RO:  TVR 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/116392.m3u8
-#EXTINF:-1,RO: ANTENA 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/116395.m3u8
-#EXTINF:-1,RO: Antena Stars
-http://iptvtool.es:9977/live/6W464643/Porranko1/116396.m3u8
-#EXTINF:-1,RO: ACASA TV HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116397.m3u8
-#EXTINF:-1,RO: Kanal D HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116398.m3u8
-#EXTINF:-1,RO: Antena 1 FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116399.m3u8
-#EXTINF:-1,RO: Antena 1
-http://iptvtool.es:9977/live/6W464643/Porranko1/116400.m3u8
-#EXTINF:-1,RO: National Tv
-http://iptvtool.es:9977/live/6W464643/Porranko1/116401.m3u8
-#EXTINF:-1,RO: TVR HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116402.m3u8
-#EXTINF:-1,RO:  Agro TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116403.m3u8
-#EXTINF:-1,RO: Etno TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116404.m3u8
-#EXTINF:-1,RO: ProTV International
-http://iptvtool.es:9977/live/6W464643/Porranko1/116405.m3u8
-#EXTINF:-1,RO: ProTV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116406.m3u8
-#EXTINF:-1,RO: Pro 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/116407.m3u8
-#EXTINF:-1,RO: Pro Gold
-http://iptvtool.es:9977/live/6W464643/Porranko1/116408.m3u8
-#EXTINF:-1,RO: AMC Romania
-http://iptvtool.es:9977/live/6W464643/Porranko1/116410.m3u8
-#EXTINF:-1,RO: AXN HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116411.m3u8
-#EXTINF:-1,RO: AXN WHITE
-http://iptvtool.es:9977/live/6W464643/Porranko1/116412.m3u8
-#EXTINF:-1,RO: HBO Romania
-http://iptvtool.es:9977/live/6W464643/Porranko1/116413.m3u8
-#EXTINF:-1,RO: HBO 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/116414.m3u8
-#EXTINF:-1,RO: HBO 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/116415.m3u8
-#EXTINF:-1,RO: HBO 3 Central Europe
-http://iptvtool.es:9977/live/6W464643/Porranko1/116416.m3u8
-#EXTINF:-1,RO: DIGI FILIM HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116417.m3u8
-#EXTINF:-1,RO: Digi World
-http://iptvtool.es:9977/live/6W464643/Porranko1/116418.m3u8
-#EXTINF:-1,RO: Digi Life
-http://iptvtool.es:9977/live/6W464643/Porranko1/116419.m3u8
-#EXTINF:-1,RO: Digi 24
-http://iptvtool.es:9977/live/6W464643/Porranko1/116420.m3u8
-#EXTINF:-1,RO: Digi Animal World
-http://iptvtool.es:9977/live/6W464643/Porranko1/116421.m3u8
-#EXTINF:-1,RO: Da Vinci Learning
-http://iptvtool.es:9977/live/6W464643/Porranko1/116423.m3u8
-#EXTINF:-1,RO: Discovery
-http://iptvtool.es:9977/live/6W464643/Porranko1/116424.m3u8
-#EXTINF:-1,RO: Discovery ID
-http://iptvtool.es:9977/live/6W464643/Porranko1/116425.m3u8
-#EXTINF:-1,RO: Food Network HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116426.m3u8
-#EXTINF:-1,RO: National Geographic HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116427.m3u8
-#EXTINF:-1,RO: Viasat History
-http://iptvtool.es:9977/live/6W464643/Porranko1/116428.m3u8
-#EXTINF:-1,RO: Viasat Nature HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116429.m3u8
-#EXTINF:-1,RO: Look Plus
-http://iptvtool.es:9977/live/6W464643/Porranko1/116430.m3u8
-#EXTINF:-1,RO: Happy Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/116431.m3u8
-#EXTINF:-1,RO: Look Tv
-http://iptvtool.es:9977/live/6W464643/Porranko1/116432.m3u8
-#EXTINF:-1,RO: Megamax
-http://iptvtool.es:9977/live/6W464643/Porranko1/116433.m3u8
-#EXTINF:-1,RO: HISTORY CHANNEL
-http://iptvtool.es:9977/live/6W464643/Porranko1/116435.m3u8
-#EXTINF:-1,RO: FAVORIT TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116436.m3u8
-#EXTINF:-1,RO: Sport.1
-http://iptvtool.es:9977/live/6W464643/Porranko1/116439.m3u8
-#EXTINF:-1,RO: Realitatea Tv
-http://iptvtool.es:9977/live/6W464643/Porranko1/116440.m3u8
-#EXTINF:-1,RO: Prima Tv
-http://iptvtool.es:9977/live/6W464643/Porranko1/116441.m3u8
-#EXTINF:-1,RO: ROMANIA TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116442.m3u8
-#EXTINF:-1,RO: MINIMAX ROMANIA HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116443.m3u8
-#EXTINF:-1,RO: Tv 1000
-http://iptvtool.es:9977/live/6W464643/Porranko1/116444.m3u8
-#EXTINF:-1,RO: Tv Paprika
-http://iptvtool.es:9977/live/6W464643/Porranko1/116445.m3u8
-#EXTINF:-1,RO: Zu tv
-http://iptvtool.es:9977/live/6W464643/Porranko1/116446.m3u8
-#EXTINF:-1,RO: TLC
-http://iptvtool.es:9977/live/6W464643/Porranko1/116447.m3u8
-#EXTINF:-1,RO: Travel Mix
-http://iptvtool.es:9977/live/6W464643/Porranko1/116448.m3u8
-#EXTINF:-1,RO: Cinemax HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116449.m3u8
-#EXTINF:-1,RO: RTV (Romania)
-http://iptvtool.es:9977/live/6W464643/Porranko1/116451.m3u8
-#EXTINF:-1,RO: DTX HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116452.m3u8
-#EXTINF:-1,RO: National 24
-http://iptvtool.es:9977/live/6W464643/Porranko1/116453.m3u8
-#EXTINF:-1,RO: Paramount Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/116454.m3u8
-#EXTINF:-1,RO: Animal Planet
-http://iptvtool.es:9977/live/6W464643/Porranko1/116455.m3u8
-#EXTINF:-1,RO: B1
-http://iptvtool.es:9977/live/6W464643/Porranko1/116457.m3u8
-#EXTINF:-1,RO: Disney Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/116458.m3u8
-#EXTINF:-1,RO: Diva
-http://iptvtool.es:9977/live/6W464643/Porranko1/116459.m3u8
-#EXTINF:-1,RO: Boomerang
-http://iptvtool.es:9977/live/6W464643/Porranko1/116460.m3u8
-#EXTINF:-1,RO: Nickelodeon
-http://iptvtool.es:9977/live/6W464643/Porranko1/116462.m3u8
-#EXTINF:-1,RO: Eurosport
-http://iptvtool.es:9977/live/6W464643/Porranko1/116463.m3u8
-#EXTINF:-1,RO: Eurosport 1 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116464.m3u8
-#EXTINF:-1,RO: Extreme Sport
-http://iptvtool.es:9977/live/6W464643/Porranko1/116465.m3u8
-#EXTINF:-1,RO: Eurosport 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/116466.m3u8
-#EXTINF:-1,RO: DIGI Sport 1 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116467.m3u8
-#EXTINF:-1,RO: DIGI Sport 2 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116468.m3u8
-#EXTINF:-1,RO: DIGI Sport 3 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116469.m3u8
-#EXTINF:-1,RO: DIGI Sport 4 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116470.m3u8
-#EXTINF:-1,RO: Digi Sport 1
-http://iptvtool.es:9977/live/6W464643/Porranko1/116471.m3u8
-#EXTINF:-1,RO: Digi Sport 2
-http://iptvtool.es:9977/live/6W464643/Porranko1/116472.m3u8
-#EXTINF:-1,RO: Digi Sport 3
-http://iptvtool.es:9977/live/6W464643/Porranko1/116473.m3u8
-#EXTINF:-1,RO: Digi Sport 4
-http://iptvtool.es:9977/live/6W464643/Porranko1/116474.m3u8
-#EXTINF:-1,RO: Telekom Sport 1 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116475.m3u8
-#EXTINF:-1,RO: Telekom Sport 2 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116476.m3u8
-#EXTINF:-1,RO: Telekom Sport 4 HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116478.m3u8
-#EXTINF:-1,RO: KISS TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116479.m3u8
-#EXTINF:-1,RO: Music Channel
-http://iptvtool.es:9977/live/6W464643/Porranko1/116481.m3u8
-#EXTINF:-1,RO: ANX FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116482.m3u8
-#EXTINF:-1,RO: Arcadia World FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116483.m3u8
-#EXTINF:-1,RO: AXN Spin
-http://iptvtool.es:9977/live/6W464643/Porranko1/116484.m3u8
-#EXTINF:-1,RO: BIT TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116485.m3u8
-#EXTINF:-1,RO: Bollywood Clasic
-http://iptvtool.es:9977/live/6W464643/Porranko1/116486.m3u8
-#EXTINF:-1,RO: Bollywood HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116487.m3u8
-#EXTINF:-1,RO: Bucovina TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116488.m3u8
-#EXTINF:-1,RO: Bucuresti TV FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116489.m3u8
-#EXTINF:-1,RO: Canal 33
-http://iptvtool.es:9977/live/6W464643/Porranko1/116490.m3u8
-#EXTINF:-1,RO: CBS Reality
-http://iptvtool.es:9977/live/6W464643/Porranko1/116491.m3u8
-#EXTINF:-1,RO: Credo Tv
-http://iptvtool.es:9977/live/6W464643/Porranko1/116492.m3u8
-#EXTINF:-1,RO: Cromtel TV HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116493.m3u8
-#EXTINF:-1,RO: Cromtel TV Radauti
-http://iptvtool.es:9977/live/6W464643/Porranko1/116494.m3u8
-#EXTINF:-1,RO: Digi Animal World FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116495.m3u8
-#EXTINF:-1,RO: Discovery HD Showcase
-http://iptvtool.es:9977/live/6W464643/Porranko1/116496.m3u8
-#EXTINF:-1,RO: Discovery Turbo Xtra HD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116497.m3u8
-#EXTINF:-1,RO: DocuBox
-http://iptvtool.es:9977/live/6W464643/Porranko1/116498.m3u8
-#EXTINF:-1,RO: Duck TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116499.m3u8
-#EXTINF:-1,RO: Film Now FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116500.m3u8
-#EXTINF:-1,RO: FilmBox Extra FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116501.m3u8
-#EXTINF:-1,RO: FilmBox Family
-http://iptvtool.es:9977/live/6W464643/Porranko1/116502.m3u8
-#EXTINF:-1,RO: FilmBox Plus
-http://iptvtool.es:9977/live/6W464643/Porranko1/116503.m3u8
-#EXTINF:-1,RO: Fine Living FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116504.m3u8
-#EXTINF:-1,RO: Fishing & Hunting
-http://iptvtool.es:9977/live/6W464643/Porranko1/116505.m3u8
-#EXTINF:-1,RO: Happy Channel FHD
-http://iptvtool.es:9977/live/6W464643/Porranko1/116506.m3u8
-#EXTINF:-1,RO: Iasi Tv Life
-http://iptvtool.es:9977/live/6W464643/Porranko1/116507.m3u8
-#EXTINF:-1,RO: Inedit TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116508.m3u8
-#EXTINF:-1,RO: Infinit TV
-http://iptvtool.es:9977/live/6W464643/Porranko1/116509.m3u8
-#EXTINF:-1,RO: Intermedia Suceava
-http://iptvtool.es:9977/live/6W464643/Porranko1/116510.m3u8
+#EXTINF:-1,TV1000 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6807
+#EXTINF:-1,HAPPY CHANNEL (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10237
+#EXTINF:-1,MINIMAX (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10238
+#EXTINF:-1,MEGAMAX (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6668
+#EXTINF:-1,TVR 1 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10232
+#EXTINF:-1,TVR 2 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6678
+#EXTINF:-1,TVR 3 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6667
+#EXTINF:-1,TVR INT (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10223
+#EXTINF:-1,ROMANIA TV (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10241
+#EXTINF:-1,B1 TV (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10239
+#EXTINF:-1,ANTENA STARS (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10236
+#EXTINF:-1,ANTENA 1 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10228
+#EXTINF:-1,ANTENA 3 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10233
+#EXTINF:-1,PRO TV (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6677
+#EXTINF:-1,PRO 2 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10225
+#EXTINF:-1,PRO INT (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10227
+#EXTINF:-1,PRO CINEMA (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6674
+#EXTINF:-1,PRO GOLD (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6673
+#EXTINF:-1,NEWS 24 (AL)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/10231
+#EXTINF:-1,PRIMA TV (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6662
+#EXTINF:-1,PRIMA LOVE (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6661
+#EXTINF:-1,PRIMA COOL (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6775
+#EXTINF:-1,DIGI SPORT 1 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6771
+#EXTINF:-1,DIGI SPORT 2 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/6770
+#EXTINF:-1,DIGI SPORT 3 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77335
+#EXTINF:-1,DIGI SPORT 4 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77340
+#EXTINF:-1,TELEKOM SPORT 1 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77366
+#EXTINF:-1,TELEKOM SPORT 2 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77365
+#EXTINF:-1,TELEKOM SPORT 3 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77334
+#EXTINF:-1,TELEKOM SPORT 4 (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77333
+#EXTINF:-1,REALITATEA TV (RO)
+http://ok2.se:8000/aec6F7UC8ROuOk5bj/fd55F9U8arNIvYJKz/77332
