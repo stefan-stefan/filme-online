@@ -20,8 +20,15 @@
 </dir>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 1[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20de%20testarii1104.M3U</link>
+<thumbnail>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</thumbnail>
+<fanart>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</fanart>
+</plugin>
+
+<plugin>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 2 [/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%202%20teste%20http.m3u</link>
 <thumbnail>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</thumbnail>
 <fanart>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</fanart>
 </plugin>
