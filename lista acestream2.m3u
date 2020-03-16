@@ -61,5 +61,8 @@ plugin://program.plexus/?mode=1&url=acestream://925a1331e53377c4e5db2812eaf6b7ed
 plugin://program.plexus/?mode=1&url=acestream://9709802e6428d681118026807c7f445410a6afd2&name=Discovery Investigation
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]National Geographic[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=1&url=acestream://c0ddde706358afafd809e3858b069132bca3a913&name=National Geographic
-
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Nat Geo Wild[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://23a63de6bcde494d621a07f4fbebf774995b19a9&name=Nat Geo Wild
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Discovery Science[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://8db30f7946f550cb9b32632fc6c02ce960f241ca&name=Discovery Science
 
