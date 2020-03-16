@@ -64,7 +64,8 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=HB
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=HBO 2
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 3(STREAM 2) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=HBO 3
-
+#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Look Plus (sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265677&name=Look Plus 
 
 
 
