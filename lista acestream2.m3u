@@ -17,34 +17,25 @@ plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2
 plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=PRO X
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]KANAL D[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://5583e0b72dfdbdf4d758173896c371aa71693230&name=AceStream
-#EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
-http://0.0.0.0:1234
 #EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Happy Channel [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://1618ad4debdff785c863bd320b5e7d16d563a283&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILM CAFE [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://e42976fa49ceb36c3b8cf16a84542b63d2b8b936&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TV 1000 [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=acestream://d8dd7b7461a13693517e1c591e47be876f1649b3&name=AceStream
 #EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PARAMOUNT CHANNEL [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://99a45b3739b0d3ce26af392ad4039256b6fb1741&name=AceStream
 #EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN RO [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=acestream://ebddf12767655e5d9a859bcfe3d7d78e91f72f10&name=AceStream
 #EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN BLACK [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=acestream://5d1cd83572135124cbcb324a449e1dabc21125b8&name=AceStream
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Acestream.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN(lipsa stream)
-
 plugin://program.plexus/?mode=1&url=acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] Axn White(lipsa stream)
-
 plugin://program.plexus/?mode=1&url=acestream://17fbffbd3c26f5d0320d841bf6ca44d49e8db760&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]CINEMAX [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=acestream://34b1402557fb7faab2979361c4e9650fa0948724&name=AceStream
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]CINEMAX 2 [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=acestream://cb5df1d65e01c6211380040ce6d844b120f1a0c3&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]FILMBOX PREMIUM[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://d010b0fc27a7d136e3fccf7fdf47ee8c853cf13c&name=AceStream
