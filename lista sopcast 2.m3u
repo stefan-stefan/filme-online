@@ -21,7 +21,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148086&name=AX
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO 2(stream 2) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=PRO 2
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO CINEMA(stream 2)[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148249&name=PRO CINEMA(stream 2)
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264999&name=PRO CINEMA(stream 2)
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_Pro_Gold_%282017%29.svg/1280px-Logo_Pro_Gold_%282017%29.svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO GOLD(stream 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=PRO GOLD
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO X(stream 2) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
