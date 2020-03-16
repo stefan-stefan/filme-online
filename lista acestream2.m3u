@@ -77,6 +77,12 @@ plugin://program.plexus/?mode=1&url=acestream://89122a1bb3fab471ce54ba405e28c2ef
 plugin://program.plexus/?mode=1&url=acestream://870153b27d2aaab38ab17272c5e96ec7fc6f3369&name=Digi Sport 1
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Digi Sport 2[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=1&url=acestream://4b5a0e1840787e0954cc32d7388d06726b580e53&name=Digi Sport 2
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Look Sport[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://8887852b7465078a0f3c3c4e8843fc230394ec6b&name=Look Sport
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Look Plus[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://fd4a0e91fbaf49acb8708b7f884a0ecb4c3effde&name=Look Plus
+
+
 
 
 
