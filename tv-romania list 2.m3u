@@ -26,6 +26,22 @@
 <fanart>https://pbs.twimg.com/profile_images/1024841002929070080/oGTSitAK.jpg</fanart>
 </dir>
 
+<item>
+    <title>[COLOR orange]....[B]INFO PESCAR LIVE....[/B][/COLOR]</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=4zSP3gTLK_I&feature=youtu.be</sublink>
+    </link>
+    <thumbnail>https://pbs.twimg.com/profile_images/446794815053631488/j3tEcNxe_400x400.png</thumbnail>
+    <fanart>https://pbs.twimg.com/profile_images/446794815053631488/j3tEcNxe_400x400.png</fanart>
+    <content>movie</content>
+    <meta>
+        <title>INFO PESCAR</title>
+        <year>2020</year>
+        <imdb>tt0424279</imdb>
+    </meta>
+</item>
+
+
 <dir>
 <title>[COLOR orange]..,,.[B]WORLD TV..,.[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/WORLDS%20TV.m3u</link>
