@@ -1,5 +1,8 @@
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]  LISTA-ACESTREAM-RO( Lansati Acestreamengine)  [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
+#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TVR 1 
+plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=TVR 1
+
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TVR 2 
 plugin://program.plexus/?mode=1&url=acestream://7e440032ae8662232739ebb4502eca12bfb2d534&name=TVR 2
 
