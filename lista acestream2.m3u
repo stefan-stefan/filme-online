@@ -55,3 +55,8 @@ plugin://program.plexus/?mode=1&url=acestream://895d6a92042671cc483346dfdd3917be
 plugin://program.plexus/?mode=1&url=acestream://bb814213a7aa8b4de31195daade2dd22258c637d&name=AceStream
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]HBO 3 RO[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=1&url=acestream://3301c21ee4802d8be5c0ae73f858b28988e1ae86&name=AceStream
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Discovery Channel[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://925a1331e53377c4e5db2812eaf6b7ed831dc89d&name=Discovery Channel
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Discovery Investigation[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://9709802e6428d681118026807c7f445410a6afd2&name=Discovery Investigation
+
