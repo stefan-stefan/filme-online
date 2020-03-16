@@ -2,12 +2,13 @@
 http://0.0.0.0:1234
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]  Lansati Acestreamengine   [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
+#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TVR 1 
+plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=TVR 1
+#EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Acestream.[/COLOR][COLOR red]# 1[/COLOR] TVR 2 
+plugin://program.plexus/?mode=1&url=acestream://7e440032ae8662232739ebb4502eca12bfb2d534&name=TVR 2
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=aacestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream
-
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO TV [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-
 plugin://program.plexus/?mode=1&url=acestream://f06645f552137d04a4e6a18f8cc654e2dfd312b1&name=AceStream
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRIMA TV [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 
