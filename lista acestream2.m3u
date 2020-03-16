@@ -65,4 +65,10 @@ plugin://program.plexus/?mode=1&url=acestream://c0ddde706358afafd809e3858b069132
 plugin://program.plexus/?mode=1&url=acestream://23a63de6bcde494d621a07f4fbebf774995b19a9&name=Nat Geo Wild
 #EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Discovery Science[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=1&url=acestream://8db30f7946f550cb9b32632fc6c02ce960f241ca&name=Discovery Science
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Viasat History[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://ba6727f955e541f7f83555bfc04e1c798a505941&name=Viasat History
+#EXTINF:-1 tvg-ID="HBO 3" tvg-name="RO: HBO 3" tvg-logo="https://iptvsensation.org/picons/hbo3.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]Telekom Sport 3[/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://program.plexus/?mode=1&url=acestream://cc4e1b96f65250a59a6bef1e9814bce6370a136a&name=Telekom Sport 3
+
+
 
