@@ -8,6 +8,8 @@ plugin://program.plexus/?mode=1&url=acestream://8823e5e058a8be9345b0da413ae0f877
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=TVR 1
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]TVR 2 [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://7e440032ae8662232739ebb4502eca12bfb2d534&name=TVR 2
+#EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]N24 Tv [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://8cd51b4fd1b8af31430dd65805dece06b291789f&name=N24 Tv
 #EXTINF:#1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea&name=AceStream
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]PRO TV [/COLOR][/B][B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
