@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:0,192TV
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01n
+#EXTINF:0,24 Kitchen
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02l
+#EXTINF:0,Canvas HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01r
+#EXTINF:0,Colmax
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/b01y
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02f
+#EXTINF:0,Crime+Investigation
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00k
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a003
+#EXTINF:0,Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00w
+#EXTINF:0,Dusk
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/b02p
+#EXTINF:0,Een HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01q
+#EXTINF:0,Enjoy TV HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a021
+#EXTINF:0,Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01f
+#EXTINF:0,Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01g
+#EXTINF:0,Family7
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00l
+#EXTINF:0,Fox
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01w
+#EXTINF:0,Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00x
+#EXTINF:0,Fox Sports 2
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00o
+#EXTINF:0,Fox Sports 3
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00p
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01t
+#EXTINF:0,Ketnet HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00i
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01j
+#EXTINF:0,Meiden van Holland
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a04x
+#EXTINF:0,NPO 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a011
+#EXTINF:0,NPO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a012
+#EXTINF:0,NPO 3 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a013
+#EXTINF:0,NashvilleTV
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00c
+#EXTINF:0,National Geo
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02g
+#EXTINF:0,Net5 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a024
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01c
+#EXTINF:0,Penthouse HD 1
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02z
+#EXTINF:0,Penthouse HD 2
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a03z
+#EXTINF:0,RTL 4 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a014
+#EXTINF:0,RTL 5 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a015
+#EXTINF:0,RTL 7 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a017
+#EXTINF:0,RTL 8 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a01a
+#EXTINF:0,RTL Z HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a026
+#EXTINF:0,SBS 6 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a016
+#EXTINF:0,SBS 9 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a027
+#EXTINF:0,SchlagerTV
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00b
+#EXTINF:0,Secret Circle
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/b01w
+#EXTINF:0,Spike 24
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/b01t
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a023
+#EXTINF:0,TV 538 HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a028
+#EXTINF:0,TV Oranje
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a00a
+#EXTINF:0,Test
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02t
+#EXTINF:0,Travel XP HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02s
+#EXTINF:0,Veronica / Disney XD HD
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a018
+#EXTINF:0,Xite
+#EXTVLCOPT:network-caching=1000
+http://185.133.36.70:8080/play/a02r
