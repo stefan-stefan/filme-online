@@ -14,7 +14,14 @@
 
 <item>
 <title>ANTENA 1(Acestream)</title>
-<link>http://127.0.0.1:6878/ace/getstream?id=a7fba54f70a78ecbe0b0b77eed20c09fb875a1ea</link>
+<link>http://127.0.0.1:6878/ace/getstream?id=<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://623687ccc7bf028bd61694053f54119425fab9c0(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin></link>
 <thumbnail>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</thumbnail>
 <fanart>https://static.playtech.ro/stiri/wp-content/uploads/2019/06/antena-1-1-840x500.jpg</fanart>
 </item>
@@ -195,6 +202,22 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</fanart>
 </item>
+
+<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://623687ccc7bf028bd61694053f54119425fab9c0(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
 
 
 
