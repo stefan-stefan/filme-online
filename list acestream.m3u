@@ -220,6 +220,22 @@
 </item>
 
 
+<plugin>
+<title>Plexus Test2</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://<plugin>
+<title>Plexus Test</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://623687ccc7bf028bd61694053f54119425fab9c0(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>(Acestream-Stream Name goes here)</sublink>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
 
 
 
