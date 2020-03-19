@@ -203,7 +203,7 @@
 <fanart>https://upload.wikimedia.org/wikipedia/commons/a/a6/AXN_Spin_-_Logo.jpg</fanart>
 </item>
 
-<plugin>
+<item>
 <title>Plexus Test</title>
 <link>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://<plugin>
@@ -217,7 +217,7 @@
 <animated_thumbnail></animated_thumbnail>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 
 
 
