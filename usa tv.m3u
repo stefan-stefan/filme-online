@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4281.jpg" tvg-id="actionmax.us" group-title="PREMIUM",Cinemax ActionMax
+http://hellboytv.ddns.net:25461/load/123456/4281.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4284.jpg" tvg-id="moremax.us" group-title="PREMIUM",Cinemax Moremax
+http://hellboytv.ddns.net:25461/load/123456/4284.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4285.jpg" tvg-id="moviemax.us" group-title="PREMIUM",Cinemax Moviemax
+http://hellboytv.ddns.net:25461/load/123456/4285.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4286.jpg" tvg-id="outermax.us" group-title="PREMIUM",Cinemax OuterMax
+http://hellboytv.ddns.net:25461/load/123456/4286.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4287.jpg" tvg-id="thrillermax.us" group-title="PREMIUM",Cinemax ThrillerMax
+http://hellboytv.ddns.net:25461/load/123456/4287.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4288.png" tvg-id="epix.us" group-title="PREMIUM",Epix
+http://hellboytv.ddns.net:25461/load/123456/4288.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4290.jpg" tvg-id="epix2.us" group-title="PREMIUM",Epix 2
+http://hellboytv.ddns.net:25461/load/123456/4290.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4292.jpg" tvg-id="epixhits.us" group-title="PREMIUM",Epix Hits
+http://hellboytv.ddns.net:25461/load/123456/4292.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4294.png" tvg-id="hbo.us" group-title="PREMIUM",HBO
+http://hellboytv.ddns.net:25461/load/123456/4294.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4296.jpg" tvg-id="hbocomedy.us" group-title="PREMIUM",HBO Comedy
+http://hellboytv.ddns.net:25461/load/123456/4296.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4297.png" tvg-id="hbofamily.us" group-title="PREMIUM",HBO Family
+http://hellboytv.ddns.net:25461/load/123456/4297.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4298.png" tvg-id="hbozone.us" group-title="PREMIUM",HBO Zone
+http://hellboytv.ddns.net:25461/load/123456/4298.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4299.png" tvg-id="hdnetmovies.us" group-title="PREMIUM",HD Net Movies
+http://hellboytv.ddns.net:25461/load/123456/4299.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4300.png" tvg-id="indieplex.us" group-title="PREMIUM",Indieplex
+http://hellboytv.ddns.net:25461/load/123456/4300.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4301.png" tvg-id="mgm.us" group-title="PREMIUM",MGM
+http://hellboytv.ddns.net:25461/load/123456/4301.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4302.png" tvg-id="movieplex.us" group-title="PREMIUM",Movieplex
+http://hellboytv.ddns.net:25461/load/123456/4302.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4303.png" tvg-id="retroplex.us" group-title="PREMIUM",Retroplex
+http://hellboytv.ddns.net:25461/load/123456/4303.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4304.png" tvg-id="showtime.us" group-title="PREMIUM",Showtime
+http://hellboytv.ddns.net:25461/load/123456/4304.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4306.png" tvg-id="showtime2.us" group-title="PREMIUM",Showtime 2
+http://hellboytv.ddns.net:25461/load/123456/4306.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4307.png" tvg-id="showtimebeyond.us" group-title="PREMIUM",Showtime Beyond
+http://hellboytv.ddns.net:25461/load/123456/4307.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4308.png" tvg-id="showtimeextreme.us" group-title="PREMIUM",Showtime Extreme
+http://hellboytv.ddns.net:25461/load/123456/4308.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4309.png" tvg-id="rshowtimefamilyzone.us" group-title="PREMIUM",Showtime Family Zone
+http://hellboytv.ddns.net:25461/load/123456/4309.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4310.png" tvg-id="showtimenext.us" group-title="PREMIUM",Showtime Next
+http://hellboytv.ddns.net:25461/load/123456/4310.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4311.png" tvg-id="showtimeshowcase.us" group-title="PREMIUM",Showtime Showcase
+http://hellboytv.ddns.net:25461/load/123456/4311.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4312.png" tvg-id="showtimewomen.us" group-title="PREMIUM",Showtime Women
+http://hellboytv.ddns.net:25461/load/123456/4312.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4313.jpg" tvg-id="starz.us" group-title="PREMIUM",Starz
+http://hellboytv.ddns.net:25461/load/123456/4313.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4314.jpg" tvg-id="starzcinema.us" group-title="PREMIUM",Starz Cinema
+http://hellboytv.ddns.net:25461/load/123456/4314.mpegts
+#EXTINF:-1 tvg-logo="http://hellboytv.ddns.net:25461/logos/s4
