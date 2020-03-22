@@ -1,18 +1,3 @@
-<item>
-    <title>[COLOR yellow]....[B]Măsuri de prevenire a contaminării cu Coronavirus (COVID 2019)....[/B][/COLOR]</title>
-    <link>
-        <sublink>https://www.youtube.com/watch?v=cYCYXBujLHs</sublink>
-    </link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Schema_unui_coronavirus.png/650px-Schema_unui_coronavirus.png</thumbnail>
-    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Schema_unui_coronavirus.png/650px-Schema_unui_coronavirus.png</fanart>
-    <content>movie</content>
-    <meta>
-        <title>COVID</title>
-        <year>2020</year>
-        <imdb>tt0424279</imdb>
-    </meta>
-</item>
-
 <dir>
     <title>[COLOR orange][B]FILME ONLINE[/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/filme%20online%20test.m3u</link>
