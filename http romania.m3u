@@ -29,10 +29,10 @@
 </plugin>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA HTTP TEST 3 [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 3 [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%203.m3u</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
+<thumbnail>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</thumbnail>
+<fanart>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</fanart>
 </plugin>
 
 <plugin>
