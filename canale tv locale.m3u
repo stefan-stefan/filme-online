@@ -5,6 +5,11 @@
 <fanart>https://i.ytimg.com/vi/vbCOhFPZ3yo/maxresdefault_live.jpg</fanart>
 </item>
  
-
+<item>
+<title>Live - Press TV</title>
+<link>http://cast.independentmedia.network:9090/seconds6hls/live.m3u8</link>
+<thumbnail>https://independentmedia.network/lptv/placeholder.jpg</thumbnail>
+<fanart>https://independentmedia.network/lptv/placeholder.jpg</fanart>
+</item>
 
 
