@@ -1,9 +1,10 @@
- <dir>
-    <title>[COLOR orange][B]Search Trakt (TEST)[/B][/COLOR]</title>
-    <trakt>search</trakt>
-<thumbnail>https://bestdroidplayer.com/wp-content/uploads/2019/06/trakt-what-is-how-use-on-kodi.png</thumbnail>
-<fanart>https://bestdroidplayer.com/wp-content/uploads/2019/06/trakt-what-is-how-use-on-kodi.png</fanart>
-  </dir>
+  <dir>
+<title>***Titan Movies***</title>
+<link>http://magnetic.website/Mad%20Titan/titan%20movies.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/movies%20%20fanart.jpg</fanart>
+<summary>movies</summary>
+</dir>
 
   
   <dir>
