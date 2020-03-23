@@ -15,6 +15,14 @@
 </dir>
 
 <dir>
+    <title>[COLOR orange][B]FILME DE COLECTIE[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/teste%20pluginurii%20allin%20one.m3u</link>
+    <fanart>https://i0.wp.com/www.criticreviewer.com/wp-content/uploads/2017/08/Movie-background.jpg</fanart>
+    <thumbnail>https://i0.wp.com/www.criticreviewer.com/wp-content/uploads/2017/08/Movie-background.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
     <title>[COLOR orange][B]*****SERIALE TV*****[/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/seriale%20tv2.m3u</link>
     <fanart>https://kinosztukwalki.pl/wp-content/uploads/2018/07/serialetv.png</fanart>
