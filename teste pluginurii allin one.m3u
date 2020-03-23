@@ -24,20 +24,9 @@
     <thumbnail>https://digitalmediawire.com/wp-content/uploads/2016/04/music.jpg</thumbnail>
 </dir>
  
-<dir>
-    <title>[COLORblue]• [/COLOR][COLORlightgrey]A[/COLOR][COLORlightgrey]mbient[/COLOR]</title>
-    <link>http://elekta.info/enigma2/ambient.xml</link>
-    <thumbnail>https://i.ytimg.com/vi/oQSYxvpJYes/maxresdefault.jpg</thumbnail>
-</dir>
+
  
-<plugin>
-    <title>[COLORblue]• [/COLOR][COLORblue]Settings[/COLOR]</title>
-    <meta>
-        <summary>Open the Settings for this addon.</summary>
-    </meta>
-    <mysettings>0/0</mysettings>
-    <thumbnail>https://svn.exotica.org.uk:8443/xbmc4xbox/tags/3.5.3/skin/Confluence/backgrounds/settings.jpg</thumbnail>
-</plugin>
+
  
  
 
