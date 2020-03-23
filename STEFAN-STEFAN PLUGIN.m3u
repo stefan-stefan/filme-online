@@ -1,10 +1,19 @@
-<dir>
+ <dir>
+    <title>[COLOR orange][B]Search Trakt (TEST)[/B][/COLOR]</title>
+    <trakt>search</trakt>
+<thumbnail>https://bestdroidplayer.com/wp-content/uploads/2019/06/trakt-what-is-how-use-on-kodi.png</thumbnail>
+<fanart>https://bestdroidplayer.com/wp-content/uploads/2019/06/trakt-what-is-how-use-on-kodi.png</fanart>
+  </dir>
+
+  
+  <dir>
     <title>[COLOR orange][B]FILME ONLINE[/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/filme%20online%20test.m3u</link>
     <fanart>https://pngimage.net/wp-content/uploads/2018/06/filmes-online-png-8.png</fanart>
     <thumbnail>https://pngimage.net/wp-content/uploads/2018/06/filmes-online-png-8.png</thumbnail>
     <summary>Universo Marvel</summary>
 </dir>
+
 
 <dir>
     <title>[COLOR orange][B]FILME SUBTITRATE RO[/B][/COLOR]</title>
