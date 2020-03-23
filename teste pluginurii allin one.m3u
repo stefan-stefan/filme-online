@@ -1,0 +1,328 @@
+<dir>
+      <title>****************[COLOR=gold]Boss Movies[/COLOR]*****************</title>
+   
+      <link></link>
+         
+      <thumbnail></thumbnail>
+         
+         
+      <fanart></fanart>
+       
+      <summary></summary>
+ 
+</dir>
+ 
+<dir>
+      <title>____________________________________________</title>
+   
+      <link></link>
+         
+      <thumbnail></thumbnail>
+         
+         
+      <fanart></fanart>
+       
+      <summary></summary>
+ 
+</dir>
+ 
+<dir>
+      <title>****************Movies Trailers*****************</title>
+   
+      <link>https://pastebin.com/raw/ByjtJaif</link>
+         
+      <thumbnail></thumbnail>
+         
+         
+      <fanart></fanart>
+       
+      <summary>Watch the latest trailers</summary>
+ 
+</dir>
+ 
+<dir>
+      <title>____________________________________________</title>
+   
+      <link></link>
+         
+      <thumbnail></thumbnail>
+         
+         
+      <fanart></fanart>
+       
+      <summary></summary>
+ 
+</dir>
+ 
+ 
+ 
+<dir>
+  <title>[COLOR=gold]**The Most Anticipated**[/COLOR]</title>
+  <trakt>https://api.trakt.tv/movies/anticipated</trakt>
+      <thumbnail></thumbnail>
+      <fanart></fanart>
+      <summary>The most anticipated movies based on the number of lists a movie appears on.</summary>
+</dir>
+ 
+ 
+<dir>
+    <title>[COLOR=gold]Coming Attractions[/COLOR]</title>
+    <tmdb>year/movies/2018</tmdb>
+       <summary>Coming Attractions Movies Set to Release</summary>
+</dir>
+ 
+ 
+<dir>
+        <title>[COLOR=gold]Popular[/COLOR]</title>
+ 
+        <tmdb>movies/popular</tmdb>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail></thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart></fanart>
+       
+        <summary>TMDB Most Popular Movies</summary>
+ 
+</dir>
+ 
+ 
+<dir>
+        <title>[COLOR=gold]Top Rated[/COLOR]</title>
+ 
+        <tmdb>movies/top_rated</tmdb>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail></thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart></fanart>
+       
+        <summary>Top Rated Movies</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]Upcoming[/COLOR]</title>
+ 
+        <tmdb>movie/upcoming</tmdb>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail></thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart></fanart>
+       
+        <summary>Shows Trailers For Upcoming Movies</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]In Theaters[/COLOR]</title>
+ 
+        <tmdb>movies/now_playing</tmdb>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail></thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart></fanart>
+       
+        <summary>Movies Playing In Theaters</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]Collections[/COLOR]</title>
+ 
+        <link>file://movie/moviescollections.xml</link>
+         
+         
+        <thumbnail>https://www.cyberlink.com/stat/product-tutorial/enu/powerdvd/8/img/moviecollect.jpg</thumbnail>
+         
+         
+        <fanart>http://www.24hourmoviemarathon.com/wp-content/uploads/2014/11/imdb_top_250.jpg</fanart>
+       
+        <summary>Movies Collections</summary>
+ 
+</dir>
+ 
+<dir>
+        <name>[COLOR=gold]Streets Is Watchin[/COLOR]</name>
+ 
+        <link>file://formats/SIWdir.xml</link>
+         
+         
+        <thumbnail>http://www.mixtapetorrent.com/system/files/streetsiswatchingswishahouse.jpg</thumbnail>
+         
+         
+        <fanart>https://res.cloudinary.com/hhberclba/image/upload/v1451979921/hiktjcynr4znijq3qqkn.jpg</fanart>
+       
+        <summary>TrapFlix & Chill</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]The Marvel Universe[/COLOR]</title>
+ 
+       
+         <link>file://formats/The Marvel Universe.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail>http://girlsreadcomics.com/wp-content/uploads/2014/10/marvelstudios-afthotwtth-what-does-the-special-imax-3d-preview-tell-us-about-guardians-of-the-galaxy-will-marvel-studios-ever-make-a-namor.png</thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart>http://monodomo.com/free-wallpapers/marvel-universe-wallpaper-desktop-For-Free-Wallpaper.jpg</fanart>
+       
+        <summary>The Marvel Universe</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]The DC Comics Universe[/COLOR]</title>
+ 
+ 
+<link>file://formats/The DC Comics Universe.xml</link>
+ 
+        <tmdblist/3</tmdb>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail>http://ifanboy.com/wp-content/uploads/2012/01/New-DC-Logo_Blue.jpg</thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart>http://ifanboy.com/wp-content/uploads/2012/01/New-DC-Logo_Blue.jpg</fanart>
+       
+        <summary>The DC Comics Universe</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=red]Net[COLOR=black]Flix [COLOR=gold]Originals[/COLOR]</title>
+ 
+       
+        <tmdb>network/shows/213</tmdb>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail>http://orig14.deviantart.net/616f/f/2015/120/2/6/netflix_folder_icon_by_mikromike-d8rlcey.png</thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart>https://cdn.makeuseof.com/wp-content/uploads/2016/02/netflix-tools-670x335.jpg</fanart>
+       
+        <summary>Netflix Originals</summary>
+ 
+</dir>
+ 
+ 
+<dir>
+        <title>[COLOR=gold]Production[/COLOR]</title>
+ 
+        <link>file://shared lists/moviecompany.xml</link>
+         
+         
+        <thumbnail></thumbnail>
+         
+         
+        <fanart></fanart>
+       
+        <summary></summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]Genre[/COLOR]</title>
+ 
+        <link>file://shared lists/genre.xml</link>
+         
+         
+        <thumbnail></thumbnail>
+         
+         
+        <fanart>http://p.motionelements.com/stock-video/arts/me1654173-movie-genres-related-words-background-loop-hd-a0005.jpg</fanart>
+       
+        <summary>Movies Genre</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]Actors and Actresses[/COLOR]</title>
+ 
+        <link>file://shared lists/actors.xml</link>
+         
+         
+        <thumbnail>http://cdn.cnn.com/cnnnext/dam/assets/170517215122-obamas-people-magazine-moos-pkg-erin-00000729-jpg.jpg</thumbnail>
+         
+         
+        <fanart>http://cdn.cnn.com/cnnnext/dam/assets/170517215122-obamas-people-magazine-moos-pkg-erin-00000729-jpg.jpg</fanart>
+       
+        <summary>Movies By Actors</summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]Year[/COLOR]</title>
+ 
+        <link>file://shared lists/years.xml</link>
+         
+         
+        <thumbnail></thumbnail>
+         
+         
+        <fanart></fanart>
+       
+        <summary>Movies By Year</summary>
+ 
+</dir>
+ 
+ 
+<dir>
+        <title>[COLOR=gold]Boss Showcase[/COLOR]</title>
+ 
+        <link>file://bossshowcase/showcase.xml</link>
+         
+        <animated_thumbnail></animated_thumbnail>
+         
+        <thumbnail></thumbnail>
+         
+        <animated_fanart></animated_fanart>
+         
+        <fanart></fanart>
+       
+        <summary></summary>
+ 
+</dir>
+ 
+<dir>
+        <title>[COLOR=gold]Boss Keys[/COLOR]</title>
+ 
+        <link>file://shared lists/keywords.xml</link>
+         
+         
+        <thumbnail></thumbnail>
+         
+         
+        <fanart></fanart>
+       
+        <summary>movie i will Add based on TMDB keywords</summary>
+ 
+</dir>
+ 
+  <dir>
+    <title>Search</title>
+    <link>file://shared lists/search.xml</link>
+    <thumbnail></thumbnail>
+    <summary>Search</summary>
+  </dir>
