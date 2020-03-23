@@ -34,6 +34,20 @@
 <thumbnail>https://static4.libertatea.ro/wp-content/uploads/2019/07/entertainment-muzica-si-filme.jpg</thumbnail>
 <fanart>https://static4.libertatea.ro/wp-content/uploads/2019/07/entertainment-muzica-si-filme.jpg</fanart>
     <summary>Universo Marvel</summary>
+</dir> <dir>
+<title>***Titan Movies***</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/*Welcome%20To%20The%20Mad%20Titan.m3u</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/movies%20%20fanart.jpg</fanart>
+<summary>movies</summary>
+</dir>
+
+  <dir>
+<title>***EzzerMac***</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/EzzerMac.m3u</link>
+<thumbnail>https://www.kindpng.com/picc/m/247-2470317_ezzermac-wizard-emblem-hd-png-download.png</thumbnail>
+<fanart>https://www.kindpng.com/picc/m/247-2470317_ezzermac-wizard-emblem-hd-png-download.png</fanart>
+<summary>movies</summary>
 </dir>
 
 
