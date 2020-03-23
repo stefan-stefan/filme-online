@@ -56,17 +56,4 @@
 </plugin>
  
  
-<plugin>
-    <name>[COLORblue]• [/COLOR][COLORblue]Pair[/COLOR][COLORlightgrey] / [/COLOR][COLORblue]Authorize[/COLOR]</name>
-    <link>plugin://script.EleKtaPair/?action=RunAddon</link>
-    <thumbnail>special://home/addons/plugin.video.enigma/images/pair2c.png</thumbnail>
-    <summary>Pair your device with sites such as Openload, plus Authorize Real Debrid/Trakt.</summary>
-</plugin>
- 
- 
- 
-<dir>
-    <title>[COLOR blue]• [/COLOR][COLORcyan]Search ›[/COLOR]</title>
-    <tmdb>search</tmdb>
-    <thumbnail>special://home/addons/plugin.video.enigma/images/searchuse.gif</thumbnail>
-</dir>
+
