@@ -9,30 +9,14 @@
     <link>http://elekta.info/enigma2/shows.xml</link>
     <thumbnail>https://userscontent2.emaze.com/images/cb5a2f2e-4bf0-4a8d-8fcb-cbb4c23c178a/4c2e5a0a-11de-45ed-a713-cf2667c3bae6.png</thumbnail>
 </dir>
- 
-<dir>
-    <title>[COLORblue]• [/COLOR][COLORlightgrey]Doc[/COLOR][COLORlightgrey]um[COLORlightgrey]ent[/COLOR]ar[COLORlightgrey]ies[/COLOR]</title>
-    <link>file://docs/docs.xml</link>
-    <thumbnail>https://ceicunoi.files.wordpress.com/2014/01/camera-de-filmat-colectie-lista-documentare-educative-video-filme-filmulete-imagini-interesante-importante-relevante-pentru-lumea-in-care-traim-adevarul-realitatea-dura-grava-din-jur-soc.png</thumbnail>
-</dir>
- 
-<dir>
-    <title>[COLORblue]• [/COLOR][COLORlightgrey]T[/COLOR][COLORlightgrey]oons[/COLOR] [COLORblue]/[/COLOR] [COLORlightgrey]A[/COLOR][COLORlightgrey]nime[/COLOR]</title>
-    <link>http://elekta.info/enigma2/toons.xml</link>
-    <thumbnail>https://i.pinimg.com/originals/a9/10/0d/a9100d8278ba8fa1eb46e513dcb2e0c5.png</thumbnail>
-</dir>
- 
+  
 <dir>
     <title>[COLORblue]• [/COLOR][COLORlightgrey]Co[/COLOR][COLORlightgrey]medy[/COLOR]</title>
     <link>http://elekta.info/enigma2/comedy.xml</link>
     <thumbnail>https://i.dlpng.com/static/png/5397276-joke-stand-up-comedy-television-humour-funny-logo-png-download-comedy-png-900_420_preview.png</thumbnail>
 </dir>
  
-<dir>
-    <title>[COLORblue]• [/COLOR][COLORlightgrey]Cl[/COLOR][COLORlightgrey]assics[/COLOR]</title>
-    <link>http://elekta.info/enigma2/classic.xml</link>
-    <thumbnail>https://img.pngio.com/classic-globe-pharma-group-of-companies-classic-png-576_345.png</thumbnail>
-</dir>
+
  
 <dir>
     <title>[COLORblue]• [/COLOR][COLORlightgrey]M[/COLOR][COLORlightgrey]usic[/COLOR]</title>
