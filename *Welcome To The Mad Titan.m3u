@@ -62,37 +62,6 @@
 <fanart>https://cdnb.artstation.com/p/assets/images/images/007/218/475/large/svein-yngve-sandvik-antonsen-thanos-sveiny1.jpg?1504550732</fanart>
 </dir>
  
-<dir>
-<title>*********************Community Addons*********************</title>
-<link></link>
-<fanart></fanart>
-</dir>
- 
- 
-<dir>
-  <title>[COLORwhite]***Ghost***[/COLOR]</title>
-  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
-  <thumbnail>http://www.ezzer-mac.com/frank/artghost/icon.png</thumbnail>
-  <fanart>http://www.ezzer-mac.com/frank/artghost/fanart.jpg</fanart>
-  <summary>Ghost Addon</summary>
-  </dir>
- 
-  <dir>
-  <title>[COLORwhite]***Chain Reaction***[/COLOR]</title>
-  <link>https://pastebin.com/raw/siAAPMdk</link>
-  <thumbnail>http://www.ezzer-mac.com/frank/artghost/steveicon.png</thumbnail>
-  <fanart>http://www.ezzer-mac.com/frank/artghost/stevefanart.jpg</fanart>
-  <summary>Chain Reaction Addon</summary>
-  </dir>
- 
-<dir>
-<title>*********************Community Addons*********************</title>
-<link></link>
-<fanart></fanart>
-</dir>
- 
-   
- 
 <item>
 <title>[COLOR white][B]***Authorize Trakt***[/B][/COLOR]</title>
 <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
