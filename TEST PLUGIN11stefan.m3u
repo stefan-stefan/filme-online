@@ -44,6 +44,14 @@
 </item>
 
 <dir>
+    <title>[COLOR orange][B]PLAY Real-Debrid[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/Real-Debrid%20plugin.m3u</link>
+    <fanart>https://troypoint.com/wp-content/uploads/2020/02/real-debrid-exclusively-movies-kodi.png</fanart>
+    <thumbnail>https://smartandsimpletech.com/wp-content/uploads/2019/06/real-debrid.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
   <title>[COLOR blue][B]»»»»»PLAY Ghost[/COLOR] [COLOR blue]Addon»»»»»[/B][/COLOR]</title>
   <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
   <thumbnail>https://www.yourkodi.com/wp-content/uploads/2019/01/ghost-kodi.png</thumbnail>
