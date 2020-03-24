@@ -44,11 +44,19 @@
 </item>
 
 <dir>
-  <title>[COLOR blue][B]»»»»»PLAY Ghost[/COLOR] [COLOR blue]Addon»»»»»[/B][/COLOR][/COLOR]</title>
+  <title>[COLOR blue][B]»»»»»PLAY Ghost[/COLOR] [COLOR blue]Addon»»»»»[/B][/COLOR]</title>
   <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
   <thumbnail>https://www.yourkodi.com/wp-content/uploads/2019/01/ghost-kodi.png</thumbnail>
   <fanart>https://www.yourkodi.com/wp-content/uploads/2019/01/ghost-kodi.png</fanart>
   <summary>Ghost Addon</summary>
+  </dir>
+  Chain Reaction
+  <dir>
+  <title>[COLOR blue][B]»»»»»PLAY Chain Reaction[/COLOR] [COLOR blue]Addon»»»»»[/B][/COLOR]</title>
+  <link>https://pastebin.com/raw/siAAPMdk</link>
+  <thumbnail>https://kodidroid.com/wp-content/uploads/2019/12/Chain-Reaction-Kodi-Addon-Repo-700x394.jpg</thumbnail>
+  <fanart>https://kodidroid.com/wp-content/uploads/2019/12/Chain-Reaction-Kodi-Addon-Repo-700x394.jpg</fanart>
+  <summary>Chain Reaction Addon</summary>
   </dir>
 
 <dir>
