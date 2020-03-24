@@ -15,13 +15,6 @@
 </plugin>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]RCS-RDS [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
-<thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
-<fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
-</plugin>
-
-<plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 1[/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20de%20testarii1104.M3U</link>
 <thumbnail>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</thumbnail>
@@ -29,10 +22,17 @@
 </plugin>
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 3 [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 2 [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%203.m3u</link>
 <thumbnail>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</thumbnail>
 <fanart>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_960_720.png</fanart>
+</plugin>
+
+<plugin>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]RCS-RDS [/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
+<thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
+<fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
 </plugin>
 
 <plugin>
@@ -42,13 +42,6 @@
 <fanart>https://www.latest-kodi.com/wp-content/uploads/2019/02/1549507774_hqdefault.jpg</fanart>
 </plugin>
 
-<dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA SOPCAST ROMANIA[COLOR FFff8000][B](Necesita P2PTV)[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast%20prin%20plexus.m3u</link>
-<thumbnail>https://i.ytimg.com/vi/Dm7cFjhzgHo/hqdefault.jpg</thumbnail>
-<fanart>https://subiectiv.com/wp-content/uploads/2017/04/icon.png</fanart>
-</dir>
-
 <plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR darkorange]LISTA ACESTREAM ROMANIA[COLOR yellow][B](Necesita Plexus&Acestream)[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20acestream2.m3u</link>
@@ -57,12 +50,6 @@
 </plugin>
 
 
-<dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue].... [COLOR darkorange]LISTA ACESTREAM ROMANIA[COLOR yellow][B](Necesita Acestream)[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20baza%20acestram.m3u</link>
-<thumbnail>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</thumbnail>
-<fanart>https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream.jpg</fanart>
-</dir>
 
 
 
