@@ -48,34 +48,8 @@
 <summary>Music</summary>
 </dir>
  
-<dir>
-<title>***Titan Docs***</title>
-<link>https://magnetic.website/Mad%20Titan/docs.xml</link>
-<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/docs.png</thumbnail>
-<fanart>https://magnetic.website/menu%20icons/docs%20fanart.jpg</fanart>
-</dir>
+
  
-<item>
-<title>[COLOR white][B]***Authorize Trakt***[/B][/COLOR]</title>
-<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/trakt.png</thumbnail>
-<summary>Authorize Trakt</summary>
-</item>
- 
-<plugin>
-<name>[COLOR white][B]***AUTHORIZE REAL DEBRID*** [COLOR white][B](RESOLVE-URL)[/B][/COLOR]</name>
-<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
-<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/RD%20RESOLVER%20URL.png</thumbnail>
-<fanart></fanart>
-<summary>AUTHORIZE REAL DEBRID (RESOLVE-URL)</summary>
-</plugin>
- 
-<plugin>
-<name>[COLOR white][B]***AUTHORIZE REAL DEBRID*** [COLOR white][B](URLRESOLVER)[/B][/COLOR]</name>
-<link>plugin://script.module.urlresolver/?mode=auth_rd</link>
-<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/rd%20URL%20RESOLVER.png</thumbnail>
-<fanart></fanart>
-<summary>AUTHORIZE REAL DEBRID (URLRESOLVER)</summary>
-</plugin>
+
  
 
