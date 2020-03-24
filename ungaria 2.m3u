@@ -1,5 +1,18 @@
 #EXTM3U
 # EXTM3U x-tvg-url = "http://epg.streamstv.me/epg/guide-hungry.xml.gz"
+#EXTINF:0 ,HBO 2 HU/RO
+http://193.33.39.108:8107/30705
+#EXTINF:0 ,CINEMAX HU/RO
+http://193.33.39.108:8107/30709
+#EXTINF:0 ,CINEMAX 2 HU/RO
+http://193.33.39.108:8115/30914
+#EXTINF:0 ,FILMBOX HU/RO
+http://193.33.39.108:8101/1011
+#EXTINF:0 ,FILMBOX FAMILY HU/RO
+http://193.33.39.108:8102/30201
+#EXTINF:0 ,FILMBOX PLUS HU/RO
+http://193.33.39.108:8102/30217
+
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "" tvg-logo = "" group-title = "", 1Music Channel Ungaria
 http://1music.hu/1music.m3u8
 #EXTINF: -1 tvg-id = "" tvg-name = "" tvg-language = "Maghiară" tvg-logo = "https://i.imgur.com/xyG4O6F.jpg" group-title = "", Balaton TV
