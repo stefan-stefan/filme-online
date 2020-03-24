@@ -1,0 +1,11 @@
+<dir>
+        <title>IMDB Action TV Shows</title>
+        <imdburl>genres/action</imdburl>
+        <thumbnail>http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikE0-7qW7W8sOU_VWa8WbInaqxLTYmmloXA4FUITT7WSRuMZgIQ</thumbnail>
+</dir>
+ 
+<dir>
+        <title>IMDB crime TV Shows</title>
+        <imdburl>genres/crime</imdburl>
+        <thumbnail>http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-40/512/True-Crime-Streets-of-LA-1-icon.png</thumbnail>
+</dir>
