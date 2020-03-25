@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF: 0 tvg-logo="https://www.latest-kodi.com/wp-content/uploads/2019/02/1549507774_hqdefault.jpg",[COLORred][B][I]SOPCAST(Necesita Plexus) [/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://www.latest-kodi.com/wp-content/uploads/2019/02/1549507774_hqdefault.jpg",[COLORblue][B][I]SOPCAST(Necesita Plexus) [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:#1 tvg-logo="https://i.ytimg.com/vi/BXanbvzxkGg/hqdefault.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 1(sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390&name=TVR 1
