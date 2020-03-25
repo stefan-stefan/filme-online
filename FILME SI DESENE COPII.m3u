@@ -1,0 +1,12 @@
+<dir>
+	<name>[COLOR blue [/COLOR] [COLOR white][B]Family[/B][/COLOR]</name>
+	<link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/kids_family/main_family.xml</link>
+	<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+	<fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
+<dir>
+	<name>[COLOR blue] [/COLOR] [COLOR white][B]Animated[/B][/COLOR]</name>
+	<link>https://bitbucket.org/team-crew/xmls/raw/master/kids/kids_movies/kids_animated/main_animated.xml</link>
+	<thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/main_greyhat.png</thumbnail>
+	<fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+</dir>
