@@ -67,7 +67,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=HB
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=HBO 3
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Look_Plus.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Look Plus (sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265677&name=Look Plus
-#EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TELEKOM SPORT 2(sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+#EXTINF:#1  tvg-logo="https://www.incomod.info/wp-content/uploads/2019/08/Telekom-Sport-2-Online-Live-GRATUIT-pe-Android-iPhone-sau-Smart-TV.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TELEKOM SPORT 2(sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264986&name=TELEKOM SPORT 2  
 
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Look Sport  (sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
