@@ -13,17 +13,17 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57064
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57065
 #EXTINF:-1 tvg-ID="" tvg-name="RO: ROMANIA TV" tvg-logo="" group-title="EU ROMANIA",RO: ROMANIA TV
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57066
-#EXTINF:-1 tvg-ID="" tvg-name="RO: ANTENA 1" tvg-logo="" group-title="EU ROMANIA",RO: ANTENA 1
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57067
-#EXTINF:-1 tvg-ID="" tvg-name="RO: ANTENA 1 HD" tvg-logo="" group-title="EU ROMANIA",RO: ANTENA 1 HD
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57068
-#EXTINF:-1 tvg-ID="" tvg-name="RO: ANTENA 3" tvg-logo="" group-title="EU ROMANIA",RO: ANTENA 3
+#EXTINF:#1  tvg-logo="https://img.favpng.com/11/2/20/antena-3-television-antena-1-broadcasting-dvb-s-png-favpng-3pK1rj6dFpAQRUQdvhMTL3fHR.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 3 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57069
 #EXTINF:-1 tvg-ID="" tvg-name="RO: ANTENA STARS" tvg-logo="" group-title="EU ROMANIA",RO: ANTENA STARS
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57070
-#EXTINF:-1 tvg-ID="" tvg-name="RO: PRO TV HD" tvg-logo="" group-title="EU ROMANIA",RO: PRO TV HD
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57071
-#EXTINF:-1 tvg-ID="" tvg-name="RO: PRO TV" tvg-logo="" group-title="EU ROMANIA",RO: PRO TV
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57072
 #EXTINF:-1 tvg-ID="" tvg-name="RO: PRO X" tvg-logo="" group-title="EU ROMANIA",RO: PRO X
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57073
