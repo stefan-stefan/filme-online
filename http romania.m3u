@@ -1,14 +1,14 @@
 
 
 <dir>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA HTTP STEFAN [/COLOR][/B]</title>
+<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA HTTP (Stefan 1) [/COLOR][/B]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20baza.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </dir>
 
 <plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST[/COLOR][/B]</title>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA HTTP (Stefan 2) [/COLOR][/B]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/http.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
