@@ -3,7 +3,7 @@
 http://89.136.209.26:1935/l
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: ROMANIA =====" tvg-logo="" group-title="EU ROMANIA",===== RO: ROMANIA =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
-#EXTINF:-1 tvg-ID="" tvg-name="RO: TVR 1" tvg-logo="" group-title="EU ROMANIA",RO: TVR 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 1
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57062
 #EXTINF:-1 tvg-ID="" tvg-name="RO: TVR 2" tvg-logo="" group-title="EU ROMANIA",RO: TVR 2
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57063
