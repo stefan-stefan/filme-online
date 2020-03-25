@@ -9,7 +9,7 @@
 
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST[/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/http%20iptv.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/iptv.m3u</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png</fanart>
 </plugin>
