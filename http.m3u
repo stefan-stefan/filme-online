@@ -17,16 +17,16 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57064
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57066
 #EXTINF:#1  tvg-logo="https://www.b1.ro/thumbs/landscape_big/2016/11/07/oferta-de-publicitate-electorala-b1-tv-208510.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]B1 TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57081
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="RO: NATIONAL TV" tvg-logo="" group-title="EU ROMANIA",RO: NATIONAL TV
+#EXTINF:#1  tvg-logo="https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57097
-#EXTINF:-1 tvg-ID="" tvg-name="RO: PRIMA TV RO" tvg-logo="" group-title="EU ROMANIA",RO: PRIMA TV RO
+#EXTINF:#1  tvg-logo="https://4.bp.blogspot.com/-lzQmCA3cFHg/VNHstSIUgzI/AAAAAAAAL6g/ZSlbwmVR4wY/s320/prima%2Btv.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRIMA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57098
-#EXTINF:-1 tvg-ID="" tvg-name="RO: REALITATEA TV" tvg-logo="" group-title="EU ROMANIA",RO: REALITATEA TV
+#EXTINF:#1  tvg-logo="https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]REALITATEA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57099
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: NATIONAL 24" tvg-logo="" group-title="EU ROMANIA",RO: NATIONAL 24
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57103
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: KANAL D" tvg-logo="" group-title="EU ROMANIA",RO: KANAL D
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57093
 
