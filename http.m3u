@@ -43,17 +43,12 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57078
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57079
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AXN BLACK RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57080
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="RO: DTX" tvg-logo="" group-title="EU ROMANIA",RO: DTX
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57082
-#EXTINF:-1 tvg-ID="" tvg-name="RO: FAVORIT TV" tvg-logo="" group-title="EU ROMANIA",RO: FAVORIT TV
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57083
-#EXTINF:-1 tvg-ID="" tvg-name="RO: HAPPY CHANNEL" tvg-logo="" group-title="EU ROMANIA",RO: HAPPY CHANNEL
+#EXTINF:#1  tvg-logo="https://tvmania.ro/wp-content/uploads/2020/02/happy-channel-1280x720.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HAPPY CHANNEL [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57084
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: HBO Romania" tvg-logo="" group-title="EU ROMANIA",RO: HBO Romania
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: HBO HD RO" tvg-logo="" group-title="EU ROMANIA",RO: HBO HD RO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57086
 #EXTINF:-1 tvg-ID="" tvg-name="RO: HBO2" tvg-logo="" group-title="EU ROMANIA",RO: HBO2
@@ -110,6 +105,8 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57111
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57112
 #EXTINF:-1 tvg-ID="" tvg-name="RO: U TV" tvg-logo="" group-title="EU ROMANIA",RO: U TV
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57113
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FAVORIT TV" tvg-logo="" group-title="EU ROMANIA",RO: FAVORIT TV
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57083
 #EXTINF:-1 tvg-ID="" tvg-name="RO: TV 1000" tvg-logo="" group-title="EU ROMANIA",RO: TV 1000
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57114
 #EXTINF:-1 tvg-ID="" tvg-name="RO: SPERANTA TV" tvg-logo="" group-title="EU ROMANIA",RO: SPERANTA TV
@@ -178,6 +175,9 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57145
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57146
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY HD SHOWCASE" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY HD SHOWCASE
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57147
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DTX" tvg-logo="" group-title="EU ROMANIA",RO: DTX
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57082
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY RO" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY RO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57148
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY SCIENCE" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY SCIENCE
