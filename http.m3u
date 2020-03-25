@@ -45,17 +45,15 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57079
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57080
 #EXTINF:#1  tvg-logo="https://tvmania.ro/wp-content/uploads/2020/02/happy-channel-1280x720.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HAPPY CHANNEL [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57084
-
-#EXTINF:-1 tvg-ID="" tvg-name="RO: HBO Romania" tvg-logo="" group-title="EU ROMANIA",RO: HBO Romania
+#EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbohd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085
-
-#EXTINF:-1 tvg-ID="" tvg-name="RO: HBO HD RO" tvg-logo="" group-title="EU ROMANIA",RO: HBO HD RO
+#EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbohd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57086
-#EXTINF:-1 tvg-ID="" tvg-name="RO: HBO2" tvg-logo="" group-title="EU ROMANIA",RO: HBO2
+#EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbo2hd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 2 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57087
-#EXTINF:-1 tvg-ID="" tvg-name="RO: HBO 3 RO" tvg-logo="" group-title="EU ROMANIA",RO: HBO 3 RO
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 3 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57088
-#EXTINF:-1 tvg-ID="" tvg-name="RO: HBO 3" tvg-logo="" group-title="EU ROMANIA",RO: HBO 3
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 3 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57089
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
