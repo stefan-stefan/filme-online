@@ -23,11 +23,10 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57097
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57098
 #EXTINF:#1  tvg-logo="https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]REALITATEA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57099
-
-#EXTINF:-1 tvg-ID="" tvg-name="RO: NATIONAL 24" tvg-logo="" group-title="EU ROMANIA",RO: NATIONAL 24
+#EXTINF:#1  tvg-logo="https://4vector.com/i/free-vector-national-tv-24_033088_national-tv-24.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL 24[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57103
 
-#EXTINF:-1 tvg-ID="" tvg-name="RO: KANAL D" tvg-logo="" group-title="EU ROMANIA",RO: KANAL D
+#EXTINF:#1  tvg-logo="https://oblyo.ro/wp-content/uploads/2018/09/Logo-KanalD.ro_.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]KANAL D[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57093
 
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
