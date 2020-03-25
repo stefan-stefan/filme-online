@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA HTTP [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF:-1 tvg-ID="" tvg-name="===== RO: ROMANIA =====" tvg-logo="" group-title="EU ROMANIA",===== RO: ROMANIA =====
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png" group-title="EU ROMANIA",===== RO: ROMANIA =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
 #EXTINF:#1 tvg-logo="https://i.ytimg.com/vi/BXanbvzxkGg/hqdefault.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57062
