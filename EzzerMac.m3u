@@ -1,18 +1,3 @@
-  <dir>
-  <title>[COLORwhite]MOVIE[/COLOR]</title>
-  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/allaboutmovies.xml</link>
-  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/movies.png</thumbnail>
-  <fanart>http://www.ezzer-mac.com/frank/artghost/movies.jpg</fanart>
-  <summary>Movies</summary>
-  </dir>
- 
-  <dir>
-  <title>[COLORwhite]SHOW[/COLOR]</title>
-  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/alltvshows.xml</link>
-  <thumbnail>http://www.ezzer-mac.com/frank/artghost/newghostfanart/series.png</thumbnail>
-  <fanart>http://www.ezzer-mac.com/frank/artghost/tvshow.jpg</fanart>
-  <summary>Tv Shows</summary>
-  </dir>
  
   <dir>
   <name>[COLORwhite]IPTV[/COLOR]</name>
