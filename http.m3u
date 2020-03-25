@@ -35,11 +35,11 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57075
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57076
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI 24 HD" tvg-logo="" group-title="EU ROMANIA",RO: DIGI 24 HD
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57077
-#EXTINF:-1 tvg-ID="" tvg-name="RO: AXN WHITE" tvg-logo="" group-title="EU ROMANIA",RO: AXN WHITE
+#EXTINF:#1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN_White [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57078
-#EXTINF:-1 tvg-ID="" tvg-name="RO: AXN ROMANIA" tvg-logo="" group-title="EU ROMANIA",RO: AXN ROMANIA
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]#1 AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57079
-#EXTINF:-1 tvg-ID="" tvg-name="RO: AXN BLACK" tvg-logo="" group-title="EU ROMANIA",RO: AXN BLACK
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AXN BLACK RO(stream2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57080
 #EXTINF:-1 tvg-ID="" tvg-name="RO: B1 TV" tvg-logo="" group-title="EU ROMANIA",RO: B1 TV
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57081
