@@ -23,7 +23,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=AN
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=ANTENA 3
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV(sopcast)[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265414&name=PRO TV
-#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]COMEDY CENTRAL(sopcast)[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+#EXTINF:#1 tvg-logo="https://i.pinimg.com/originals/d6/66/2c/d6662cdffe29a10ece126d8df283ecee.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]COMEDY CENTRAL(sopcast)[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265044&name=COMEDY CENTRAL
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]#1 AXN RO(lipsa stream) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sopcast://5e0b54cf903cf61c25d98b62&name=AXN
