@@ -18,16 +18,17 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57066
 #EXTINF:#1  tvg-logo="https://www.b1.ro/thumbs/landscape_big/2016/11/07/oferta-de-publicitate-electorala-b1-tv-208510.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]B1 TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57081
 
-#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOK PLUS HD" tvg-logo="" group-title="EU ROMANIA",RO: LOOK PLUS HD
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57095
-#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOKPLUS" tvg-logo="" group-title="EU ROMANIA",RO: LOOKPLUS
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57096
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: NATIONAL TV" tvg-logo="" group-title="EU ROMANIA",RO: NATIONAL TV
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57097
 #EXTINF:-1 tvg-ID="" tvg-name="RO: PRIMA TV RO" tvg-logo="" group-title="EU ROMANIA",RO: PRIMA TV RO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57098
 #EXTINF:-1 tvg-ID="" tvg-name="RO: REALITATEA TV" tvg-logo="" group-title="EU ROMANIA",RO: REALITATEA TV
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57099
+#EXTINF:-1 tvg-ID="" tvg-name="RO: NATIONAL 24" tvg-logo="" group-title="EU ROMANIA",RO: NATIONAL 24
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57103
+#EXTINF:-1 tvg-ID="" tvg-name="RO: KANAL D" tvg-logo="" group-title="EU ROMANIA",RO: KANAL D
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57093
 
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57067
@@ -69,8 +70,7 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57088
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57089
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
-#EXTINF:-1 tvg-ID="" tvg-name="RO: KANAL D" tvg-logo="" group-title="EU ROMANIA",RO: KANAL D
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57093
+
 
 
 
@@ -78,8 +78,7 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57093
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57101
 #EXTINF:-1 tvg-ID="" tvg-name="RO: NGRO" tvg-logo="" group-title="EU ROMANIA",RO: NGRO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57102
-#EXTINF:-1 tvg-ID="" tvg-name="RO: NATIONAL 24" tvg-logo="" group-title="EU ROMANIA",RO: NATIONAL 24
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57103
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: FINE LIVING" tvg-logo="" group-title="EU ROMANIA",RO: FINE LIVING
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57104
 7
@@ -97,6 +96,7 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57114
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: CINEMA =====" tvg-logo="" group-title="EU ROMANIA",===== RO: CINEMA =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57125
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMAX 2" tvg-logo="" group-title="EU ROMANIA",RO: CINEMAX 2
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57126
 #EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMAX" tvg-logo="" group-title="EU ROMANIA",RO: CINEMAX
@@ -125,10 +125,11 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57137
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57138
 #EXTINF:-1 tvg-ID="" tvg-name="RO: AMC" tvg-logo="" group-title="EU ROMANIA",RO: AMC
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57139
-#EXTINF:-1 tvg-ID="" tvg-name="RO: AGRO TV" tvg-logo="" group-title="EU ROMANIA",RO: AGRO TV
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57140
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: DISCOVERY =====" tvg-logo="" group-title="EU ROMANIA",===== RO: DISCOVERY =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57141
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: NAT GEO GRAPHIC RO" tvg-logo="" group-title="EU ROMANIA",RO: NAT GEO GRAPHIC RO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57142
 #EXTINF:-1 tvg-ID="" tvg-name="RO: NAT GEO WILD HD" tvg-logo="" group-title="EU ROMANIA",RO: NAT GEO WILD HD
@@ -168,8 +169,10 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57157
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57158
 #EXTINF:-1 tvg-ID="" tvg-name="RO: TRAVEL CHANNEL" tvg-logo="" group-title="EU ROMANIA",RO: TRAVEL CHANNEL
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57159
+
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: MUSIC =====" tvg-logo="" group-title="EU ROMANIA",===== RO: MUSIC =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57160
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: MUSIC CHANNEL" tvg-logo="" group-title="EU ROMANIA",RO: MUSIC CHANNEL
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57161
 #EXTINF:-1 tvg-ID="" tvg-name="RO: MTV ROCKS" tvg-logo="" group-title="EU ROMANIA",RO: MTV ROCKS
@@ -184,8 +187,14 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57165
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57166
 #EXTINF:-1 tvg-ID="" tvg-name="RO: VH1 CLASSIC" tvg-logo="" group-title="EU ROMANIA",RO: VH1 CLASSIC
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57167
+
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: SPORTS =====" tvg-logo="" group-title="EU ROMANIA",===== RO: SPORTS =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57168
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOK PLUS HD" tvg-logo="" group-title="EU ROMANIA",RO: LOOK PLUS HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57095
+#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOKPLUS" tvg-logo="" group-title="EU ROMANIA",RO: LOOKPLUS
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57096
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1 HD RO" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 1 HD RO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57169
 #EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 1
