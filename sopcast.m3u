@@ -19,7 +19,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265000&name=PR
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=PRO GOLD
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1(sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=ANTENA 1
-#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 3(lipsa stream) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+#EXTINF:#1  tvg-logo="https://img.favpng.com/11/2/20/antena-3-television-antena-1-broadcasting-dvb-s-png-favpng-3pK1rj6dFpAQRUQdvhMTL3fHR.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 3(lipsa stream) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=ANTENA 3
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV(sopcast)[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265414&name=PRO TV
