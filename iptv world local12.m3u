@@ -4,20 +4,7 @@
     <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
 </plugin>
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ALGERIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/dz.m3u</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</thumbnail>
-    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
-</plugin>
 
-
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ARGENTINA[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=Https://iptv-org.github.io/iptv/countries/ar.m3u</link>
-    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7e/Argentina_Logo.png</thumbnail>
-    <fanart>https://upload.wikimedia.org/wikipedia/commons/7/7e/Argentina_Logo.png</fanart>
-</plugin>
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ARMENIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/am.m3u</link>
@@ -38,12 +25,6 @@
     <fanart>https://cdn.pixabay.com/photo/2017/08/20/12/56/austria-2661598_960_720.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]BOSNIA AND HERZEGOVINA[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ba.m3u</link>
-    <thumbnail>https://cdn.pixabay.com/photo/2017/08/21/17/45/bosnia-2666191_960_720.png</thumbnail>
-    <fanart>https://cdn.pixabay.com/photo/2017/08/21/17/45/bosnia-2666191_960_720.png</fanart>
-</plugin>
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]BRAZIL[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/br.m3u</link>
@@ -80,13 +61,6 @@
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/dk.m3u</link>
     <thumbnail>https://www.pngitem.com/pimgs/m/455-4552717_denmark-national-ice-hockey-team-logo-denmark-mens.png</thumbnail>
     <fanart>https://www.pngitem.com/pimgs/m/455-4552717_denmark-national-ice-hockey-team-logo-denmark-mens.png</fanart>
-</plugin>
-
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]FINLAND[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/fi.m3u</link>
-    <thumbnail>https://logos.flamingtext.com/Country-Logos/FI-Logo.png</thumbnail>
-    <fanart>https://logos.flamingtext.com/Country-Logos/FI-Logo.png</fanart>
 </plugin>
 
 <plugin>
