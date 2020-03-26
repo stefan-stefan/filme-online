@@ -105,35 +105,14 @@
 
 
 <dir>
-    <title>[COLOR orange][B]PLAY FILME DE DESENE ANIMATE[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/FILME%20SI%20DESENE%20COPII.m3u</link>
-    <fanart>https://webstockreview.net/images/animate-png-files-11.png</fanart>
-    <thumbnail>https://clipartart.com/images/hollywood-star-clipart-free-6.jpg</thumbnail>
+    <title>[COLOR orange][B]PLAY MUZICA DE DESENE ANIMATE[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/filme%20si%20desene.m3u</link>
+    <fanart>https://www.programetineret.ro/wp-content/uploads/2016/03/filme.jpg</fanart>
+    <thumbnail>https://www.programetineret.ro/wp-content/uploads/2016/03/filme.jpg</thumbnail>
     <summary>Universo Marvel</summary>
 </dir>
 
- <dir>
-   <title>[COLOR orange][B]PLAY Halloween Kids Movies[/B][/COLOR]</title>
-  <link>https://pastebin.com/raw/Bs0y3zje</link>
-  <thumbnail>https://i.pinimg.com/originals/6c/48/09/6c4809592ef55c4d631c5b8aa4dd3ce7.jpg</thumbnail>
-   <fanart>https://i.pinimg.com/originals/6c/48/09/6c4809592ef55c4d631c5b8aa4dd3ce7.jpg</fanart>
-  </dir>
 
-<dir>
-    <title>[COLOR orange][B]MUZICA LIVE[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/muzica%20online.m3u</link>
-    <fanart>https://cdn.cluj.com/cluj/Livada-concert-2015-01-23-0440web-1-750x380.jpg</fanart>
-    <thumbnail>https://cdn.cluj.com/cluj/Livada-concert-2015-01-23-0440web-1-750x380.jpg</thumbnail>
-    <summary>Universo Marvel</summary>
-</dir>
-
-<dir>
-    <title>[COLOR orange][B]MANELE CLUB MIXT[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/manele%20club.m3u</link>
-    <fanart>https://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-listen-manele.png</fanart>
-    <thumbnail>https://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-listen-manele.png</thumbnail>
-    <summary>Universo Marvel</summary>
-</dir>
  
 
 
