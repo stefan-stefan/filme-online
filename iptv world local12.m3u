@@ -1,164 +1,148 @@
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ALBANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]ALBANIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/al.m3u</link>
     <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ALGERIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ALGERIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/dz.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png</fanart>
 </plugin>
+
+
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ANDORRA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ad.m3u</link>
-    <thumbnail></thumbnail>
-    <fanart>https://cdn.pixabay.com/photo/2017/08/19/01/34/andorra-2657051_960_720.png</fanart>
-</plugin>
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ANGOLA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ao.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png</fanart>
-</plugin>
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ARGENTINA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ARGENTINA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=Https://iptv-org.github.io/iptv/countries/ar.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7e/Argentina_Logo.png</thumbnail>
     <fanart>https://upload.wikimedia.org/wikipedia/commons/7/7e/Argentina_Logo.png</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ARMENIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ARMENIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/am.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/20/05/47/armenia-2660669_960_720.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/20/05/47/armenia-2660669_960_720.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ASTRALIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ASTRALIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/au.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://img.favpng.com/6/13/25/flag-of-australia-national-flag-sydney-country-png-favpng-e6KJfZwsSeUHXCFmLrQazR0XW.jpg</thumbnail>
     <fanart>https://img.favpng.com/6/13/25/flag-of-australia-national-flag-sydney-country-png-favpng-e6KJfZwsSeUHXCFmLrQazR0XW.jpg</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]AUSTRIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]AUSTRIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/at.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/20/12/56/austria-2661598_960_720.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/20/12/56/austria-2661598_960_720.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BOSNIA AND HERZEGOVINA[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-LOCAL-[/COLOR] [COLOR orchid]BOSNIA AND HERZEGOVINA[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ba.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/21/17/45/bosnia-2666191_960_720.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/21/17/45/bosnia-2666191_960_720.png</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BRAZIL[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]BRAZIL[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/br.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://atlas-content-cdn.pixelsquid.com/stock-images/brazil-text-language-1VZ60D4-600.jpg</thumbnail>
     <fanart>https://atlas-content-cdn.pixelsquid.com/stock-images/brazil-text-language-1VZ60D4-600.jpg</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BULGARIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]BULGARIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/bg.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/08/22/12/33/bulgaria-2668804_960_720.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/22/12/33/bulgaria-2668804_960_720.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]CANADA[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL[/COLOR] [COLOR blue]CANADA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ca.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://thumbs.dreamstime.com/b/canadian-flag-text-font-canadian-flag-text-font-canada-symbol-background-157994999.jpg</thumbnail>
     <fanart>https://thumbs.dreamstime.com/b/canadian-flag-text-font-canadian-flag-text-font-canada-symbol-background-157994999.jpg</fanart>
 </plugin>
 
 
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]CROATIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR orchid]CROATIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/hr.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://previews.123rf.com/images/magcom/magcom1211/magcom121100056/16272517-3d-vector-croatia-word-text-flag.jpg</thumbnail>
     <fanart>https://previews.123rf.com/images/magcom/magcom1211/magcom121100056/16272517-3d-vector-croatia-word-text-flag.jpg</fanart>
 </plugin>
 
 <
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]DENMARK[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR orchid]DENMARK[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/dk.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://www.pngitem.com/pimgs/m/455-4552717_denmark-national-ice-hockey-team-logo-denmark-mens.png</thumbnail>
     <fanart>https://www.pngitem.com/pimgs/m/455-4552717_denmark-national-ice-hockey-team-logo-denmark-mens.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]FINLAND[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]FINLAND[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/fi.m3u</link>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
+    <thumbnail>https://logos.flamingtext.com/Country-Logos/FI-Logo.png</thumbnail>
     <fanart>https://logos.flamingtext.com/Country-Logos/FI-Logo.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]FRANCE[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]FRANCE[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/fr.m3u</link>
     <thumbnail>https://www.pinclipart.com/picdir/middle/7-78883_all-photo-png-clipart-france-png-transparent-png.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://www.pinclipart.com/picdir/middle/7-78883_all-photo-png-clipart-france-png-transparent-png.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]GERMANY[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]GERMANY[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/de.m3u</link>
     <thumbnail>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]GREECE[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]GREECE[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/gr.m3u</link>
     <thumbnail>https://logos.flamingtext.com/Country-Logos/GR-Logo.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://logos.flamingtext.com/Country-Logos/GR-Logo.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]HUNGARY[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]HUNGARY[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/hu.m3u</link>
     <thumbnail>https://www.planetariomovil.com.ar/paises/flags/hungary.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://www.planetariomovil.com.ar/paises/flags/hungary.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ITALY[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ITALY[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/it.m3u</link>
     <thumbnail>https://purepng.com/public/uploads/large/italy-eqp.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://purepng.com/public/uploads/large/italy-eqp.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]MOLDOVA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]MOLDOVA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/md.m3u</link>
     <thumbnail>https://cdn.imgbin.com/19/19/9/imgbin-flag-of-moldova-flag-of-cuba-national-flag-grunge-effect-K3WkZVALsexJgfBa6V0W0tsLv.jpg</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://cdn.imgbin.com/19/19/9/imgbin-flag-of-moldova-flag-of-cuba-national-flag-grunge-effect-K3WkZVALsexJgfBa6V0W0tsLv.jpg</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]POLAND[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/pl.m3u</link>
-    <thumbnail>https://ak0.picdn.net/shutterstock/videos/2552450/thumb/10.jpg</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</plugin>
-<plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]PORTUGAL[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR orchid]PORTUGAL[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/pt.m3u</link>
     <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ROMAINIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ROMAINIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ro.m3u</link>
     <thumbnail>https://img.favpng.com/14/14/5/romanian-language-logo-design-illustration-png-favpng-u4y4sFTcCX3AMrqKNVHEFxew3.jpg</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
+    <fanart>https://img.favpng.com/14/14/5/romanian-language-logo-design-illustration-png-favpng-u4y4sFTcCX3AMrqKNVHEFxew3.jpg</fanart>
 </plugin>
 
 
