@@ -1,17 +1,19 @@
 <dir>
-        <title>IMDB Action TV Shows</title>
-        <imdburl>genres/action</imdburl>
-        <thumbnail>http://szalim.hu/mozgalom/wp-content/uploads/2016/12/IMDb-icon1.png</thumbnail>
-</dir>
+<title>IMDB Movie Watchlist</title>
+<imdburl>list/ls040650160</imdburl>
+<thumbnail>http://szalim.hu/mozgalom/wp-content/uploads/2016/12/IMDb-icon1.png</thumbnail>
+</dir
  
 <dir>
         <title>IMDB crime TV Shows</title>
         <imdburl>genres/crime</imdburl>
         <thumbnail>http://icons.iconarchive.com/icons/3xhumed/mega-games-pack-40/512/True-Crime-Streets-of-LA-1-icon.png</thumbnail>
 </dir>
-
 <dir>
-<title>IMDB Movie Watchlist</title>
-<imdburl>list/ls040650160</imdburl>
-<thumbnail>http://szalim.hu/mozgalom/wp-content/uploads/2016/12/IMDb-icon1.png</thumbnail>
+        <title>IMDB Action TV Shows</title>
+        <imdburl>genres/action</imdburl>
+        <thumbnail>http://szalim.hu/mozgalom/wp-content/uploads/2016/12/IMDb-icon1.png</thumbnail>
 </dir>
+
+
+>
