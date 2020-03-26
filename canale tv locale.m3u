@@ -1,34 +1,7 @@
-<item>
-<title>ACUM TV</title>
-<link>http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8</link>
-<thumbnail>https://i.ytimg.com/vi/vbCOhFPZ3yo/maxresdefault_live.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/vbCOhFPZ3yo/maxresdefault_live.jpg</fanart>
-</item>
- 
-<item>
-<title>Live - Press TV</title>
-<link>http://cast.independentmedia.network:9090/seconds6hls/live.m3u8</link>
-<thumbnail>https://independentmedia.network/lptv/placeholder.jpg</thumbnail>
-<fanart>https://independentmedia.network/lptv/placeholder.jpg</fanart>
-</item>
-
-<item>
-<title>Kapital TV</title>
-<link>http://163.172.172.80:8080/hls/livestream.m3u8</link>
-<thumbnail>https://www.kapitaltv.ro/wp-content/uploads/2016/10/logo-ktv-1.png</thumbnail>
-<fanart>https://www.kapitaltv.ro/wp-content/uploads/2016/10/logo-ktv-1.png</fanart>
-</item>
-
-<item>
-<title>Roman Tv</title>
-<link>https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CpYE9WxUtAr26rhf-OSUw2xBRn7bHRLUM4E6oGntijiLD-ma2LhmZYBEgp0CJom_y4xFX2qzORDws1c5lsroas-HilPeyk0t9rSA3uzcL85FJL9IXBr38losB1RYqmgkpz69n5KnR9-9ng9q1LuoxGUH89r-tcObc5K6H2FMSHCS9DRIlU6CgBQ0iscITf_2XDvB6sfgeuu-li5mRJLf8VIST2bhYiVZTiGePM-uvkfhj4sHlvN6x39_A0KjRI9Arc7TREpLE7mkrqCxZOgO5uux9vi_VXJQ4-U6ELAsin61v9s74CSHHdfWX75Q_TovRCv2KCYUfLOSDNrQysb_za9pOgVaUXXaarNpFWJmUFefpltna27F7LnsKMSB6h2hZR8uvWX_NbRfIzZu-dyT-3psmio_JhK_mL5f9XgzuDIMBzLruQRdXY1BkwVWx5Nlt3yeNu9v2rXsKGGy7SEWF_mIczadNIokYf2fKY_HUemv-U9c4urCmLmy0sB-_1d44TYXKPtBMeFOLLx3tiuf-8ku-XcaM8Ef6i6GZPQqAttA-WTW17icFIlKbNbUtBBdUT0BhoYB89aYcwMf4zd7REgGSpHHjeH03Bv5Y1w8dsKWbw0v6CpVTFekYuL2F2zeWULLON_XQq4oDILIrwqPWpSiSRGoVMVS2bEOygfvbRPrf6qfOt55CEoJ0ByKX1T6aYRv8ckqeQo-EhCmep6kWdtVIv4Ru1-jQK30GgwuLI-Sty0RamSh9Ug.m3u8</link>
-<thumbnail>https://gununyalanlari.com/assets/files/00/21/2118.jpg</thumbnail>
-<fanart>https://gununyalanlari.com/assets/files/00/21/2118.jpg</fanart>
-</item>
-<item>
-<title>TV CITY</title>
-<link>http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END</link>
-<thumbnail>https://stvron.com/canale/512/tv-city.png</thumbnail>
-<fanart>https://stvron.com/canale/512/tv-city.png</fanart>
-</item>
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ROMAINIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/ro.m3u</link>
+    <thumbnail>https://img.favpng.com/14/14/5/romanian-language-logo-design-illustration-png-favpng-u4y4sFTcCX3AMrqKNVHEFxew3.jpg</thumbnail>
+    <fanart>https://img.favpng.com/14/14/5/romanian-language-logo-design-illustration-png-favpng-u4y4sFTcCX3AMrqKNVHEFxew3.jpg</fanart>
+</plugin>
 
