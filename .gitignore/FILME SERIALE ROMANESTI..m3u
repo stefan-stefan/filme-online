@@ -1,0 +1,15 @@
+<dir>
+    <title>[COLOR orange][B]FILME ROMANESTI[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/filme%20romanesti.m3u</link>
+    <fanart>https://playtech.ro/wp-content/uploads/2012/10/Filme-online-Romania-legal-seriale-TV.jpg</fanart>
+    <thumbnail>https://playtech.ro/wp-content/uploads/2012/10/Filme-online-Romania-legal-seriale-TV.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
+    <title>[COLOR orange][B]SERIALE ROMANESTI[/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/SERIALE%20ROMANESTI.m3u</link>
+    <fanart>https://www.paginademedia.ro/wp-content/uploads/2018/08/colaj-seriale-iulie_tb570.jpg</fanart>
+    <thumbnail>https://www.paginademedia.ro/wp-content/uploads/2018/08/colaj-seriale-iulie_tb570.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
