@@ -20,7 +20,7 @@
 
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA HTTP-ACESTREAM-SOPCAST (Stefan) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%203.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/333.m3u</link>
     <thumbnail>http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png</thumbnail>
     <fanart>http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png</fanart>
 </plugin>
