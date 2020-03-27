@@ -71,7 +71,10 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265078&name=Na
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265074&name=HISTORY
 #EXTINF:#1  tvg-logo="https://www.thewrap.com/wp-content/uploads/2016/02/ID-300x200.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DISCOVERY ID [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265065&name=DISCOVERY ID
-
+#EXTINF:#1  tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DISCOVERY CHANNEL [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=DISCOVERY CHANNEL
+#EXTINF:#1  tvg-logo="https://f0.pngfuel.com/png/954/195/science-television-channel-discovery-channel-high-definition-television-discovery-inc-science-png-clip-art.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DISCOVERY  SCIENCE [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=DISCOVERY  SCIENCE
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Look_Plus.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Look Plus (sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265677&name=Look Plus
