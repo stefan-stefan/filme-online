@@ -77,7 +77,8 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=DI
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=DISCOVERY  SCIENCE
 #EXTINF:#1  tvg-logo="https://w0.pngwave.com/png/571/526/animal-planet-television-channel-discovery-channel-logo-science-science-png-clip-art.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]ANIMAL PLANET [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265086&name=ANIMAL PLANET
-
+#EXTINF:#1  tvg-logo="https://w0.pngwave.com/png/571/526/animal-planet-television-channel-discovery-channel-logo-science-science-png-clip-art.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]CBS REALITY [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://program.plexus/?mode=2&url=https://i.ytimg.com/vi/qUfcN2pcYIA/maxresdefault.jpg&name=CBS REALITY
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Look_Plus.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Look Plus (sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265677&name=Look Plus
