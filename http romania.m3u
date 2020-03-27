@@ -25,7 +25,7 @@
     <fanart>http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png</fanart>
 </plugin>
 <item>
-        <title>***************************************</title>
+        <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTE HTTP  [/COLOR][/B]</title>
         <thumbnail></thumbnail>
 </item>
 
@@ -50,30 +50,11 @@
 
 
 <plugin>
-<title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]RCS-RDS [/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20rcs-rds.m3u</link>
-<thumbnail>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</thumbnail>
-<fanart>https://www.forbes.ro/wp-content/uploads/2013/05/519b37e65866c-560x350.jpg</fanart>
-</plugin>
-
-<item>
-        <title>***************************************</title>
-        <thumbnail></thumbnail>
-</item>
-
-<plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA SOPCAST [COLOR FFff8000][B](Necesita Plexus)[/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/sopcast.m3u</link>
     <thumbnail>https://linuxzone.es/app/uploads/2012/04/sopcast_logo.jpg</thumbnail>
     <fanart>https://itmaniatv.com/wp-content/uploads/2013/03/sopcast-750x300.jpg</fanart>
 </plugin>
-
-<item>
-        <title>***************************************</title>
-        <imdburl></imdburl>
-        <thumbnail></thumbnail>
-
-</item>
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA ACESTREAM[/COLOR] [COLOR blue][COLOR yellow][B](Necesita Plexus&Acestream)[/B][/COLOR]</title>
