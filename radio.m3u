@@ -1,36 +1,193 @@
-<item>
-<title>RadioBaditaPopular</title>
-<link>http://89.39.189.29:8000/stream</link>
-<thumbnail>https://myradioonline.ro/public/uploads/radio_img/radio-badita-popular/play_250_250.jpg</thumbnail>
-<fanart>https://myradioonline.ro/public/uploads/radio_img/radio-badita-popular/play_250_250.jpg</fanart>
-</item>
- 
-<item>
-<title>Radio Intens</title>
-<link>http://51.254.103.133:8070/stream</link>
-<thumbnail>https://stvron.com/radio/radio-intens.png</thumbnail>
-<fanart>https://stvron.com/radio/radio-intens.png</fanart>
-</item>
- 
-<item>
-<title>Radio Pentru Voi</title>
-<link>http://37.187.90.121:3438/stream</link>
-<thumbnail>https://www.radiopentruvoi.ro/m/img/slider/radioptvvara.jpg</thumbnail>
-<fanart>https://www.radiopentruvoi.ro/m/img/slider/radioptvvara.jpg</fanart>
-</item>
-
-<item>
-<title>Radio Lăutaru</title>
-<link>http://51.254.152.177:9000/stream</link>
-<thumbnail>https://img1.radioforest.net/radio/669/669923/2913/slider-home.jpg</thumbnail>
-<fanart>https://img1.radioforest.net/radio/669/669923/2913/slider-home.jpg</fanart>
-</item>
-
-<item>
-<title>Radio Manele Vechi</title>
-<link>http://151.80.9.229:8000/stream</link>
-<thumbnail>https://myradioonline.ro/public/uploads/radio_img/radio-manele-vechi/fb_cover.jpg</thumbnail>
-<fanart>https://myradioonline.ro/public/uploads/radio_img/radio-manele-vechi/fb_cover.jpg</fanart>
-</item>
+#EXTM3U
+#EXTINF:-1,PRO TV CHISINAU
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,BUCURESTI TV
+http://89.38.8.130:39459
+#EXTINF:0,TVSE
+http://89.38.8.130:39419
+#EXTINF:0,EST TV
+http://89.38.8.130:39435
+#EXTINF:0,TVSat
+http://89.38.8.130:39443
+#EXTINF:0,VP HD
+http://89.38.8.130:39437
+#EXTINF:0,TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:0,Nest TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:0,Infinit TV
+http://webmobile.xdev.ro:81/tv6/playlist.m3u8
+#EXTINF:0,Televiziunea Info
+http://163.172.172.80:8080/hls/InfoHd.m3u8
+#EXTINF:0,Curier TV
+http://5.2.164.135:1935/live/curiertv/playlist.m3u8
+#EXTINF:0,Super TV HD
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:0,DBM MUSIC
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:0,DEEJAY MUSIC
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:0,Magic Tv
+http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
+#EXTINF:0,ROCK TV
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+#EXTINF:1,ROMA TV
+http://185.46.161.3/hls/hd.m3u8
+#EXTINF:0,ONE BY HD
+http://rtmp.one.by:1300
+#EXTINF:0,ONE BY HD Rusia
+http://rtmp.one.by:2300
+#EXTINF:0,Radio Contact TV
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
+#EXTINF:0,Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1,BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0,VIVA
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:0,CITY TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:0,4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0,Klipkar TV
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/400/prog_index.m3u8
+#EXTINF:0,Radio ArgesMioveni nr1
+http://argesmioveninr1.radi0.im:8000/stream
+#EXTINF:-1,Radio Guerilla
+http://live.guerrillaradio.ro:8010/guerrilla.aac
+#EXTINF:-1,Radio DEEA
+http://live.radiodeea.ro:8090/stream
+#EXTINF:-1,PROFM
+http://edge126.rdsnet.ro:84/profm/profm.mp3
+#EXTINF:-1,DANCE FM
+http://edge126.rdsnet.ro:84/profm/dancefm.mp3
+#EXTINF:-1,MUSIC FM
+http://edge126.rdsnet.ro:84/profm/music-fm.mp3
+#EXTINF:-1,Vocea Armatei
+http://193.151.29.30:8000/VoceaArmatei_fallback_mp3
+#EXTINF:-1,radiorenasterea
+http://radiorenasterea.ro:8000/renasterea.aac?1491148155556.aac
+#EXTINF:-1,Radio Romania Actualitati
+http://stream2.srr.ro:8000/;stream.mp3
+#EXTINF:-1,Antena Satelor
+http://stream2.srr.ro:8040/;stream.mp3
+#EXTINF:-1,Radio Vibe FM
+http://astreaming.europafm.ro:8000/vibefm_aacp48k
+#EXTINF:-1,Radio Vibe FM
+http://astreaming.europafm.ro:8000/vibefm_mp3_64k
+#EXTINF:-1,Virgin Radio
+http://astreaming.europafm.ro:8000/virgin_aacp_64k
+#EXTINF:-1,Virgin Radio
+http://astreaming.europafm.ro:8000/virgin_mp3_64k
+#EXTINF:-1,Radio Europa FM
+http://astreaming.europafm.ro:8000/europafm_mp3_64k
+#EXTINF:-1,Radio Dobrogea
+http://stream.arhivaradiodobrogea.ro:7000/dobrogea
+#EXTINF:-1,PluszFM
+http://hosting2.42netmedia.com:8961/stream
+#EXTINF:-1,Radio 90 H!T
+http://radio90hit.net/listen.pls
+#EXTINF:-1,Bucuresti FM
+http://89.238.227.6:8032/listen.pls
+#EXTINF:-1,Radio Pentru Voi
+http://radiopentruvoi.ro/listen2.pls
+#EXTINF:-1,Radio
+http://89.47.38.196:8008/galaxy
+#EXTINF:-1,Radio
+http://uniplus.stfu.ro:9090/live
+#EXTINF:-1,Radio Cafe Romania
+http://live.radiocafe.ro:8048/;
+#EXTINF:-1,Radio Ciresarii
+http://rs.radiociresarii.ro/hi-radiociresariiro.mp3
+#EXTINF:-1,Radio Impuls
+http://live.radio-impuls.ro
+#EXTINF:-1,digifm
+http://edge76.rdsnet.ro:84/digifm/digifm.mp3
+#EXTINF:-1,voceastrazii
+http://radio.voceastrazii.net:8012/;stream/1
+#EXTINF:-1,MuscelFM 94.1
+http://89.41.153.92:8000/muscelfm.mp3
+#EXTINF:-1,Club Mix Romania
+http://live.radioclubmix.ro:9999/;
+#EXTINF:-1,Radio Targu Mures Minoritati
+http://streaming.radiomures.ro:8312/;stream/1
+#EXTINF:-1,Radio Targu Mures FM
+http://streaming.radiomures.ro:8302/;stream/1
+#EXTINF:-1,Radio Romania Targu Mures AM
+http://89.238.227.6:8310/;stream/1
+#EXTINF:-1,Radio Constanta FM
+http://89.238.227.6:8330/;stream/1
+#EXTINF:-1,Radio Constanta AM
+http://89.238.227.6:8336/;stream/1
+#EXTINF:-1,Radio Timisoara AM
+http://89.238.227.6:8350/;stream/1
+#EXTINF:-1,Radio Timisoara FM
+http://89.238.227.6:8360/;stream/1
+#EXTINF:-1,Radio Oltenia Craiova
+http://89.238.227.6:8370/;stream/1
+#EXTINF:-1,Radio Sighet
+http://89.238.227.6:8390/;stream/1
+#EXTINF:-1,Radio Resita
+http://89.238.227.6:8344/;stream/1
+#EXTINF:-1,Radio Cluj
+http://89.238.227.6:8384/;stream/1
+#EXTINF:-1,Radio Vacanta Hits
+http://89.238.227.6:8338/;stream/1
+#EXTINF:-1,National FM
+http://live3.nationalfm.ro:8001/listen.pls
+#EXTINF:-1,Radio Bihoreanul
+http://176.31.60.23:8901/listen.pls
+#EXTINF:-1,Radio Mega Hit Popular
+http://megahitpopular.zapto.org:9000/listen.pls
+#EXTINF:-1,Radio 1
+http://radio1manele.no-ip.org:8000/listen.pls
+#EXTINF:-1,Focus FM
+http://live.focusfm.ro:8000/listen.pls?sid=1
+#EXTINF:-1,superfm
+https://live.superfm.ro/stream.mp3
+#EXTINF:-1,Radio Romania Antena Satelor
+http://stream2.srr.ro:8042/listen.pls
+#EXTINF:-1,Radio Romania Actualitati
+http://stream2.srr.ro:8002/listen.pls
+#EXTINF:-1,Radio Romania Cultural
+http://stream2.srr.ro:8012/listen.pls
+#EXTINF:-1,Radio Romania Muzical
+http://stream2.srr.ro:8022/listen.pls
+#EXTINF:-1,Radio Romania International 1
+http://89.238.227.6:8052/listen.pls
+#EXTINF:-1,Radio Romania International 2
+http://89.238.227.6:8062/listen.pls
+#EXTINF:-1,Radio Romania International 3
+http://89.238.227.6:8072/listen.pls
+#EXTINF:-1,Radio Romania Manele
+http://asculta.radioromanian.net:8300/listen.pls
+#EXTINF:-1,Digi FM
+http://www.digi-fm.ro/listen.pls
+#EXTINF:-1,Europa FM
+http://astreaming.europafm.ro:8000/europafm_aacp48k
+#EXTINF:-1,Magic FM
+http://www.magicfm.ro/listen.pls
+#EXTINF:-1,Dance FM
+http://www.profm.ro/assets/winamp/dancefm.m3u
+#EXTINF:-1,PRO FM
+http://d1.a4w.ro/profm/live.m3u
+#EXTINF:-1,Itsy Bitsy FM
+http://live.itsybitsy.ro:8000/itsybitsy.m3u
+#EXTINF:-1,Rock FM
+http://www.romaniaradio.ro/rockfm.pls
+#EXTINF:-1,Virgin Radio
+http://astreaming.radio21.ro:8000/virgin_aacp_64k.m3u
+#EXTINF:-1,Radio Trinitas
+http://www.radiotrinitas.ro/radiotrinitas.pls
+#EXTINF:-1,GOLD FM
+http://80.86.106.110:8002/listen.pls
+#EXTINF:-1,Radio Guerrila
+http://live.guerrillaradio.ro:8010/guerrilla.aac.m3u
+#EXTINF:-1,Radio Impuls
+http://live2.radio-impuls.ro/listen.pls
 
 
