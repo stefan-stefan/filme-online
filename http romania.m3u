@@ -24,6 +24,10 @@
     <thumbnail>http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png</thumbnail>
     <fanart>http://documentarys.do.am/tvonlineromy/romytvlist/tv-png-free-download-3-1-.png</fanart>
 </plugin>
+<item>
+        <title>***************************************</title>
+        <thumbnail></thumbnail>
+</item>
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA IPTV-[/COLOR] [COLOR blue]KOKOSH[/COLOR][/B] [COLOR blue][/COLOR]</title>
@@ -31,6 +35,11 @@
     <thumbnail>https://pbs.twimg.com/profile_images/2208931499/images_400x400.jpg</thumbnail>
     <fanart>https://itigic.com/wp-content/uploads/2019/10/iptv-business.jpg</fanart>
 </plugin>
+
+<item>
+        <title>***************************************</title>
+        <thumbnail></thumbnail>
+</item>
 
 <plugin>
 <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA  TEST 1[/COLOR][/B]</title>
