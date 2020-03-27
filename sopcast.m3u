@@ -66,7 +66,7 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=HB
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 3(sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=HBO 3
 #EXTINF:#1  tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/09/natgeowild.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Nat Geo WILD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=Nat Geo WILD
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265078&name=Nat Geo WILD
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Look_Plus.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Look Plus (sopcast) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265677&name=Look Plus
