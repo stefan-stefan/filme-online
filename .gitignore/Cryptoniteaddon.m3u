@@ -1,0 +1,30 @@
+<dir>
+<title>[COLORwhite]Live TV[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/tv.xml</link>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
+</dir>
+ 
+<dir>
+<title>[COLORgreenyellow]Movies Hub[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/moviesfull.xml</link>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
+</dir>
+ 
+
+ 
+<dir>
+<title>[COLORgreenyellow]Sports Lounge[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/footy.xml</link>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
+</dir>
+ 
+ 
+<dir>
+<title>[COLORgreenyellow]Now Music[/COLOR]</title>
+<link>http://ajbuilds.uk/cryptonite/nowmusic.xml</link>
+<thumbnail>https://troypoint.com/wp-content/uploads/2020/02/cryptonite-kodi.png</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxVGjSL5mz2dekz8GhBuUO6x3-O-8v-L8zE3h-ZbOcAy_DgYPw</fanart>
+</dir>
