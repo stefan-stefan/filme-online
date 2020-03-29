@@ -35,14 +35,14 @@
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TV-[/COLOR] [COLOR blue] GEORGE [/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/MAARFUYM</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <thumbnail>https://cdn.freebiesupply.com/logos/thumbs/2x/george-logo.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TV-[/COLOR] [COLOR blue] IONUT [/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jTjhr490</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <thumbnail>https://logos.textgiraffe.com/logos/logo-name/Ionut-designstyle-summer-m.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
