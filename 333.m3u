@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:0,■■■■,[COLOR red]  [/COLOR][COLOR deeppink][B]* Aceste liste nu sant stabile! * [/B][/COLOR][COLOR deeppink] ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
+#EXTINF:-1,Coronavirus Pandemic: Real Time Counter, World Map, News
+http://mylatinotv.com:8080/ZcXXJnucb5/Hoy0TsGP1M/1135328
+#EXTINF:-1,Coronavirus Pandemic: Real Time Counter, World Map, News2
+http://mylatinotv.com:8080/ZcXXJnucb5/Hoy0TsGP1M/1135607
+#EXTINF:-1,Coronavirus Pandemic: Real Time Counter, World Map, News3
+http://mylatinotv.com:8080/ZcXXJnucb5/Hoy0TsGP1M/1135608
 #EXTINF:-1 tvg-logo="http://www.crestinulazi.ro/wp-content/uploads/2010/02/alfa-omega-logo.png" group-title="STIRI",[COLOR lawngreen]Http.[/COLOR][COLOR lawngreen]# 1[/COLOR]AlfaOmegaTV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
