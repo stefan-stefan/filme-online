@@ -26,16 +26,16 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TV-[/COLOR] [COLOR blue] GEORGE [/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TV-[/COLOR] [COLOR blue] TEST(1) [/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/MAARFUYM</link>
-    <thumbnail>https://1.bp.blogspot.com/-9JT_MtGOuew/Th8SPMJ-qvI/AAAAAAAAArA/e0wbiwTXCjM/w1200-h630-p-k-no-nu/Georgelogo.jpg</thumbnail>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TV-[/COLOR] [COLOR blue] IONUT [/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA TV-[/COLOR] [COLOR blue] TEST(2) [/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/jTjhr490</link>
-    <thumbnail>https://logos.textgiraffe.com/logos/logo-name/Ionut-designstyle-summer-m.png</thumbnail>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
