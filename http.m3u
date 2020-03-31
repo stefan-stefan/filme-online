@@ -6,21 +6,23 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
 #EXTINF:0 tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RndlYmFkbWRpZ2kyNC5yY3MtcmRzLnJv/JTJGd3AtY29udGVudCUyRnVwbG9hZHMl/MkYyMDE5JTJGMDQlMkZEaWdpMjRfSEQu/cG5nJmhhc2g9NTVlNzMxNWFmZThiYmQ0ZjM0YmUwZGU1Njc5NTQzMWQ=.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI 24 HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 https://edge30.rcs-rds.ro/V4-6561048-71aedcf4d8360706f805b689864d3375-1501286594-0-1585552688-507-digi24/digi24/digi24hd.stream/chunklist.m3u8
 #EXTINF:#1 tvg-logo="https://www.ewsat.com/img/TVR.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57065
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:#1 tvg-logo="https://i.ytimg.com/vi/BXanbvzxkGg/hqdefault.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2363
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:#1 tvg-logo="https://www.radardemedia.ro/wp-content/uploads/2017/02/TVR-2-LOGO.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2362
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:#1 tvg-logo="https://i0.1616.ro/media/2/2701/33658/16892183/1/tvr3.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 3 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57064
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
 #EXTINF:#1 tvg-logo="https://revistablogurilor.ro/wp-content/uploads/2017/01/Romania-TV.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]ROMANIA TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2370
+http://193.228.153.231:4243/bysid/125
 #EXTINF:#1  tvg-logo="https://www.b1.ro/thumbs/landscape_big/2016/11/07/oferta-de-publicitate-electorala-b1-tv-208510.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]B1 TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2414
+http://193.228.153.231:4242/bysid/70
 #EXTINF:#1  tvg-logo="https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57097
+
 #EXTINF:#1  tvg-logo="https://4.bp.blogspot.com/-lzQmCA3cFHg/VNHstSIUgzI/AAAAAAAAL6g/ZSlbwmVR4wY/s320/prima%2Btv.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRIMA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57098
+
 #EXTINF:#1  tvg-logo="https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]REALITATEA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57099
 #EXTINF:#1  tvg-logo="https://4vector.com/i/free-vector-national-tv-24_033088_national-tv-24.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL 24[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
