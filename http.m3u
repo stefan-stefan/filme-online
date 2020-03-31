@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA HTTP [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF: 0 tvg-logo="https://thetaxtalk.com/wp-content/uploads/2018/01/Latest-Update.png",[COLORred][B][I]ACTUALIZATA 12.02.2020![/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://thetaxtalk.com/wp-content/uploads/2018/01/Latest-Update.png",[COLORred][B][I]UPDATE 12.12.2019![/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png" group-title="EU ROMANIA",===== RO: ROMANIA =====
