@@ -4,7 +4,7 @@ http://89.136.209.26:1935/l
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png" group-title="EU ROMANIA",===== RO: ROMANIA =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
 #EXTINF:0 tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RndlYmFkbWRpZ2kyNC5yY3MtcmRzLnJv/JTJGd3AtY29udGVudCUyRnVwbG9hZHMl/MkYyMDE5JTJGMDQlMkZEaWdpMjRfSEQu/cG5nJmhhc2g9NTVlNzMxNWFmZThiYmQ0ZjM0YmUwZGU1Njc5NTQzMWQ=.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI 24 HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
-https://edge30.rcs-rds.ro/V4-6561048-71aedcf4d8360706f805b689864d3375-1501286594-0-1585552688-507-digi24/digi24/digi24hd.stream/chunklist.m3u8
+https://edge71.rcs-rds.ro/V4-9236255-8d256ae39908965b6d510453502b6e37-1501286594-0-1585692188-492-digi24/digi24/digi24hd.stream/chunklist.m3u8
 #EXTINF:#1 tvg-logo="https://www.ewsat.com/img/TVR.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:#1 tvg-logo="https://i.ytimg.com/vi/BXanbvzxkGg/hqdefault.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
