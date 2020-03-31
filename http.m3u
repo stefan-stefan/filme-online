@@ -1,10 +1,11 @@
 #EXTM3U
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA HTTP [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORred][B][I]UPDATE 12.12.2019![/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLOR
+yellow][B][I]UPDATE 12.12.2019![/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png",[COLORred][B][I]>>RO-ROMANIA<< [/I][/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png",[COLORblue][B][I]>>RO-ROMANIA<< [/I][/B][/COLOR]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
 #EXTINF:0 tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RndlYmFkbWRpZ2kyNC5yY3MtcmRzLnJv/JTJGd3AtY29udGVudCUyRnVwbG9hZHMl/MkYyMDE5JTJGMDQlMkZEaWdpMjRfSEQu/cG5nJmhhc2g9NTVlNzMxNWFmZThiYmQ0ZjM0YmUwZGU1Njc5NTQzMWQ=.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI 24 HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 https://edge71.rcs-rds.ro/V4-9236255-8d256ae39908965b6d510453502b6e37-1501286594-0-1585692188-492-digi24/digi24/digi24hd.stream/chunklist.m3u8
