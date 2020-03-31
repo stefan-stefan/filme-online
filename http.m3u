@@ -39,7 +39,8 @@ http://193.228.153.231:4240/bysid/40
 #EXTINF:#1  tvg-logo="https://img.favpng.com/11/2/20/antena-3-television-antena-1-broadcasting-dvb-s-png-favpng-3pK1rj6dFpAQRUQdvhMTL3fHR.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 3 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://193.228.153.231:4240/bysid/120
 #EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]ANTENA STAR[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57070
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/chunklist_b400000.m3u8
+
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 
