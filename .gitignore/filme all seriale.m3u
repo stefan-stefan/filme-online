@@ -87,13 +87,7 @@
   <fanart>https://elvortex.com/wp-content/uploads/2019/05/Marvel-Movies.jpg</fanart>
   </dir>
 
-<dir>
-    <title>[COLOR orange][B]*****PLAY SERIALE TV*****[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/seriale%20tv2.m3u</link>
-    <fanart>https://kinosztukwalki.pl/wp-content/uploads/2018/07/serialetv.png</fanart>
-    <thumbnail>https://kinosztukwalki.pl/wp-content/uploads/2018/07/serialetv.png</thumbnail>
-    <summary>Universo Marvel</summary>
-</dir>
+
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]FILME ADULTII(XXX) [/COLOR][/B] [COLOR blue][/COLOR]</title>
