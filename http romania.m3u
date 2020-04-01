@@ -11,14 +11,6 @@
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
-
-<dir>
-    <title>[COLOR blue][B]>>LISTA TV (Stefan)[/COLOR] [COLOR blue] [/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20baza.m3u</link>
-<thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-<fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</dir>
-
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]>>LISTA-ACESTREAM-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
