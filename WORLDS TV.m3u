@@ -123,3 +123,10 @@
     <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
     <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
 </plugin>
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]USA (Lista test)[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://pastebin.com/raw/0NB72Rrc</link>
+    <thumbnail>https://www.kindpng.com/picc/m/107-1076514_transparent-bandera-de-usa-png-american-flag-png.png</thumbnail>
+    <fanart>https://www.kindpng.com/picc/m/107-1076514_transparent-bandera-de-usa-png-american-flag-png.png</fanart>
+</plugin>
+
