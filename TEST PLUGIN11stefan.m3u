@@ -35,6 +35,13 @@
 <fanart>https://cdn3.myket.ir//image/myket/screenshot/com.oceanox.dragons/b777472e-4a41-42a5-83e6-76053fcd8d94.png</fanart>
 </dir>
 
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] SPORT WORLD IPTV[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/sport.m3u</link>
+    <thumbnail>https://imgs4.fontbrain.com/imgs/b2/f0/3f387ab5e9e8146f6fac52cfa22b/pt-720x360-5f5562.png</thumbnail>
+    <fanart>https://img.favpng.com/18/25/12/sports-betting-rugby-football-png-favpng-WjbndiPqsrHtKUim139kfXYZQ.jpg</fanart>
+</plugin>
+
 <dir>
     <title>[COLOR FFff8000][B]»»»»»PLAY[/COLOR] [COLOR blue]MEDIA(Muzica-Filme-Desene)»»»»»[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/STEFAN-STEFAN%20PLUGIN.m3u</link>
