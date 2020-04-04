@@ -28,6 +28,21 @@
   <fanart>https://filmeonline2020.com/wp-content/uploads/2019/10/arcasul.jpg</fanart>
   <summary>Tv Shows</summary>
   </dir>
+  <dir>
+	<title>[COLOR=white]Vikings[/COLOR]</title>
+	<meta>
+	<imdb>tt2306299</imdb>
+	<content>tv</content>
+	<title>Vikings</title>
+	<year>2013</year>
+	</meta>
+	<link>https://pastebin.com/raw/MDSGeVu6</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/94gP9uXNdbypwCLORjeurlad15Z.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/A30ZqEoDbchvE7mCZcSp6TEwB1Q.jpg</fanart>
+	<summary>Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods, legend has it that he was a direct descendant of Odin, the god of war and warriors.
+</summary>
+</dir>
+  
 <dir>
   <title>****[COLOR orange][B]*****PLAY 24H*****[/B][/COLOR] **** </title>
   <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/24H.m3u</link>
@@ -78,6 +93,36 @@
     <thumbnail>https://www.thetvdb.com/banners/posters/268592-30.jpg</thumbnail>
     <fanart>https://www.thetvdb.com/banners/fanart/original/268592-25.jpg</fanart>
     <summary>Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet.
+</summary>
+</dir>
+
+<dir>
+	<title>[COLOR=white]Shameless[/COLOR]</title>
+	<meta>
+	<imdb>tt1586680</imdb>
+	<content>tv</content>
+	<title>Shameless</title>
+	<year>2011</year>
+	</meta>
+	<link>https://pastebin.com/raw/DmFeELRs</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/iRyQTp2L437k6zfFCvZSOWaxQFA.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/zjOj2gnDJYFdYt6R7FtuHn7yrPr.jpg</fanart>
+	<summary>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.
+</summary>
+</dir>
+
+<dir>
+	<title>[COLOR=white]The Good Doctor[/COLOR]</title>
+	<meta>
+	<imdb>tt6470478</imdb>
+	<content>tv</content>
+	<title>The Good Doctor</title>
+	<year>2017</year>
+	</meta>
+	<link>https://pastebin.com/raw/V0TfEtk7</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/z1K4mJwISETia59rrnMdXxzoSrZ.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/hAxZgHqhQl2aWxsrOtVVDlMuD5m.jpg</fanart>
+	<summary>Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital surgical unit. Alone in the world and unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.
 </summary>
 </dir>
 
