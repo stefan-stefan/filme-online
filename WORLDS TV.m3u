@@ -1,3 +1,9 @@
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue] Hayat iptv[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hayatiptv/iptv/master/channels/BDNLTR.m3u</link>
+    <thumbnail>https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png</thumbnail>
+    <fanart>https://w7.pngwing.com/pngs/335/309/png-transparent-hayat-plus-hayat-tv-hayat-music-television-channel-others-miscellaneous-television-text.png</fanart>
+</plugin>
 <dir>
 <title>[COLOR orange][B]UNGARIA[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%20tv.m3u</link>
