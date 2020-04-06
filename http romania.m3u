@@ -12,12 +12,6 @@
 </plugin>
 
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]>>LISTA TV-[/COLOR] [COLOR blue] (2) [/COLOR][/B] [COLOR FFff8000][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/RhcTZuid</link>
-    <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
-<plugin>
     <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-ACESTREAM-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
     <thumbnail>https://logos.flamingtext.com/Name-Logos/Stefan-design-amped-name.png</thumbnail>
