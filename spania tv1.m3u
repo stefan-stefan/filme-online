@@ -1,13 +1,11 @@
 <plugin>
-<title>SPANIA(Local)</title>
-<link>https://raw.githubusercontent.com/yosephplex/iptv/master/regionales.m3u</link>
+<title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]>>SPANIA (Local)[/COLOR][/B] [COLOR blue][/COLOR]</title><link>https://raw.githubusercontent.com/yosephplex/iptv/master/regionales.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</fanart>
 </plugin>
 
 <dir>
-<title>SPANIA(Desene)</title>
-<link>https://github.com/yosephplex/disney/blob/master/iptv.m3u</link>
+<title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]>>SPANIA (Desene animate)[/COLOR][/B] [COLOR blue][/COLOR]</title><link>https://github.com/yosephplex/disney/blob/master/iptv.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png</fanart>
 </dir>
