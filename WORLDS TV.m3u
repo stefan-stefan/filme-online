@@ -12,20 +12,13 @@
     <thumbnail>https://thumbs.dreamstime.com/b/hiszpania-flaga-round-ikona-z-cieniem-103848879.jpg</thumbnail>
     <fanart>https://thumbs.dreamstime.com/b/hiszpania-flaga-round-ikona-z-cieniem-103848879.jpg</fanart>
   </dir>
-
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]ALBANIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/al.m3u</link>
+  
+  <dir>
+   <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]>>IPTV-ALBANIA>>[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ALBANIA.m3u</link>
     <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
-</plugin>
-
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]ALBANIA(test-lista 2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/wDL0RuDY</link>
-    <thumbnail>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</thumbnail>
-    <fanart>https://cdn.pixabay.com/photo/2017/08/18/10/26/albania-2654454_1280.png</fanart>
-</plugin>
+  </dir>
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ARMENIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
