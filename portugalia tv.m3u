@@ -1,9 +1,4 @@
-<dir>
-<title>PORTUGALIA 1</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/portugalia%20lista%202.m3u</link>
-<thumbnail>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</thumbnail>
-<fanart>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</fanart>
-</dir>
+
  
 <plugin>
 <title>PORTUGALIA 2</title>
@@ -18,6 +13,7 @@
     <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
     <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
 </plugin>
+
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]PORTUGAL (4)[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://pastebin.com/raw/Gg3fvRWA</link>
