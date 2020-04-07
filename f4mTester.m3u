@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.romanianlawoffice.com/uploads/default/files/taxes-romania.jpg",======= ROMANIA  =========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3166.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",TVR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="visat-nature.jpg",Viasat Nature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3168.ts
+#EXTINF:-1 tvg-logo="visat-history.jpg",Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3169.ts
+#EXTINF:-1 tvg-logo="visat-explore.jpg",Viasat Explorer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3170.ts
+#EXTINF:-1 tvg-logo="http://www.utv.ro/logo.jpg",U TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3171.ts
+#EXTINF:-1 tvg-logo="tvrhd.jpg",TVR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3172.ts
+#EXTINF:-1 tvg-logo="tvr2.jpg",TVR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3173.ts
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-zf8ohGYdLgY/AAAAAAAAAAI/AAAAAAAAZMw/H8hqyGKLN4I/s0-c-k-no-ns/photo.jpg",TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3174.ts
+#EXTINF:-1 tvg-logo="tv-1000-logo.jpg",TV1000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3175.ts
+#EXTINF:-1 tvg-logo="paprika.jpg",Tv Paprika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3176.ts
+#EXTINF:-1 tvg-logo="http://trinitastv.ro/wp-content/themes/trinitastv/images/logo.png",Trinitas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3177.ts
+#EXTINF:-1 tvg-logo="travel-channel.jpg",Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3178.ts
+#EXTINF:-1 tvg-logo="http://www.tnt.com/content/dam/tnt_express_media/global_media_library/images/ppimages/TNT-Logo.png",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3179.ts
+#EXTINF:-1 tvg-logo="taraf-tv.jpg",Taraf Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3180.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Sport.ro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3181.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Romania Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3182.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Realitatea Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3183.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",ProTv News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3184.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",ProTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3185.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",ProCinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3186.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Prima Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3187.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3188.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3189.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Neptun Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3190.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",National Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3191.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3192.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3193.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Music Channe hu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3194.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Minimax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3195.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Megamax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3196.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Look Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3197.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Look Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3198.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",KISS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3199.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Kanal D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3200.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Hit Music Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3201.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3202.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",HBO Romania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3203.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",HBO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3204.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3205.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3220.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3221.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Animal World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3222.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",DIGI 24 Galati
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3223.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",DIGI 24 Craiova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3224.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3225.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3215.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Cinemax Ro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3226.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Cinemax 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3227.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",B1 Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3228.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3229.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3230.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3231.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Happy Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3206.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Fishing & Hunting
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3207.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Etno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3210.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3214.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3219.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3218.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3217.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Digi Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3216.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Dolce Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3213.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Dolce Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3212.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Dolce Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3211.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3209.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3208.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Antena Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3232.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3233.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Antena 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3234.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Agro TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3235.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Acasa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3236.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Acasa in Moldova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3237.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",Acasa Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3238.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",6 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3239.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",1 Music Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3240.ts
+#EXTINF:-1 tvg-logo="tvr1.jpg",TVR 1
+http://globetv.dyndns.tv:777/live/arsim2/arsim2/3167.ts
