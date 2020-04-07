@@ -2,13 +2,16 @@
 #EXTINF:-1 tvg-logo="http://www.romanianlawoffice.com/uploads/default/files/taxes-romania.jpg",======= ROMANIA  =========
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3166.ts
 #EXTINF:-1 tvg-logo="tvr1.jpg",TVR 1(test)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ddns.info:1578/live/bitrate/bitrate/3.ts
+
 #EXTINF:-1 tvg-logo="visat-nature.jpg",Viasat Nature(test)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ddns.info:1578/live/bitrate/bitrate/3.ts
+
 #EXTINF:-1 tvg-logo="visat-history.jpg",Viasat History
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3169.ts
 #EXTINF:-1 tvg-logo="visat-explore.jpg",Viasat Explorer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3170.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.ddns.info:1578/live/bitrate/bitrate/4.ts
+
 #EXTINF:-1 tvg-logo="http://www.utv.ro/logo.jpg",U TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3171.ts
 #EXTINF:-1 tvg-logo="tvrhd.jpg",TVR HD
