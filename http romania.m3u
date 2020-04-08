@@ -4,6 +4,13 @@
     <fanart>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</fanart>
 </item>
 
+<plugin>
+    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-ACESTREAM-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
+</plugin>
+
 <dir>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV (1) [/COLOR][/B]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/lista%20http%20baza.m3u</link>
@@ -23,14 +30,6 @@
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
-
-<plugin>
-    <title>[COLOR deeppink][/COLOR] [B][COLOR deeppink][/COLOR] [COLOR deeppink]>>LISTA-ACESTREAM-SOPCAST[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://www.androidaba.com/wp-content/uploads/2016/04/acestream-sopcast-by-aba.jpg</fanart>
-</plugin>
-
 
 
 <plugin>
