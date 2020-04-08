@@ -26,6 +26,21 @@
         <imdb></imdb>
     </meta>
 </item>
+<item>
+    <title> Redcore Linux -Un Gentoo Romanesc </title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=Z5tGlgxates</sublink>
+    </link>
+<thumbnail>https://edpsblog.files.wordpress.com/2018/05/instalando.png</thumbnail>
+<fanart>https://edpsblog.files.wordpress.com/2018/05/instalando.png</fanart> 
+<content>movie</content>
+    <meta>
+        <title>Invata Linux # 0</title>
+        <year>2020</year>
+        <imdb></imdb>
+    </meta>
+</item>
+
 
 <item>
     <title>Linux Mint - Prezentare</title>
