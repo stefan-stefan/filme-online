@@ -13,7 +13,7 @@
     </meta>
 </item>
 <item>
-    <title>Linux Ep. 1</title>
+    <title>Invata Linux Ep. 1</title>
     <link>
         <sublink>https://www.youtube.com/watch?v=w2LKW2oJwWk&vl=ro</sublink>
     </link>
@@ -26,3 +26,22 @@
         <imdb></imdb>
     </meta>
 </item>
+
+<item>
+    <title>Invata Linux Ep. 2</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=av72UQDxVic</sublink>
+    </link>
+<thumbnail>https://i.ytimg.com/vi/w2LKW2oJwWk/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/w2LKW2oJwWk/hqdefault.jpg</fanart> 
+<content>movie</content>
+    <meta>
+        <title>Linux Ep. 1</title>
+        <year>2020</year>
+        <imdb></imdb>
+    </meta>
+</item>
+
+
+
+
