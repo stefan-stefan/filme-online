@@ -15,25 +15,25 @@ http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33761.m3u8
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33765.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33764.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33772.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33771.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33785.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33787.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33782.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 TV"  group-title="Generale",B1 Tv
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 TV"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
 http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea plus"  group-title="Stiri",Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
