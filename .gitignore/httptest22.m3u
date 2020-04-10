@@ -45,7 +45,7 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33767.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33766.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit.ro"  group-title="Stiri",Profit TV
+#EXTINF:0 tvg-logo="tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit.ro"  group-title="Stiri",Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
@@ -63,7 +63,7 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33800.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33799.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33802.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
+#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33801.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33804.m3u8
@@ -434,7 +434,7 @@ https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 #EXTINF:0 tvg-logo="tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV"  group-title="Muzica",Diaspora TV
 http://ch.iptvmate.net/22c91b242794817fc5830052c8ef9315.m3u8
-#EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
+#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://78.109.108.62:6010/favorit
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33914.m3u8
@@ -492,11 +492,11 @@ http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png" tvg-name="Canal Regional"  group-title="Locale",Canal Regional
 https://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
+#EXTINF:0 tvg-logo="tvg-logo="tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34100.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
+#EXTINF:0 tvg-logo="tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/normal.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/ee3a3d059b0289892dd9b6466488c101.png" tvg-name="Exotica(18+)"  group-title="Erotice",Exotica(18+)
 http://live.redtraffic.xyz/interracial.m3u8
