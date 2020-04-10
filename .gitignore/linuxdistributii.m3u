@@ -55,4 +55,19 @@
         <imdb></imdb>
     </meta>
 </item>
+<item>
+    <title>Academix - Special pentru educatie</title>
+    <link>
+        <sublink>https://www.youtube.com/watch?v=qA7BWpD8JgY</sublink>
+    </link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_AcademiX.svg/1200px-Logo_AcademiX.svg.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_AcademiX.svg/1200px-Logo_AcademiX.svg.png</fanart> 
+<content>movie</content>
+    <meta>
+        <title>Invata Linux # 0</title>
+        <year>2020</year>
+        <imdb></imdb>
+    </meta>
+</item>
+
 
