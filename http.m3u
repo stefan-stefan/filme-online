@@ -81,6 +81,18 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33838.m3u8
 
 
+ #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]FILM BOX[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33855.m3u8
+
+ #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Filmbox_extra_pl.png/1200px-Filmbox_extra_pl.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Filmbox Extra[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33854.m3u8
+
+ #EXTINF:#1  tvg-logo="https://img.favpng.com/3/3/22/filmbox-premium-hd-television-channel-filmbox-live-png-favpng-rCYa0mCShLnDiWvYzA1ExrXbP.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]Filmbox Premium[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33856.m3u8
+
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
 
