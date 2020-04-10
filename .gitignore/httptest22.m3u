@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://bit.ly/epg-ro"
-#EXTINF:-1,TVR 1
+#EXTM3U 
+
 #EXTINF:-1,TVR 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
 
