@@ -13,7 +13,7 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33761.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33765.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33764.m3u8
