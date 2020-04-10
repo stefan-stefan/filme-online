@@ -106,13 +106,13 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
  #EXTINF:#1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AMC[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
 **************************************************************
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
+ #EXTINF:#1  tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0MS5wbmcm/aGFzaD0yYjljZDUzNDQ0NjM0OTQ5NWE3MzZhMGVhYmI2ZWY1Yw==.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI SPORT 1[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33798.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
+ #EXTINF:#1  tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0MS5wbmcm/aGFzaD0yYjljZDUzNDQ0NjM0OTQ5NWE3MzZhMGVhYmI2ZWY1Yw==.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI SPORT 1[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33797.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
+ #EXTINF:#1  tvg-logo="https://img2.freepng.es/20180616/jf/kisspng-digi-sport-3-hd-sport1-digi-tv-sport1-5b254769457ec4.6432603415291697692847.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI SPORT 2[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33800.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
+ #EXTINF:#1  tvg-logo="https://img2.freepng.es/20180616/jf/kisspng-digi-sport-3-hd-sport1-digi-tv-sport1-5b254769457ec4.6432603415291697692847.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI SPORT 2[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33799.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33802.m3u8
