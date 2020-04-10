@@ -9,9 +9,9 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
 
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e.png" tvg" group-title="Generale",TVR 2
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" group-title="Generale",Pro TV
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" group-title="Generale",Pro TV
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33761.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33765.m3u8
