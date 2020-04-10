@@ -77,6 +77,9 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33844.m3u8
 
  #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]CINEMAX [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
+ #EXTINF:#1  tvg-logo="https://banner2.cleanpng.com/20180617/frv/kisspng-viasat-film-tv1000-action-east-tv1000-russkoe-kino-national-geographic-animal-jam-5b2644dab40239.2022056515292346507373.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TV 1000[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33838.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
@@ -100,8 +103,6 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57110
 #EXTINF:-1 tvg-ID="" tvg-name="RO: TV PAPRIKA" tvg-logo="" group-title="EU ROMANIA",RO: TV PAPRIKA
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57111
 
-#EXTINF:-1 tvg-ID="" tvg-name="RO: TV 1000" tvg-logo="" group-title="EU ROMANIA",RO: TV 1000
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57114
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: CINEMA =====" tvg-logo="" group-title="EU ROMANIA",===== RO: CINEMA =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57125
