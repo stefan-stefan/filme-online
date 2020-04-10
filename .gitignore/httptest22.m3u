@@ -85,59 +85,59 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33808.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36709.m3u8
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/8b6065c03e02d5f6c6eb6f9fc39c6047.png" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36709.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33811.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport HD"  group-title="Sport",Eurosport 1 HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport HD"  group-title="Sport",Eurosport 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33810.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33813.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1658.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="PRO X"  group-title="Sport",PRO X
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="PRO X"  group-title="Sport",PRO X
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33818.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33814.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport HD
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1669.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="LOOK SPORT 2"  group-title="Sport",Look Sport 2
+#EXTINF:0 tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="LOOK SPORT 2"  group-title="Sport",Look Sport 2
 http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:0 tvg-logo="tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport3.png" tvg-name="LOOK SPORT 3"  group-title="Sport",Look Sport 3
+#EXTINF:0 tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport3.png" tvg-name="LOOK SPORT 3"  group-title="Sport",Look Sport 3
 http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS"  group-title="Sport",Look Plus
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS"  group-title="Sport",Look Plus
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33816.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33815.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
+#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33916.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33832.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33835.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33834.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
+#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33836.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Marvel Movies HD"  group-title="Filme",VSV Marvel Movies HD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Marvel Movies HD"  group-title="Filme",VSV Marvel Movies HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/51126.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Collection HD"  group-title="Filme",VSV Collection HD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Collection HD"  group-title="Filme",VSV Collection HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/51125.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Christmas HD"  group-title="Filme",VSV Christmas HD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Christmas HD"  group-title="Filme",VSV Christmas HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38407.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema 4K"  group-title="Filme",VSV Cinema 4K
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema 4K"  group-title="Filme",VSV Cinema 4K
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38772.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema FHD"  group-title="Filme",VSV Cinema FHD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema FHD"  group-title="Filme",VSV Cinema FHD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38253.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Action HD"  group-title="Filme",VSV Action HD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Action HD"  group-title="Filme",VSV Action HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38769.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Comedy HD"  group-title="Filme",VSV Comedy HD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Comedy HD"  group-title="Filme",VSV Comedy HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38206.m3u8
-#EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Horror HD"  group-title="Filme",VSV Horror HD
+#EXTINF:0 tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Horror HD"  group-title="Filme",VSV Horror HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38252.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Sci-Fi HD"  group-title="Filme",VSV Sci-Fi HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38394.m3u8
