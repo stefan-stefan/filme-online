@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA HTTP [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]UPDATE (Lista in lucru!) [/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]UPDATE (10-04-2020) [/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png",[COLORblue][B][I]>>RO-ROMANIA<< [/I][/B][/COLOR]
