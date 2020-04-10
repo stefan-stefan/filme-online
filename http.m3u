@@ -52,7 +52,7 @@ https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 
 
-#EXTINF:0 tvg-logo="https://stvron.com/canale/512/pro-gold.pngg"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO GOLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+#EXTINF:0 tvg-logo="https://stvron.com/canale/512/pro-gold.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO GOLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 
 
