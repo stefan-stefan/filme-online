@@ -50,6 +50,12 @@ https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+
+
+#EXTINF:0 tvg-logo="https://stvron.com/canale/512/pro-gold.pngg"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO GOLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+
+
 #EXTINF:0 tvg-logo="https://inforadiotv.ro/wp-content/uploads/2017/07/DigiWorld_despre-lume-digi-world.tv_.jpg"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI WORLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
 
@@ -126,8 +132,7 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57125
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="RO: PRO GOLD" tvg-logo="" group-title="EU ROMANIA",RO: PRO GOLD
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57133
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: PRO CINEMA" tvg-logo="" group-title="EU ROMANIA",RO: PRO CINEMA
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57134
 #EXTINF:-1 tvg-ID="" tvg-name="RO: MEGAMAX" tvg-logo="" group-title="EU ROMANIA",RO: MEGAMAX
