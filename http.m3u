@@ -69,14 +69,17 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33832.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33835.m3u8
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 3 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
+
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/TNT_%28TV_Channel%29.svg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TNT[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33852.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
 
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="RO: TNT RO" tvg-logo="" group-title="EU ROMANIA",RO: TNT RO
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57101
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: NGRO" tvg-logo="" group-title="EU ROMANIA",RO: NGRO
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57102
 
