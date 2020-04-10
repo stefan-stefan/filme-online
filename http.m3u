@@ -104,10 +104,16 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33831.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
 
 
+#EXTINF:0, tvg-id=" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: AMC" tvg-logo="" group-title="EU ROMANIA",RO: AMC
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57139
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
-
-
 
 
 
@@ -143,8 +149,7 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57136
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57137
 #EXTINF:-1 tvg-ID="" tvg-name="RO: BOLLYWOOD TV" tvg-logo="" group-title="EU ROMANIA",RO: BOLLYWOOD TV
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57138
-#EXTINF:-1 tvg-ID="" tvg-name="RO: AMC" tvg-logo="" group-title="EU ROMANIA",RO: AMC
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57139
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: DISCOVERY =====" tvg-logo="" group-title="EU ROMANIA",===== RO: DISCOVERY =====
