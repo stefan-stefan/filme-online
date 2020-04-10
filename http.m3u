@@ -116,7 +116,7 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33800.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33799.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33802.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
+#EXTINF:-1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33801.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33804.m3u8
@@ -162,7 +162,7 @@ http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33816.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33815.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
+#EXTINF:-1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33916.m3u8
 
 #EXTINF:#1 tvg-logo="tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
@@ -195,7 +195,7 @@ http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33875.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33875.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33878.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
+#EXTINF:-1 tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33880.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
