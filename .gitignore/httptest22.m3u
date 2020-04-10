@@ -109,7 +109,7 @@ http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33816.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33815.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
+#EXTINF:0 tvg-logo="tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Sport",Fight Box HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33916.m3u8
 #EXTINF:0 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
@@ -298,7 +298,7 @@ http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33875.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33875.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33878.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
+#EXTINF:0 tvg-logo="tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33880.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
@@ -398,9 +398,9 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33860.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33866.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38428.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
+#EXTINF:0 tvg-logo="tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33868.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
+#EXTINF:0 tvg-logo="tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33908.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33907.m3u8
@@ -422,7 +422,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?sta
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
 #EXTINF:#1 tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz Hits"  group-title="Muzica",Mooz Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz RO"  group-title="Muzica",Mooz RO
+#EXTINF:0 tvg-logo="tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz RO"  group-title="Muzica",Mooz RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:#1 tvg-logo="https://www.telemusica.tv/images/logotelemusicahit.png" tvg-name="Tele Musica"  group-title="Muzica",Tele Musica
 http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
