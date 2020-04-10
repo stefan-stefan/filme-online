@@ -73,6 +73,12 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/TNT_%28TV_Channel%29.svg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TNT[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33852.m3u8
 
+ #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Cinemax2.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]CINEMAX 2[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33844.m3u8
+
+ #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]CINEMAX [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
 
@@ -101,10 +107,7 @@ http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57114
 #EXTINF:-1 tvg-ID="" tvg-name="===== RO: CINEMA =====" tvg-logo="" group-title="EU ROMANIA",===== RO: CINEMA =====
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57125
 
-#EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMAX 2" tvg-logo="" group-title="EU ROMANIA",RO: CINEMAX 2
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57126
-#EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMAX" tvg-logo="" group-title="EU ROMANIA",RO: CINEMAX
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57127
+
 #EXTINF:-1 tvg-ID="" tvg-name="RO: FILMBOX PREMIUM" tvg-logo="" group-title="EU ROMANIA",RO: FILMBOX PREMIUM
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57128
 #EXTINF:-1 tvg-ID="" tvg-name="RO: FILMBOX EXTRA HD" tvg-logo="" group-title="EU ROMANIA",RO: FILMBOX EXTRA HD
