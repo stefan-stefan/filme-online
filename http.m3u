@@ -106,6 +106,10 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
  #EXTINF:#1  tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AMC[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
 **************************************************************
+#EXTINF: 0 tvg-logo="https://img.favpng.com/18/25/12/sports-betting-rugby-football-png-favpng-WjbndiPqsrHtKUim139kfXYZQ.jpg",[COLORyellow][B][I]SPORT [/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+
+
 
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33798.m3u8
@@ -163,8 +167,10 @@ http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33816.m3u8
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33815.m3u8
-
-
+********************
+#EXTINF: 0 tvg-logo="https://www.next-gen.ro/_res/media/HD/Slide_-Documentarer_stire-site_2020-FEB.png",[COLORyellow][B][I]DOCUMENTARE[/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+******************************
 #EXTINF:#1 tvg-logo="tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:#1 tvg-logo="tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
