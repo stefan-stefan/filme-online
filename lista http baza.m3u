@@ -1,9 +1,10 @@
 
-<item>
-<title>ACEASTA LISTA NU MAI ESTE ACTUALIZATA</title>
-<thumbnail>https://image.spreadshirtmedia.net/image-server/v1/compositions/T812A2PA3811PT17X65Y86D137589456FS9900/views/1,width=650,height=650,appearanceId=39,backgroundColor=ffffff/old-tv-no-signal-screen.jpg</thumbnail>
-<fanart>https://w0.pngwave.com/png/877/941/logo-brand-font-no-signal-png-clip-art.png</fanart>
-</item>
+<plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV ( 1)-[COLOR yellow](Update 10-04-2020) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/http.m3u</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
 
 
 
