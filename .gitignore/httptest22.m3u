@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA HTTP[/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]UPDATE 11-04-2020[/I][/B][/COLOR]
+#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]UPDATE- (11-04-2020)[/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:0 tvg-logo="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xyu1yKB.png" group-title="",TVR 
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
