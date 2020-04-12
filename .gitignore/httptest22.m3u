@@ -4,9 +4,7 @@
 http://89.136.209.26:1935/l
 #EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]PASTE FERICIT VA DORESC!![/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTINF:0 tvg-logo="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xyu1yKB.png" group-title="",TVR 1http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e.png" tvg" group-title="Generale",TVR 2
+#EXTINF:0 tvg-logo="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xyu1yKB.png" group-title="",TVR 
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" group-title="Generale",Pro TV
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
