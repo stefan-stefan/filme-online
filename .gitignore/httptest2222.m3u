@@ -13,7 +13,7 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
 #EXTINF:0 ,PRO TV HD
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33761.m3u8
-ANTENA 1
+#EXTINF:0 ,ANTENA 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33765.m3u8
 #EXTINF:0 ,ANTENA 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33764.m3u8
