@@ -1,7 +1,18 @@
 
 #EXTINF:0 ,Digi 24 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
-
+#EXTINF:0 ,6 TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 ,TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0 ,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0 ,TVR International
+https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
+#EXTINF:0 ,PRO TV International
+http://78.109.108.62:2001/protv
+#EXTINF:0 ,Tele III
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0 ,TVR 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
 #EXTINF:0 ,TVR 2
@@ -370,18 +381,6 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33871.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33872.m3u8
 #EXTINF:0 ,IDA TV HD
 https://tinyurl.com/y9k7rbje
-#EXTINF:0 ,6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 ,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0 ,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0 ,TVR International
-https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
-#EXTINF:0 ,PRO TV International
-http://78.109.108.62:2001/protv
-#EXTINF:0 ,Tele III
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0 ,Cartoon Network
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33864.m3u8
 #EXTINF:0 ,Disney Channel
