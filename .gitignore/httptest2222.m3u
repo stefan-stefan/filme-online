@@ -303,8 +303,9 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33875.m3u8
 #EXTINF:0 ,Discovery ShowCase HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33878.m3u8
 #EXTINF:0 ,Crime Investigation
+#EXTINF:0 ,Digi World
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33880.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
+#EXTINF:0 ,Digi World
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33899.m3u8
