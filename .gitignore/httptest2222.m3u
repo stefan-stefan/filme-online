@@ -1,4 +1,7 @@
 
+#EXTINF:0 ,Digi 24 HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
+
 #EXTINF:0 ,TVR 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
 #EXTINF:0 ,TVR 2
@@ -27,8 +30,6 @@ http://stream.adunity.com/b1/b1.m3u8
 http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:0 ,Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 ,Digi 24 HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
 #EXTINF:0 ,Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0 ,Romania TV
