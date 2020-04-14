@@ -47,6 +47,66 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LI
 http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
 #EXTINF:0 ,Info HD
 https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8
+#EXTINF:0 ,Film Now
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33831.m3u8
+#EXTINF:0 ,Film Now HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34066.m3u8
+#EXTINF:0 ,Comedy Central
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33840.m3u8
+#EXTINF:0 ,AXN
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33847.m3u8
+#EXTINF:0 ,AXN HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33846.m3u8
+#EXTINF:0 ,AXN White
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33848.m3u8
+#EXTINF:0 ,AXN Black
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33849.m3u8
+#EXTINF:0 ,AXN Spin
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33850.m3u8
+#EXTINF:0 ,Cinemax
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
+#EXTINF:0 ,Cinemax 2
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33844.m3u8
+#EXTINF:0 ,Diva Universal
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33839.m3u8
+#EXTINF:0 ,Paramount Channel
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33841.m3u8
+#EXTINF:0 ,TV 1000
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33838.m3u8
+#EXTINF:0 ,AMC
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
+#EXTINF:0 ,TNT
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33852.m3u8
+#EXTINF:0 ,Film Cafe
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
+#EXTINF:0 ,Epic Drama
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33859.m3u8
+#EXTINF:0 ,Cinemaraton
+https://cmn.digitalcable.ro/free/cm/playlist.m3u8
+#EXTINF:0 ,Comedy Est
+https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
+#EXTINF:0 ,Film Box
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33855.m3u8
+#EXTINF:0 ,Film Box Extra HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33854.m3u8
+#EXTINF:0 ,Film Box Premium
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33856.m3u8
+#EXTINF:0 ,Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0 ,PRO 2
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33774.m3u8
+#EXTINF:0 ,PRO 2 HD
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 ,PRO Gold
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0 ,Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 ,Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0 ,Digi 4K
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
+
+
 #EXTINF:0 ,Filme",HBO
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
 #EXTINF:0 ,HBO HD
@@ -206,64 +266,6 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50719.m3u8
 #EXTINF:0 ,Timeless Drama Channel HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50718.m3u8
 ****************************************************
-#EXTINF:0 ,Film Now
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33831.m3u8
-#EXTINF:0 ,Film Now HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34066.m3u8
-#EXTINF:0 ,Comedy Central
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33840.m3u8
-#EXTINF:0 ,AXN
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33847.m3u8
-#EXTINF:0 ,AXN HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33846.m3u8
-#EXTINF:0 ,AXN White
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33848.m3u8
-#EXTINF:0 ,AXN Black
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33849.m3u8
-#EXTINF:0 ,AXN Spin
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33850.m3u8
-#EXTINF:0 ,Cinemax
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
-#EXTINF:0 ,Cinemax 2
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33844.m3u8
-#EXTINF:0 ,Diva Universal
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33839.m3u8
-#EXTINF:0 ,Paramount Channel
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33841.m3u8
-#EXTINF:0 ,TV 1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33838.m3u8
-#EXTINF:0 ,AMC
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
-#EXTINF:0 ,TNT
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33852.m3u8
-#EXTINF:0 ,Film Cafe
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
-#EXTINF:0 ,Epic Drama
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33859.m3u8
-#EXTINF:0 ,Cinemaraton
-https://cmn.digitalcable.ro/free/cm/playlist.m3u8
-#EXTINF:0 ,Comedy Est
-https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:0 ,Film Box
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33855.m3u8
-#EXTINF:0 ,Film Box Extra HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33854.m3u8
-#EXTINF:0 ,Film Box Premium
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33856.m3u8
-#EXTINF:0 ,Pro Cinema
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:0 ,PRO 2
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33774.m3u8
-#EXTINF:0 ,PRO 2 HD
-https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
-#EXTINF:0 ,PRO Gold
-https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:0 ,Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 ,Bollywood Classic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 ,Digi 4K
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
 #EXTINF:0 ,Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF: 0 tvg-logo="https://www.forbes.ro/wp-content/uploads/2015/07/DOQ-Channel-622x350.jpg",[COLORred][B][I]DOCUMENTARE[/I][/B][/COLOR]
