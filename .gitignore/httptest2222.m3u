@@ -37,6 +37,22 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33779.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33767.m3u8
 #EXTINF:0 ,Antena 3 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33766.m3u8
+#EXTINF:0 ,Antena Stars
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33769.m3u8
+#EXTINF:0 ,Antena Stars HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33768.m3u8
+#EXTINF:0 ,Happy Channel
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33776.m3u8
+#EXTINF:0 ,Happy Channel HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33776.m3u8
+#EXTINF:0 ,Cook and Play
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:0 ,Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0 ,Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+
+
 #EXTINF:0 ,CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
 #EXTINF:0 ,Profit TV
@@ -353,20 +369,6 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33871.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33872.m3u8
 #EXTINF:0 ,IDA TV HD
 https://tinyurl.com/y9k7rbje
-#EXTINF:0 ,Antena Stars
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33769.m3u8
-#EXTINF:0 ,Antena Stars HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33768.m3u8
-#EXTINF:0 ,Happy Channel
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33776.m3u8
-#EXTINF:0 ,Happy Channel HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33776.m3u8
-#EXTINF:0 ,Cook and Play
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:0 ,Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0 ,Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
 #EXTINF:0 ,6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 ,TVR HD
