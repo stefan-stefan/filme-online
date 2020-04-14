@@ -268,7 +268,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 ,Digi 4K
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
+#EXTINF:0 ,Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 *****************************************************************
 #EXTINF: 0 tvg-logo="https://www.forbes.ro/wp-content/uploads/2015/07/DOQ-Channel-622x350.jpg",[COLORred][B][I]DOCUMENTARE[/I][/B][/COLOR]
@@ -307,31 +307,31 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33878.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33880.m3u8
 #EXTINF:0 ,Digi World
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
+#EXTINF:0 ,Digi World HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33899.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
+#EXTINF:0 ,Digi Life
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33902.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Wild",Digi Life HD
+#EXTINF:0 ,Digi Life HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33901.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
+#EXTINF:0 ,Digi Animal World
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33898.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
+#EXTINF:0 ,Digi Animal World HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33897.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
+#EXTINF:0 ,BBC Earth
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33892.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox HD"  group-title="Wild",DocuBox HD
+#EXTINF:0 ,DocuBox HD
 http://217.115.112.137:8123/play/a02y/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
+#EXTINF:0 ,CBS Reality
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33894.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
+#EXTINF:0 ,Fine Living
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33873.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="The Fishing &amp; Hunting Channel"  group-title="Wild",Fishing&Hunting
+#EXTINF:0 ,Fishing&Hunting
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33874.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
+#EXTINF:0 ,E! Entertainment
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33877.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
+#EXTINF:0 ,E! Entertainment HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33876.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
+#EXTINF:0 ,Travel Mix
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33889.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33887.m3u8
