@@ -218,87 +218,91 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34066.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33840.m3u8
 #EXTINF:0 ,AXN
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33847.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
+#EXTINF:0 ,AXN HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33846.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
+#EXTINF:0 ,AXN White
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33848.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
+#EXTINF:0 ,AXN Black
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33849.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
+#EXTINF:0 ,AXN Spin
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33850.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="CineMAX"  group-title="Filme",Cinemax
+#EXTINF:0 ,Cinemax
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
+#EXTINF:0 ,Cinemax 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33844.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva"  group-title="Filme",Diva Universal
+#EXTINF:0 ,Diva Universal
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33839.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
+#EXTINF:0 ,Paramount Channel
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33841.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV1000"  group-title="Filme",TV 1000
+#EXTINF:0 ,TV 1000
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33838.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
+#EXTINF:0 ,AMC
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png" tvg-name="TNT"  group-title="Filme",TNT
+#EXTINF:0 ,TNT
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33852.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/da2ee3322bdd3034a556858ec706e70e.png" tvg-name="FILMCAFE"  group-title="Filme",Film Cafe
+#EXTINF:0 ,Film Cafe
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b818b960f3a29fbd8c315e0c2d58848d.png" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
+#EXTINF:0 ,Epic Drama
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33859.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton HD"  group-title="Filme",Cinemaraton
+#EXTINF:0 ,Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
+#EXTINF:0 ,Comedy Est
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Filmbox"  group-title="Filme",Film Box
+#EXTINF:0 ,Film Box
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33855.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/46d799bd756a044c4e38bcca61096fe9.png" tvg-name="FilmBox Extra HD"  group-title="Filme",Film Box Extra HD
+#EXTINF:0 ,Film Box Extra HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33854.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b968071e468696313ea4dea83d62b77b.png" tvg-name="Filmbox Premium"  group-title="Filme",Film Box Premium
+#EXTINF:0 ,Film Box Premium
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33856.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" tvg-name="PRO CINEMA"  group-title="Filme",Pro Cinema
+#EXTINF:0 ,Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
+#EXTINF:0 ,PRO 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33774.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
+#EXTINF:0 ,PRO 2 HD
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO GOLD"  group-title="Filme",PRO Gold
+#EXTINF:0 ,PRO Gold
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
+#EXTINF:0 ,Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classics"  group-title="Filme",Bollywood Classic
+#EXTINF:0 ,Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bizbrasov.ro/wp-content/uploads/2018/10/Digi-4K.jpg?resize=640%2C352" tvg-name="Digi 4K"  group-title="Wild",Digi 4K
+#EXTINF:0 ,Digi 4K
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
+*****************************************************************
+#EXTINF: 0 tvg-logo="https://www.forbes.ro/wp-content/uploads/2015/07/DOQ-Channel-622x350.jpg",[COLORred][B][I]DOCUMENTARE[/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+
+#EXTINF:0 ,Animal Planet
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33884.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
+#EXTINF:0 ,Animal Planet HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33883.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
+#EXTINF:0 ,National Geographic
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38416.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
+#EXTINF:0 ,National Geographic HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38417.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
+#EXTINF:0 ,Nat Geo Wild
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33886.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
+#EXTINF:0 ,Nat Geo Wild HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33882.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
+#EXTINF:0 ,Discovery Channel
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33879.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
+#EXTINF:0 ,Discovery Science
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/3708.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
+#EXTINF:0 ,Discovery Science HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34078.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
+#EXTINF:0 ,Discovery ID
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33881.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
+#EXTINF:0 ,Discovery ID HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38427.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
+#EXTINF:0 ,Discovery Turbo Extra
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33875.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
+#EXTINF:0 ,Discovery Turbo Extra HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33875.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
+#EXTINF:0 ,Discovery ShowCase HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33878.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
+#EXTINF:0 ,Crime Investigation
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33880.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
