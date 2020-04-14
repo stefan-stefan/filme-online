@@ -97,11 +97,11 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33813.m3u8
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1658.m3u8
 #EXTINF:0 ,PRO X
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33818.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
+#EXTINF:0 ,Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport
+#EXTINF:0 ,Look Sport
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33814.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport HD
+#EXTINF:0 ,Look Sport HD
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1669.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="LOOK SPORT 2"  group-title="Sport",Look Sport 2
 http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level%282306867%29?start=LIVE&end=END
