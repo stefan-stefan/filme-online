@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1 Full HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/antena-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">PRO TV HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/pro-tv-hd.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="PRO TV">
+    <display-name lang="ro">PRO TV Full HD</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/pro-tv.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
