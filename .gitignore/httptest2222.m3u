@@ -4,9 +4,7 @@
 http://89.136.209.26:1935/l
 #EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]UPDATE- (13-04-2020)[/I][/B][/COLOR]
 http://89.136.209.26:1935/l
-#EXTM3U url-tvg="http://bit.ly/epg-ro"
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+******************************************************
 #EXTINF:0 ,TVR 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
 #EXTINF:0 ,TVR 2
