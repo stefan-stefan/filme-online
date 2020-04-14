@@ -27,29 +27,29 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33785.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33787.m3u8
 #EXTINF:0 ,NATIONAL 24 PLUS
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33782.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 TV"  group-title="Generale",B1 Tv
+#EXTINF:0 ,B1 TV
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
+#EXTINF:0 ,ProTV News
 http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
+#EXTINF:0 ,Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
+#EXTINF:0 ,Digi 24 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea plus"  group-title="Stiri",Realitatea Plus
+#EXTINF:0 ,Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="România TV"  group-title="Stiri",Romania TV
+#EXTINF:0 ,Romania TV
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33779.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
+#EXTINF:0 ,Antena 3
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33767.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
+#EXTINF:0 ,Antena 3 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33766.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
+#EXTINF:0 ,CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0 ,tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit.ro"  group-title="Stiri",Profit TV
+#EXTINF:0 ,Profit TV
 https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
+#EXTINF:0 ,Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
+#EXTINF:0 ,Nasul TV
 http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
 #EXTINF:0 ,tvg-id="" tvg-logo="https://stvron.com/canale/512/info-hd-deva.png" tvg-name="Info HD"  group-title="Stiri",Info HD
 https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8
