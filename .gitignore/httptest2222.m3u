@@ -47,6 +47,19 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LI
 http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
 #EXTINF:0 ,Info HD
 https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8
+#EXTINF:0 ,Filme",HBO
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
+#EXTINF:0 ,HBO HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33832.m3u8
+#EXTINF:0 ,HBO 2
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33835.m3u8
+#EXTINF:0 ,HBO 2 HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33834.m3u8
+#EXTINF:0 ,HBO 3
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
+#EXTINF:0 ,HBO 3 HD
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33836.m3u8
+
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/1024px-Sport_balls.svg.png",[COLORred][B][I]SPORT[/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:0 ,Digi Sport1
@@ -107,18 +120,7 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33816.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33815.m3u8
 #EXTINF:0 ,Fight Box HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33916.m3u8
-#EXTINF:0 ,Filme",HBO
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
-#EXTINF:0 ,HBO HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33832.m3u8
-#EXTINF:0 ,HBO 2
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33835.m3u8
-#EXTINF:0 ,HBO 2 HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33834.m3u8
-#EXTINF:0 ,HBO 3
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
-#EXTINF:0 ,HBO 3 HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33836.m3u8
+
 #EXTINF:0 ,VSV Marvel Movies HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/51126.m3u8
 #EXTINF:0 ,VSV Collection HD
