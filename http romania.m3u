@@ -18,19 +18,20 @@
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
-
 <plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR orange]LISTA TV(2)  [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/httplistatv2xxx.m3u</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
-<plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA-TV-[COLOR yellow](3) [/COLOR][/B]</title>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]LISTA-TV-(2)[COLOR yellow](Update 14-04-2020) [/COLOR][/B]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest2222.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
+
+<plugin>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR orange]LISTA TV(3)  [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/httplistatv2xxx.m3u</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
+
 
 <plugin>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV (kokosh)-[COLOR yellow](Update 14-04-2020) [/COLOR][/B]</title>
