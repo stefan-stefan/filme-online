@@ -51,9 +51,11 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 ,Nasul TV
 http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://stvron.com/canale/512/info-hd-deva.png" tvg-name="Info HD"  group-title="Stiri",Info HD
+#EXTINF:0 ,Info HD
 https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8
-#EXTINF:0 ,tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
+#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/1024px-Sport_balls.svg.png",[COLORred][B][I]SPORT[/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+#EXTINF:0 ,Digi Sport1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33798.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33797.m3u8
