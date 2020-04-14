@@ -1,4 +1,5 @@
-
+#EXTINF:0 ,Digi 4K
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
 #EXTINF:0 ,Digi 24 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
 #EXTINF:0 ,6 TV
@@ -63,8 +64,6 @@ http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:0 ,Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-
-
 #EXTINF:0 ,CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
 #EXTINF:0 ,Profit TV
@@ -131,10 +130,6 @@ https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 ,Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 ,Digi 4K
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
-
-
 #EXTINF:0 ,Filme",HBO
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
 #EXTINF:0 ,HBO HD
@@ -147,7 +142,6 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33834.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
 #EXTINF:0 ,HBO 3 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33836.m3u8
-
 #EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/1024px-Sport_balls.svg.png",[COLORred][B][I]SPORT[/I][/B][/COLOR]
 http://89.136.209.26:1935/l
 #EXTINF:0 ,Digi Sport1
