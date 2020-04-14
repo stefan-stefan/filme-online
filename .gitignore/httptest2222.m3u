@@ -171,51 +171,52 @@ http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48207.m3u8
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48206.m3u8
 #EXTINF:0 ,Magura Media Sylvester Stallone
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38771.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media van Damme"  group-title="Filme",Magura Media van Damme
+#EXTINF:0 ,Filme",Magura Media van Damme
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37417.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Keanu Reeves"  group-title="Filme",Magura Media Keanu Reeves
+#EXTINF:0 ,Magura Media Keanu Reeves
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48287.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Bruce Willis"  group-title="Filme",Magura Media Bruce Willis
+#EXTINF:0 ,Magura Media Bruce Willis
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48289.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Supereroi"  group-title="Filme",Magura Media Supereroi
+#EXTINF:0 ,Magura Media Supereroi
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37420.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Kids"  group-title="Filme",Magura Media Kids
+#EXTINF:0 ,Magura Media Kids
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37410.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Istoric"  group-title="Filme",Magura Media Istoric
+#EXTINF:0 ,Magura Media Istoric
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37411.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Comedy"  group-title="Filme",Magura Media Comedy
+#EXTINF:0 ,Magura Media Comedy
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37416.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Cinema"  group-title="Filme",Magura Media Cinema
+#EXTINF:0 ,Magura Media Cinema
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37413.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Action"  group-title="Filme",Magura Media Action
+#EXTINF:0 ,Magura Media Action
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37409.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media 4K"  group-title="Filme",Magura Media 4K
+#EXTINF:0 ,Magura Media 4K
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37414.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Horror"  group-title="Filme",Magura Media Horror
+#EXTINF:0 ,Magura Media Horror
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38401.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Filme Religioase"  group-title="Filme",Magura Media Filme Religioase
+#EXTINF:0 ,Magura Media Filme Religioase
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48308.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Christmas"  group-title="Filme",AVB Media Christmas
+#EXTINF:0 ,AVB Media Christmas
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38404.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Action FHD"  group-title="Filme",AVB Media Action FHD
+#EXTINF:0 ,AVB Media Action FHD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37830.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Cartoons"  group-title="Filme",AVB Media Cartoons
+#EXTINF:0 ,AVB Media Cartoons
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38204.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Horror"  group-title="Filme",AVB Media Horror
+#EXTINF:0 ,AVB Media Horror
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38393.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Mynele"  group-title="Filme",AVB Media Mynele
+#EXTINF:0 ,AVB Media Mynele
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37829.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-OuQCRnOTCjY/XKWtzjGJnsI/AAAAAAAA23I/NiQO36FquMsY2cfT1dg7bwB8b0lcUCs-gCLcBGAs/s1600/TDC%2BLogo.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel
+#EXTINF:0 ,Timeless Drama Channel
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50719.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-OuQCRnOTCjY/XKWtzjGJnsI/AAAAAAAA23I/NiQO36FquMsY2cfT1dg7bwB8b0lcUCs-gCLcBGAs/s1600/TDC%2BLogo.png" tvg-name="TDC"  group-title="Filme",Timeless Drama Channel HD
+#EXTINF:0 ,Timeless Drama Channel HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50718.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
+****************************************************
+#EXTINF:0 ,Film Now
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33831.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
+#EXTINF:0 ,Film Now HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34066.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
+#EXTINF:0 ,Comedy Central
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33840.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
+#EXTINF:0 ,AXN
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33847.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33846.m3u8
