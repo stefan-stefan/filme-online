@@ -1,6 +1,22 @@
 #EXTM3U 
+
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/k-L6e9DX57Y/hqdefault.jpg",DIGI 24  
 http://193.228.153.231:4242/bysid/100
+#EXTINF:0 type="stream" channelId="-1", PRO TV FHD
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+#EXTINF:0 type="stream" channelId="-1", PRO 2 FHD
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 type="stream" channelId="-1", PRO X FHD
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0 type="stream" channelId="1652", PRO GOLD SD
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0 type="stream" channelId="1285", PRO CINEMA SD
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ANTENA 1
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", REALITATEA TV PLUS SD
+https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
+
 #EXTINF:0  tvg-logo="https://m.tvrmoldova.md/img/pages/2018/6/29/tvr-1-a-fost-lider-de-audienta-cu-majoritatea-partidelor-transmise-in-primele-15-zile-ale-cupei-mondiale-1530278918/big-tvr-1-a-fost-lider-de-audienta-cu-majoritatea-partidelor-transmise-in-primele-15-zile-ale-cupei-mondiale-1530278918.png",TVR 1 HD
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:0  tvg-logo="https://m.tvrmoldova.md/img/pages/2018/6/29/tvr-1-a-fost-lider-de-audienta-cu-majoritatea-partidelor-transmise-in-primele-15-zile-ale-cupei-mondiale-1530278918/big-tvr-1-a-fost-lider-de-audienta-cu-majoritatea-partidelor-transmise-in-primele-15-zile-ale-cupei-mondiale-1530278918.png",TVR 1	
