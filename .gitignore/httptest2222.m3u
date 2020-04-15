@@ -1,7 +1,7 @@
-#EXTINF:0 ,Digi 4K
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
 #EXTINF:0 ,Digi 24 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
+#EXTINF:0 ,Digi 4K
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
 #EXTINF:0 ,6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 ,TVR HD
