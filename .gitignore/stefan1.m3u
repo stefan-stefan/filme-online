@@ -11,11 +11,11 @@
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </item>
 
-<plugin>
+<dir>
     <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR red]TV[COLOR yellow]ROMANIA[/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/stefan1.m3u</link>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/stefan1.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
+</dir>
 
 
