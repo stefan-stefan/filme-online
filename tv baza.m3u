@@ -4,6 +4,13 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71xnU8WB0uL.png</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/71xnU8WB0uL.png</fanart>
 </dir>
+<plugin>
+<title>[COLOR FFff8000][B]»»»»»PLAY TV[/COLOR] [COLOR blue]ROMANIA»»»»»[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/tv%20baza.m3u</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71xnU8WB0uL.png</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/I/71xnU8WB0uL.png</fanart>
+</plugin>
+
 <dir>
 <title>[COLOR FFff8000][B]»»»»»PLAY[/COLOR] [COLOR blue]WORLD TV»»»»»[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/world%20tv.m3u</link>
