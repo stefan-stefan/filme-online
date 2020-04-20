@@ -5,8 +5,19 @@
     <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/71xnU8WB0uL.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </dir>
+<dir>
+<title>[COLOR orange]....[B]MOLDOVA TV....[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/moldova%20tv.m3u</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8e/Moldova_flag_large-02.png</thumbnail>
+<fanart>https://transparentnews.ro/wp-content/uploads/2017/09/slanic-moldova.jpg</fanart>
+</dir>
 
-
+<dir>
+<title>[B][COLOR orange]....[COLOR orange]....[COLOR orange]... [COLOR orange]CANALE RADIO & TV LOCALE  [/COLOR][/B]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/canale%20tv%20locale.m3u</link>
+<thumbnail>https://static.ph-online.ro/media/k2/items/cache/a0c2a640e1085a57e07c368bfe5151f0_XL.jpg</thumbnail>
+<fanart>https://static.ph-online.ro/media/k2/items/cache/a0c2a640e1085a57e07c368bfe5151f0_XL.jpg</fanart>
+</dir>
 
 <dir>
 <title>[COLOR FFff8000][B]»»»»»PLAY[/COLOR] [COLOR blue]WORLD TV»»»»»[/B][/COLOR]</title>
