@@ -27,6 +27,13 @@
     <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
     <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
   </dir>
+  
+<dir>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]>>TV-GERMANIA>>[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/germania.m3u</link>
+    <thumbnail>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</thumbnail>
+    <fanart>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</fanart>
+</dir>  
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]ARMENIA[/COLOR][/B] [COLOR blue][/COLOR]</title>
@@ -93,12 +100,7 @@
     <fanart>https://www.pinclipart.com/picdir/middle/7-78883_all-photo-png-clipart-france-png-transparent-png.png</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]GERMANY[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/de.m3u</link>
-    <thumbnail>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</thumbnail>
-    <fanart>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</fanart>
-</plugin>
+
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]GREECE[/COLOR][/B] [COLOR blue][/COLOR]</title>
