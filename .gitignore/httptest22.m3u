@@ -1,7 +1,4 @@
 
-#EXTINF:#1  tvg-logo="https://gov.ro/fisiere/covid.jpg" tvg-name="Corona Virus Info"  group-title="Generale" - Corona Virus Info
-#EXTVLCOPT:network-caching=1000
-http://88.198.65.79:25461/live/ottplayer/bP6OTjdW3m/1.m3u8
 #EXTINF:0 ,6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 ,Digi 24 HD
