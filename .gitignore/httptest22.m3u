@@ -1,10 +1,9 @@
-
+#EXTINF: # 1 tvg-logo = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg", [COLOR] COLOR [roșu [COLOR] ] LISTA-MENTENANTA [/ B] [/ COLOR] [COLOR roșu] *** [/ COLOR]  
+http://0.0.0.0:1234
 #EXTINF:0 ,6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0 ,Digi 24 HD
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
-#EXTINF:0 ,Digi 4K
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
 #EXTINF:0 ,TVR HD
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:0 ,TVR 3
