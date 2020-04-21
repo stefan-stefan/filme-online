@@ -1,22 +1,206 @@
-#EXTINF: # 1 tvg-logo = "data:image/jpeg;base64,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",  LISTA-MENTENANTA   
-http://0.0.0.0:1234
-#EXTINF:0 ,6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 ,Digi 24 HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
-#EXTINF:0 ,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0 ,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0 ,TVR International
-https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
-#EXTINF:0 ,PRO TV International
-http://78.109.108.62:2001/protv
-#EXTINF:0 ,Tele III
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0 ,TVR 1 HD
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
-#EXTINF:0 ,TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTM3U
+#EXTINF: 0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/1280px-HTTP_logo.svg.png",[COLORred][B][I]LISTA HTTP [/I][/B][/COLOR]
+http://89.136.209.26:1935/l
+#EXTINF: 0 tvg-logo="https://previews.123rf.com/images/faysalfarhan/faysalfarhan1711/faysalfarhan171119673/89598010-mise-%C3%A0-jour-rafra%C3%AEchir-l-ic%C3%B4ne-isol%C3%A9-sur-vert-illustration-ronde-bouton-abstrait.jpg",[COLORyellow][B][I]UPDATE (Lista in lucru!) [/I][/B][/COLOR]
+http://89.136.209.26:1935/l
 
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png",[COLORblue][B][I]>>RO-ROMANIA<< [/I][/B][/COLOR]
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
+#EXTINF:0 tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RndlYmFkbWRpZ2kyNC5yY3MtcmRzLnJv/JTJGd3AtY29udGVudCUyRnVwbG9hZHMl/MkYyMDE5JTJGMDQlMkZEaWdpMjRfSEQu/cG5nJmhhc2g9NTVlNzMxNWFmZThiYmQ0ZjM0YmUwZGU1Njc5NTQzMWQ=.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI 24 HD(Stream 1) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+http://193.228.153.231:4242/bysid/100
+#EXTINF:0 tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RndlYmFkbWRpZ2kyNC5yY3MtcmRzLnJv/JTJGd3AtY29udGVudCUyRnVwbG9hZHMl/MkYyMDE5JTJGMDQlMkZEaWdpMjRfSEQu/cG5nJmhhc2g9NTVlNzMxNWFmZThiYmQ0ZjM0YmUwZGU1Njc5NTQzMWQ=.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI 24 HD(Test) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+https://edge71.rcs-rds.ro/V4-9897043-00553c884a0e7cbf83a42adb1b73a387-1501286594-0-1586169888-492-digi24/digi24/digi24hd.stream/chunklist.m3u8
+
+#EXTINF:#1 tvg-logo="https://www.ewsat.com/img/TVR.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:#1 tvg-logo="https://i.ytimg.com/vi/BXanbvzxkGg/hqdefault.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:#1 tvg-logo="https://www.radardemedia.ro/wp-content/uploads/2017/02/TVR-2-LOGO.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:#1 tvg-logo="https://i0.1616.ro/media/2/2701/33658/16892183/1/tvr3.jpg" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 3 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:#1 tvg-logo="https://revistablogurilor.ro/wp-content/uploads/2017/01/Romania-TV.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]ROMANIA TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.228.153.231:4243/bysid/125
+#EXTINF:#1  tvg-logo="https://www.b1.ro/thumbs/landscape_big/2016/11/07/oferta-de-publicitate-electorala-b1-tv-208510.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]B1 TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.228.153.231:4242/bysid/70
+#EXTINF:#1  tvg-logo="https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57097
+
+#EXTINF:#1  tvg-logo="https://4.bp.blogspot.com/-lzQmCA3cFHg/VNHstSIUgzI/AAAAAAAAL6g/ZSlbwmVR4wY/s320/prima%2Btv.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRIMA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://178.156.198.68:7659
+
+#EXTINF:#1  tvg-logo="https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]REALITATEA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://78.109.108.62:6012/realitatea
+#EXTINF:#1  tvg-logo="https://4vector.com/i/free-vector-national-tv-24_033088_national-tv-24.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL 24[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.228.153.231:4242/bysid/60
+
+#EXTINF:#1  tvg-logo="https://oblyo.ro/wp-content/uploads/2018/09/Logo-KanalD.ro_.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]KANAL D[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.228.153.231:4240/bysid/50
+
+#EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+http://193.228.153.231:4240/bysid/40
+
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]ANTENA STAR[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/chunklist_b400000.m3u8
+
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO X [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://inforadiotv.ro/wp-content/uploads/2017/07/DigiWorld_despre-lume-digi-world.tv_.jpg"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI WORLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57075
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Digi_Life_logo.svg/1200px-Digi_Life_logo.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI LIFE [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57076
+#EXTINF:#1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN_White [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.33.39.108:8111/11002
+
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]#1 AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.33.39.108:8111/11003
+
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AXN BLACK RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.33.39.108:8111/11003
+
+#EXTINF:#1  tvg-logo="https://tvmania.ro/wp-content/uploads/2020/02/happy-channel-1280x720.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HAPPY CHANNEL [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57084
+#EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbohd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085
+
+#EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbo2hd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 2 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://193.33.39.108:8107/30705
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 3 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57088
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: E! ENTERTAINMENT" tvg-logo="" group-title="EU ROMANIA",RO: E! ENTERTAINMENT
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57090
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: TNT RO" tvg-logo="" group-title="EU ROMANIA",RO: TNT RO
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57101
+#EXTINF:-1 tvg-ID="" tvg-name="RO: NGRO" tvg-logo="" group-title="EU ROMANIA",RO: NGRO
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57102
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FINE LIVING" tvg-logo="" group-title="EU ROMANIA",RO: FINE LIVING
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57104
+7
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIVA" tvg-logo="" group-title="EU ROMANIA",RO: DIVA
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57108
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DAVINCI LEARNING" tvg-logo="" group-title="EU ROMANIA",RO: DAVINCI LEARNING
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57109
+#EXTINF:-1 tvg-ID="" tvg-name="RO: TRAVEL CHANNEL HD" tvg-logo="" group-title="EU ROMANIA",RO: TRAVEL CHANNEL HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57110
+#EXTINF:-1 tvg-ID="" tvg-name="RO: TV PAPRIKA" tvg-logo="" group-title="EU ROMANIA",RO: TV PAPRIKA
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57111
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: TV 1000" tvg-logo="" group-title="EU ROMANIA",RO: TV 1000
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57114
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== RO: CINEMA =====" tvg-logo="" group-title="EU ROMANIA",===== RO: CINEMA =====
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57125
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMAX 2" tvg-logo="" group-title="EU ROMANIA",RO: CINEMAX 2
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57126
+#EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMAX" tvg-logo="" group-title="EU ROMANIA",RO: CINEMAX
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57127
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FILMBOX PREMIUM" tvg-logo="" group-title="EU ROMANIA",RO: FILMBOX PREMIUM
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57128
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FILMBOX EXTRA HD" tvg-logo="" group-title="EU ROMANIA",RO: FILMBOX EXTRA HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57129
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FILMBOX" tvg-logo="" group-title="EU ROMANIA",RO: FILMBOX
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57130
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FILM NOW" tvg-logo="" group-title="EU ROMANIA",RO: FILM NOW
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57131
+#EXTINF:-1 tvg-ID="" tvg-name="RO: FILM CAFE" tvg-logo="" group-title="EU ROMANIA",RO: FILM CAFE
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57132
+#EXTINF:-1 tvg-ID="" tvg-name="RO: PRO GOLD" tvg-logo="" group-title="EU ROMANIA",RO: PRO GOLD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57133
+#EXTINF:-1 tvg-ID="" tvg-name="RO: PRO CINEMA" tvg-logo="" group-title="EU ROMANIA",RO: PRO CINEMA
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57134
+#EXTINF:-1 tvg-ID="" tvg-name="RO: MEGAMAX" tvg-logo="" group-title="EU ROMANIA",RO: MEGAMAX
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57135
+#EXTINF:-1 tvg-ID="" tvg-name="RO: CINEMARATON" tvg-logo="" group-title="EU ROMANIA",RO: CINEMARATON
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57136
+#EXTINF:-1 tvg-ID="" tvg-name="RO: CBS REALITY" tvg-logo="" group-title="EU ROMANIA",RO: CBS REALITY
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57137
+#EXTINF:-1 tvg-ID="" tvg-name="RO: BOLLYWOOD TV" tvg-logo="" group-title="EU ROMANIA",RO: BOLLYWOOD TV
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57138
+#EXTINF:-1 tvg-ID="" tvg-name="RO: AMC" tvg-logo="" group-title="EU ROMANIA",RO: AMC
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57139
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== RO: DISCOVERY =====" tvg-logo="" group-title="EU ROMANIA",===== RO: DISCOVERY =====
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57141
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: NAT GEO GRAPHIC RO" tvg-logo="" group-title="EU ROMANIA",RO: NAT GEO GRAPHIC RO
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57142
+#EXTINF:-1 tvg-ID="" tvg-name="RO: NAT GEO WILD HD" tvg-logo="" group-title="EU ROMANIA",RO: NAT GEO WILD HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57143
+#EXTINF:-1 tvg-ID="" tvg-name="RO: NAT GEO GRAPHIC HD" tvg-logo="" group-title="EU ROMANIA",RO: NAT GEO GRAPHIC HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57144
+#EXTINF:-1 tvg-ID="" tvg-name="RO: INVESTIGATION DISCOVERY" tvg-logo="" group-title="EU ROMANIA",RO: INVESTIGATION DISCOVERY
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57145
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY CHANNEL" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY CHANNEL
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57146
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY HD SHOWCASE" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY HD SHOWCASE
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57147
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DTX" tvg-logo="" group-title="EU ROMANIA",RO: DTX
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57082
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY RO" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY RO
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57148
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DISCOVERY SCIENCE" tvg-logo="" group-title="EU ROMANIA",RO: DISCOVERY SCIENCE
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57149
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: ANIMAL PLANET" tvg-logo="" group-title="EU ROMANIA",RO: ANIMAL PLANET
+http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI ANIMAL WORLD" tvg-logo="" group-title="EU ROMANIA",RO: DIGI ANIMAL WORLD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57152
+#EXTINF:-1 tvg-ID="" tvg-name="RO: VIASAT NATURE" tvg-logo="" group-title="EU ROMANIA",RO: VIASAT NATURE
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57153
+#EXTINF:-1 tvg-ID="" tvg-name="RO: VIASAT HISTORY" tvg-logo="" group-title="EU ROMANIA",RO: VIASAT HISTORY
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57154
+#EXTINF:-1 tvg-ID="" tvg-name="RO: VIASAT EXPLORER" tvg-logo="" group-title="EU ROMANIA",RO: VIASAT EXPLORER
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57155
+#EXTINF:-1 tvg-ID="" tvg-name="RO: VIASAT EXPLORE" tvg-logo="" group-title="EU ROMANIA",RO: VIASAT EXPLORE
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57156
+#EXTINF:-1 tvg-ID="" tvg-name="RO: HISTORY" tvg-logo="" group-title="EU ROMANIA",RO: HISTORY
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57157
+#EXTINF:-1 tvg-ID="" tvg-name="RO: HISTORY HD" tvg-logo="" group-title="EU ROMANIA",RO: HISTORY HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57158
+#EXTINF:-1 tvg-ID="" tvg-name="RO: TRAVEL CHANNEL" tvg-logo="" group-title="EU ROMANIA",RO: TRAVEL CHANNEL
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57159
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== RO: SPORTS =====" tvg-logo="" group-title="EU ROMANIA",===== RO: SPORTS =====
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57168
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOKPLUS" tvg-logo="" group-title="EU ROMANIA",RO: LOOKPLUS
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57096
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1 HD RO" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 1 HD RO
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57169
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 1" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 1
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57170
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 2" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 2
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57172
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 3" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 3
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57173
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DIGI SPORT 4" tvg-logo="" group-title="EU ROMANIA",RO: DIGI SPORT 4
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57174
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: EUROSPORT 1 HD" tvg-logo="" group-title="EU ROMANIA",RO: EUROSPORT 1 HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57176
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: EUROSPORT 2" tvg-logo="" group-title="EU ROMANIA",RO: EUROSPORT 2
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57178
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOKSPORT" tvg-logo="" group-title="EU ROMANIA",RO: LOOKSPORT
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57184
+#EXTINF:-1 tvg-ID="" tvg-name="RO: LOOK SPORT HD" tvg-logo="" group-title="EU ROMANIA",RO: LOOK SPORT HD
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57185
 ,
