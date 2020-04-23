@@ -65,6 +65,9 @@ http://193.33.39.108:8111/11003
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57084
 #EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbohd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57085
+#EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbohd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]HBO RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9
+
 
 #EXTINF:#1  tvg-logo="https://www.iptv-romania.live/wp-content/uploads/2019/09/hbo2hd.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]HBO 2 RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.33.39.108:8107/30705
