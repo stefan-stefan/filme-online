@@ -68,14 +68,31 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO X [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]PRO X [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRO 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]PRO 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+
 #EXTINF:0 tvg-logo="https://inforadiotv.ro/wp-content/uploads/2017/07/DigiWorld_despre-lume-digi-world.tv_.jpg"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI WORLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57075
+#EXTINF:0 tvg-logo="https://inforadiotv.ro/wp-content/uploads/2017/07/DigiWorld_despre-lume-digi-world.tv_.jpg"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]DIGI WORLD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Digi_Life_logo.svg/1200px-Digi_Life_logo.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI LIFE [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57076
-#EXTINF:#1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue]AXN_White [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Digi_Life_logo.svg/1200px-Digi_Life_logo.svg.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]DIGI LIFE [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+
+
+#EXTINF:#1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AXN_White [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.33.39.108:8111/11002
+#EXTINF:#1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]AXN_White [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]#1 AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.33.39.108:8111/11003
