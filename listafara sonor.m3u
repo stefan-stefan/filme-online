@@ -1,0 +1,150 @@
+#EXTM3U8 
+#EXTINF:0 ,■■■ROMANIA LISTA TEST■■■
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0 ,■■■TEST(fara sonor)■■■
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#####################################################
+#EXTINF:0,DIGI 24(test)
+https://edge81.rcs-rds.ro/V4-6674531-f34c823d6c04cb9dcc0523bcdeb40aeb-1501286594-0-1584817675-487-digi24/digi24/digi24hd.stream/chunklist.m3u8
+#EXTINF:-1,DIGI 24
+https://edge75.rcs-rds.ro/V4-1644823-495024664bb1e54ccb3c44b2d3265f3e-1501286594-0-1584661304-472-digi24/digi24/digi24hd.stream/chunklist.m3u8
+#EXTINF:-1,Telekom Sport 4 HD
+http://tv-he.orange.ro/shls/LIVE$ott_1018/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Boolwod clasic
+http://tv-he.orange.ro/shls/LIVE$ott_1010/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Pro tv HD
+http://tv-he.orange.ro/shls/LIVE$protvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Pro 2
+http://tv-he.orange.ro/shls/LIVE$pro2hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Pro Cinema
+http://tv-he.orange.ro/shls/LIVE$procinema/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Magicfm
+http://tv-he.orange.ro/shls/LIVE$ott_1008/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Rook tv
+http://tv-he.orange.ro/shls/LIVE$ott_1009/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Canal 33
+http://tv-he.orange.ro/shls/LIVE$ott_1004/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Look Sport 2
+http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Look Sport 3
+http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Antena 3
+http://tv-he.orange.ro/shls/LIVE$antena3hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Antena 1
+http://tv-he.orange.ro/shls/LIVE$antena1hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Kanald
+http://tv-he.orange.ro/shls/LIVE$kanaldhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,nick toons
+http://tv-he.orange.ro/shls/LIVE$ott_1128/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, ROMANIA TV
+http://tv-he.orange.ro/shls/LIVE$romaniatv/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, B1 TV
+http://tv-he.orange.ro/shls/LIVE$b1tv/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,FILM CAFE
+http://tv-he.orange.ro/shls/LIVE$filmcafe/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, NAȚIONAL TV
+http://tv-he.orange.ro/shls/LIVE$nationaltv/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, REALITATEA
+http://tv-he.orange.ro/shls/LIVE$realitatea/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,ETNO
+http://tv-he.orange.ro/shls/LIVE$etno/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,TARAF
+http://tv-he.orange.ro/shls/LIVE$taraf/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,TVR1
+http://tv-he.orange.ro/shls/LIVE$tvr1/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,TVR2
+http://tv-he.orange.ro/shls/LIVE$tvr2/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,DIVA
+http://tv-he.orange.ro/shls/LIVE$diva/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,TV1000
+http://tv-he.orange.ro/shls/LIVE$tv1000/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,AXNSPIN
+http://tv-he.orange.ro/shls/LIVE$axnspin/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,AXNHD
+http://tv-he.orange.ro/shls/LIVE$axnhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,MINIMAX
+http://tv-he.orange.ro/shls/LIVE$minimax/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,FILMBOX EXTRA
+http://tv-he.orange.ro/shls/LIVE$filmboxextrahd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,DISNEY JUNIOR
+http://tv-he.orange.ro/shls/LIVE$disneyjunior/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Paramount
+http://tv-he.orange.ro/shls/LIVE$paramountchannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,AMC
+http://tv-he.orange.ro/shls/LIVE$amc/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Bollywood TV
+http://tv-he.orange.ro/shls/LIVE$bollywoodhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Jim Jam
+http://tv-he.orange.ro/shls/LIVE$jimjam/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Look Tv Sport
+http://tv-he.orange.ro/shls/LIVE$looktvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Look Tv plus
+http://tv-he.orange.ro/shls/LIVE$lookplustvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, viasat Explore
+http://tv-he.orange.ro/shls/LIVE$viasatexplore/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Viasat history
+http://tv-he.orange.ro/shls/LIVE$viasathistory/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,travel Mix
+http://tv-he.orange.ro/shls/LIVE$travelmix/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Ducktvhd
+http://tv-he.orange.ro/shls/LIVE$ducktvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Viasat Nature
+http://tv-he.orange.ro/shls/LIVE$viasatnature/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Animal Planet
+http://tv-he.orange.ro/shls/LIVE$animalplanethd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Discovery Science
+http://tv-he.orange.ro/shls/LIVE$discoverysciencehd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Discovery Channel
+http://tv-he.orange.ro/shls/LIVE$discoverychannel/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Discovery Showcase hd
+http://tv-he.orange.ro/shls/LIVE$discoveryshowcasehd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,FightboxHd
+http://tv-he.orange.ro/shls/LIVE$fightboxhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,VTV
+http://tv-he.orange.ro/shls/LIVE$vtv/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, EUROSPORT 1HD
+http://tv-he.orange.ro/shls/LIVE$eurosporthd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, EUROSPORT 2HD
+http://tv-he.orange.ro/shls/LIVE$eurosport2hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,N24plus
+http://tv-he.orange.ro/shls/LIVE$n24plus/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Kiss tv
+http://tv-he.orange.ro/shls/LIVE$kisstv/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1, Favorit
+http://tv-he.orange.ro/shls/LIVE$favorit/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,VH1
+http://tv-he.orange.ro/shls/LIVE$vh1/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,MTV
+http://tv-he.orange.ro/shls/LIVE$ott_1040/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Telekom Sport 3 HD
+http://tv-he.orange.ro/shls/LIVE$ott_1017/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Telekom Sport 4 HD
+http://tv-he.orange.ro/shls/LIVE$ott_1018/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Boolwod clasic
+http://tv-he.orange.ro/shls/LIVE$ott_1010/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Pro tv HD
+http://tv-he.orange.ro/shls/LIVE$protvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Pro 2
+http://tv-he.orange.ro/shls/LIVE$pro2hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Pro Cinema
+http://tv-he.orange.ro/shls/LIVE$procinema/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Magicfm
+http://tv-he.orange.ro/shls/LIVE$ott_1008/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Rook tv
+http://tv-he.orange.ro/shls/LIVE$ott_1009/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Canal 33
+http://tv-he.orange.ro/shls/LIVE$ott_1004/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Look Sport 2
+http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Look Sport 3
+http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Antena 3
+http://tv-he.orange.ro/shls/LIVE$antena3hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Antena 1
+http://tv-he.orange.ro/shls/LIVE$antena1hd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Kanald
+http://tv-he.orange.ro/shls/LIVE$kanaldhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,nick toons
+http://tv-he.orange.ro/shls/LIVE$ott_1128/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:-1,Antena 3
+http://relaxtv.ml/hls/playlist.m3u8?s=demian&token=2314
