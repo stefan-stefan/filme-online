@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-logo="http://www.romanianlawoffice.com/uploads/default/files/taxes-romania.jpg",======= ROMANIA  TS =========
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3166.ts
 #EXTINF:-1 tvg-logo="tvr1.jpg",TVR 1(test)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://89.248.174.7:8085/live/paUez4twhy/0Rjkmy6Fza/9999.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
+
 
 
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/cinemaraton.jpg" group-title="STIRI",[COLOR lawnred]Http.[/COLOR][COLOR lawnred]# 1[/COLOR]Cinemaraton
