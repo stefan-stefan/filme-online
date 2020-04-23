@@ -28,11 +28,17 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 
 #EXTINF:#1  tvg-logo="https://www.b1.ro/thumbs/landscape_big/2016/11/07/oferta-de-publicitate-electorala-b1-tv-208510.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]B1 TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.228.153.231:4242/bysid/70
+#EXTINF:#1  tvg-logo="https://www.b1.ro/thumbs/landscape_big/2016/11/07/oferta-de-publicitate-electorala-b1-tv-208510.jpg" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]B1 TV [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
 #EXTINF:#1  tvg-logo="https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]NATIONAL TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57097
+#EXTINF:#1  tvg-logo="https://cmedia.romaniatv.net/image/201209/full/nationaltv_02767500.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]NATIONAL TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
 
 #EXTINF:#1  tvg-logo="https://4.bp.blogspot.com/-lzQmCA3cFHg/VNHstSIUgzI/AAAAAAAAL6g/ZSlbwmVR4wY/s320/prima%2Btv.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]PRIMA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://178.156.198.68:7659
+#EXTINF:#1  tvg-logo="https://4.bp.blogspot.com/-lzQmCA3cFHg/VNHstSIUgzI/AAAAAAAAL6g/ZSlbwmVR4wY/s320/prima%2Btv.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow]PRIMA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
 
 #EXTINF:#1  tvg-logo="https://mediacdn.gandul.info/unsafe/800x450/smart/filters:contrast(5):format(jpeg):quality(90)/https://www.gandul.ro/wp-content/uploads/2019/10/18513272/1-screen-shot-2014-02-05-at-12-24-38-pm.png" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]REALITATEA TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://78.109.108.62:6012/realitatea
