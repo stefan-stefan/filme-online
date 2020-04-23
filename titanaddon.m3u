@@ -1,0 +1,136 @@
+<item>
+<title>****Welcome To The Mad Titan*****</title>
+<thumbnail>http://magnetic.website/Mad%20Titan/icon.png</thumbnail>
+<fanart>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/splash.png</fanart>
+<heading></heading>
+ </item>
+ 
+ 
+ 
+<dir>
+<title>***Titan Tv Shows***</title>
+<link>http://magnetic.website/Mad%20Titan/titan%20shows.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/tv%20shows.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/tv%20shows%20fanart.jpg</fanart>
+<summary>Tv-Shows</summary>
+</dir>
+ 
+ 
+<dir>
+<title>***Titan Movies***</title>
+<link>http://magnetic.website/Mad%20Titan/titan%20movies.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/mad%20titan%20icons.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/movies%20%20fanart.jpg</fanart>
+<summary>movies</summary>
+</dir>
+ 
+<dir>
+<title>***Titan Sports***</title>
+<link>http://magnetic.website/Mad%20Titan/live%20sports.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/sports.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/sports%20%20fanart.jpg</fanart>
+</dir>
+ 
+ 
+<dir>
+<title>***Titan Kids***</title>
+<link>http://magnetic.website/Mad%20Titan/titan%20kids.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/kids.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/kids%20%20fanart.jpg</fanart>
+<summary>Kids Section</summary>
+</dir>
+ 
+<dir>
+<title>***Titan Music***</title>
+<link>http://magnetic.website/Mad%20Titan/music.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/music.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/music%20%20fanart.jpg</fanart>
+<summary>Music</summary>
+</dir>
+ 
+<dir>
+<title>***Titan Docs***</title>
+<link>https://magnetic.website/Mad%20Titan/docs.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/docs.png</thumbnail>
+<fanart>https://magnetic.website/menu%20icons/docs%20fanart.jpg</fanart>
+</dir>
+ 
+<dir>
+<title>***Titan Fitness***</title>
+<link>https://magnetic.website/Mad%20Titan/FITNESS.xml</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/titan%20fitness.png</thumbnail>
+<fanart>https://cdnb.artstation.com/p/assets/images/images/007/218/475/large/svein-yngve-sandvik-antonsen-thanos-sveiny1.jpg?1504550732</fanart>
+</dir>
+ 
+<dir>
+<title>*********************Community Addons*********************</title>
+<link></link>
+<fanart></fanart>
+</dir>
+ 
+ 
+<dir>
+  <title>[COLORwhite]***Ghost***[/COLOR]</title>
+  <link>http://www.ezzer-mac.com/frank/ghost/ghostxmls/xmls1/main2.xml</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/icon.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/fanart.jpg</fanart>
+  <summary>Ghost Addon</summary>
+  </dir>
+ 
+  <dir>
+  <title>[COLORwhite]***Chain Reaction***[/COLOR]</title>
+  <link>https://pastebin.com/raw/siAAPMdk</link>
+  <thumbnail>http://www.ezzer-mac.com/frank/artghost/steveicon.png</thumbnail>
+  <fanart>http://www.ezzer-mac.com/frank/artghost/stevefanart.jpg</fanart>
+  <summary>Chain Reaction Addon</summary>
+  </dir>
+ 
+<dir>
+<title>*********************Community Addons*********************</title>
+<link></link>
+<fanart></fanart>
+</dir>
+ 
+   
+ 
+<item>
+<title>[COLOR white][B]***Authorize Trakt***[/B][/COLOR]</title>
+<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/trakt.png</thumbnail>
+<summary>Authorize Trakt</summary>
+</item>
+ 
+<plugin>
+<name>[COLOR white][B]***AUTHORIZE REAL DEBRID*** [COLOR white][B](RESOLVE-URL)[/B][/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/RD%20RESOLVER%20URL.png</thumbnail>
+<fanart></fanart>
+<summary>AUTHORIZE REAL DEBRID (RESOLVE-URL)</summary>
+</plugin>
+ 
+<plugin>
+<name>[COLOR white][B]***AUTHORIZE REAL DEBRID*** [COLOR white][B](URLRESOLVER)[/B][/COLOR]</name>
+<link>plugin://script.module.urlresolver/?mode=auth_rd</link>
+<thumbnail>https://magnetic.website/Mad%20Titan/mad%20titan%20icons/rd%20URL%20RESOLVER.png</thumbnail>
+<fanart></fanart>
+<summary>AUTHORIZE REAL DEBRID (URLRESOLVER)</summary>
+</plugin>
+ 
+<plugin>
+<title>[COLORwhite]Authorize PREMIUMIZE.ME[/COLOR]</title>
+<link>plugin://script.module.resolveurl/?mode=auth_pm</link>
+<thumbnail>https://pbs.twimg.com/profile_images/853973394542428162/8mAbgwdX_400x400.jpg</thumbnail>
+<fanart>https://imgur.com/CNj3hmy.jpg</fanart>
+</plugin>
+ 
+  <dir>
+    <title>***Search Trakt***</title>
+    <trakt>search</trakt>
+    <thumbnail>http://magnetic.website/menu%20icons/trakt.png</thumbnail>
+ </dir>
+ 
+  <dir>
+    <title>***Search TMDB***</title>
+    <tmdb>search</tmdb>
+    <thumbnail>http://magnetic.website/menu%20icons/the%20movie%20data%20base.png</thumbnail>
+ </dir>
