@@ -3,7 +3,7 @@
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3166.ts
 #EXTINF:-1 tvg-logo="tvr1.jpg",HBO(sopp)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=sop://185.122.59.8:3912/265011
-#EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA 1(Acestream)
+#EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA 1(jjj)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
 
 
