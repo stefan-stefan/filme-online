@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.romanianlawoffice.com/uploads/default/files/taxes-romania.jpg",======= ROMANIA  TS =========
+#EXTINF:-1 tvg-logo="http://www.romanianlawoffice.com/uploads/default/files/taxes-romania.jpg",======= ROMANIA =========
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://globetv.dyndns.tv:777/live/arsim2/arsim2/3166.ts
 #EXTINF:-1 tvg-logo="tvr1.jpg",HBO(Acestream)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9
