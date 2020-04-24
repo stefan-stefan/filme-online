@@ -61,132 +61,132 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN SPIN[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b11f9be4a0d033fedab04bd4a7d141f886f0479e
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR red][/COLOR][COLOR yellow]B1 TV[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
 #EXTINF:-1 tvg-logo="tvr1.jpg",HH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=d8ad9b1d966de683c47c7daac8cd85d60c0fd1db
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d8ad9b1d966de683c47c7daac8cd85d60c0fd1db
 #EXTINF:-1 tvg-logo="tvr1.jpg",BOOLYWOOD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13
 #EXTINF:-1 tvg-logo="tvr1.jpg",BOOLYWOOD CLASIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=73eecb8056e6cff8d15d689cb6da38cf9024bda7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=73eecb8056e6cff8d15d689cb6da38cf9024bda7
 #EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange][/COLOR][COLOR yellow]Boomerang[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4150ccef1b5606d8388ced1d18c0d8a55d755433
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4150ccef1b5606d8388ced1d18c0d8a55d755433
 #EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] CBS REALITY[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=48b5e5e9b0182473741207e1d7a48aeea5c23b76
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=48b5e5e9b0182473741207e1d7a48aeea5c23b76
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] Cinemax[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=acestream://34b1402557fb7faab2979361c4e9650fa0948724
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=acestream://34b1402557fb7faab2979361c4e9650fa0948724
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange][/COLOR][COLOR yellow]Cinemax 2[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3
 #EXTINF:-1 tvg-logo="tvr1.jpg",COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6d4996572a8b26633727595e00bbdfde88028e3e
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6d4996572a8b26633727595e00bbdfde88028e3e
 #EXTINF:-1 tvg-logo="tvr1.jpg",DIGI SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=870153b27d2aaab38ab17272c5e96ec7fc6f3369
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=870153b27d2aaab38ab17272c5e96ec7fc6f3369
 #EXTINF:-1 tvg-logo="tvr1.jpg",DIGI SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4b5a0e1840787e0954cc32d7388d06726b580e53
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4b5a0e1840787e0954cc32d7388d06726b580e53
 #EXTINF:-1 tvg-logo="tvr1.jpg",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
 DISCOVERY SCIENCE
 http://127.0.0.1:6878/ace/getstream?id=5a959a7dc13f39e4c5a82f1b7d1eb8ccf7a46b9d
 #EXTINF:-1 tvg-logo="tvr1.jpg",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=3c0bf40ac20270586b01aa700868b219f00697e0
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3c0bf40ac20270586b01aa700868b219f00697e0
 #EXTINF:-1 tvg-logo="tvr1.jpg",DISNEY JUNIOR
 http://127.0.0.1:6878/ace/getstream?id=8abbe4f5d4e9ef577acdbdd914ad4ec49bce684e
 #EXTINF:-1 tvg-logo="tvr1.jpg",DTX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=013b119abf03924da6779b9c85d5e20351ee28f2
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=013b119abf03924da6779b9c85d5e20351ee28f2
 #EXTINF:-1 tvg-logo="tvr1.jpg",DUCK TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=9203730cab2a158e3e78209b1f9960fb414c01a6
 #EXTINF:-1 tvg-logo="tvr1.jpg",DUCUBOX TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=f39a0a81e0040b15457ca0805372e965085ac28f
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f39a0a81e0040b15457ca0805372e965085ac28f
 #EXTINF:-1 tvg-logo="tvr1.jpg",ETNO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=d4ef24bcab1ea9de20f701f60d6f9ba00583f6db
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d4ef24bcab1ea9de20f701f60d6f9ba00583f6db
 #EXTINF:-1 tvg-logo="tvr1.jpg",FAVORIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=11f263ffbab0d110a639eb1fd141370dbf7515d7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=11f263ffbab0d110a639eb1fd141370dbf7515d7
 #EXTINF:-1 tvg-logo="tvr1.jpg",FILM BOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=854572ce6fa376cbd9d19aaf465b4ca11fa961dd
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=854572ce6fa376cbd9d19aaf465b4ca11fa961dd
 #EXTINF:-1 tvg-logo="tvr1.jpg",FILM CAFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=e42976fa49ceb36c3b8cf16a84542b63d2b8b936
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e42976fa49ceb36c3b8cf16a84542b63d2b8b936
 #EXTINF:-1 tvg-logo="tvr1.jpg",FINE LIVING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=fabd26c69a1268555d3e113d097022f368c80bcb
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=fabd26c69a1268555d3e113d097022f368c80bcb
 #EXTINF:-1 tvg-logo="tvr1.jpg",FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=3c5c047e365be93efadc2715fb2bdc0facbb482c
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3c5c047e365be93efadc2715fb2bdc0facbb482c
 #EXTINF:-1 tvg-logo="tvr1.jpg",HAPPY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=1618ad4debdff785c863bd320b5e7d16d563a283
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=1618ad4debdff785c863bd320b5e7d16d563a283
 #EXTINF:-1 tvg-logo="tvr1.jpg",HBO
 http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9
 #EXTINF:-1 tvg-logo="tvr1.jpg",HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=bb814213a7aa8b4de31195daade2dd22258c637d
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=bb814213a7aa8b4de31195daade2dd22258c637d
 #EXTINF:-1 tvg-logo="tvr1.jpg",HBO3
 http://127.0.0.1:6878/ace/getstream?id=3301c21ee4802d8be5c0ae73f858b28988e1ae86
 #EXTINF:-1 tvg-logo="tvr1.jpg",HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=7eab20ed5bd4759fc5c60f8f3d387b8635772a95
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7eab20ed5bd4759fc5c60f8f3d387b8635772a95
 #EXTINF:-1 tvg-logo="tvr1.jpg",HORA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=3d38918eaec427038f179fa749298dd0b241fb9d
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3d38918eaec427038f179fa749298dd0b241fb9d
 #EXTINF:-1 tvg-logo="tvr1.jpg",INV DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28
 #EXTINF:-1 tvg-logo="tvr1.jpg",JIM JAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=154069008c8224daa5e912a0297f854008d57d25
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=154069008c8224daa5e912a0297f854008d57d25
 #EXTINF:-1 tvg-logo="tvr1.jpg",KANAL D
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
 #EXTINF:-1 tvg-logo="tvr1.jpg",KISS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=2e75721c71458630cf77df3e779b708d0169ec51
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2e75721c71458630cf77df3e779b708d0169ec51
 #EXTINF:-1 tvg-logo="tvr1.jpg",LOOK PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=b1b208eec48e2373ea84723047a4643523d847bc
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b1b208eec48e2373ea84723047a4643523d847bc
 #EXTINF:-1 tvg-logo="tvr1.jpg",LOOK SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=70674c7464a8d83e5b1eee7a8bd46194d7e1e321
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=70674c7464a8d83e5b1eee7a8bd46194d7e1e321
 #EXTINF:-1 tvg-logo="tvr1.jpg",MEGAMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=fafab23e6babbf3883f8f8f8d4d4733de80b3eba
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=fafab23e6babbf3883f8f8f8d4d4733de80b3eba
 #EXTINF:-1 tvg-logo="tvr1.jpg",MINIMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=5dc6b384a3c845f2cb4674d6eac3a278ef417f6f
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5dc6b384a3c845f2cb4674d6eac3a278ef417f6f
 #EXTINF:-1 tvg-logo="tvr1.jpg",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=06ed87043671fa4d3b132ed5d738b24284e38d1e
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=06ed87043671fa4d3b132ed5d738b24284e38d1e
 
 #EXTINF:-1 tvg-logo="tvr1.jpg",NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8
 NATIONAL GEORAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a
 #EXTINF:-1 tvg-logo="tvr1.jpg",NATIONAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
 #EXTINF:-1 tvg-logo="tvr1.jpg",NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4a44d2cc759184f51771d0173a3cc41ea94c9f0e
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4a44d2cc759184f51771d0173a3cc41ea94c9f0e
 #EXTINF:-1 tvg-logo="tvr1.jpg",NICK JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=d59adc88c9d992fe5cbe23e1451437ebd591c576
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d59adc88c9d992fe5cbe23e1451437ebd591c576
 #EXTINF:-1 tvg-logo="tvr1.jpg",PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=dd7d61a50bdde744c4d4aeeab80c5e6dd8bc0cc9
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=dd7d61a50bdde744c4d4aeeab80c5e6dd8bc0cc9
 #EXTINF:-1 tvg-logo="tvr1.jpg",PRIMA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8
 #EXTINF:-1 tvg-logo="tvr1.jpg",PRO CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=e53201937891d6b925d558d432ce1980e4c2bdfe
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e53201937891d6b925d558d432ce1980e4c2bdfe
 #EXTINF:-1 tvg-logo="tvr1.jpg",PRO GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=8a51185008d28fabcf4db537f5beb90ede5215e3
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=8a51185008d28fabcf4db537f5beb90ede5215e3
 
 #EXTINF:-1 tvg-logo="tvr1.jpg",PRO X
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=bde45352ab78fa4ef41e7373ea959de3b3e3f753
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=bde45352ab78fa4ef41e7373ea959de3b3e3f753
 #EXTINF:-1 tvg-logo="tvr1.jpg",REALITATEA PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a01f35da3e7230ed1e68e53600eb7be9f6df9f06
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a01f35da3e7230ed1e68e53600eb7be9f6df9f06
 #EXTINF:-1 tvg-logo="tvr1.jpg",ROMANIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4470aa64e1291aec607138b41881ae3df311a144
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4470aa64e1291aec607138b41881ae3df311a144
 #EXTINF:-1 tvg-logo="tvr1.jpg",TELEKOM SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=56a7a60a542c43c7754008479f55f8ac896db7c5
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=56a7a60a542c43c7754008479f55f8ac896db7c5
 #EXTINF:-1 tvg-logo="tvr1.jpg",TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=abc439f405530fb7dee668d5f1b9c4b2fced909c
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc439f405530fb7dee668d5f1b9c4b2fced909c
 #EXTINF:-1 tvg-logo="tvr1.jpg",TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=58ebfa51b4fcd61d5fcc8168547693bf8156f651
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=58ebfa51b4fcd61d5fcc8168547693bf8156f651
 #EXTINF:-1 tvg-logo="tvr1.jpg",TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=ab49337b0392350389469b6c6e9c99ee601c2128
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ab49337b0392350389469b6c6e9c99ee601c2128
 #EXTINF:-1 tvg-logo="tvr1.jpg",TV1000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=bcc669d63ee16c3dcb485cb26dec4b78194b84ab
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=bcc669d63ee16c3dcb485cb26dec4b78194b84ab
 #EXTINF:-1 tvg-logo="tvr1.jpg",TV PAPRIKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
 #EXTINF:-1 tvg-logo="tvr1.jpg",UTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=45fa51cdde2bd37f55206a9a3814afc421e76fe8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=45fa51cdde2bd37f55206a9a3814afc421e76fe8
 #EXTINF:-1 tvg-logo="tvr1.jpg",VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=8cb69525386533f81c042f9e02d254f01b71d00c
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=8cb69525386533f81c042f9e02d254f01b71d00c
 #EXTINF:-1 tvg-logo="tvr1.jpg",VISAT EXPLORER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6cb4a8cfc43e99efc0195a86437c4f96a25b8ea7
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6cb4a8cfc43e99efc0195a86437c4f96a25b8ea7
 #EXTINF:-1 tvg-logo="tvr1.jpg",VISAT HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=428306b01ec262d0ba1de65c526b020abd3e612e
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=428306b01ec262d0ba1de65c526b020abd3e612e
 #EXTINF:-1 tvg-logo="tvr1.jpg",VISAT NATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=841ebe083cd869e04819d39ca39acc4bdf0f31eb
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=841ebe083cd869e04819d39ca39acc4bdf0f31eb
 #EXTINF:-1 tvg-logo="tvr1.jpg",ZU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a2e5a7f27eb94b266cfb0e89625158c112cde4f4
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a2e5a7f27eb94b266cfb0e89625158c112cde4f4
 #EXTINF:-1 tvg-logo="tvr1.jpg",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4e325b6a460b449651cfe1fd276c0c3867b0ebf6
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4e325b6a460b449651cfe1fd276c0c3867b0ebf6
