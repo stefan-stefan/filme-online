@@ -9,6 +9,13 @@ http://193.228.153.231:4242/bysid/100
 
 #EXTINF:#1 tvg-logo="https://www.ewsat.com/img/TVR.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 1[/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 2[/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 3[/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a94e8d679229ff8c4afb58100746e025e386beb
+
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]AMC FHD[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6ed8845f190415ec31cca2a765b4b19012e7b023
 #EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange][/COLOR][COLOR yellow]Animal Planet HD[/COLOR] 
@@ -35,8 +42,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=73eecb8056e6cff8d15d689cb6da38cf9024bda7
 #EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange][/COLOR][COLOR yellow]Boomerang[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4150ccef1b5606d8388ced1d18c0d8a55d755433
-#EXTINF:-1 tvg-logo="tvr1.jpg",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4e325b6a460b449651cfe1fd276c0c3867b0ebf6
 #EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] CBS REALITY[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=48b5e5e9b0182473741207e1d7a48aeea5c23b76
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] Cinemax[/COLOR]
@@ -145,13 +150,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=bcc669d63ee16c3dcb485cb26dec4b78194b84ab
 #EXTINF:-1 tvg-logo="tvr1.jpg",TV PAPRIKA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
-#EXTINF:-1 tvg-logo="tvr1.jpg",TVR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
-#EXTINF:-1 tvg-logo="tvr1.jpg",TVR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
-
-#EXTINF:-1 tvg-logo="tvr1.jpg",TVR 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a94e8d679229ff8c4afb58100746e025e386beb
 #EXTINF:-1 tvg-logo="tvr1.jpg",UTV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=45fa51cdde2bd37f55206a9a3814afc421e76fe8
 #EXTINF:-1 tvg-logo="tvr1.jpg",VH1
@@ -164,3 +162,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=841ebe083cd869e04819d39ca39acc4bdf0f31eb
 #EXTINF:-1 tvg-logo="tvr1.jpg",ZU TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a2e5a7f27eb94b266cfb0e89625158c112cde4f4
+#EXTINF:-1 tvg-logo="tvr1.jpg",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4e325b6a460b449651cfe1fd276c0c3867b0ebf6
