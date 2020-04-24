@@ -15,51 +15,51 @@ http://193.228.153.231:4242/bysid/100
 #EXTINF:#1 tvg-logo="https://www.ewsat.com/img/TVR.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR HD [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 1[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
 #EXTINF:#1 tvg-logo="https://www.radardemedia.ro/wp-content/uploads/2017/02/TVR-2-LOGO.png" group-title="STIRI",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]TVR 2 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 2[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 3[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a94e8d679229ff8c4afb58100746e025e386beb
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a94e8d679229ff8c4afb58100746e025e386beb
 
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]AMC FHD[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6ed8845f190415ec31cca2a765b4b19012e7b023
 #EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange][/COLOR][COLOR yellow]Animal Planet HD[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://193.228.153.231:4240/bysid/40
 
 #EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Antena 1[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
 #EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]ANTENA STAR[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/chunklist_b400000.m3u8
 
 #EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange][/COLOR][COLOR yellow] Antena Stars[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=f80f7eba001fbb6ccb3317313f93bcfbc9c9c499
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f80f7eba001fbb6ccb3317313f93bcfbc9c9c499
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] PRO TV[/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Pro TV[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
 
 
 #EXTINF:#1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AXN_White [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.33.39.108:8111/11002
 #EXTINF:-1 tvg-ID="AXN White" tvg-name="RO: AXN White" tvg-logo="https://iptvsensation.org/picons/axnwhite.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN White[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4aee337d80adca1e5a344fcf71c26d0f19756695
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4aee337d80adca1e5a344fcf71c26d0f19756695
 
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.33.39.108:8111/11003
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow] AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]AXN BLACK RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://193.33.39.108:8111/11003
 #EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN Black[/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=9eeda5af37048ad1c5da3a49d80581eb86c155d0
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=9eeda5af37048ad1c5da3a49d80581eb86c155d0
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN SPIN[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=b11f9be4a0d033fedab04bd4a7d141f886f0479e
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b11f9be4a0d033fedab04bd4a7d141f886f0479e
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR red][/COLOR][COLOR yellow]B1 TV[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
 #EXTINF:-1 tvg-logo="tvr1.jpg",HH
