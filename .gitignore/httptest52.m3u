@@ -83,7 +83,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 #EXTINF:0 tvg-logo="https://b7.pngbarn.com/png/391/476/digi-sport-3-hd-sport1-digi-tv-sport1-png-clip-art-thumbnail.png" group-title="SPORT",[COLOR orange][/COLOR][COLOR red]Digi Sport 2[/COLOR]
 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4b5a0e1840787e0954cc32d7388d06726b580e53
-#EXTINF:-1 tvg-logo="tvr1.jpg",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Discovery[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
 DISCOVERY SCIENCE
 http://127.0.0.1:6878/ace/getstream?id=5a959a7dc13f39e4c5a82f1b7d1eb8ccf7a46b9d
