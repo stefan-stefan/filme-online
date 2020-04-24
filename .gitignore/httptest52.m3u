@@ -33,7 +33,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13
 #EXTINF:-1 tvg-logo="tvr1.jpg",BOOLYWOOD CLASIC
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=73eecb8056e6cff8d15d689cb6da38cf9024bda7
-#EXTINF:-1 tvg-logo="tvr1.jpg",BOOMERANG
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange][/COLOR][COLOR yellow]Boomerang[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4150ccef1b5606d8388ced1d18c0d8a55d755433
 #EXTINF:-1 tvg-logo="tvr1.jpg",CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4e325b6a460b449651cfe1fd276c0c3867b0ebf6
