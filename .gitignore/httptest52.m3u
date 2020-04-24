@@ -13,6 +13,10 @@ http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 2[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.cancan.ro/unsafe/1140x684/smart/filters:quality(90):format(jpg)/wp-content/uploads/2019/12/tvr2.jpg" group-title="GENERALE",[COLOR deeppink][/COLOR][COLOR blue]TVR 2[/COLOR] 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]TVR 3[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=a94e8d679229ff8c4afb58100746e025e386beb
 
