@@ -6,14 +6,14 @@
 
 
 <plugin>
-    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV -[COLOR yellow](HTTP-ACE-SOP) [/COLOR][/B]</title>
+    <title>[B][COLOR red]...[COLOR yellow]...[COLOR darkblue]... [COLOR blue]LISTA TV -1-[COLOR yellow](In Lucru) [/COLOR][/B]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest52.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA ACESTREAM [/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow](Test) [/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA ACESTREAM[/COLOR] [COLOR blue][/COLOR][/B] [COLOR yellow](Test) [/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/Q756VtVX</link>
     <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
     <fanart>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</fanart>
