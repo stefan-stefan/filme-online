@@ -23,7 +23,7 @@ http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=9eeda5af37048ad1c5da3a49d80581eb86c155d0
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN SPIN[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=b11f9be4a0d033fedab04bd4a7d141f886f0479e
-#EXTINF:-1 tvg-logo="tvr1.jpg",AXN WHITE
+#EXTINF:-1 tvg-ID="AXN White" tvg-name="RO: AXN White" tvg-logo="https://iptvsensation.org/picons/axnwhite.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow] AXN White[/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=4aee337d80adca1e5a344fcf71c26d0f19756695
 #EXTINF:-1 tvg-logo="tvr1.jpg",B1 TV
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
