@@ -13,7 +13,7 @@ http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=6ed8845f190415ec31cca2a765b4b19012e7b023
 #EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange][/COLOR][COLOR yellow]Animal Planet HD[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8
-#EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA 1
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Antena 1[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
 
 #EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA STARS
