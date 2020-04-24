@@ -76,7 +76,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=acestream://34b1402557fb7faab2979361c4e9650fa0948724
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange][/COLOR][COLOR yellow]Cinemax 2[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3
-#EXTINF:-1 tvg-logo="tvr1.jpg",COMEDY CENTRAL
+#EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Comedy Central[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6d4996572a8b26633727595e00bbdfde88028e3e
 #EXTINF:-1 tvg-logo="tvr1.jpg",DIGI SPORT 1
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=870153b27d2aaab38ab17272c5e96ec7fc6f3369
