@@ -1,12 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png",[COLORblue][B][I]>>RO-ROMANIA<< [/I][/B][/COLOR]
+http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
+
 #EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR red][B]  CONFIGURATI PLEXUS! [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR blue][B]  INSTALATI ACESTREAM! [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR yellow][B]  LANSATI ACESTREAM-ENGINE! [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/romania/flag-round-250.png",[COLORblue][B][I]>>RO-ROMANIA<< [/I][/B][/COLOR]
-http://www.pandar.tv:25461/IAnfZ6RCQxDVomV/A9qSYZaVdVnZshD/57061
 
 #EXTINF:0 tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RndlYmFkbWRpZ2kyNC5yY3MtcmRzLnJv/JTJGd3AtY29udGVudCUyRnVwbG9hZHMl/MkYyMDE5JTJGMDQlMkZEaWdpMjRfSEQu/cG5nJmhhc2g9NTVlNzMxNWFmZThiYmQ0ZjM0YmUwZGU1Njc5NTQzMWQ=.png"group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red]DIGI 24 HD(Stream 1) [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://193.228.153.231:4242/bysid/100
