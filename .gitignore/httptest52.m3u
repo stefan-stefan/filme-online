@@ -64,9 +64,9 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
 #EXTINF:-1 tvg-logo="tvr1.jpg",HH
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d8ad9b1d966de683c47c7daac8cd85d60c0fd1db
-#EXTINF:-1 tvg-logo="tvr1.jpg",BOOLYWOOD TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Bollywood TV[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13
-#EXTINF:-1 tvg-logo="tvr1.jpg",BOOLYWOOD CLASIC
+#EXTINF:0 tvg-logo="http://tv-online.tv/assets/images/channels_logo/48447c9efae52d20e4bf8292c563f294.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Bollywood Classic[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=73eecb8056e6cff8d15d689cb6da38cf9024bda7
 #EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange][/COLOR][COLOR yellow]Boomerang[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4150ccef1b5606d8388ced1d18c0d8a55d755433
