@@ -16,7 +16,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:68
 #EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Antena 1[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
 
-#EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA STARS
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange][/COLOR][COLOR yellow] Antena Stars[/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://127.0.0.1:6878/ace/getstream?id=f80f7eba001fbb6ccb3317313f93bcfbc9c9c499
 #EXTINF:-1 tvg-logo="tvr1.jpg",AXN
 http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
