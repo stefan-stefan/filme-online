@@ -166,8 +166,13 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc439f405530fb7dee668d5f1b9c4b2fced909c
 #EXTINF:-1 tvg-logo="tvr1.jpg",TNT
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=58ebfa51b4fcd61d5fcc8168547693bf8156f651
-#EXTINF:-1 tvg-logo="tvr1.jpg",TRAVEL CHANNEL
+#EXTINF:0 tvg-logo="https://www.infotravelromania.ro/foto%20mic/emisiuni_tv/travel-mix-channel.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]Travel Mixt[/COLOR]
+http://89.38.8.131:39520
+
+#EXTINF:0 tvg-logo="https://www.infotravelromania.ro/foto%20mic/emisiuni_tv/travel-mix-channel.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Travel Mixt[/COLOR]Travel Mixt
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ab49337b0392350389469b6c6e9c99ee601c2128
+
+
 #EXTINF:-1 tvg-logo="tvr1.jpg",TV1000
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=bcc669d63ee16c3dcb485cb26dec4b78194b84ab
 #EXTINF:-1 tvg-logo="tvr1.jpg",TV PAPRIKA
