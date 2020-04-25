@@ -27,8 +27,10 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a01f35da3e7230ed1e68e53600eb7be9f6df9f06
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown][/COLOR][COLOR yellow]ROMANIA TV[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4470aa64e1291aec607138b41881ae3df311a144
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]KANAL D[/COLOR] Kanal D
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]KANAL D[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]NATIONAL TV[/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
 
 
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]AMC FHD[/COLOR] 
@@ -115,14 +117,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 http://127.0.0.1:6878/ace/getstream?id=3301c21ee4802d8be5c0ae73f858b28988e1ae86
 #EXTINF:-1 tvg-logo="tvr1.jpg",HISTORY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7eab20ed5bd4759fc5c60f8f3d387b8635772a95
-#EXTINF:-1 tvg-logo="tvr1.jpg",HORA TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3d38918eaec427038f179fa749298dd0b241fb9d
 #EXTINF:-1 tvg-logo="tvr1.jpg",INV DISCOVERY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28
-#EXTINF:-1 tvg-logo="tvr1.jpg",JIM JAM
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=154069008c8224daa5e912a0297f854008d57d25
-#EXTINF:-1 tvg-logo="tvr1.jpg",KISS TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2e75721c71458630cf77df3e779b708d0169ec51
 #EXTINF:-1 tvg-logo="tvr1.jpg",LOOK PLUS
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b1b208eec48e2373ea84723047a4643523d847bc
 #EXTINF:-1 tvg-logo="tvr1.jpg",LOOK SPORT
@@ -138,8 +134,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8
 NATIONAL GEORAPHIC
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a
-#EXTINF:-1 tvg-logo="tvr1.jpg",NATIONAL TV
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
 #EXTINF:-1 tvg-logo="tvr1.jpg",NICKELODEON
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4a44d2cc759184f51771d0173a3cc41ea94c9f0e
 #EXTINF:-1 tvg-logo="tvr1.jpg",NICK JUNIOR
