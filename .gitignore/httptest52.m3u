@@ -126,8 +126,8 @@ http://123orca.com:25461/ahmeddaoud/147852369/11200
 http://127.0.0.1:6878/ace/getstream?id=895d6a92042671cc483346dfdd3917bef2458da9
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]HBO 2[/COLOR] 
 http://123orca.com:25461/ahmeddaoud/147852369/11199
-#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]HBO 2[/COLOR] 
-http://193.33.39.108:8107/30705
+#EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime][B]HBO 2[/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://193.33.39.108:8107/30705
 
 
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]HBO 2[/COLOR] 
