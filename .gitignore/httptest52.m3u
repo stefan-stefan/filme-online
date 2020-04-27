@@ -48,6 +48,10 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
 http://193.228.153.231:4240/bysid/40
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]Antena 1[/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://193.228.153.231:4240/bysid/40
+
+
 
 #EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Antena 1[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
