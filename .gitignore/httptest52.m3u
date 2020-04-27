@@ -159,6 +159,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264971&name=[COLOR blue][B]Stefan Playground[/B][/COLOR]
 
 
+
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]HBO 2[/COLOR] 
 http://193.33.39.108:8107/30705
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]HBO 2[/COLOR] 
