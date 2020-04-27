@@ -77,6 +77,10 @@ http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33785.m3u8
 
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Prima TV[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]Pro Cinema[/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11186
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Pro Cinema[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e53201937891d6b925d558d432ce1980e4c2bdfe
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]PRO GOLD[/COLOR]
