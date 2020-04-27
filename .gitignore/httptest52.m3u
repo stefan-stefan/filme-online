@@ -75,8 +75,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Pro TV[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e2/25/4f/e2254fa88efa9240ae973e6cd612a31b.jpg" group-title="STIRI",[COLOR lawngreen][/COLOR][COLOR lawngreen][/COLOR]ProTV ( sop1) HD
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265011&name=Protv
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR red]Sop[/COLOR][COLOR blue]Pro Tv[/COLOR] 
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264957&name=Pro Tv
 
 
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]Prima TV[/COLOR]
