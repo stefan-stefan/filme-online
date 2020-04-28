@@ -1,624 +1,103 @@
 #EXTM3U
 #EXTINF:0, STEFAN-TV-LISTA>HTTP<  
 http://89.136.209.26:1935/l
-#EXTINF:0,6 TV
-#EXTVLCOPT:network-caching=1000
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Digi 24 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33783.m3u8
-#EXTINF:0,Digi 4K
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34585.m3u8
-#EXTINF:0,TVR HD
-#EXTVLCOPT:network-caching=1000
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0,TVR 3
-#EXTVLCOPT:network-caching=1000
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0,TVR International
-#EXTVLCOPT:network-caching=1000
-https://mn-nl.mncdn.com/tvr_i_live/smil:tvr_i_live.smil/playlist.m3u8
-#EXTINF:0,PRO TV International
-#EXTVLCOPT:network-caching=1000
-http://78.109.108.62:2001/protv
-#EXTINF:0,Tele III
-#EXTVLCOPT:network-caching=1000
-http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-#EXTINF:0,TVR 1 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48056.m3u8
-#EXTINF:0,TVR 2
-#EXTVLCOPT:network-caching=1000
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0,PRO TV
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
-#EXTINF:0,PRO TV HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33761.m3u8
-#EXTINF:0,ANTENA 1
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33765.m3u8
-#EXTINF:0,ANTENA 1 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33764.m3u8
-#EXTINF:0,KANAL D
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33772.m3u8
-#EXTINF:0,KANAL D HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33771.m3u8
-#EXTINF:0,PRIMA TV
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33785.m3u8
-#EXTINF:0,NATIONAL TV
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33787.m3u8
-#EXTINF:0,NATIONAL 24 PLUS
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33782.m3u8
-#EXTINF:0,B1 TV
-#EXTVLCOPT:network-caching=1000
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0,ProTV News
-#EXTVLCOPT:network-caching=1000
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0,Pro TV Chisinau HD
-#EXTVLCOPT:network-caching=1000
-http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0,Realitatea Plus
-#EXTVLCOPT:network-caching=1000
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0,Romania TV
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33779.m3u8
-#EXTINF:0,Antena 3
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33767.m3u8
-#EXTINF:0,Antena 3 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33766.m3u8
-#EXTINF:0,Antena Stars
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33769.m3u8
-#EXTINF:0,Antena Stars HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33768.m3u8
-#EXTINF:0,Happy Channel
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33776.m3u8
-#EXTINF:0,Happy Channel HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33776.m3u8
-#EXTINF:0,Cook and Play
-#EXTVLCOPT:network-caching=1000
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:0,Antena Monden
-#EXTVLCOPT:network-caching=1000
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0,Antena Comedy
-#EXTVLCOPT:network-caching=1000
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0,CANAL 33
-#EXTVLCOPT:network-caching=1000
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0,Profit TV
-#EXTVLCOPT:network-caching=1000
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0,Agro TV
-#EXTVLCOPT:network-caching=1000
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Nasul TV
-#EXTVLCOPT:network-caching=1000
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
-#EXTINF:0,Info HD
-#EXTVLCOPT:network-caching=1000
-https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8
-#EXTINF:0,Film Now
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33831.m3u8
-#EXTINF:0,Film Now HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34066.m3u8
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33840.m3u8
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33847.m3u8
-#EXTINF:0,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33846.m3u8
-#EXTINF:0,AXN White
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33848.m3u8
-#EXTINF:0,AXN Black
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33849.m3u8
-#EXTINF:0,AXN Spin
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33850.m3u8
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33843.m3u8
-#EXTINF:0,Cinemax 2
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33844.m3u8
-#EXTINF:0,Diva Universal
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33839.m3u8
-#EXTINF:0,Paramount Channel
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33841.m3u8
-#EXTINF:0,TV 1000
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33838.m3u8
-#EXTINF:0,AMC
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33851.m3u8
-#EXTINF:0,TNT
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33852.m3u8
-#EXTINF:0,Film Cafe
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33858.m3u8
-#EXTINF:0,Epic Drama
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33859.m3u8
-#EXTINF:0,Cinemaraton
-#EXTVLCOPT:network-caching=1000
-https://cmn.digitalcable.ro/free/cm/playlist.m3u8
-#EXTINF:0,Comedy Est
-#EXTVLCOPT:network-caching=1000
-https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
-#EXTINF:0,Film Box
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33855.m3u8
-#EXTINF:0,Film Box Extra HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33854.m3u8
-#EXTINF:0,Film Box Premium
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33856.m3u8
-#EXTINF:0,Pro Cinema
-#EXTVLCOPT:network-caching=1000
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
-#EXTINF:0,PRO 2
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33774.m3u8
-#EXTINF:0,PRO 2 HD
-#EXTVLCOPT:network-caching=1000
-https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
-#EXTINF:0,PRO Gold
-#EXTVLCOPT:network-caching=1000
-https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:0,Bollywood TV
-#EXTVLCOPT:network-caching=1000
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Bollywood Classic
-#EXTVLCOPT:network-caching=1000
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Filme" - HBO
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33833.m3u8
-#EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33832.m3u8
-#EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33835.m3u8
-#EXTINF:0,HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33834.m3u8
-#EXTINF:0,HBO 3
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33837.m3u8
-#EXTINF:0,HBO 3 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33836.m3u8
-#EXTINF:0,[COLORred][B][I]SPORT[/I][/B][/COLOR]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1,====== ROMANIA (Lista 2) ======
 http://89.136.209.26:1935/l
-#EXTINF:0,Digi Sport1
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33798.m3u8
-#EXTINF:0,Digi Sport 1 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33797.m3u8
-#EXTINF:0,Digi Sport 2
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33800.m3u8
-#EXTINF:0,Digi Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33799.m3u8
-#EXTINF:0,Digi Sport 3
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33802.m3u8
-#EXTINF:0,Digi Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33801.m3u8
-#EXTINF:0,Digi Sport 4
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33804.m3u8
-#EXTINF:0,Digi Sport 4 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33803.m3u8
-#EXTINF:0,Telekom Sport 1
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36706.m3u8
-#EXTINF:0,Telekom Sport 1 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36706.m3u8
-#EXTINF:0,Telekom Sport 2
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34073.m3u8
-#EXTINF:0,Telekom Sport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33807.m3u8
-#EXTINF:0,Telekom Sport 3
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36708.m3u8
-#EXTINF:0,Telekom Sport 3 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33808.m3u8
-#EXTINF:0,Telekom Sport 4
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36709.m3u8
-#EXTINF:0,Telekom Sport 4 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36709.m3u8
-#EXTINF:0,Eurosport 1
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33811.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33810.m3u8
-#EXTINF:0,Eurosport 2
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33813.m3u8
-#EXTINF:0,Eurosport 2 HD
-#EXTVLCOPT:network-caching=1000
-http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1658.m3u8
-#EXTINF:0,PRO X
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33818.m3u8
-#EXTINF:0,Pro X HD
-#EXTVLCOPT:network-caching=1000
-https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:0,Look Sport
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33814.m3u8
-#EXTINF:0,Look Sport HD
-#EXTVLCOPT:network-caching=1000
-http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1669.m3u8
-#EXTINF:0,Look Sport 2
-#EXTVLCOPT:network-caching=1000
-http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:0,Look Sport 3
-#EXTVLCOPT:network-caching=1000
-http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&end=END
-#EXTINF:0,Look Plus
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33816.m3u8
-#EXTINF:0,Look Plus HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33815.m3u8
-#EXTINF:0,Fight Box HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33916.m3u8
-#EXTINF:0,VSV Marvel Movies HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/51126.m3u8
-#EXTINF:0,VSV Collection HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/51125.m3u8
-#EXTINF:0,VSV Christmas HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38407.m3u8
-#EXTINF:0,VSV Cinema 4K
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38772.m3u8
-#EXTINF:0,VSV Cinema FHD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38253.m3u8
-#EXTINF:0,VSV Action HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38769.m3u8
-#EXTINF:0,VSV Comedy HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38206.m3u8
-#EXTINF:0,VSV Horror HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38252.m3u8
-#EXTINF:0,VSV Sci-Fi HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38394.m3u8
-#EXTINF:0,VSV Bollywood HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38400.m3u8
-#EXTINF:0,VSV Cartoons HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37938.m3u8
-#EXTINF:0,VSV Robert de Niro HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48095.m3u8
-#EXTINF:0,VSV Jason Statham HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48094.m3u8
-#EXTINF:0,HD NET IUmor
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33828.m3u8
-#EXTINF:0,HD NET Thriller
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33821.m3u8
-#EXTINF:0,HD NET Sci-Fi
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33822.m3u8
-#EXTINF:0,HD NET Las Fierbinti
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33827.m3u8
-#EXTINF:0,Filme" - HD NET Kids
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33829.m3u8
-#EXTINF:0,Filme" - HD NET Comedy
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33825.m3u8
-#EXTINF:0,Filme" - HD NET Arnold Schwarzenegger
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50721.m3u8
-#EXTINF:0,Filme" - Magura Media Family Time
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48207.m3u8
-#EXTINF:0,Magura Media Jackie Chan
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48206.m3u8
-#EXTINF:0,Magura Media Sylvester Stallone
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38771.m3u8
-#EXTINF:0,Filme" - Magura Media van Damme
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37417.m3u8
-#EXTINF:0,Magura Media Keanu Reeves
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48287.m3u8
-#EXTINF:0,Magura Media Bruce Willis
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48289.m3u8
-#EXTINF:0,Magura Media Supereroi
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37420.m3u8
-#EXTINF:0,Magura Media Kids
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37410.m3u8
-#EXTINF:0,Magura Media Istoric
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37411.m3u8
-#EXTINF:0,Magura Media Comedy
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37416.m3u8
-#EXTINF:0,Magura Media Cinema
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37413.m3u8
-#EXTINF:0,Magura Media Action
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37409.m3u8
-#EXTINF:0,Magura Media 4K
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37414.m3u8
-#EXTINF:0,Magura Media Horror
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38401.m3u8
-#EXTINF:0,Magura Media Filme Religioase
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/48308.m3u8
-#EXTINF:0,AVB Media Christmas
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38404.m3u8
-#EXTINF:0,AVB Media Action FHD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37830.m3u8
-#EXTINF:0,AVB Media Cartoons
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38204.m3u8
-#EXTINF:0,AVB Media Horror
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38393.m3u8
-#EXTINF:0,AVB Media Mynele
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37829.m3u8
-#EXTINF:0,Timeless Drama Channel
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50719.m3u8
-#EXTINF:0,Timeless Drama Channel HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/50718.m3u8
-#EXTINF:0,Arcadia World
-#EXTVLCOPT:network-caching=1000
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:0,[COLORred][B][I]DOCUMENTARE[/I][/B][/COLOR]
-#EXTVLCOPT:network-caching=1000
-http://89.136.209.26:1935/l
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33884.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33883.m3u8
-#EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38416.m3u8
-#EXTINF:0,National Geographic HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38417.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33886.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33882.m3u8
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33879.m3u8
-#EXTINF:0,Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://king365-tv.com:2103/live/jeanmichel/jeanmichel/3708.m3u8
-#EXTINF:0,Discovery Science HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34078.m3u8
-#EXTINF:0,Discovery ID
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33881.m3u8
-#EXTINF:0,Discovery ID HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38427.m3u8
-#EXTINF:0,Discovery Turbo Extra
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33875.m3u8
-#EXTINF:0,Discovery Turbo Extra HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33875.m3u8
-#EXTINF:0,Discovery ShowCase HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33878.m3u8
-#EXTINF:0,Digi World
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33880.m3u8
-#EXTINF:0,Digi World
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
-#EXTINF:0,Digi World HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33899.m3u8
-#EXTINF:0,Digi Life
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33902.m3u8
-#EXTINF:0,Digi Life HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33901.m3u8
-#EXTINF:0,Digi Animal World
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33898.m3u8
-#EXTINF:0,Digi Animal World HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33897.m3u8
-#EXTINF:0,BBC Earth
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33892.m3u8
-#EXTINF:0,DocuBox HD
-#EXTVLCOPT:network-caching=1000
-http://217.115.112.137:8123/play/a02y/index.m3u8
-#EXTINF:0,CBS Reality
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33894.m3u8
-#EXTINF:0,Fine Living
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33873.m3u8
-#EXTINF:0,Fishing&Hunting
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33874.m3u8
-#EXTINF:0,E! Entertainment
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33877.m3u8
-#EXTINF:0,E! Entertainment HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33876.m3u8
-#EXTINF:0,Travel Mix
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33889.m3u8
-#EXTINF:0,Travel Channel HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33887.m3u8
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33891.m3u8
-#EXTINF:0,VP HD
-#EXTVLCOPT:network-caching=1000
-http://89.38.8.130:39437/
-#EXTINF:0,Food Netwoork
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38426.m3u8
-#EXTINF:0,TV Paprika
-#EXTVLCOPT:network-caching=1000
-http://188.214.39.67:14555/pap
-#EXTINF:0,History
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33895.m3u8
-#EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33870.m3u8
-#EXTINF:0,Cinethronix
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34092.m3u8
-#EXTINF:0,Viasat Nature
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33869.m3u8
-#EXTINF:0,Viasat History
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33871.m3u8
-#EXTINF:0,Viasat Explorer
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33872.m3u8
-#EXTINF:0,IDA TV HD
-#EXTVLCOPT:network-caching=1000
-https://tinyurl.com/y9k7rbje
-#EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33864.m3u8
-#EXTINF:0,Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33862.m3u8
-#EXTINF:0,Disney Junior
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33861.m3u8
-#EXTINF:0,Minimax
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33863.m3u8
-#EXTINF:0,Boomerang
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33865.m3u8
-#EXTINF:0,Da Vinci Learning
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33904.m3u8
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36719.m3u8
-#EXTINF:0,Nick. Jr
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33860.m3u8
-#EXTINF:0,NickToons
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33866.m3u8
-#EXTINF:0,JimJam
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/38428.m3u8
-#EXTINF:0,Duck TV
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33868.m3u8
-#EXTINF:0,ZU TV
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33908.m3u8
-#EXTINF:0,ZU TV HD
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33907.m3u8
-#EXTINF:0,Kiss Tv
-#EXTVLCOPT:network-caching=1000
-http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
-#EXTINF:0,U Tv
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33910.m3u8
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:0,MTV Rocks
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36472.m3u8
-#EXTINF:0,Music Channel
-#EXTVLCOPT:network-caching=1000
-http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33908.m3u8
-#EXTINF:0,Magic Tv
-#EXTVLCOPT:network-caching=1000
-http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
-#EXTINF:0,,
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/,
+#EXTINF:0,DIGI 24(test)
+http://cdn.ch01.spr24.net:81/22919/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:-1,TVR 1
+http://123orca.com:25461/ahmeddaoud/147852369/11181
+#EXTINF:-1,TVR 2
+http://123orca.com:25461/ahmeddaoud/147852369/11180
+#EXTINF:-1,TVR 3
+http://123orca.com:25461/ahmeddaoud/147852369/11179
+#EXTINF:-1,Viasat History.
+http://123orca.com:25461/ahmeddaoud/147852369/11178
+#EXTINF:-1,Viasat Nature
+http://123orca.com:25461/ahmeddaoud/147852369/11177
+#EXTINF:-1,TV 1000
+http://123orca.com:25461/ahmeddaoud/147852369/11182
+#EXTINF:-1,AXN Black
+http://123orca.com:25461/ahmeddaoud/147852369/11219
+#EXTINF:-1,AXN White.
+http://123orca.com:25461/ahmeddaoud/147852369/11218
+#EXTINF:-1,AXN.
+http://123orca.com:25461/ahmeddaoud/147852369/11220
+#EXTINF:-1,Acasa TV
+http://123orca.com:25461/ahmeddaoud/147852369/11224
+#EXTINF:-1,B1
+http://123orca.com:25461/ahmeddaoud/147852369/11217
+#EXTINF:-1,Antena Stars
+http://123orca.com:25461/ahmeddaoud/147852369/11221
+#EXTINF:-1,Antena 1
+http://123orca.com:25461/ahmeddaoud/147852369/11223
+#EXTINF:-1,Antena 3.
+http://123orca.com:25461/ahmeddaoud/147852369/11222
+#EXTINF:-1,HBO 1 HD
+http://123orca.com:25461/ahmeddaoud/147852369/11200
+#EXTINF:-1,HBO 2 HD
+http://123orca.com:25461/ahmeddaoud/147852369/11199
+#EXTINF:-1,HBO 3 HD
+http://123orca.com:25461/ahmeddaoud/147852369/11198
+#EXTINF:-1,Kanal D.
+http://123orca.com:25461/ahmeddaoud/147852369/11196
+#EXTINF:-1,KISS TV
+http://123orca.com:25461/ahmeddaoud/147852369/11195
+#EXTINF:-1,Look Plus
+http://123orca.com:25461/ahmeddaoud/147852369/11194
+#EXTINF:-1,Look tv
+http://123orca.com:25461/ahmeddaoud/147852369/11193
+#EXTINF:-1,Pro Cinema
+http://123orca.com:25461/ahmeddaoud/147852369/11186
+#EXTINF:-1,Pro TV
+http://123orca.com:25461/ahmeddaoud/147852369/11187
+#EXTINF:-1,Realitatea Tv
+http://123orca.com:25461/ahmeddaoud/147852369/11185
+#EXTINF:-1,Romania TV
+http://123orca.com:25461/ahmeddaoud/147852369/11184
+#EXTINF:-1,Cinemax 2
+http://123orca.com:25461/ahmeddaoud/147852369/11215
+#EXTINF:-1,Etno Tv
+http://123orca.com:25461/ahmeddaoud/147852369/11204
+#EXTINF:-1,Digi 24
+http://123orca.com:25461/ahmeddaoud/147852369/11214
+#EXTINF:-1,Digi Life
+http://123orca.com:25461/ahmeddaoud/147852369/11211
+#EXTINF:-1,Digi Film
+http://123orca.com:25461/ahmeddaoud/147852369/11212
+#EXTINF:-1,Digi World
+http://123orca.com:25461/ahmeddaoud/147852369/11206
+#EXTINF:-1,Digi Animal World
+http://123orca.com:25461/ahmeddaoud/147852369/11213
+#EXTINF:-1,Digi Sport 1
+http://123orca.com:25461/ahmeddaoud/147852369/11210
+#EXTINF:-1,Digi Sport 2
+http://123orca.com:25461/ahmeddaoud/147852369/11209
+#EXTINF:-1,Digi Sport 3
+http://123orca.com:25461/ahmeddaoud/147852369/11208
+#EXTINF:-1,Digi Sport 4
+http://123orca.com:25461/ahmeddaoud/147852369/11207
+#EXTINF:-1,Megamax
+http://123orca.com:25461/ahmeddaoud/147852369/11192
+#EXTINF:-1,Minimax
+http://123orca.com:25461/ahmeddaoud/147852369/11191
+#EXTINF:-1,Boomerang..
+http://123orca.com:25461/ahmeddaoud/147852369/11190
+#EXTINF:-1,Cartoon Network
+http://123orca.com:25461/ahmeddaoud/147852369/11216
+#EXTINF:-1,Disney_ Junior
+http://123orca.com:25461/ahmeddaoud/147852369/11205
+#EXTINF:-1,Nickelodeon
+http://123orca.com:25461/ahmeddaoud/147852369/11188
+#EXTINF:-1,Happy Channel
+http://123orca.com:25461/ahmeddaoud/147852369/11201
+#EXTINF:-1,History. Channel
+http://123orca.com:25461/ahmeddaoud/147852369/11197
+#EXTINF:-1,National. Geographic
+http://123orca.com:25461/ahmeddaoud/147852369/11189
+#EXTINF:-1,Sport.ro
+http://123orca.com:25461/ahmeddaoud/147852369/11183
+#EXTINF:-1,Eurosport
+http://123orca.com:25461/ahmeddaoud/147852369/11203
+#EXTINF:-1,Eurosport. 2
+http://123orca.com:25461/ahmeddaoud/147852369/11202
