@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0, STEFAN-TV-LISTA>HTTP<  
 http://89.136.209.26:1935/l
-#EXTINF:-1,====== ROMANIA (Lista 2) ======
-http://89.136.209.26:1935/l
 #EXTINF:0,DIGI 24(test)
 http://cdn.ch01.spr24.net:81/22919/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:-1,TVR 1
