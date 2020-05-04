@@ -113,13 +113,18 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 
 #EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN Black[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=9eeda5af37048ad1c5da3a49d80581eb86c155d0
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR red]AXN SPIN[/COLOR] 
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]AXN SPIN[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33850.m3u8
-#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR lime]AXN SPIN[/COLOR] 
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]AXN SPIN[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33850.m3u8
 
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] AXN SPIN[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b11f9be4a0d033fedab04bd4a7d141f886f0479e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]B1 TV[/COLOR] 🇷🇴
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]B1 TV[/COLOR] 🇷🇴
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://193.228.153.231:4242/bysid/70
+
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png" group-title="GENERALE",[COLOR orange][/COLOR][COLOR yellow] B1 TV[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Bollywood TV[/COLOR]
