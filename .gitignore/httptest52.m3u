@@ -104,6 +104,10 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 http://edge76.rcs-rds.ro/digiedge2/axnehq.stream/chunklist_w1911387354.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR lime] AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://edge76.rcs-rds.ro/digiedge2/axnehq.stream/chunklist_w1911387354.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+
+
 
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR yellow] AXN RO [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=0c47eb2e34b5a0d95fef8ae350d2edf7789f7557
