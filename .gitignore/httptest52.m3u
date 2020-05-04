@@ -181,64 +181,44 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33799.m3u8
 #EXTINF:0 tvg-logo="https://b7.pngbarn.com/png/391/476/digi-sport-3-hd-sport1-digi-tv-sport1-png-clip-art-thumbnail.png" group-title="SPORT",[COLOR orange][/COLOR][COLOR yellow]Digi Sport 2[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4b5a0e1840787e0954cc32d7388d06726b580e53
 #EXTINF:0,  Digi Sport 1 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33797.m3u8
 #EXTINF:0,  Digi Sport 2
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33800.m3u8
 #EXTINF:0,  Digi Sport 2 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33799.m3u8
 #EXTINF:0,  Digi Sport 3
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33802.m3u8
 #EXTINF:0,  Digi Sport 3 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33801.m3u8
 #EXTINF:0,  Digi Sport 4
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33804.m3u8
 #EXTINF:0,  Digi Sport 4 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33803.m3u8
 #EXTINF:0,  Telekom Sport 1
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33805.m3u8
 #EXTINF:0,  Telekom Sport 1 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/36706.m3u8
 #EXTINF:0,  Telekom Sport 2
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/34073.m3u8
 #EXTINF:0,  Telekom Sport 2 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33807.m3u8
 #EXTINF:0,  Telekom Sport 3
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/36708.m3u8
 #EXTINF:0,  Telekom Sport 3 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33808.m3u8
 #EXTINF:0,  Telekom Sport 4
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/36709.m3u8
 #EXTINF:0,  Telekom Sport 4 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/36709.m3u8
 #EXTINF:0,  Eurosport 1
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33811.m3u8
 #EXTINF:0,  Eurosport 1 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33810.m3u8
 #EXTINF:0,  Eurosport 2
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33813.m3u8
 #EXTINF:0,  Eurosport 2 HD
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33812.m3u8
 #EXTINF:0,  PRO X
-#EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33818.m3u8
 
 #EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]Discovery[/COLOR] 
