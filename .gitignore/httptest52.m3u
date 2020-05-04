@@ -147,7 +147,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33843.m3u8
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow] Cinemax[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=acestream://34b1402557fb7faab2979361c4e9650fa0948724
-#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR red]Cinemax 2[/COLOR] 
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]Cinemax 2[/COLOR] 
 #EXTVLCOPT:network-caching=1000
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33844.m3u8
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange][/COLOR][COLOR lime]Cinemax 2[/COLOR] 
@@ -170,8 +170,14 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33800.m3u8
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33799.m3u8
 #EXTINF:0 tvg-logo="https://b7.pngbarn.com/png/391/476/digi-sport-3-hd-sport1-digi-tv-sport1-png-clip-art-thumbnail.png" group-title="SPORT",[COLOR orange][/COLOR][COLOR yellow]Digi Sport 2[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4b5a0e1840787e0954cc32d7388d06726b580e53
+#EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]Discovery[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33879.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Discovery[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
+#EXTINF:0,  Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/34078.m3u8
+
 #EXTINF:-1 tvg-ID="DiscoveryScienceHD.ro" tvg-name="RO: Discovery Science" tvg-logo="https://iptvsensation.org/picons/discoveryscience.png" group-title="DOCUMENTARE",[COLOR orange][/COLOR][COLOR yellow]Discovery Science[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5a959a7dc13f39e4c5a82f1b7d1eb8ccf7a46b9d
 #EXTINF:-1 tvg-logo="tvr1.jpg",FILM BOX
