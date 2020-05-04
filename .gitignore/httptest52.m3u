@@ -127,6 +127,11 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png" group-title="GENERALE",[COLOR orange][/COLOR][COLOR yellow] B1 TV[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ad4804873ef8642156784de42190d7966f09375c8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR red]Bollywood TV[/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38400.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR lime]Bollywood TV[/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Bollywood TV[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13
 #EXTINF:0 tvg-logo="http://tv-online.tv/assets/images/channels_logo/48447c9efae52d20e4bf8292c563f294.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Bollywood Classic[/COLOR]
