@@ -122,6 +122,9 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=9eeda5af37048ad1c5da3a49d80581eb86c155d0
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]AXN SPIN[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33850.m3u8
+#EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]AXN SPIN[/COLOR] 
+http://edge76.rcs-rds.ro/digiedge2/axnspinehq.stream/chunklist_w889028507.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
+
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]AXN SPIN[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33850.m3u8
 
