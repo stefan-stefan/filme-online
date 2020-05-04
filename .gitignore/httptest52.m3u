@@ -156,10 +156,19 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLO
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3
 #EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Comedy Central[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6d4996572a8b26633727595e00bbdfde88028e3e
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/DIGI_Sport_1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]Digi Sport 1[/COLOR]  
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33798.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/DIGI_Sport_1.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]Digi Sport 1[/COLOR]  
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33798.m3u8
+
+
 #EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/501135_preview.png" group-title="SPORT",[COLOR orange][/COLOR][COLOR yellow]Digi Sport 1[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=870153b27d2aaab38ab17272c5e96ec7fc6f3369
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink][/COLOR][COLOR red]Digi Sport 2[/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33800.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_Sport_2.png" group-title="STIRI",[COLOR deeppink][/COLOR][COLOR lime]Digi Sport 2[/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33799.m3u8
 #EXTINF:0 tvg-logo="https://b7.pngbarn.com/png/391/476/digi-sport-3-hd-sport1-digi-tv-sport1-png-clip-art-thumbnail.png" group-title="SPORT",[COLOR orange][/COLOR][COLOR yellow]Digi Sport 2[/COLOR]
-
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4b5a0e1840787e0954cc32d7388d06726b580e53
 #EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Discovery[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
