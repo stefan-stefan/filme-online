@@ -3,7 +3,12 @@
     <thumbnail>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</thumbnail>
     <fanart>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</fanart>
 </item>
-
+<plugin>
+    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV ACESTREAM [COLOR lime](Update 05-05-2020) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
+    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
+    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
+</plugin>
 
 <plugin>
     <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV (1) [COLOR lime](Update 05-05-2020) [/COLOR][/B]</title>
@@ -26,12 +31,7 @@
 </plugin>
 
 
-<plugin>
-    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV ACESTREAM [COLOR lime](Update 05-05-2020) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
-    <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
-    <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
-</plugin>
+
 
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]LISTA [/COLOR] [COLOR blue]TV[/COLOR][/B] [COLOR yellow](Fara sunet)[/COLOR]</title>
