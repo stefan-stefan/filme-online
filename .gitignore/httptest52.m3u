@@ -42,7 +42,7 @@ http://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]KANAL D[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]NATIONAL TV[/COLOR] 
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33787.m3u8
+http://212.0.215.115/National/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]NATIONAL TV[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
