@@ -295,7 +295,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6cb4a8cfc43e99efc0195a86437c4f96a25b8ea7
 #EXTINF:-1 tvg-logo="tvr1.jpg",VISAT HISTORY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=428306b01ec262d0ba1de65c526b020abd3e612e
-#EXTINF:-1 tvg-logo="tvr1.jpg",VISAT NATURE
+#EXTINF: -1 tvg-id = "" tvg-name = "RO084: Viasat Nature" tvg-logo = "" group-title = "Romania", RO084: Viasat Nature
+
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=841ebe083cd869e04819d39ca39acc4bdf0f31eb
 #EXTINF:-1 tvg-logo="tvr1.jpg",ZU TV
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a2e5a7f27eb94b266cfb0e89625158c112cde4f4
