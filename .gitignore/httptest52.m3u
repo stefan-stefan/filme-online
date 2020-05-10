@@ -43,7 +43,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 http://212.0.215.115/KanalD/playlist.m3u8
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]KANAL D [/COLOR] 
 http://stream1.kanald.ro/iphone/live.m3u8
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]KANAL D[/COLOR] 
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]KANAL D[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11196
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]KANAL D[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
