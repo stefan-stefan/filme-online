@@ -257,7 +257,8 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 #EXTINF:-1 tvg-logo="tvr1.jpg",MTV
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=06ed87043671fa4d3b132ed5d738b24284e38d1e
 
-#EXTINF:-1 tvg-logo="tvr1.jpg",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="RO109:NAT GEO Wild HD" tvg-logo="" group-title="Romania",RO109:NAT GEO Wild HD
+
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8
 NATIONAL GEORAPHIC
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a
