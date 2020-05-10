@@ -36,8 +36,6 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown][/COLOR][COLOR yellow]ROMANIA TV[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4470aa64e1291aec607138b41881ae3df311a144
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]KANAL D[/COLOR] 
-http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33772.m3u8
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]KANAL D[/COLOR] 
 http://212.0.215.115/KanalD/playlist.m3u8
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]KANAL D [/COLOR] 
 http://stream1.kanald.ro/iphone/live.m3u8
