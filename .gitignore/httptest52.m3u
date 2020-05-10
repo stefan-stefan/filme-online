@@ -98,6 +98,13 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]Pro Cinema[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e53201937891d6b925d558d432ce1980e4c2bdfe
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]PRO GOLD[/COLOR]
+
+https://vid.hls.protv.ro/progoldn/progold.m3u8?1
+#EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]PRO GOLD[/COLOR]
+
+https://vid.hls.protv.ro/progoldn/progold_2_34/index.m3u8?1
+
 #EXTINF:0 tvg-logo="https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]PRO GOLD[/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=8a51185008d28fabcf4db537f5beb90ede5215e3
 
