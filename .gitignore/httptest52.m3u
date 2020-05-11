@@ -54,7 +54,7 @@ http://212.0.215.115/National/playlist.m3u8
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]AMC FHD[/COLOR] 
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33851.m3u8
-#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR lime][/COLOR][COLOR yellow]AMC FHD[/COLOR] 
+#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR lime][/COLOR][COLOR lime]AMC FHD[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7a55521331d3268a10259a75ed50cff9b185a693
 
 
