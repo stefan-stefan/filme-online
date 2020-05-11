@@ -54,9 +54,12 @@ http://212.0.215.115/National/playlist.m3u8
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR red]AMC FHD[/COLOR] 
 http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33851.m3u8
+#EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR lime][/COLOR][COLOR yellow]AMC FHD[/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7a55521331d3268a10259a75ed50cff9b185a693
+
 
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR yellow]AMC FHD[/COLOR] 
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6ed8845f190415ec31cca2a765b4b19012e7b023
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7a55521331d3268a10259a75ed50cff9b185a693
 #EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange][/COLOR][COLOR yellow]Animal Planet HD[/COLOR] 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR red] ANTENA 1 [/COLOR][/B] [B][COLOR red]...[COLOR yellow]...[COLOR blue]... [COLOR blue][/COLOR][/B] 
