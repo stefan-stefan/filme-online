@@ -247,7 +247,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3301c21ee4802d8be5c0ae73f858b28988e1ae86
 #EXTINF:-1 tvg-logo="tvr1.jpg",HISTORY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7eab20ed5bd4759fc5c60f8f3d387b8635772a95
-#EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao HD#EXTINF:-1 tvg-logo="tvr1.jpg",INV DISCOVERY
+#EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",INV DISCOVERY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28
 #EXTINF:-1 tvg-logo="tvr1.jpg",LOOK PLUS
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b1b208eec48e2373ea84723047a4643523d847bc
