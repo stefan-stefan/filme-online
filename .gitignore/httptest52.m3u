@@ -247,7 +247,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3301c21ee4802d8be5c0ae73f858b28988e1ae86
 #EXTINF:-1 tvg-logo="tvr1.jpg",HISTORY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7eab20ed5bd4759fc5c60f8f3d387b8635772a95
-#EXTINF:-1 tvg-logo="tvr1.jpg",INV DISCOVERY
+#EXTINF:-1 tvg-id="Discovery Investigacao HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_investigation.png" group-title="Documentarios",Discovery Investigacao HD#EXTINF:-1 tvg-logo="tvr1.jpg",INV DISCOVERY
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28
 #EXTINF:-1 tvg-logo="tvr1.jpg",LOOK PLUS
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b1b208eec48e2373ea84723047a4643523d847bc
@@ -263,7 +263,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playgr
 #EXTINF:-1 tvg-id="" tvg-name="RO109:NAT GEO Wild HD" tvg-logo="" group-title="Romania",RO109:NAT GEO Wild HD
 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8
-NATIONAL GEORAPHIC
+#EXTINF:-1 NATIONAL GEORAPHIC
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a
 #EXTINF:-1 tvg-logo="tvr1.jpg",NICKELODEON
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4a44d2cc759184f51771d0173a3cc41ea94c9f0e
