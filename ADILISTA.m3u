@@ -31,9 +31,9 @@ plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d07
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33764.m3u8
 
 
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR][COLOR blue](Server 1)[/COLOR] 
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR] [COLOR blue](Server 1)[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33772.m3u8
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR][COLOR blue](Server 2)[/COLOR] 
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR] [COLOR blue](Server 2)[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33771.m3u8
 
 
