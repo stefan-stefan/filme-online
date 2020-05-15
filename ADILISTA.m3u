@@ -46,12 +46,7 @@ plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45d
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue]ttttt[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue]tttt[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/national_24_plus.png",group-title="GENERALE",[COLOR orange]24 + National[/COLOR] [COLOR blue]tttt[/COLOR] 
-plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR blue]Acasa Gold[/COLOR][COLOR blue]# 1[/COLOR] 
- 
 plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream
  
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Acasa Gold
