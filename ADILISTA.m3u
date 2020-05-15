@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="####▆ ▇ █ SOPCAST-ACESTREAM-HTTP █ ▇ ▆####" tvg-logo="http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png" group-title="ROMANIA",▇ HTTP-SOPCAST-ACESTREAM █
+#EXTINF:-1 tvg-id="" tvg-name="####▆ ▇ █ ACESTREAM-HTTP █ ▇ ▆####" tvg-logo="http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png" group-title="ROMANIA",▇ HTTP-ACESTREAM █
  
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
-#EXTINF:0,■■■■■ ACTUALIZATA ■■■■■■■,[COLOR yellow] *** [/COLOR][COLOR yellow][B]  ACTUALIZATA [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
+#EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR yellow][B]  ACTUALIZATA [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,■■■■■ 24/DECEMBRIE/2019 ■■■■■■■,[COLOR blue] *** [/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue]  ***[/COLOR]  
+#EXTINF:0,[COLOR blue] *** [/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#STEFAN-TV-ROMANIA #
@@ -37,34 +37,34 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
  
 plugin://program.plexus/?mode=1&url=acestream://b2d90b86ca815fbefca68efb9b07749c92e07519&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] TVR 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264945&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TVR 3
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Sopcast.[/COLOR][COLOR brown]# 1[/COLOR] Romania Tv
-plugin://program.plexus/?mode=2&url=//sop://broker.sopcast.com:3912/148258&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Realitatea Tv
  
 plugin://program.plexus/?mode=1&url=acestream://7937be120eca75d4a7613b19439e3e31e7e93e05&name=AceStream
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR deeppink]Sopcast.[/COLOR][COLOR deeppink]# 1[/COLOR] Realitatea Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264952&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Realitatea Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253036&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] B1
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]B1 TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148087&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]B1 TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264954&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/national_24_plus.png",group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]National 24 +
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264949&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Acasa Gold
  
 plugin://program.plexus/?mode=1&url=acestream://e1fd28f6d90e057980b804de11d04ea537f0d045&name=AceStream
  
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/9/92/Logo-acasa-gold-high-rez.png/revision/latest?cb=20130310160556" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Acasa Gold
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/253471&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Acasa_TV.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Acasa TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265000&name=Acasa
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Antena Stars" tvg-name="RO: Antena Stars HD" tvg-logo="https://iptvsensation.org/picons/antenastarshd.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena Stars HD
 #EXTVLCOPT:network-caching=1000
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
@@ -79,37 +79,37 @@ https://sportbar.biz/lba/123/g9/antena1.m3u8
  
 plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264961&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena 1
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264941&name=Antena1
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
  
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 3
  
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49845
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Antena 3
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148084&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena 3
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264951&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Antena Stars
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148255&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena Stars
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148084&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro 2
  
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49849
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149256&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/800px-Logo_Pro_2_%282017%29.svg.png"group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265000&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?2=
 #EXTINF:-1 tvg-id="" tvg-name="Pro Cinema" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro Cinema
  
 plugin://program.plexus/?mode=1&url=acestream://06c01628d371f9b5bebcb50d7c493cda2203e268&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro Cinema
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148249&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7d/Pro_Cinema_Logo.jpg/revision/latest?cb=20130329130700" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro Cinema
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264999&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro TV News
 http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro TV News
@@ -120,9 +120,9 @@ http://89.38.8.131:39532
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro TV
 plugin://program.plexus/?mode=1&url=acestream://9ef9c84096f336d1e70851e5c185ff2260c1f69d&name=AceStream
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256338&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265414&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro TV International
  
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264957&name=SopProg
@@ -133,13 +133,13 @@ http://5.255.90.252:5004/play/a081
  
 plugin://program.plexus/?mode=1&url=acestream://44d34962c09016d68973c3b6c1a1fcb15e757876&name=AceStream
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Prima Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264944&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Prima Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148086&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV
 http://5.255.90.252:5004/play/a072
 #EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#S1[/COLOR] National Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264984&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
  
  
 #EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Comedy Central
@@ -152,16 +152,16 @@ http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-onl
  
 plugin://program.plexus/?mode=1&url=acestream://fc0eef541255499ffe04d25414ca5f0e66c0284b&name=AceStream
 #EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#1[/COLOR] Comedy Central
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265044&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D
 #EXTVLCOPT:network-caching=1000
 https://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Kanal D
 plugin://program.plexus/?mode=1&url=acestream://2a3fbf6c06a7ecd35682a36d7fa2438f6b3685d0&name=AceStream
 #EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kanal D
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149258&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Kanal D
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264942&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN
@@ -170,7 +170,7 @@ http://edge81.rdsnet.ro/digiedge2/axnehq/index.m3u8?is=44&src=digi-online.ro&t=0
 #EXTINF:-1 tvg-ID="AXN" tvg-name="RO: AXN" tvg-logo="https://iptvsensation.org/picons/axn.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] AXN
 plugin://program.plexus/?mode=1&url=acestream://59ea261ab509735dff4950fb05f9e2cbb327ee40&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265004&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="AXN Black" tvg-name="RO: AXN Black" tvg-logo="https://iptvsensation.org/picons/axnblack.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN Black
  
 #EXTVLCOPT:network-caching=1000
@@ -181,138 +181,139 @@ http://edge81.rdsnet.ro/digiedge2/axnblackehq/index.m3u8?is=45&src=digi-online.r
  
 plugin://program.plexus/?mode=1&url=acestream://188753fdff70e7132327e8f31e38e8a11ffc5585&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logosfake/images/e/e6/AXN_Black_logo.png/revision/20140311161504" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn Black
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265005&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="AXN White" tvg-name="RO: AXN White" tvg-logo="https://iptvsensation.org/picons/axnwhite.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN White
 #EXTVLCOPT:network-caching=1000
 http://edge81.rdsnet.ro/digiedge2/axnwhiteehq/index.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/AXN_White_Logo.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Axn White
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265006&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AXN SPIN
  
 #EXTVLCOPT:network-caching=1000
  
 http://edge81.rcs-rds.ro/digiedge2/axnspinehq/chunklist_w437727442.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=axnspin&p=browser&pe=site
 #EXTINF:-1 tvg-ID="AXN Spin" tvg-name="RO: AXN SPIN" tvg-logo="https://iptvsensation.org/picons/axnspin.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] AXN SPIN
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265007&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO
 #EXTVLCOPT:network-caching=1000
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49861
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] HBO
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/259497&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="HBO" tvg-name="RO: HBO HD" tvg-logo="https://iptvsensation.org/logo/ro/HBO.ro.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] HBO
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264971&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Hbo 2
 #EXTVLCOPT:network-caching=1000
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49862
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/doblaje/images/3/3b/HBO2_logo.png/revision/latest?cb=20160102183730&path-prefix=es" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265067&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/HBO3_gradient.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] HBO 3
 #EXTVLCOPT:network-caching=1000
 http://5.255.90.252:5004/play/a06c
  
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c9/HBO_3_1995.png/revision/latest?cb=20110911221502" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Hbo 3
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265096&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Diva Universal
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265083&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] AMC FHD
  
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49916
 #EXTINF:-1 tvg-ID="AMC.ro" tvg-name="RO: AMC FHD" tvg-logo="https://iptvsensation.org/picons/amchd.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] AMC FHD
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264990&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://ott.onlineott.tv/logos/1153.png" group-title="FILME",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Epic Drama
 #EXTVLCOPT:network-caching=1000
 http://edge81.rcs-rds.ro/digiedge3/epicdramaehq/index.m3u8?is=95&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="http://ott.onlineott.tv/logos/1153.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Epic Drama
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264995&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Film_cafe_hu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Film Cafe
  
 http://5.255.90.252:5004/play/a05a
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Filmcafe
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256238&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bf/Film_cafe_hu.png/revision/latest?cb=20130104060038" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Filmcafe
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265018&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://i2.wp.com/mortu.eu/wp-content/uploads/2018/06/logo-film-now-Digi-film.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR] Film Now
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265001&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
  
 #EXTINF:-1 tvg-ID="Paramount Channel" tvg-name="RO: Paramount Channel" tvg-logo="https://iptvsensation.org/logo/ro/ParamountChannel.ro.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Paramount Channel
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264994&name=SopProg
+plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
+3912/264994&name=SopProg
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TNT
 #EXTVLCOPT:network-caching=1000
 http://edge81.rcs-rds.ro/digiedge3/tntehq/index.m3u8?is=91&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="TNT" tvg-name="RO: TNT" tvg-logo="http://iptvsensation.org/picons/tnt.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TNT
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264992&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://tv-online.tv/assets/images/channels_logo/48447c9efae52d20e4bf8292c563f294.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0 tvg-logo="http://tv-online.tv/assets/images/channels_logo/48447c9efae52d20e4bf8292c563f294.png"group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Bollywood Classic
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265002&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Bollywood TV
 https://rebrand.ly/boliwoodtv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png"group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Bollywood TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265003&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/3/37/Bollywood_TV_logo.png"group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 2[/COLOR]Bollywood TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265002&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] TLC
  
 #EXTVLCOPT:network-caching=1000
  
 http://edge81.rcs-rds.ro/digiedge2/tlcehq/index.m3u8?is=72&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] TLC
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148256&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="TLC" tvg-name="RO: TLC" tvg-logo="https://iptvsensation.org/picons/tlc.png" group-title="FILME",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] TLC
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265076&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
  
  
 #EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cinemax 2
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265012&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Cinemax
  
 http://5.255.90.252:5004/play/a059
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cinemax
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265011&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/TV1000_4.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Tv 1000
  
 http://5.255.90.252:5004/play/a05j
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/25/TV1000_logo_2009.png/revision/latest?cb=20101226153307" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Tv1000
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264997&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Filmbox
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265009&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-logo="https://internetowa.tv/img/logo/filmbox-family.png" group-title="FILME",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Filmbox Family
  
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265010&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="http://kutuphane.balikesir.edu.tr/img/belgesel.png",[COLOR blue] ***  [/COLOR][COLOR red][B]  DOCUMENTARE [/B][/COLOR][COLOR red] ***[/COLOR]  
 http://0.0.0.0:12345
 #EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] CBS REALITY
 #EXTVLCOPT:network-caching=1000
 http://edge81.rdsnet.ro/digiedge3/cbsrealityehq/chunklist_w1543359106.m3u8?is=65&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="CBSReality.ro" tvg-name="RO: CBS REALITY" tvg-logo="https://iptvsensation.org/picons/cbsreality.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] CBS REALITY
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265047&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] BBC EARTH
  
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265057&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]BBC EARTH
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148257&name=SopProg
 #EXTINF:-1 tvg-ID="HistoryHD.ro" tvg-name="RO: History Channel" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/history_ro.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] History Channel
 #EXTVLCOPT:network-caching=1000
 http://edge81.rdsnet.ro/digiedge2/historychannelehq/index.m3u8?is=20&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:#1  tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] History Channel
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265074&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National Geographic HD
 #EXTVLCOPT:network-caching=1000
 http://edge81.rdsnet.ro/digiedge2/nationalgeographicehq/index.m3u8?is=19&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] National Geographic(acestream)
 plugin://program.plexus/?mode=1&url=acestream://c0ddde706358afafd809e3858b069132bca3a913&name=AceStream
 #EXTINF:-1 tvg-ID="National Geographic" tvg-name="RO: National Geographic HD" tvg-logo="https://iptvsensation.org/logo/ro/NatGeo.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] National Geographic
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265077&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Nat Geo Wild
 #EXTVLCOPT:network-caching=1000
 http://edge81.rdsnet.ro/digiedge2/nationalgeographicwildehq/index.m3u8?is=33&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="NatGeoWildHD.ro" tvg-name="RO: Nat Geo Wild" tvg-logo="https://iptvsensation.org/picons/natgeowild.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Nat Geo Wild
 plugin://program.plexus/?mode=1&url=acestream://23a63de6bcde494d621a07f4fbebf774995b19a9&name=AceStream
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nat Geo Wild
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265078&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
  
 #EXTINF:-1 tvg-ID="AnimalPlanet.ro" tvg-name="RO: Animal Planet HD" tvg-logo="https://iptvsensation.org/picons/animalplanethd.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Animal Planet HD
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265086&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="DiscoveryChannel.ro" tvg-name="RO: Discovery" tvg-logo="https://iptvsensation.org/picons/discovery.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery
  
 #EXTVLCOPT:network-caching=1000
@@ -325,7 +326,7 @@ plugin://program.plexus/?mode=1&url=acestream://925a1331e53377c4e5db2812eaf6b7ed
 #EXTINF:#1  tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Channel
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265080&name=SopProg
 #EXTINF:#1  tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Discovery Channel
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/256241&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/hu/DigiWorld.hu.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Digi World
 #EXTVLCOPT:network-caching=1000
 http://edge81.rdsnet.ro/digiedge2/digiworldehq/index.m3u8?is=5&src=digi-online.ro&t=00000000000000000000000000000000
@@ -337,7 +338,7 @@ http://94.177.136.29:7478/play/a03b
  
 plugin://program.plexus/?mode=1&url=acestream://6a2a1c7379043a4a5ebab950a54d467e714ce16c&name=AceStream
 #EXTINF:0 tvg-logo="http://stvron.com/canale/512/dtx.png"group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]DTX (Discovery Turbo Xtra)
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264946&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Discovery Investigation" tvg-name="RO: Discovery ID" tvg-logo="https://iptvsensation.org/picons/discoveryid.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Discovery ID
 #EXTVLCOPT:network-caching=1000
 http://ch01.spr24.net/22326/mpegts?token=qEpFWQ3Hys7242
@@ -346,68 +347,68 @@ http://ch01.spr24.net/22326/mpegts?token=qEpFWQ3Hys7242
  
 plugin://program.plexus/?mode=1&url=acestream://9709802e6428d681118026807c7f445410a6afd2&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Id
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265065&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://vignette3.wikia.nocookie.net/tvcable/images/a/ac/Investigation_Discovery.png/revision/latest?cb=20140409022854&path-prefix=es" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Discovery Id
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265053&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="DiscoveryScienceHD.ro" tvg-name="RO: Discovery Science" tvg-logo="https://iptvsensation.org/picons/discoveryscience.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Discovery Science
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265082&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Viasat History
 http://edge81.rdsnet.ro/digiedge2/viasathistoryehq/index.m3u8?is=41&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Viasat History
 plugin://program.plexus/?mode=1&url=acestream://ba6727f955e541f7f83555bfc04e1c798a505941&name=AceStream
 #EXTINF:-1 tvg-ID="ViasatHistory.ro" tvg-name="RO: Viasat History" tvg-logo="https://iptvsensation.org/logo/ro/ViasatHistory.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Viasat History
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265079&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png" group-title="DOCUMENTARE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Viasat Nature
 #EXTVLCOPT:network-caching=1000
 http://edge24.rdsnet.ro/digiedge2/viasatexplorerehq/index.m3u8?is=40&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Viasat Nature
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265050&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Nature.png" group-title="DOCUMENTARE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR]Viasat Nature
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/149267&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Viasat Explorer
 #EXTVLCOPT:network-caching=1000
 http://5.255.90.252:5004/play/a082
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Viasat_Explorer.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Viasat Explorer
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265054&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://static.est.hu/kepek/328/640/328186_640_davinci.jpg" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Da Vinci Kids
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265052&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Fishing and Hunting
  
 #EXTVLCOPT:network-caching=1000
  
 http://edge81.rdsnet.ro/digiedge3/fishingandhuntingehq/index.m3u8?is=92&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0 tvg-logo="https://tvlogo.files.wordpress.com/2010/03/11397-pv_tv.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Fishing and Hunting
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265049&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] E! Entertainment
  
 http://edge81.rdsnet.ro/digiedge2/eentertainmentehq/index.m3u8?is=73&src=app&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="E! Entertainment" tvg-name="RO: E! Entertainment" tvg-logo="https://iptvsensation.org/picons/eentertainment.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] E! Entertainment
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265051&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/digianimal.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR]Digi Animal World
  
 #EXTVLCOPT:network-caching=1000
  
 http://edge81.rdsnet.ro/digiedge2/digianimalworldehq/index.m3u8?is=16&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:-1 tvg-ID="Travel Channel" tvg-name="RO: Travel Channel" tvg-logo="https://iptvsensation.org/logo/ro/TravelChannel.ro.png" group-title="DOCUMENTARE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Travel Channel
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/148885&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Travel Channel" tvg-name="RO: Travel Channel" tvg-logo="https://iptvsensation.org/logo/ro/TravelChannel.ro.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Travel Channel
  
 http://edge81.rdsnet.ro/digiedge2/travelchannelehq/index.m3u8?is=21&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Sport.svg/1280px-Logo_Sport.svg.png",[COLOR blue]          ***      [/COLOR][COLOR yellow][B]      SPORT       [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12346
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Digi_sport3_hu.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Digi Sport 3
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265415&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://oklivetv.com/wp-content/uploads/media/a269f18cae49989792ef2d8e873b18db.jpeg" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Digi Sport 4  
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265416&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-logo="http://static.manutv.net/canale/mari/look-sport.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Look Sport
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/265099&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49850
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro X
  
 plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Pro X
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264950&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Eurosport1.ro" tvg-name="RO: Eurosport 1 HD" tvg-logo="https://iptvsensation.org/picons/eurosport1hd.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Eurosport 1 HD
  
 http://edge81.rdsnet.ro/digiedge2/eurosportehq/index.m3u8?is=31&src=digi-online.ro&t=00000000000000000000000000000000
@@ -417,35 +418,35 @@ plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264986&name=So
 #EXTINF:#1 tvg-logo="https://yt3.ggpht.com/-D_Dt4745g04/AAAAAAAAAAI/AAAAAAAAAAA/WDvmapj0Lic/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      MUZICA    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:12348
 #EXTINF:#1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/0c/U_tv.png/revision/latest?cb=20140724130200" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] U TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264978&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Happy Channel" tvg-name="RO: Happy Channel HDTel" tvg-logo="https://iptvsensation.org/logo/ro/HappyChannel.ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Happy Channel HD
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264969&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/logo_400x400.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kiss TV
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264979&name=SopProg
 #EXTINF:-1 tvg-ID="Etno TV" tvg-name="RO: Etno TV HD" tvg-logo="https://iptvsensation.org/picons/etnohd.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Etno TV
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264976&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Taraf TV
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49875
 #EXTINF:#1  tvg-logo="http://4.bp.blogspot.com/-DC1wn7qRhoI/VLllUPC-NlI/AAAAAAAAAM4/yGuu40xYGTU/s1600/taraftv.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Taraf TV
-plugin://program.plexus/?mode=2&url=sop://185.122.59.8:3912/264978&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="http://www.invictory.com/public/pictures/news/16/15509/l3457692703c1bb81e85873494e8182651302701031.jpg" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Impact TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/108790&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/hora_tv1.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR]Hora TV
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265061&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/favorit_tv_ro.png" group-title="MUZICA",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Favorit Tv
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/264977&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1 tvg-logo="http://www.desene-animate.com/wp-content/uploads/2016/02/logo.png",[COLOR blue]    ***      [/COLOR][COLOR red][B]    Desene [/B][/COLOR][COLOR pink][B] Animate[/B][/COLOR][COLOR red]     ***    [/COLOR]
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:-1 tvg-id="Minimax" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="Minimax" tvg-logo="http://nextgen-iptv.com/logo/Minimax_SRB.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Minimax
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265035&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="" tvg-name="RO: Cartoon Network" tvg-logo="https://iptvsensation.org/logo/ro/CartoonNetwork.ro.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Cartoon Network
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265032&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Nickelodeon
  
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265041&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/Megamax.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] MegaMax
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265036&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="DisneyJunior.ro" tvg-name="RO: Disney Junior" tvg-logo="https://iptvsensation.org/picons/disneyjunior.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Disney Junior
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265034&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Boomerang" tvg-name="RO: Boomerang" tvg-logo="https://iptvsensation.org/picons/boomerang.png" group-title="Desene Animate",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Boomerang
-plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265031&name=SopProg
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
