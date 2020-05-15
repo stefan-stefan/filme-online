@@ -5,10 +5,10 @@ http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR yellow][B]  ACTUALIZATA [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,[COLOR blue] LIISTA [/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue] ADI 2020[/COLOR]  
+#EXTINF:0,[COLOR blue] ***[/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue]****[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
-#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue] *** [/COLOR][COLOR yellow][B]  [/B][/COLOR][COLOR red] ***[/COLOR]  
+#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]LISTA [/COLOR][COLOR yellow][B]  [/B][/COLOR][COLOR red]ADRIAN[/COLOR]  
 http://0.0.0.0:123410
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]DIGI 24 HD[/COLOR][COLOR yellow][/COLOR] 
  
