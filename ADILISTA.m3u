@@ -44,9 +44,9 @@ https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR orange]Pro X[/COLOR] [COLOR blue](Server 3)[/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=AceStream
 
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR orange]National TV[/COLOR][COLOR blue](Server 1)[/COLOR] 
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR orange]National TV[/COLOR] [COLOR blue](Server 1)[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33787.m3u8
-#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]National TV[/COLOR][COLOR blue](Server 2)[/COLOR] 
+#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]National TV[/COLOR] [COLOR blue](Server 2)[/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 
 
