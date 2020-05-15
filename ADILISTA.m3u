@@ -130,11 +130,13 @@ http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b100
 #EXTINF:#1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYV4Dm-YxpHIFgUIUHEQ15duuczTDtgichYQArF1k_oAu7hg_mg",[COLOR blue]          ***      [/COLOR][COLOR red][B]      FILME    [/B][/COLOR][COLOR red]       ***[/COLOR]  
 http://0.0.0.0:1234
 
-#EXTINF:0, HBO Server 1
+
+
+#EXTINF:0, [COLOR orange]HBO[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33833.m3u8
-#EXTINF:0, HBO Server 2
+#EXTINF:0, [COLOR orange]HBO[/COLOR] [COLOR blue](Server 2)[/COLOR]
 http://127.0.0.1:6878/ace/getstream?id=2f422a88cea6e0f2a80601f4b94fcd24c9d620d5
-#EXTINF:0, HBO HD
+#EXTINF:0, [COLOR orange]HBO[/COLOR] [COLOR blue](Server 3)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33832.m3u8
 #EXTINF:0, HBO 2 Server 1
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33835.m3u8
