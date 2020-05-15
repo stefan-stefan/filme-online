@@ -106,9 +106,9 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33787.m3u8
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 
 *********************************************************************
-#EXTINF:0, National 24 Plus
+#EXTINF:0, [COLOR orange]National 24 Plus[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33782.m3u8
-#EXTINF:0, National 24 Plus
+[COLOR orange]National 24 Plus[/COLOR] [COLOR blue](Server 2)[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 **************************************************************************************
 #EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png" group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue](Server 1)[/COLOR]
@@ -117,7 +117,9 @@ http://stream.adunity.com/b1/b1.m3u8
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 
 *************************************************
-#EXTINF:0, Antena Monden
+
+
+#EXTINF:0, [COLOR orange]Antena Monden[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 *********************************************
 #EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR orange]Antena Comedy[/COLOR][COLOR blue](Server 1)[/COLOR]
@@ -145,11 +147,14 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33833.m3u8
 http://127.0.0.1:6878/ace/getstream?id=2f422a88cea6e0f2a80601f4b94fcd24c9d620d5
 #EXTINF:0, [COLOR orange]HBO[/COLOR] [COLOR blue](Server 3)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33832.m3u8
-#EXTINF:0, HBO 2 Server 1
+
+
+#EXTINF:0, [COLOR orange]HBO 2[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33835.m3u8
-#EXTINF:0, HBO 2 Server 2
+#EXTINF:0, [COLOR orange]HBO 2[/COLOR] [COLOR blue](Server 2)[/COLOR]
 http://127.0.0.1:6878/ace/getstream?id=aecc8db32341eb701af9d9c160f46842332b123d
-#EXTINF:0, HBO 2 HD
+#EXTINF:0, [COLOR orange]HBO HD[/COLOR] [COLOR blue](Server 1)[/COLOR]
+
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33834.m3u8
 #EXTINF:0, HBO 3 Server 1
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33837.m3u8
