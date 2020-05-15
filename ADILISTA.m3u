@@ -79,8 +79,7 @@ http://188.138.235.61:80/hls/protv.m3u8
 [COLOR orange]Tele III[/COLOR] [COLOR blue](Server 1)[/COLOR]
 #EXTINF:0, [COLOR orange]Tele III[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
-[COLOR orange]MIREASA PENTRU FIUL MEU LIVE[/COLOR] [COLOR blue](Server 1)[/COLOR]
-#EXTINF:0, MIREASA PENTRU FIUL MEU LIVE
+#EXTINF:0, [COLOR orange]MIREASA PENTRU FIUL MEU LIVE[/COLOR] [COLOR blue](Server 1)[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://9e7945bc571a5aff8d8aef2d1cab74eb688bd1a7&name=AceStream
 
 
