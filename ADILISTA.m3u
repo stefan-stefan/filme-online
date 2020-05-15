@@ -58,20 +58,28 @@ http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b100
 #EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Antena Stars[/COLOR] [COLOR blue](Server 4)[/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
 *****************************************
-#EXTINF:0, Antena Monden
+
+
+#EXTINF:0, [COLOR orange]Antena Monden[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 
 ******************************
-#EXTINF:0, PRO TV International Server 1
+#EXTINF:0, [COLOR orange]PRO TV International[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://78.109.108.62:2001/protv
-#EXTINF:0, PRO TV International Server 2
+#EXTINF:0, [COLOR orange]PRO TV International[/COLOR] [COLOR blue](Server 2)[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://e6d7a3f224aafc99d8aec35e11e4fccb06d44c99&name=AceStream
-#EXTINF:0 ,PRO TV CHISINAU
+[COLOR orange]PRO TV CHISINAU[/COLOR] [COLOR blue](Server 1)[/COLOR]
+
+
+
+[COLOR orange]PRO TV CHISINAU[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:0 ,PRO TV CHISINAU-
+[COLOR orange]PRO TV CHISINAU[/COLOR] [COLOR blue](Server 2)[/COLOR]
 http://188.138.235.61:80/hls/protv.m3u8
-#EXTINF:0, Tele III
+[COLOR orange]Tele III[/COLOR] [COLOR blue](Server 1)[/COLOR]
+#EXTINF:0, [COLOR orange]Tele III[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+[COLOR orange]MIREASA PENTRU FIUL MEU LIVE[/COLOR] [COLOR blue](Server 1)[/COLOR]
 #EXTINF:0, MIREASA PENTRU FIUL MEU LIVE
 plugin://program.plexus/?mode=1&url=acestream://9e7945bc571a5aff8d8aef2d1cab74eb688bd1a7&name=AceStream
 
