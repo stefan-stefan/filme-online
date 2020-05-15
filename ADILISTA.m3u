@@ -38,6 +38,7 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33768.m3u8
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
 #EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Antena Stars[/COLOR] [COLOR blue](Server 4)[/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
+*****************************************
 #EXTINF:0, Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 
