@@ -10,7 +10,6 @@ http://127.0.0.1:6878/ace/getstream?id=6ed8845f190415ec31cca2a765b4b19012e7b023
 #EXTINF:-1 tvg-logo="tvr1.jpg",ANIMAL PLANET
 http://127.0.0.1:6878/ace/getstream?id=0bf0830408f189449035d35d43a5c526e9bd08e8
 #EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA 1
-#EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
 #EXTINF:-1 tvg-logo="tvr1.jpg",ANTENA STARS
 http://127.0.0.1:6878/ace/getstream?id=f80f7eba001fbb6ccb3317313f93bcfbc9c9c499
