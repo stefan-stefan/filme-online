@@ -62,6 +62,18 @@ plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d07
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 
 ******************************
+#EXTINF:0, PRO TV International Server 1
+http://78.109.108.62:2001/protv
+#EXTINF:0, PRO TV International Server 2
+http://127.0.0.1:6878/ace/getstream?id=e6d7a3f224aafc99d8aec35e11e4fccb06d44c99
+#EXTINF:0 ,PRO TV CHISINAU
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0 ,PRO TV CHISINAU-
+http://188.138.235.61:80/hls/protv.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR] [COLOR blue](Server 1)[/COLOR] 
