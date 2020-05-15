@@ -44,6 +44,12 @@ https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR orange]Pro X[/COLOR] [COLOR blue](Server 3)[/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=AceStream
 
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR orange]National TV[/COLOR][COLOR blue](Server 1)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33787.m3u8
+#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]National TV[/COLOR][COLOR blue](Server 2)[/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
+
+
 
 
 
@@ -157,10 +163,6 @@ plugin://program.plexus/?mode=1&url=acestream://44d34962c09016d68973c3b6c1a1fcb1
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Prima Tv
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://ddee.ro/wp-content/uploads/2013/05/PrimaTV-Logo-inaaaalt.jpg" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Prima Tv
-plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] National TV
-http://5.255.90.252:5004/play/a072
-#EXTINF:#1 tvg-logo="http://www.nationaltv.ro/assets/img/logo-ntv.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#S1[/COLOR] National Tv
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
  
  
