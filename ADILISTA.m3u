@@ -164,7 +164,9 @@ http://127.0.0.1:6878/ace/getstream?id=d6c7fe7cec622d5de3adc5009a5fff67c7ff5b99
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33836.m3u8
 #EXTINF:0, HD NET IUmor
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33828.m3u8
-#EXTINF:0, HD NET Thriller
+
+
+#EXTINF:0, [COLOR orange]HD NET Thriller[/COLOR] [COLOR blue][/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33821.m3u8
 #EXTINF:0, HD NET Sci-Fi
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33822.m3u8
