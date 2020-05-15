@@ -31,6 +31,11 @@ plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d07
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33764.m3u8
 
 
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR][COLOR blue](Server 1)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33772.m3u8
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR][COLOR blue](Server 2)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33771.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]DIGI 24 HD[/COLOR][COLOR yellow][/COLOR] 
@@ -160,9 +165,6 @@ http://edge81.rdsnet.ro/digiedge3/comedycentralehq/index.m3u8?is=58&src=digi-onl
 plugin://program.plexus/?mode=1&url=acestream://fc0eef541255499ffe04d25414ca5f0e66c0284b&name=AceStream
 #EXTINF:-1 tvg-ID="ComedyCentral.ro" tvg-name="IT: Comedy Central" tvg-logo="http://iptvsensation.org/picons/comedycentrald.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]#1[/COLOR] Comedy Central
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Kanal D
-#EXTVLCOPT:network-caching=1000
-https://livefeed.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Kanal D
 plugin://program.plexus/?mode=1&url=acestream://2a3fbf6c06a7ecd35682a36d7fa2438f6b3685d0&name=AceStream
 #EXTINF:#1  tvg-logo="http://www.logoeps.net/wp-content/uploads/2014/02/kanal_d.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Kanal D
