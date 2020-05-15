@@ -13,33 +13,33 @@ http://0.0.0.0:123410
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]DIGI 24 HD[/COLOR][COLOR yellow][/COLOR] 
  
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-ID="DigiLife.ro" tvg-name="RO: Digi Life" tvg-logo="https://iptvsensation.org/picons/digilife.png" group-title="GENERALE",[COLOR yellow]Digi Life[/COLOR][COLOR yellow]# 1[/COLOR] 
+#EXTINF:-1 tvg-ID="DigiLife.ro" tvg-name="RO: Digi Life" tvg-logo="https://iptvsensation.org/picons/digilife.png" group-title="GENERALE",[COLOR orange]Digi Life[/COLOR][COLOR ]AICI SCRI STRAM...[/COLOR] 
  
 http://edge81.rdsnet.ro/digiedge2/digilifeehq/index.m3u8?is=6&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow]TVR 1[/COLOR][COLOR yellow]# 1[/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR orange]TVR 1[/COLOR][COLOR ](SAU ACESTREAN)[/COLOR] 
  
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR blue]TVR 1[/COLOR][COLOR blue]# 1[/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR orange]TVR 1[/COLOR][COLOR ](SAU HTTP)[/COLOR] 
  
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
-#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR lime]Tvr 1.[/COLOR][COLOR lime]# 1[/COLOR] 
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1.[/COLOR][COLOR ]STREAM[/COLOR] 
  
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390&name=SopProg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[/COLOR][COLOR]STREAM[/COLOR] 
  
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR blue]TVR 2.[/COLOR][COLOR blue]# 1[/COLOR] TVR 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2.[/COLOR][COLOR][/COLOR] TVR 2
  
 plugin://program.plexus/?mode=1&url=acestream://b2d90b86ca815fbefca68efb9b07749c92e07519&name=AceStream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR deeppink]TVR 2[/COLOR][COLOR deeppink]# 1[/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[/COLOR][COLOR ][/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow]TVR 3[/COLOR][COLOR yellow]# 1[/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR orange]TVR 3[/COLOR][COLOR ][/COLOR] 
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR brown]Romania Tv[/COLOR][COLOR brown]# 1[/COLOR] 
+#EXTINF:#1 tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/romania_tv_ro.png" group-title="STIRI",[COLOR orange]Romania Tv[/COLOR][COLOR ][/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR blue]Realitatea Tv[/COLOR][COLOR blue]# 1[/COLOR] 
+#EXTINF:-1 tvg-ID="RealitateaTV.ro" tvg-name="RO: Realitatea Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/realitatea_tv.jpg" group-title="GENERALE",[COLOR orange]Realitatea Tv[/COLOR][COLOR ][/COLOR] 
  
 plugin://program.plexus/?mode=1&url=acestream://7937be120eca75d4a7613b19439e3e31e7e93e05&name=AceStream
 #EXTINF:#1 tvg-logo="http://media.realitatea.net/multimedia/image/201110/oar_full/logo_realitatea_urias_mare_32018600_01985700.jpg" group-title="STIRI",[COLOR deeppink]Realitatea Tv[/COLOR][COLOR deeppink]# 1[/COLOR] 
