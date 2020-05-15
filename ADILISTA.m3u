@@ -29,6 +29,18 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33765.m3u8
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
 #EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR orange]Antena 1 HD[/COLOR] [COLOR blue](Server 1)[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33764.m3u8
+************************
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Antena Stars[/COLOR] [COLOR blue](Server 1)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33769.m3u8
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Antena Stars[/COLOR] [COLOR blue](Server 2)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33768.m3u8
+#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Antena Stars[/COLOR] [COLOR blue](Server 3)[/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
+
+
+******************************
+
+
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR] [COLOR blue](Server 1)[/COLOR] 
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33772.m3u8
 #EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR orange]Kanal D[/COLOR] [COLOR blue](Server 2)[/COLOR] 
@@ -129,7 +141,6 @@ http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49845
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Antena 3" tvg-name="RO: Antena 3" tvg-logo="https://iptvsensation.org/picons/antena3.png" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena 3
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Antena Stars
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="http://antenastars.ro/templates/default/img/logo-astars.png" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Antena Stars
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
