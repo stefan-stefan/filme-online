@@ -64,6 +64,7 @@ plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45d
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]DIGI 24 HD[/COLOR][COLOR yellow][/COLOR] 
  
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
