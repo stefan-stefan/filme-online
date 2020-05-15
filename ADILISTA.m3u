@@ -23,6 +23,13 @@ http://89.38.8.131:39532
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Pro Tv HD[/COLOR] [COLOR blue](Server 4)[/COLOR] 
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR orange]Antena 1[/COLOR] [COLOR blue](Server 1)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33765.m3u8
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR orange]Antena 1[/COLOR] [COLOR blue](Server 2)[/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR orange]Antena 1 HD[/COLOR] [COLOR blue](Server 1)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33764.m3u8
+
 
 
 
@@ -77,8 +84,6 @@ http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
  
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Antena 1
-https://sportbar.biz/lba/123/g9/antena1.m3u8
 #EXTINF:#1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/08/Antena1_romania.png/revision/latest?cb=20150629191750" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Antena 1
  
 plugin://program.plexus/?mode=1&url=acestream://9dd79bf5ff8ddd0322d07e8b4eb50a00180ce182&name=AceStream
