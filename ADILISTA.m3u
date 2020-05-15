@@ -125,6 +125,183 @@ http://127.0.0.1:6878/ace/getstream?id=de2f6aea5eeeef6d620f9810fd2b47b87587b3af
 #EXTINF:0 tvg-logo="https://www.canadalandshow.com/wp-content/uploads/2017/02/cbc_comedy_jpeg.jpg" group-title="GENERALE",[COLOR orange]Antena Comedy[/COLOR][COLOR blue](Server 4)[/COLOR]
 
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+******************************************************************************************************************
+*********************************************************************************************************************
+#EXTINF:-1, ----------------------------------------------
+http://#
+#EXTINF:-1, -= FILME =-
+http://#
+#EXTINF:0, HBO Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33833.m3u8
+#EXTINF:0, HBO Server 2
+http://127.0.0.1:6878/ace/getstream?id=2f422a88cea6e0f2a80601f4b94fcd24c9d620d5
+#EXTINF:0, HBO HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33832.m3u8
+#EXTINF:0, HBO 2 Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33835.m3u8
+#EXTINF:0, HBO 2 Server 2
+http://127.0.0.1:6878/ace/getstream?id=aecc8db32341eb701af9d9c160f46842332b123d
+#EXTINF:0, HBO 2 HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33834.m3u8
+#EXTINF:0, HBO 3 Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33837.m3u8
+#EXTINF:0, HBO 3 Server 2
+http://127.0.0.1:6878/ace/getstream?id=d6c7fe7cec622d5de3adc5009a5fff67c7ff5b99
+#EXTINF:0, HBO 3 HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33836.m3u8
+#EXTINF:0, HD NET IUmor
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33828.m3u8
+#EXTINF:0, HD NET Thriller
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33821.m3u8
+#EXTINF:0, HD NET Sci-Fi
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33822.m3u8
+#EXTINF:0, HD NET Las Fierbinti
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33827.m3u8
+#EXTINF:0, HD NET Kids
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33829.m3u8
+#EXTINF:0, HD NET Comedy
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33825.m3u8
+#EXTINF:0, HD NET Jean Claude van Damme
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/53110.m3u8
+#EXTINF:0, Magura Media Family Time
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48207.m3u8
+#EXTINF:0, Magura Media Jackie Chan
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48206.m3u8
+#EXTINF:0, Magura Media Sylvester Stallone
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38771.m3u8
+#EXTINF:0, Magura Media van Damme
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37417.m3u8
+#EXTINF:0, Magura Media Keanu Reeves
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48287.m3u8
+#EXTINF:0, Magura Media Bruce Willis
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48289.m3u8
+#EXTINF:0, Magura Media Supereroi
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37420.m3u8
+#EXTINF:0, Magura Media Kids
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37410.m3u8
+#EXTINF:0, Magura Media Istoric
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37411.m3u8
+#EXTINF:0, Magura Media Comedy
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37416.m3u8
+#EXTINF:0, Magura Media Cinema
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37413.m3u8
+#EXTINF:0, Magura Media Action
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37409.m3u8
+#EXTINF:0, Magura Media 4K
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37414.m3u8
+#EXTINF:0, Magura Media Horror
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38401.m3u8
+#EXTINF:0, Magura Media Filme Religioase
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48308.m3u8
+#EXTINF:0, AVB Media Christmas
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38404.m3u8
+#EXTINF:0, AVB Media Action FHD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37830.m3u8
+#EXTINF:0, AVB Media Cartoons
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38204.m3u8
+#EXTINF:0, AVB Media Horror
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38393.m3u8
+#EXTINF:0, AVB Media Mynele
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37829.m3u8
+#EXTINF:0, Timeless Drama Channel
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/50719.m3u8
+#EXTINF:0, Timeless Drama Channel HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/50718.m3u8
+#EXTINF:0, Film Now Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33831.m3u8
+#EXTINF:0, Film Now Server 2
+http://127.0.0.1:6878/ace/getstream?id=8cee9a024968a00e7d83926b59695d27d003b0a8
+#EXTINF:0, Film Now HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/34066.m3u8
+#EXTINF:0, Comedy Central Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33840.m3u8
+#EXTINF:0, Comedy Central Server 2
+http://127.0.0.1:6878/ace/getstream?id=e08067e1351c1f5c057152c17d311bfb4bafa3b1
+#EXTINF:0, AXN
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33847.m3u8
+#EXTINF:0, AXN HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33846.m3u8
+#EXTINF:0, AXN White
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33848.m3u8
+#EXTINF:0, AXN Black
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33849.m3u8
+#EXTINF:0, AXN Spin
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33850.m3u8
+#EXTINF:0, Cinemax
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33843.m3u8
+#EXTINF:0, Cinemax 2 Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33844.m3u8
+#EXTINF:0, Cinemax 2 Server 2
+http://127.0.0.1:6878/ace/getstream?id=1a214261265bc33571a45eef1f186d71f9f1c7b9
+#EXTINF:0, Diva Universal
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33839.m3u8
+#EXTINF:0, Paramount Channel
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33841.m3u8
+#EXTINF:0, TV 1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33838.m3u8
+#EXTINF:0, AMC
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33851.m3u8
+#EXTINF:0, TNT
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33852.m3u8
+#EXTINF:0, Film Cafe Server 1
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33858.m3u8
+#EXTINF:0, Film Cafe Server 2
+http://127.0.0.1:6878/ace/getstream?id=8b75a919a45f733580099860a1f249e16a2f7d36
+#EXTINF:0, Epic Drama
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33859.m3u8
+#EXTINF:0, Cinemaraton
+https://cmn.digitalcable.ro/free/cm/playlist.m3u8
+#EXTINF:0, Comedy Est
+https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
+#EXTINF:0, Film Box
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33855.m3u8
+#EXTINF:0, Film Box Extra HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33854.m3u8
+#EXTINF:0, Film Box Premium
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33856.m3u8
+#EXTINF:0, Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0, PRO 2
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33774.m3u8
+#EXTINF:0, PRO 2 HD
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0, PRO Gold
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0, TLC
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33891.m3u8
+#EXTINF:0, Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, VSV Marvel Movies HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/51126.m3u8
+#EXTINF:0, VSV Collection HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/51125.m3u8
+#EXTINF:0, VSV Christmas HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38407.m3u8
+#EXTINF:0, VSV Cinema 4K
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38772.m3u8
+#EXTINF:0, VSV Cinema FHD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38253.m3u8
+#EXTINF:0, VSV Action HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38769.m3u8
+#EXTINF:0, VSV Comedy HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38206.m3u8
+#EXTINF:0, VSV Horror HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38252.m3u8
+#EXTINF:0, VSV Sci-Fi HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38394.m3u8
+#EXTINF:0, VSV Bollywood HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/38400.m3u8
+#EXTINF:0, VSV Cartoons HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/37938.m3u8
+#EXTINF:0, VSV Robert de Niro HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48095.m3u8
+#EXTINF:0, VSV Jason Statham HD
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48094.m3u8
+************************************************************************************************************
+*************************************************************************************************************
+
 
 
 
