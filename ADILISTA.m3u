@@ -11,13 +11,17 @@ http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]GENE[/COLOR][COLOR yellow][B][/B][/COLOR][COLOR red]RALE[/COLOR]  
 http://0.0.0.0:123410
 ******************************************
-#EXTINF:0, TVR 1
+##EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1.[/COLOR] [COLOR blue](Server 1)[/COLOR] 
+
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0, TVR HD
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1.[/COLOR] [COLOR blue](Server 2)[/COLOR] 
+
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0, TVR 1 HD Server 1
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1 HD[/COLOR] [COLOR blue](Server 1)[/COLOR] 
+
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/48056.m3u8
-#EXTINF:0 ,TVR 1 HD Server 2
+#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1 HD [/COLOR] [COLOR blue](Server 2)[/COLOR] 
+
 http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:0, TVR 2
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
@@ -124,7 +128,6 @@ http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR orange]TVR 1[/COLOR] [COLOR blue](SAU HTTP)[/COLOR] 
  
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
-#EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1.[/COLOR] [COLOR blue]STREAM[/COLOR] 
  
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390&name=SopProg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[COLOR] [COLORblue]STREAM[/COLOR] 
