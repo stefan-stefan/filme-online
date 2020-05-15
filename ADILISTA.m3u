@@ -5,12 +5,9 @@ http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR yellow][B]  ACTUALIZATA [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,[COLOR blue] *** [/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue]  ***[/COLOR]  
+#EXTINF:0,[COLOR blue] LIISTA [/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue] ADI 2020[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#STEFAN-TV-Romania #" tvg-logo="http://pici.life/RO/romania.png" group-title="Romania",#STEFAN-TV-ROMANIA #
-http://iptv.rent:8080/z57v4cnp7k/7cxiblicoh/5334
- 
 #EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue] *** [/COLOR][COLOR yellow][B]  [/B][/COLOR][COLOR red] ***[/COLOR]  
 http://0.0.0.0:123410
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] DIGI 24 HD
