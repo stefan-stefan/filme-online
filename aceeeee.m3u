@@ -4,7 +4,6 @@ http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,**LANSATI ACESTREAM-ENGINE!**
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0, MIREASA PENTRU FIUL MEU LIVE
-#EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?id=9e7945bc571a5aff8d8aef2d1cab74eb688bd1a7
 #EXTINF:-1 tvg-logo="tvr1.jpg",AMC
 http://127.0.0.1:6878/ace/getstream?id=6ed8845f190415ec31cca2a765b4b19012e7b023
