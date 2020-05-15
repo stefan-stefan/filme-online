@@ -73,7 +73,16 @@ http://stream.adunity.com/b1/b1.m3u8
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 
 
-
+#EXTINF:0, Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0, Antena Comedy Server 1
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0, Antena Comedy Server 2
+http://127.0.0.1:6878/ace/getstream?id=308dabf472bf8086680513a5a39908480703c1b7
+#EXTINF:0, Antena Comedy Server 3
+http://127.0.0.1:6878/ace/getstream?id=de2f6aea5eeeef6d620f9810fd2b47b87587b3af
+#EXTINF:0, Antena Comedy Server 4
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
 
 
 
