@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="####▆ ▇ █ ACESTREAM-HTTP █ ▇ ▆####" tvg-logo="http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png" group-title="ROMANIA",▇ HTTP-ACESTREAM █
+#EXTINF:0,[COLOR blue] *** [/COLOR][COLOR blue][B]  SCRI CE VREI! [/B][/COLOR][COLOR blue]  ***[/COLOR]  
  
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
-#EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR orange][B]  ACTUALIZATA [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
+#EXTINF:0,[COLOR yellow] *** [/COLOR][COLOR orange][B]  ACTUALIZATA! [/B][/COLOR][COLOR yellow]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0,[COLOR blue] ***[/COLOR][COLOR blue][B] 15/MAI/2020[/B][/COLOR][COLOR blue]****[/COLOR]  
+#EXTINF:0,[COLOR blue] ***[/COLOR][COLOR blue][B] 15/MAI/2020! [/B][/COLOR][COLOR blue]****[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
 #EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]*****GENE[/COLOR][COLOR yellow][B][/B][/COLOR][COLOR orange]RALE*****[/COLOR]  
