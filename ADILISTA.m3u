@@ -8,8 +8,17 @@ http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:0,[COLOR blue] ***[/COLOR][COLOR blue][B] 24/DECEMBRIE/2019 [/B][/COLOR][COLOR blue]****[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://46.20.136.59/live3/_definst_/digi24/playlist.m3u8
-#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]LISTA [/COLOR][COLOR yellow][B]  [/B][/COLOR][COLOR red]ADRIAN[/COLOR]  
+#EXTINF:#1 tvg-logo="http://www.diseara.ro/images/conv/1522_0_1.jpg",[COLOR blue]GENE[/COLOR][COLOR yellow][B]  [/B][/COLOR][COLOR red]RALE[/COLOR]  
 http://0.0.0.0:123410
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Pro Tv[/COLOR][COLOR blue]Server 1[/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://d4ccf985fd90384ae85be19f82a8d2032aac3a1b&name=AceStream
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/397.png" group-title="GENERALE",[COLOR yellow]DIGI 24 HD[/COLOR][COLOR yellow][/COLOR] 
  
 http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
@@ -108,8 +117,6 @@ http://89.38.8.131:39532
 #EXTINF:-1 tvg-ID="PROTV.ro" tvg-name="RO: Pro TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pro_tv.jpg" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro TV
 plugin://program.plexus/?mode=1&url=acestream://9ef9c84096f336d1e70851e5c185ff2260c1f69d&name=AceStream
 #EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro Tv
-plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
-#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[COLOR red]Sopcast.[/COLOR][COLOR red]# 2[/COLOR] Pro Tv
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:#1  tvg-logo="https://www.thematv.com/medias/channels/pro-tv-international/protv.jpg" group-title="GENERALE",[COLOR orange]Sopcast.[/COLOR][COLOR green]# 1[/COLOR] Pro TV International
  
