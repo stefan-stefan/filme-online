@@ -37,6 +37,14 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33771.m3u8
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33785.m3u8
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR orange]Prima TV[/COLOR] [COLOR blue](Server 2)[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d0729ca6dbd&name=AceStream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR orange]Pro X[/COLOR] [COLOR blue](Server 1)[/COLOR] 
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR orange]Pro X[/COLOR] [COLOR blue](Server 2)[/COLOR] 
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR orange]Pro X[/COLOR] [COLOR blue](Server 3)[/COLOR] 
+plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=AceStream
+
+
 
 
 
@@ -415,9 +423,6 @@ plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45d
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Pro X
 http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49850
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iDDYzO5.png" group-title="GENERALE",[COLOR blue]Acestream.[/COLOR][COLOR blue]# 1[/COLOR] Pro X
- 
-plugin://program.plexus/?mode=1&url=acestream://40209e26a80c381bbcdcfe71712d31a31d9b0061&name=AceStream
 #EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/1280px-Logo_Pro_X-2017-svg.png" group-title="SPORT",[COLOR orange]Sopcast.[/COLOR][COLOR red]# 1[/COLOR]Pro X
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-ID="Eurosport1.ro" tvg-name="RO: Eurosport 1 HD" tvg-logo="https://iptvsensation.org/picons/eurosport1hd.png" group-title="GENERALE",[COLOR yellow]Http.[/COLOR][COLOR yellow]# 1[/COLOR] Eurosport 1 HD
