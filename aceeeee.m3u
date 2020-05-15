@@ -3,6 +3,11 @@
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,**LANSATI ACESTREAM-ENGINE!**
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
+#EXTINF:-1 Acestream.[COLOR][COLOR blue]# 1[/COLOR] Pro TV (test 1)
+plugin://program.plexus/?mode=1&url=acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1&name=AceStream
+
+#EXTINF:-1 Acestream.[COLOR][COLOR blue]# 1[/COLOR] Pro TV (test 2)
+acestream://c850cbbf8e1aef28c5aa746897d61258d22babe1&name=AceStream
 #EXTINF:0, MIREASA PENTRU FIUL MEU LIVE
 http://127.0.0.1:6878/ace/getstream?id=9e7945bc571a5aff8d8aef2d1cab74eb688bd1a7
 #EXTINF:-1 tvg-logo="tvr1.jpg",AMC
