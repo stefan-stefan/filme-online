@@ -26,14 +26,14 @@ plugin://program.plexus/?mode=1&url=acestream://30fc98e21a83b3a4d2925097d76d1d07
 #EXTINF:#1  tvg-logo="http://frr.ro/wp-content/uploads/2012/11/Desktop30.jpg" group-title="GENERALE",[COLOR orange]Tvr 1.[/COLOR] [COLOR blue]STREAM[/COLOR] 
  
 plugin://program.plexus/?mode=2&url=sop://broker.sopcast.com:3912/265390&name=SopProg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[/COLOR] [COLORblue]STREAM[/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[COLOR] [COLORblue]STREAM[/COLOR] 
  
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[/COLOR][COLOR] [/COLORblue] TVR 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[COLOR][COLORblur]ttttt [/COLORblue] 
  
 plugin://program.plexus/?mode=1&url=acestream://b2d90b86ca815fbefca68efb9b07749c92e07519&name=AceStream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[/COLOR][COLOR ][/COLOR] 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR orange]TVR 2[COLOR] [COLORblue ]ttttt[/COLOR] 
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR orange]TVR 3[/COLOR][COLORblue ]tttt [/COLOR] 
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
