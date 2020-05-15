@@ -55,9 +55,9 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33782.m3u8
 #EXTINF:0, National 24 Plus
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 **************************************************************************************
-#EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue](Server 1)[/COLOR]
+#EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png" group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png",group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue](Server 2)[/COLOR]
+#EXTINF:0 tvg-logo="" http://documentarys.do.am/proba/logo/download4.png" group-title="GENERALE",[COLOR orange]B1 TV[/COLOR] [COLOR blue](Server 2)[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://6ce5bd5d05869f7879221f14cd65a45de81e72d1&name=AceStream
 
 
