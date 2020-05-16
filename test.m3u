@@ -1,36 +1,19 @@
-<Plugin>
+
+<plugin>
   <canal id = "PRO X">
     <display-name lang = "ro"> PRO X </display-name>
     <Url> http://www.program24.ro </ url>
   </ Canal>
-</ Plugin>
-<Plugin>
+</plugin>
+<plugin>
   <canal id = "PRO X">
     <display-name lang = "ro"> PRO X </display-name>
     <Url> http://www.program24.ro </ url>
   </ Canal>
-</ Plugin>
-<Plugin>
+</plugin>
+<item>
   <canal id = "PRO X">
     <display-name lang = "ro"> PRO X </display-name>
     <Url> http://www.program24.ro </ url>
   </ Canal>
-</ Plugin>
-<Plugin>
-  <canal id = "PRO X">
-    <display-name lang = "ro"> PRO X </display-name>
-    <Url> http://www.program24.ro </ url>
-  </ Canal>
-</ Plugin>
-<Plugin>
-  <canal id = "PRO X">
-    <display-name lang = "ro"> PRO X </display-name>
-    <Url> http://www.program24.ro </ url>
-  </ Canal>
-</ Plugin>
-<Plugin>
-  <canal id = "PRO X">
-    <display-name lang = "ro"> PRO X </display-name>
-    <Url> http://www.program24.ro </ url>
-  </ Canal>
-</ Plugin> 
+</item> 
