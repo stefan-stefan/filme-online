@@ -154,18 +154,17 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33835.m3u8
 #EXTINF:0, [COLOR orange]HBO 2[/COLOR] [COLOR blue](Server 2)[/COLOR]
 http://127.0.0.1:6878/ace/getstream?id=aecc8db32341eb701af9d9c160f46842332b123d
 #EXTINF:0, [COLOR orange]HBO HD[/COLOR] [COLOR blue](Server 1)[/COLOR]
-
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33834.m3u8
-#EXTINF:0, HBO 3 Server 1
+[COLOR orange]HBO 3[/COLOR] [COLOR blue](Server 1)[/COLOR]
+
+#EXTINF:0, [COLOR orange]HBO 3[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33837.m3u8
-#EXTINF:0, HBO 3 Server 2
+#EXTINF:0, [COLOR orange]HBO 3[/COLOR] [COLOR blue](Server2)[/COLOR]
 http://127.0.0.1:6878/ace/getstream?id=d6c7fe7cec622d5de3adc5009a5fff67c7ff5b99
-#EXTINF:0, HBO 3 HD
+#EXTINF:0, [COLOR orange]HBO 3[/COLOR] [COLOR blue](Server 3)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33836.m3u8
-#EXTINF:0, HD NET IUmor
+#EXTINF:0, [COLOR orangeHD NET IUmor[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33828.m3u8
-
-
 #EXTINF:0, [COLOR orange]HD NET Thriller[/COLOR] [COLOR blue][/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33821.m3u8
 #EXTINF:0, HD NET Sci-Fi
