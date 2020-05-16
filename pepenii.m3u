@@ -11,7 +11,7 @@
 
 <plugin>
     <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] STEFAN  TV »»» [/B][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/http2.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://abonament-tvonline.000webhostapp.com/ListaspecialaKodi.m3u</link>
     <thumbnail>https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-600x400.png</thumbnail>
     <fanart>https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-600x400.png</fanart>
 </plugin>
