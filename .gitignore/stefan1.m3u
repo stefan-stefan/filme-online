@@ -1,14 +1,9 @@
 <item>
-    <title>[COLOR lime]....[B]Folositi-Acestream!....[/B][/COLOR]</title>
+    <title>[COLOR lime]....[B]LISTE IN LUCRU!....[/B][/COLOR]</title>
     <thumbnail>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</thumbnail>
     <fanart>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</fanart>
 </item>
-<plugin>
-    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV (Acestream) [COLOR lime](LISTA IN LUCRU) [/COLOR][/B]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
-    <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
-    <fanart>https://cdn6.aptoide.com/imgs/6/9/d/69d5c309831e8b69239c21af912f70c3.png</fanart>
-</plugin>
+
 
 
 
