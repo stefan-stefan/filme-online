@@ -1,5 +1,0 @@
-name = "Stefan Wizard"
-url = "http://90.146.240.14/shares/Public/Stuff/Build/KodiRO.zip"
-img = "https://www.pikpng.com/pngl/m/94-945818_kodi-png-emblem-clipart.png"
-fanart = "https://cdn.wallpapersafari.com/64/54/ysRJn5.jpg"
-description = "Simplu, sper sa si placa! Creat pentru Kodi 18.6!" 
