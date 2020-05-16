@@ -1,10 +1,16 @@
 <item>
-    <title>[COLOR lime]....[B]Folositi-Acestream!....[/B][/COLOR]</title>
+    <title>[COLOR lime]....[B]Liste Tv Free!....[/B][/COLOR]</title>
     <thumbnail>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</thumbnail>
     <fanart>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</fanart>
 </item>
+<item>
+    <title>[COLOR lime]....[B]Sper sa placa!....[/B][/COLOR]</title>
+    <thumbnail>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</thumbnail>
+    <fanart>https://oknotivi.ru/wp-content/uploads/2017/11/acestream-sopcast-by-aba.jpg</fanart>
+</item>
+
 <plugin>
-    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV (RO) [COLOR lime](LISTA IN LUCRU) [/COLOR][/B]</title>
+    <title>[B][COLOR darkblue]LISTA[COLOR yellow]TV[COLOR red][COLOR blue] ROMANIA [COLOR lime](LISTA IN LUCRU) [/COLOR][/B]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/httptest52.m3u</link>
     <thumbnail>https://i.ya-webdesign.com/images/logo-tv-png-2.png</thumbnail>
     <fanart>https://i.ya-webdesign.com/images/logo-tv-png-2.png</fanart>
