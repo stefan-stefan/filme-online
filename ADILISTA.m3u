@@ -163,7 +163,7 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33837.m3u8
 http://127.0.0.1:6878/ace/getstream?id=d6c7fe7cec622d5de3adc5009a5fff67c7ff5b99
 #EXTINF:0, [COLOR orange]HBO 3[/COLOR] [COLOR blue](Server 3)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33836.m3u8
-#EXTINF:0, [COLOR orangeHD NET IUmor[/COLOR] [COLOR blue](Server 1)[/COLOR]
+#EXTINF:0, [COLOR orange]HD NET IUmor[/COLOR] [COLOR blue](Server 1)[/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33828.m3u8
 #EXTINF:0, [COLOR orange]HD NET Thriller[/COLOR] [COLOR blue][/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33821.m3u8
