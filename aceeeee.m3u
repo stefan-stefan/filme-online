@@ -4,3 +4,10 @@ http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR orange] *** [/COLOR][COLOR orange][B]  ACTUALIZATA-16-05-2020! [/B][/COLOR][COLOR orange]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Cinemax[/B][COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33843.m3u8
+
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime] Cinemax[/B][COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=34b1402557fb7faab2979361c4e9650fa0948724
+#EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue] Cinemax[/B][COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=9c484162d8da65638b8ef5dc089ea77cad7abe95
