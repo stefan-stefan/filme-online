@@ -4,11 +4,3 @@ http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR orange] *** [/COLOR][COLOR orange][B]  ACTUALIZATA-16-05-2020! [/B][/COLOR][COLOR orange]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
-http://123orca.com:25461/ahmeddaoud/147852369/11223
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=27f2197aa56bd83c32dff255c7e6ea1c6cb28926
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e17860c8bb50457919c05946bb3039ca4a5630cb
-#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR darkblue]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0b17c404714794fd2dff9f8bad738560d81fd486
