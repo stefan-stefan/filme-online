@@ -4,6 +4,154 @@ http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,[COLOR orange] *** [/COLOR][COLOR orange][B]  ACTUALIZATA-16-05-2020! [/B][/COLOR][COLOR orange]  ***[/COLOR]  
 #EXTVLCOPT:network-caching=1000
 http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Tvr 1[/COLOR][/B] [COLOR blue][/COLOR] 
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr1.tvr.ro/images/logo_main_tvr1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]Tvr 1[/COLOR][/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0ae9a32149fb5bad0b1773595092b693fcc7da03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]TVR 2[/COLOR][/B] [COLOR blue][/COLOR]  
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]TVR 3[/COLOR][/B] [COLOR blue][/COLOR]  
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvr3.tvr.ro/images/logo_main_tvr3.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLORlime]TVR 3[/COLOR][/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a94e8d679229ff8c4afb58100746e025e386beb
+#EXTINF:0,  [B][COLOR red]REALITATEA TV[/COLOR][/B] [COLOR blue][/COLOR]
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:0,  [B][COLOR red]ROMANIA TV[/COLOR][/B] [COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="https://i0.1616.ro/media/2/2701/33658/18953592/1/digi-24.png" group-title="GENERALE",[B][COLOR red]DIGI 24.[/COLOR][/B] [COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIGI 24 HD" tvg-logo="https://i0.1616.ro/media/2/2701/33658/18953592/1/digi-24.png" group-title="GENERALE",[B][COLOR lime]DIGI 24.[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11214
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red][COLOR yellow][COLOR blue][COLOR red] PRO TV[/COLOR][/B] [B][COLOR red][COLOR yellow][COLOR blue][COLOR blue][/COLOR][/B]
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+
+#EXTINF:#1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Protv2016mare.jpg/revision/latest?cb=20160112150236" group-title="GENERALE",[B][COLOR red][COLOR yellow][COLOR blue][COLOR lime] PRO TV[/COLOR][/B] [B][COLOR red][COLOR yellow][COLOR blue][COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://89.38.8.131:39532
+
+
+
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
+http://123orca.com:25461/ahmeddaoud/147852369/11223
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=27f2197aa56bd83c32dff255c7e6ea1c6cb28926
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e17860c8bb50457919c05946bb3039ca4a5630cb
+#EXTINF:-1 tvg-ID="Antena1.ro" tvg-name="RO: Antena 1" tvg-logo="https://iptvsensation.org/picons/antena1.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR darkblue]Antena 1[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0b17c404714794fd2dff9f8bad738560d81fd486
+
+
+#EXTINF:0,  [B][COLOR red]Antena Monden[/COLOR][/B] [COLOR blue][/COLOR]
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0,  [B][COLOR red]Antena Comedy[/COLOR][/B] [COLOR blue][/COLOR]
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0,  [B][COLOR red]Antena 3[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33767.m3u8
+#EXTINF:0,  [B][COLOR lime]Antena 3[/COLOR][/B] [COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33766.m3u8
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" group-title="GENERALE",[B][COLOR red][COLOR yellow][COLOR blue][COLOR red]ANTENA STAR[/COLOR][/B] [B][COLOR red][COLOR yellow][COLOR blue][COLOR blue][/COLOR][/B]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33769.m3u8
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" group-title="GENERALE",[B][COLOR red][COLOR yellow][COLOR blue][COLOR lime]ANTENA STAR[/COLOR][/B] [B][COLOR red][COLOR yellow][COLOR blue][COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11221
+#EXTINF:#1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Antena_Stars_Logo.png" group-title="GENERALE",[B][COLOR red][COLOR yellow][COLOR blue][COLOR blue]ANTENA STAR[/COLOR][/B] [B][COLOR red][COLOR yellow][COLOR blue][COLOR blue][/COLOR][/B]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f80f7eba001fbb6ccb3317313f93bcfbc9c9c499
+
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR red][B][/COLOR][COLOR red]KANAL D[/B] [COLOR blue][/COLOR] 
+http://212.0.215.115/KanalD/playlist.m3u8
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR lime][B][/COLOR][COLOR lime]KANAL D[/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
+
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR blue][B][/COLOR][COLOR blue]KANAL D[/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11196
+#EXTINF:-1 tvg-ID="KanalD.ro" tvg-name="RO: Kanal D" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal_d_tr.jpg" group-title="GENERALE",[COLOR darkblue][B][/COLOR][COLOR darkblue]KANAL D [/B] [COLOR blue][/COLOR] 
+http://stream1.kanald.ro/iphone/live.m3u8
+
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33785.m3u8
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0da0a26a6e06181ff1f675de7fc572f2c51cbaab
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR darkblue]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=08393e7bc42b35cfeebe60714071b0239bed378d
+
+
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]NATIONAL TV[/COLOR][/B] [COLOR blue][/COLOR] 
+http://212.0.215.115/National/playlist.m3u8
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]NATIONAL TV[/COLOR][/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
+#EXTINF:0 tvg-logo="http://documentarys.do.am/proba/logo/National_TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue]NATIONAL TV[/COLOR][/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=1a214261265bc33571a45eef1f186d71f9f1c7b9
+#EXTINF:0,  [B][COLOR red]NATIONAL 24 PLUS[/COLOR][/B] [COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]B1 TV[/COLOR][/B] [COLOR blue][/COLOR]
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]B1 TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://193.228.153.231:4242/bysid/70
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue]B1 TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=59756d30a99cb20bc5788d6475db3f8b301e7c9c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-diL-ndtqU2A/WFTv1oXXObI/AAAAAAAANW4/HA5iscL25ycSaAvOWzGK1vnCP5KpXCBTACLcB/s1600/B1tvrom.jpg" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR darkblue]B1 TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=050ac6034909f4d96913082aecbbe520b5336e3a
+#EXTINF:0,  [B][COLOR red]PRO TV International[/COLOR][/B] [COLOR blue][/COLOR]
+http://78.109.108.62:2001/protv
+#EXTINF:0,  [B][COLOR lime]PRO TV International[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=e6d7a3f224aafc99d8aec35e11e4fccb06d44c99
+#EXTINF:0,  [B][COLOR blue]PRO TV International[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=e6d7a3f224aafc99d8aec35e11e4fccb06d44c99
+
+#EXTINF:0, [B][COLOR red]PRO TV NEWS[/COLOR][/B] [COLOR blue][/COLOR]
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:0,  [B][COLOR red]PRO TV CHISINAU[/COLOR][/B] [COLOR blue][/COLOR]
+http://hls.protv.md/hls/protv.m3u8
+
+
+
+#EXTINF:0,  [B][COLOR red]Happy Channel[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33776.m3u8
+#EXTINF:0,  [B][COLOR red]Happy Channel[/COLOR][/B] [COLOR blue][/COLOR]
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33776.m3u8
+#EXTINF:0,  [B][COLOR red]Cook and Play[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+
+
+
+#EXTINF:0,  [B][COLOR red]PRO 2[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33774.m3u8
+#EXTINF:0,  [B][COLOR lime]PRO 2[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0,  [B][COLOR red]PRO Gold[/COLOR][/B] [COLOR blue][/COLOR]
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0,  [B][COLOR lime]PRO Gold[/COLOR][/B] [COLOR blue][/COLOR]
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+**************************************************
+#EXTINF:0,  [B][COLOR red]Film Now[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33831.m3u8
+#EXTINF:0,  [B][COLOR red]Film Now HD[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/34066.m3u8
+#EXTINF:0,  [B][COLOR red]Comedy Central[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33840.m3u8
+#EXTINF:0,  [B][COLOR red]AXN[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33847.m3u8
+#EXTINF:0,  [B][COLOR lime]AXN[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33846.m3u8
+#EXTINF:0,  [B][COLOR red]AXN[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33848.m3u8
+#EXTINF:0,  [B][COLOR red]AXN Black[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33849.m3u8
+#EXTINF:0,  [B][COLOR red]AXN Spin[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33850.m3u8
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Cinemax[/B][COLOR blue][/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33843.m3u8
 
@@ -11,3 +159,75 @@ http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33843.m3u8
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=34b1402557fb7faab2979361c4e9650fa0948724
 #EXTINF:#1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue] Cinemax[/B][COLOR blue][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=9c484162d8da65638b8ef5dc089ea77cad7abe95
+
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange][/COLOR][B][COLOR red]Cinemax 2[/B][COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11215
+#EXTINF:-1 tvg-ID="Cinemax2.ro" tvg-name="RO: Cinemax 2" tvg-logo="http://www.iptvsensation.org/picons/cinemax2.png" group-title="FILME",[COLOR orange][/COLOR][B][COLOR lime]Cinemax 2[/B][COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cb5df1d65e01c6211380040ce6d844b120f1a0c3
+#EXTINF:0,  [B][COLOR red]Diva Universal[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33839.m3u8
+#EXTINF:0,  [B][COLOR red]Paramount Channel[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33841.m3u8
+#EXTINF:0,  [B][COLOR red]TV 1000[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33838.m3u8
+#EXTINF:0,  [B][COLOR red]AMC[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33851.m3u8
+#EXTINF:0,  [B][COLOR red]TNT[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33852.m3u8
+#EXTINF:0,  [B][COLOR red]Film Cafe[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33858.m3u8
+#EXTINF:0,  [B][COLOR red]Epic Drama[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33859.m3u8
+#EXTINF:0,  [B][COLOR red]Cinemaraton[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://cmn.digitalcable.ro/free/cm/playlist.m3u8
+#EXTINF:0,  [B][COLOR red]Comedy Est[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
+#EXTINF:0,  [B][COLOR red]Film Box[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33855.m3u8
+#EXTINF:0,  [B][COLOR red]Film Box Extra HD[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33854.m3u8
+#EXTINF:0,  [B][COLOR red]Film Box Premium[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33856.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR red]Pro Cinema[/B] [COLOR blue][/COLOR]
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]Pro Cinema[/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11186
+#EXTINF:0,  [B][COLOR red]HBO[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33833.m3u8
+#EXTINF:0,  [B][COLOR lime]HBO[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33832.m3u8
+#EXTINF:0,  [B][COLOR red]HBO 2[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33835.m3u8
+#EXTINF:0,  [B][COLOR lime]HBO 2[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33834.m3u8
+#EXTINF:0,  [B][COLOR red]HBO 3[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33837.m3u8
+#EXTINF:0,  [B][COLOR lime]HBO 3[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33836.m3u8
+#EXTINF:0,  [B][COLOR red]Bollywood TV[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="GENERALE",[COLOR yellow][/COLOR][COLOR lime]Bollywood TV[/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:0,  [B][COLOR red]Bollywood Classic[/COLOR][/B] [COLOR blue][/COLOR]
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
