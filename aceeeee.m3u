@@ -85,6 +85,12 @@ http://stream1.kanald.ro/iphone/live.m3u8
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33785.m3u8
 #EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR lime]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR blue]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0da0a26a6e06181ff1f675de7fc572f2c51cbaab
+#EXTINF:0 tvg-logo="https://frccf.org.ro/wp-content/uploads/2016/07/PRIMA-TV.png" group-title="GENERALE",[COLOR yellow][/COLOR][B][COLOR darkblue]Prima TV[/COLOR][/B] [COLOR blue][/COLOR]
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=08393e7bc42b35cfeebe60714071b0239bed378d
+
+
 #EXTINF:0, [B][COLOR red]NATIONAL TV[/COLOR][/B] [COLOR blue][/COLOR]
 http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33787.m3u8
 #EXTINF:0,  [B][COLOR red]NATIONAL 24 PLUS[/COLOR][/B] [COLOR blue][/COLOR]
