@@ -3,7 +3,12 @@
     <thumbnail>https://www.tvlitoral.ro/wp-content/uploads/2013/01/revizie-tehnica.jpg</thumbnail>
     <fanart>https://www.tvlitoral.ro/wp-content/uploads/2013/01/revizie-tehnica.jpg</fanart>
 </item>
-
+<plugin>
+    <title>[B][COLOR red][COLOR yellow][COLOR darkblue][COLOR blue]LISTA TV (Acestream) [COLOR lime](LISTA IN LUCRU) [/COLOR][/B]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/NiceeKjU</link>
+    <thumbnail>https://fastestvpn.com/blog/wp-content/uploads/2019/08/Acestream-Channel-List-f.png</thumbnail>
+    <fanart>https://cdn6.aptoide.com/imgs/6/9/d/69d5c309831e8b69239c21af912f70c3.png</fanart>
+</plugin>
 
 <plugin>
     <title>[B][COLOR darkblue]LISTA[COLOR yellow] TV [COLOR red] [COLOR red] ROMANIA 1 [COLOR lime](LISTA IN LUCRU) [/COLOR][/B]</title>
