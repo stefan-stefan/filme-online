@@ -3,6 +3,9 @@
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
 #EXTINF:0,**LANSATI ACESTREAM-ENGINE!**
 http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
+#EXTINF:-1 ,[COLOR yellow][/COLOR][B][COLOR lime]Tvr 1[/COLOR][/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0ae9a32149fb5bad0b1773595092b693fcc7da03
+
 #EXTINF:0, MIREASA PENTRU FIUL MEU LIVE
 http://127.0.0.1:6878/ace/getstream?id=9e7945bc571a5aff8d8aef2d1cab74eb688bd1a7
 #EXTINF:-1 tvg-logo="tvr1.jpg",AMC
@@ -139,6 +142,9 @@ http://127.0.0.1:6878/ace/getstream?id=ab49337b0392350389469b6c6e9c99ee601c2128
 http://127.0.0.1:6878/ace/getstream?id=bcc669d63ee16c3dcb485cb26dec4b78194b84ab
 #EXTINF:-1 tvg-logo="tvr1.jpg",TV PAPRIKA
 http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
+#EXTINF:-1 ,[COLOR yellow][/COLOR][B][COLOR lime]Tvr 1[/COLOR][/B] [COLOR blue][/COLOR] 
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=0ae9a32149fb5bad0b1773595092b693fcc7da03
+
 #EXTINF:-1 tvg-logo="tvr1.jpg",TVR 1
 http://127.0.0.1:6878/ace/getstream?id=86fa99b95be2a4bc10929b2dee2f65a569380aae
 #EXTINF:-1 TVR 2
