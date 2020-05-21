@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:0,[COLOR blue] *** [/COLOR][COLOR blue][B] VIZIONARE PLACUTA! [/B][/COLOR][COLOR blue]  ***[/COLOR]  
-http://pro-iptv.stream:25461/condemariano75/FQuxXlmvUP/12096
-#EXTINF:0,[COLOR orange] *** [/COLOR][COLOR orange][B]  ACTUALIZATA-16-05-2929! [/B][/COLOR][COLOR orange]  ***[/COLOR]  
-#EXTVLCOPT:network-caching=1000
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0, [COLOR red]DIGI 24.[/COLOR] [COLOR blue][/COLOR]
-http://zeroip.tv:8008/live/catalina_fanachi/Alin2008/33783.m3u8
-#EXTINF:0, [COLOR lime]DIGI 24.[/COLOR] [COLOR blue][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://123orca.com:25461/ahmeddaoud/147852369/11214
-
-#EXTINF:-1, [COLOR lime]PRO TV[/COLOR] [COLOR blue][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
-#EXTINF:-1, [COLOR lime]PRO TV[/COLOR] [COLOR blue][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e2348eb53abf9bf3f7b1b24c1633efcf6e1e4e68
 
 
 #EXTINF:-1, ANTENA 1
