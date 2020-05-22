@@ -38,3 +38,10 @@
     <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
 </plugin>
 
+
+<plugin>
+    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TEST »»» [/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/dannii1998/iptv/f5f616b20aaf790f19c4202bac44a0772488908a/iptv</link>
+    <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
+    <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
+</plugin>
