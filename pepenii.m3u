@@ -15,3 +15,10 @@
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
 </plugin>
+
+<plugin>
+    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] STEFAN  TV »»» [/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://gulasadrian.ddns.net/tv</link>
+    <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
+    <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
+</plugin>
