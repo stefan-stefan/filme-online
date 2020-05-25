@@ -1,8 +1,8 @@
 <tvchannels>
 	<!--
 	<tvchannel name="NT1">
-        <lang>fr</lang> <= ID from ISO_639-1 : http://fr.wikipedia.org/wiki/Liste_des_codes_ISO_639-2
-        <country>fr</country> <= ID from ISO_3166-1 : http://fr.wikipedia.org/wiki/ISO_3166-1
+        <lang>fr</lang> <= ID from ISO_3166-2 : https://fr.wikipedia.org/wiki/ISO_3166-2
+        <country>fr</country> <= ID from ISO_3166-1 : https://fr.wikipedia.org/wiki/ISO_3166-2
         <label>NT 1</label> 
         <logo_filename>nt1.jpg</logo_filename>
         <website>http://www.nt1.tv/ </website>
