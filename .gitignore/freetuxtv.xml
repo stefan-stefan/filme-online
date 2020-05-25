@@ -8,4 +8,9 @@
 		<channels_group uri="" required_isp="Radio" name="Radio Stefan"/>
 	</language>
 	
+		</language>
+	<language lang="Radio" id="radio">
+		<channels_group uri="" required_isp="World" name="World Tv"/>
+	</language>
+	
 </channels_groups>
