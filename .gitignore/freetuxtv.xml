@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels_groups>
+	<language lang="Stefan" id="stefan">
+		<channels_group uri="https://pastebin.com/raw/NiceeKjU" required_isp="Stefan" name="Stefan Tv"/>
+
+	</language>
+	<language lang="Radio" id="radio">
+		<channels_group uri="" required_isp="Radio" name="Radio Stefan"/>
+	</language>
+	
+</channels_groups>
