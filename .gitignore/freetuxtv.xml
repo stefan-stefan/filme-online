@@ -1,14 +1,14 @@
-<tvchannels>
-	<!--
-	<tvchannel name="NT1">
-        <lang>fr</lang> <= ID from ISO_3166-2 : https://fr.wikipedia.org/wiki/ISO_3166-2
-        <country>fr</country> <= ID from ISO_3166-1 : https://fr.wikipedia.org/wiki/ISO_3166-2
-        <label>NT 1</label> 
-        <logo_filename>nt1.jpg</logo_filename>
-        <website>http://www.nt1.tv/ </website>
-        <guide_url>http://www.nt1.tv/programmes.aspx </guide_url>
-    </tvchannel>
-    -->
+<?xml version="1.0" encoding="UTF-8"?>
+<channels_groups>
+	<language lang="Stefan" id="stefan">
+		<channels_group uri="https://pastebin.com/raw/NiceeKjU" required_isp="Stefan" name="Stefan Tv"/>
+
+	</language>
+	<language lang="Radio" id="radio">
+		<channels_group uri="" required_isp="Radio" name="Radio Stefan"/>
+	</language>
+	
+</channels_groups>
 	
 	<tvchannel name="TV Romania">
 		<logo_filename>tvromania.png</logo_filename>
