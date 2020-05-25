@@ -13,10 +13,4 @@
 		<channels_group uri="" required_isp="Radio" name="Radio Stefan"/>
 	</language>
 	
-</channels_groups>
-	
-	<tvchannel name="TV Romania">
-		<logo_filename>tvromania.png</logo_filename>
-	</tvchannel>
-	
-</tvchannels>
+
