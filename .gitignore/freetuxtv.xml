@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels_groups>
 	<language lang="Stefan Lista Tv 1" id="stefan">
-		<channels_group uri="https://pastebin.com/raw/NiceeKjU" required_isp="Stefan Lista Tv 1" name="Stefan Lista Tv 1"/>
+		<channels_group uri="https://pastebin.com/raw/NiceeKjU" required_isp="Stefan Lista Tv 1" name="Romania Lista Tv 1"/>
 
 	</language>
 		<language lang="Stefan Lista Tv 2" id="stefan">
-		<channels_group uri="https://pastebin.com/raw/UKQB107L" required_isp="Stefan Lista Tv 2" name="Stefan Lista Tv 2"/>
+		<channels_group uri="https://pastebin.com/raw/UKQB107L" required_isp="Stefan Lista Tv 2" name="Romania Lista Tv 2"/>
 
 	</language>
 	
 	<language lang="Stefan Lista Tv 3" id="stefan">
-		<channels_group uri="http://altnume.000webhostapp.com/LISTA2KODI.m3u" required_isp="Stefan Lista Tv 3" name="Stefan Lista Tv 3"/>
+		<channels_group uri="http://altnume.000webhostapp.com/LISTA2KODI.m3u" required_isp="Stefan Lista Tv 3" name="Romania Lista Tv 3"/>
 	</language>
 </channels_groups>
 	
