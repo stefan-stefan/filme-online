@@ -18,7 +18,7 @@
 
 <plugin>
     <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»2 [/B][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/tvlite.m3u</link>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://altnume.000webhostapp.com/LISTA2KODI1104.M3U</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
 </plugin>
