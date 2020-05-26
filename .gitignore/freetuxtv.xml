@@ -10,7 +10,7 @@
 	</language>
 	
 	<language lang="Radio Stefan" id="radio">
-		<channels_group uri="" required_isp="Radio" name="Radio Stefan"/>
+		<channels_group uri="http://altnume.000webhostapp.com/LISTA2KODI.m3u" required_isp="Radio" name="Radio Stefan"/>
 	</language>
 	
 
