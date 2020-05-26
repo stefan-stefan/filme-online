@@ -9,7 +9,7 @@
 
 	</language>
 	
-	<language lang="Stefan Lista Tv 3" id="radio">
+	<language lang="Stefan Lista Tv 3" id="stefan">
 		<channels_group uri="http://altnume.000webhostapp.com/LISTA2KODI.m3u" required_isp="Stefan Lista Tv 3" name="Stefan Lista Tv 3"/>
 	</language>
 </channels_groups>
