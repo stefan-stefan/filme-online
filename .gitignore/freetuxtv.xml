@@ -1,17 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channels_groups>
-	<language lang="Stefan Lista Tv 1" id="stefan">
-		<channels_group uri="https://pastebin.com/raw/NiceeKjU" required_isp="Stefan Lista Tv 1" name="Stefan Lista Tv 1"/>
-
-	</language>
-		<language lang="Stefan Lista Tv 2" id="stefan">
-		<channels_group uri="https://pastebin.com/raw/UKQB107L" required_isp="Stefan Lista Tv 2" name="Stefan Lista Tv 2"/>
-
-	</language>
-	
-	<language lang="Stefan Lista Tv 3" id="stefan">
-		<channels_group uri="http://altnume.000webhostapp.com/LISTA2KODI.m3u" required_isp="Stefan Lista Tv 3" name="Stefan Lista Tv 3"/>
-	</language>
-</channels_groups>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Antena 1">
+    <display-name lang="ro">Antena 1</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="PRO X">
+    <display-name lang="ro">PRO X</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TVR 1">
+    <display-name lang="ro">TVR 1</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TVR 2">
+    <display-name lang="ro">TVR 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="PRO TV">
+    <display-name lang="ro">Pro TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="PRO TV HD">
+    <display-name lang="ro">Pro TV HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Kanal D HD">
+    <display-name lang="ro">Kanal D HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Kanal D">
+    <display-name lang="ro">Kanal D</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Prima TV">
+    <display-name lang="ro">Prima TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="National TV">
+    <display-name lang="ro">National TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="National 24 Plus">
+    <display-name lang="ro">National 24 Plus</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="B1 TV">
+    <display-name lang="ro">B1 TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Pro TV">
+    <display-name lang="ro">Pro TV</display-name>
+    <url>http://www.point.md</url>
+  </channel>
+  <channel id="Digi 24 HD">
+    <display-name lang="ro">Digi 24 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Realitatea plus">
+    <display-name lang="ro">Realitatea plus</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="România TV">
+    <display-name lang="ro">România TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="ro">Antena 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antena 3 HD">
+    <display-name lang="ro">Antena 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Profit.ro">
+    <display-name lang="ro">Profit.ro</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Agro TV">
+    <display-name lang="ro">Agro TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Nasul TV">
+    <display-name lang="ro">Nasul TV</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Digi Sport 1">
+    <display-name lang="ro">Digi Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi Sport 1 HD">
+    <display-name lang="ro">Digi Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi Sport 2">
+    <display-name lang="ro">Digi Sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi Sport 2 HD">
+    <display-name lang="ro">Digi Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi Sport 3">
+    <display-name lang="ro">Digi Sport 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi Sport 3 HD">
+    <display-name lang="ro">Digi Sport 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi Sport 4">
+    <display-name lang="ro">Digi Sport 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Telekom Sport 1 HD">
+    <display-name lang="ro">Telekom Sport 1 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Telekom Sport 2">
+    <display-name lang="ro">Telekom Sport 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Telekom Sport 3">
+    <display-name lang="ro">Telekom Sport 3</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Telekom Sport 4">
+    <display-name lang="ro">Telekom Sport 4</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="ro">Eurosport 1</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="ro">Eurosport HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="ro">Eurosport 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="ro">Eurosport 2 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK SPORT">
+    <display-name lang="ro">LOOK SPORT</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK SPORT 2">
+    <display-name lang="ro">LOOK SPORT 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK SPORT 3">
+    <display-name lang="ro">LOOK SPORT 3</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK PLUS">
+    <display-name lang="ro">LOOK PLUS</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="LOOK PLUS HD">
+    <display-name lang="ro">LOOK PLUS HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="ro">HBO</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="ro">HBO 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="ro">HBO 2 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 3">
+    <display-name lang="ro">HBO 3</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO 3 HD">
+    <display-name lang="ro">HBO 3 HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="ro">HBO HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TDC">
+    <display-name lang="ro">TDC</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Film Now">
+    <display-name lang="ro">Film Now</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Film Now HD">
+    <display-name lang="ro">Film Now HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="ro">Comedy Central</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="ro">AXN</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="ro">AXNVHD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="AXN Black">
+    <display-name lang="ro">AXN Black</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="AXN Spin">
+    <display-name lang="ro">AXN Spin</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="ro">AXN White</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="CineMAX">
+    <display-name lang="ro">CineMAX</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Cinemax 2">
+    <display-name lang="ro">Cinemax 2</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Diva">
+    <display-name lang="ro">Diva</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="ro">Paramount Channel</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TV1000">
+    <display-name lang="ro">TV1000</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="ro">AMC</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="ro">TNT</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="FILMCAFE">
+    <display-name lang="ro">FILMCAFE</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Epic Drama">
+    <display-name lang="ro">Epic Drama</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Cinemaraton">
+    <display-name lang="ro">Cinemaraton</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="Filmbox">
+    <display-name lang="ro">Filmbox</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
+  <channel id="FilmBox Extra HD">
+    <display-name lang="ro">FilmBox Extra HD</display-name>
+    <url>http://www.program24.ro</url>
+  </channel>
 	
 
