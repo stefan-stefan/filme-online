@@ -14,7 +14,7 @@
 	</language>
 	
 	<language lang="Romania Lista Tv 4" id="stefan">
-		<channels_group uri="" required_isp="Romania Lista Tv 4" name="Romania Lista Tv 4"/>
+		<channels_group uri="http://altnume.000webhostapp.com/LIATA3KODI.m3u" required_isp="Romania Lista Tv 4" name="Romania Lista Tv 4"/>
 	</language>
 	
 	<language lang="Romania Lista Tv 5" id="stefan">
