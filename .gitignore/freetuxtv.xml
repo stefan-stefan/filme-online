@@ -24,8 +24,8 @@
 		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ro.m3u" required_isp="Romania Lista Locala" name="Romania Lista Locala"/>
 	</language>
 	
-		<language lang="Iptv Grecia Local" id="stefan">
-		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/gr.m3u" required_isp="Iptv Grecia Local" name="  Grecia Lista Local"/>
+		<language lang="Grecia Lista Local" id="stefan">
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/gr.m3u" required_isp="IGrecia Lista Local" name="Grecia Lista Local"/>
 	</language>
 	
 	
