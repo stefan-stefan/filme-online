@@ -10,7 +10,7 @@
 	</language>
 	
 	<language lang="Romania Lista Tv 3" id="stefan">
-		<channels_group uri="http://files.000webhost.com:21/tvace.m3u" required_isp="Romania Lista Tv 3" name="Romania Lista Tv 3"/>
+		<channels_group uri="http://altnume.000webhostapp.com/LISTA2KODI.m3u" required_isp="Romania Lista Tv 3" name="Romania Lista Tv 3"/>
 	</language>
 </channels_groups>
 	
