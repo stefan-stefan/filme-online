@@ -22,7 +22,7 @@
 	</language>
 	
 		<language lang="Iptv Grecia Local" id="stefan">
-		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/gr.m3u" required_isp="Iptv Grecia Local" name="Romania Iptv Grecia Local"/>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/gr.m3u" required_isp="Iptv Grecia Local" name=" Iptv Grecia Local"/>
 	</language>
 	
 	
