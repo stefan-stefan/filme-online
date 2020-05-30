@@ -19,13 +19,20 @@
 
 <plugin>
     <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»2(Update-30-05-2020!) [/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://altnume.000webhostapp.com/sLISTATESTSTEFAC.m3u</link>
+    <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
+    <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
+</plugin>
+
+<plugin>
+    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»3(Update-30-05-2020!) [/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://altnume.000webhostapp.com/LISTA2KODI.m3u</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
 </plugin>
 
 <plugin>
-    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»3 [/B][/COLOR]</title>
+    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»4 [/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/OviMuse/SIPTV/master/SiPTV</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
@@ -33,16 +40,11 @@
 
 
 <plugin>
-    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»4 [/B][/COLOR]</title>
+    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TV »»»5 [/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://altnume.000webhostapp.com/LISTA4KODI.m3u</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
 </plugin>
 
 
-<plugin>
-    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR lime] LISTA-TEST »»» [/B][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/dannii1998/iptv/f5f616b20aaf790f19c4202bac44a0772488908a/iptv</link>
-    <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
-    <fanart>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</fanart>
-</plugin>
+
