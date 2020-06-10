@@ -1,5 +1,4 @@
 #EXTM3U
-# EXTM3U x-tvg-url = "http://epg.streamstv.me/epg/guide-hungry.xml.gz"
 #EXTINF:0 ,HBO 2 HU/RO
 http://193.33.39.108:8107/30705
 #EXTINF:0 ,CINEMAX HU/RO
