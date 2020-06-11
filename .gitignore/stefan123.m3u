@@ -41,3 +41,11 @@
 <thumbnail>https://setplex.com/blog/wp-content/uploads/2017/08/iptv-business.jpg</thumbnail>
 <fanart>https://setplex.com/blog/wp-content/uploads/2017/08/iptv-business.jpg</fanart>
 </dir>
+
+<plugin>
+    <title>[COLOR lime][B]»PLAY[/COLOR] [COLOR lime] IPTV » [/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Mikolaj2019/TheSamsungFreak-TV-Addon/e5ac4020ca1c200650f9af56610bb87a12d07294/TheSamsungFreakTVMenueTEST</link>
+    <thumbnail>https://1.bp.blogspot.com/-6FdtWusB0gE/XUWKd3_HlEI/AAAAAAAAAKE/dej-nb3PENYfaM5I7IrRF_xJNz92e4RHwCLcBGAs/s1600/images%2B%25283%2529.jpg</thumbnail>
+    <fanart>https://1.bp.blogspot.com/-6FdtWusB0gE/XUWKd3_HlEI/AAAAAAAAAKE/dej-nb3PENYfaM5I7IrRF_xJNz92e4RHwCLcBGAs/s1600/images%2B%25283%2529.jpg</fanart>
+</plugin>
+
