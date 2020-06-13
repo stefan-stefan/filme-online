@@ -10,7 +10,7 @@
     <info>Pentru vizionarea tuturor programelor ,instalati Acestream si lansati Acestream-engine!</info>
 </item>
 <dir>
-    <title>[COLOR FFff8000][B]»»»CLICK [/COLOR] [COLOR blue] LISTA-TV »»»(Lista in lucru!) [/B][/COLOR]</title>
+    <title>[COLOR FFff8000][B]»»»CLICK [/COLOR] [COLOR blue] LISTA-TV »»»(Update-13-06-2020!) [/B][/COLOR]</title>
     <link>http://altnume.000webhostapp.com/HTTP-SCRIPT1</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
@@ -18,15 +18,7 @@
 
 
 <plugin>
-    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR FFff8000] LISTA-TV »»» [/B][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/OviMuse/SIPTV/master/SiPTV</link>
-    <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
-    <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
-</plugin>
-
-
-<plugin>
-    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR FFff8000] LISTA-TV »»»[/B][/COLOR]</title>
+    <title>[COLOR lime][B]»»»PLAY[/COLOR] [COLOR FFff8000] LISTA-TV (Lista in lucru!)»»»[/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://altnume.000webhostapp.com/LISTA4KODI.m3u</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
