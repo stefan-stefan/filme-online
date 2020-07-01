@@ -39,6 +39,14 @@
 </dir>
 
 <dir>
+    <title>[COLOR blue][B]PLAY MUZICA-(NOU) [/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/livemusickkk.xml</link>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
+    <thumbnail>https://topcareer.id/wp-content/uploads/2019/09/cropped-DJ_hire-750x460.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
     <title>[COLOR orange][B]PLAY  FILME [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/filme%20all%20seriale.m3u</link>
     <fanart>https://www.technorms.com/assets/Movie-Subtitles-2.png</fanart>
@@ -95,10 +103,4 @@
     <summary>Universo Marvel</summary>
 </dir>
 
-<dir>
-    <title>[COLOR orange][B]PLAY MUZICA-(NOU) [/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/livemusickkk.xml</link>
-    <fanart>https://i.pinimg.com/originals/0d/1d/9c/0d1d9cc816032b676e1fd1b3d55fa9bc.jpg</fanart>
-    <thumbnail>https://topcareer.id/wp-content/uploads/2019/09/cropped-DJ_hire-750x460.jpg</thumbnail>
-    <summary>Universo Marvel</summary>
-</dir>
+
