@@ -1,5 +1,5 @@
 <dir>
-    <title>[COLOR blue][B]CLICK FILME-1-(NOU) [/B][/COLOR]</title>
+    <title>[COLOR blue][B]1.CLICK FILME-1-(NOU) [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/FilmeNou.xml</link>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
     <thumbnail>https://p7.hiclipart.com/preview/400/350/395/colorflow-film-computer-icons-directory-mymovies-it-movies.jpg</thumbnail>
@@ -7,7 +7,7 @@
 </dir>
 
 <dir>
-    <title>[COLOR blue][B]CLICK FILME-2-(NOU) [/B][/COLOR]</title>
+    <title>[COLOR blue][B]1.CLICK FILME-2-(NOU) [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/ClickNoufilm.xml</link>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
     <thumbnail>https://p7.hiclipart.com/preview/400/350/395/colorflow-film-computer-icons-directory-mymovies-it-movies.jpg</thumbnail>
@@ -15,7 +15,15 @@
 </dir>
 
 <dir>
-    <title>[COLOR blue][B]CLICK Kids Movis-(NOU) [/B][/COLOR]</title>
+    <title>[COLOR blue][B]1.CLICK FILME-3-(NOU) [/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/1clickmoviss.xml</link>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
+    <thumbnail>https://p7.hiclipart.com/preview/400/350/395/colorflow-film-computer-icons-directory-mymovies-it-movies.jpg</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
+    <title>[COLOR blue][B]1.CLICK Kids Movis-(NOU) [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/Kidsmovikodi.xml</link>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
     <thumbnail>https://p7.hiclipart.com/preview/400/350/395/colorflow-film-computer-icons-directory-mymovies-it-movies.jpg</thumbnail>
