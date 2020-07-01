@@ -1,6 +1,14 @@
 <dir>
-    <title>[COLOR orange][B]PLAY  FILME(NOU) [/B][/COLOR]</title>
+    <title>[COLOR blue][B]CLICK FILME-1-(NOU) [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/FilmeNou.xml</link>
+    <fanart>https://www.technorms.com/assets/Movie-Subtitles-2.png</fanart>
+    <thumbnail>https://www.technorms.com/assets/Movie-Subtitles-2.png</thumbnail>
+    <summary>Universo Marvel</summary>
+</dir>
+
+<dir>
+    <title>[COLOR blue][B]CLICK FILME-2-(NOU) [/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/ClickNoufilm.xml</link>
     <fanart>https://www.technorms.com/assets/Movie-Subtitles-2.png</fanart>
     <thumbnail>https://www.technorms.com/assets/Movie-Subtitles-2.png</thumbnail>
     <summary>Universo Marvel</summary>
