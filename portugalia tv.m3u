@@ -7,6 +7,7 @@
 <fanart>https://www.amctravel.ro/wp-content/uploads/2013/05/portugalia-steag.jpg</fanart>
 </plugin>
 
+
 <plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV[/COLOR] [COLOR blue]PORTUGAL(2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/pt.m3u</link>
