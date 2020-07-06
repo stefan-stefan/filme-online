@@ -38,6 +38,14 @@
 <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
 </dir>
 
+<plugin>
+    <title>[COLOR blue][B]CLICK Filme_Romanesti-(youtube) [/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Pablo-Angel/StabilePablo.m3u/master/Filme_Romanesti-you_tube.m3u</link>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
+    <thumbnail>https://www.managerexpress.ro/wp-content/uploads/2019/12/Captura%CC%86-de-ecran-din-2019.12.27-la-11.58.47.png</thumbnail>
+    <summary>Universo Marvel</summary>
+</plugin>
+
 <dir>
     <title>[COLOR blue][B]1.CLICK Kids Movis-(NOU) [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/Kidsmovikodi.xml</link>
