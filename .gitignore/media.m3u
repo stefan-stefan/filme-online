@@ -64,6 +64,14 @@
 </dir>
 
 <plugin>
+    <title>[COLOR blue][B]PLAY MUZICA-(Top_100_of_the_90's) [/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/Pablo-Angel/StabilePablo.m3u/master/Billboard_Top_100_of_the_90's.m3u</link>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
+    <thumbnail>https://c4aa.org/wp-content/uploads/2015/05/billboard_hot100.png</thumbnail>
+    <summary>Universo Marvel</summary>
+</plugin>
+
+<plugin>
     <title>[COLOR blue][B]PLAY MUZICA-(Muzica_Ani_90-2000) [/B][/COLOR]</title>
     <link>https://raw.githubusercontent.com/Pablo-Angel/StabilePablo.m3u/master/Muzica_Ani_90-2000.m3u</link>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
