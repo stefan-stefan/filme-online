@@ -38,13 +38,13 @@
 <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
 </dir>
 
-<plugin>
-    <title>[COLOR blue][B]CLICK Filme_Romanesti-(In lucru!) [/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/Pablo-Angel/StabilePablo.m3u/master/Filme_Romanesti-you_tube.m3u</link>
+<dir>
+    <title>[COLOR blue][B]1.CLICK-Filme Romanesti-(NOU) [/B][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/.gitignore/RomaniaFilm.xml</link>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbcgg5ks.png</fanart>
-    <thumbnail>https://www.managerexpress.ro/wp-content/uploads/2019/12/Captura%CC%86-de-ecran-din-2019.12.27-la-11.58.47.png</thumbnail>
+    <thumbnail>https://p7.hiclipart.com/preview/400/350/395/colorflow-film-computer-icons-directory-mymovies-it-movies.jpg</thumbnail>
     <summary>Universo Marvel</summary>
-</plugin>
+</dir>
 
 
 <dir>
