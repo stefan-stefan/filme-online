@@ -18,7 +18,7 @@
 </plugin>
 
 <dir>
-    <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV 1[/COLOR] [COLOR blue]»»»(Update-01-07-2020!)»»» [/B][/COLOR]</title>
+    <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV 1[/COLOR] [COLOR blue]»»»(Lista in lucru!)»»» [/B][/COLOR]</title>
     <link>http://tvo.scienceontheweb.net/HTTP-SCRIPT1</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
@@ -31,12 +31,6 @@
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
 </plugin>
 
-<plugin>
-    <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV 3[/COLOR] [COLOR blue]»»»(Mentenanta!)»»»[/B][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/LISTA4KODI.m3u</link>
-    <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
-    <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
-</plugin>
 
 
 
