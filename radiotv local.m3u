@@ -13,7 +13,7 @@
     <fanart>https://static.vibe.com/files/old-school-radio-image.jpg</fanart>
 </plugin>
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]Radio Click Romania [/COLOR] [COLOR blue][/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]Radio Romania Live [/COLOR] [COLOR blue][/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/RADIO-CLICK.m3u</link>
     <thumbnail>https://stvron.com/radio/radio-romania-online.png</thumbnail>
     <fanart>https://stvron.com/radio/radio-romania-online.pngg</fanart>
