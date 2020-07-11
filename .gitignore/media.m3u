@@ -161,8 +161,8 @@
 <plugin>
     <title>[COLOR orange][B] RADIO ROMANIA LIVE [/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/RADIO-CLICK.m3u</link>
-    <thumbnai>https://media.socastsrm.com/wordpress/wp-content/blogs.dir/664/files/2016/11/Listen-Live.png</thumbnail>
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/ZZZZZ-kcex86ip.jpg</fanart>
+    <thumbnail>https://photos3.fotosearch.com/bthumb/CSP/CSP426/music-icon-clipart__k19002071.jpg</thumbnail>
 </plugin>
 
 
