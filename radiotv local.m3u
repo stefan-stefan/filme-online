@@ -12,3 +12,9 @@
     <thumbnail>https://images.squarespace-cdn.com/content/v1/5720cc52356fb0ae213f6106/1529489306397-QRSAIIBON1CE4KDSAU31/ke17ZwdGBToddI8pDm48kIkVnxtuc4P_gH4a8pHopKwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvsyj_Qo-M3sqN9EBxNcEXNXb2WEKM9EfgzDT0LxIUa1MW9u6oXQZQicHHG1WEE6fg/IO+Radio.jpg</thumbnail>
     <fanart>https://static.vibe.com/files/old-school-radio-image.jpg</fanart>
 </plugin>
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue]Radio Click Romania [/COLOR] [COLOR blue]LOCAL[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://str2b.openstream.co/1460?aw_0_1st.collectionid=4636&stationId=4636&publisherId=1484</link>
+    <thumbnail>https://e6vobk.webwave.me/lib/e6vobk/13344657_280063469009644_4585282413110394983_n-kchcs56w.jpg</thumbnail>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/13344657_280063469009644_4585282413110394983_n-kchcs56w.jpg</fanart>
+</plugin>
