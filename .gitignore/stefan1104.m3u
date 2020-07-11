@@ -11,6 +11,13 @@
 </item>
 
 <plugin>
+    <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV[/COLOR] [COLOR blue]»»»(Stefan-2020!)»»»[/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/ArgintiuStefan.m3u</link>
+    <thumbnail>https://e6vobk.webwave.me/lib/e6vobk/icon-kbzdcipk.png</thumbnail>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/icon-kbzdcipk.png</fanart>
+</plugin>
+
+<plugin>
     <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV-ACESTREAM[/COLOR] [COLOR blue]»»»(Update-09-07-2020!)»»»[/B][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/ACESTREAM.m3u</link>
     <thumbnail>https://img.pngio.com/index-of-kodi-backgrounds-live-tv-live-tv-hd-png-1920_1080.png</thumbnail>
