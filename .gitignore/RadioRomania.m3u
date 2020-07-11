@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://e6vobk.webwave.me/lib/e6vobk/13344657_280063469009644_4585282413110394983_n-kchcs56w.jpg" tvg-name="Stefan tv"  group-title="Generale",Radio Click Romania (Stream 1)
+http://radiostar.roircop.info:8080/autodj
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://e6vobk.webwave.me/lib/e6vobk/13344657_280063469009644_4585282413110394983_n-kchcs56w.jpg" tvg-name="Stefan tv"  group-title="Generale",Radio Click Romania (Stream 2)
+https://str2b.openstream.co/1460?aw_0_1st.collectionid=4636&stationId=4636&publisherId=1484
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://e6vobk.webwave.me/lib/e6vobk/13344657_280063469009644_4585282413110394983_n-kchcs56w.jpg" tvg-name="Stefan tv"  group-title="Generale",Radio Click Romania (Stream 3)
+http://live.radioclick.ro:8008/stream?type=http&nocache=91097
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://media.smartradio.ro/2019/10/radio.png" tvg-name="Stefan tv"  group-title="Generale",SMART RADIO LIVE
+https://streamw2.m.ro/Regie/radio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/one-fm.png" tvg-name="Stefan tv"  group-title="Generale",One FM
+https://live.onefm.ro/onefm.aacp
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/magic-fm.png" tvg-name="Stefan tv"  group-title="Generale",Magic FM
+https://live.onefm.ro/onefm.aacp
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/dance-fm.png" tvg-name="Stefan tv"  group-title="Generale",Dance FM
+https://edge126.rcs-rds.ro/profm/dancefm.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/manele.png" tvg-name="Stefan tv"  group-title="Generale",Kiss FM (București)
+https://dedicat.fmradiomanele.ro/8054/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/ciresarii.png" tvg-name="Stefan tv"  group-title="Generale",Radio Ciresarii
+https://s3.radio.co/s6c0a773ad/listen
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/intens.png" tvg-name="Stefan tv"  group-title="Generale",Radio Intens (București)
+https://radio.ascultalive.ro/radio/8070/128
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/super-fm.png" tvg-name="Stefan tv"  group-title="Generale",Radio Super FM (Brasov)
+https://live.superfm.ro/stream.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://radio.org.ro/#kiss-fm" tvg-name="Stefan tv"  group-title="Generale",Radio Manele
+https://dedicat.fmradiomanele.ro/8054/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="Stefan tv" tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ro/fm-manele.png" tvg-name="Stefan tv"  group-title="Generale",FM Radio Manele
+https://dedicat.fmradiomanele.ro/
