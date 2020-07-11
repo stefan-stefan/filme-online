@@ -12,9 +12,4 @@
     <thumbnail>https://images.squarespace-cdn.com/content/v1/5720cc52356fb0ae213f6106/1529489306397-QRSAIIBON1CE4KDSAU31/ke17ZwdGBToddI8pDm48kIkVnxtuc4P_gH4a8pHopKwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dvsyj_Qo-M3sqN9EBxNcEXNXb2WEKM9EfgzDT0LxIUa1MW9u6oXQZQicHHG1WEE6fg/IO+Radio.jpg</thumbnail>
     <fanart>https://static.vibe.com/files/old-school-radio-image.jpg</fanart>
 </plugin>
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]Radio Romania Live [/COLOR] [COLOR blue][/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/RADIO-CLICK.m3u</link>
-    <thumbnail>https://stvron.com/radio/radio-romania-online.png</thumbnail>
-    <fanart>https://stvron.com/radio/radio-romania-online.pngg</fanart>
-</plugin>
+
