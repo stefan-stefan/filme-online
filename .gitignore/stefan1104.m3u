@@ -59,7 +59,12 @@
     <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
 </plugin>
 
-
+<plugin>
+    <title>[COLOR FFff8000][B]»»»Canalele Tv Bein Sports[/COLOR] [COLOR blue]»»»(TEST)»»»[/B][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://textbin.net/raw/XndYn2sHjx</link>
+    <thumbnail>https://media.cdnandroid.com/item_images/22929/imagen-redbox-imagen-0big.jpg</thumbnail>
+    <fanart>https://e6vobk.webwave.me/lib/e6vobk/wwwwwww-kbbe0v5o.jpg</fanart>
+</plugin>
 
 <plugin>
     <title>[COLOR FFff8000][B]»»»CLICK LISTA-TV[/COLOR] [COLOR blue]»»»(Lista Mixta!)»»»[/B][/COLOR]</title>
