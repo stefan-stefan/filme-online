@@ -1,100 +1,265 @@
-#EXTINF:-1,====== ROUMANIE ======
-http://123orca.com:25461/ahmeddaoud/147852369/11225
-#EXTINF:0,DIGI 24(test)
-http://cdn.ch01.spr24.net:81/22919/mpegts?token=hiVi8EHiq86NZA
-#EXTINF:-1,TVR 1
-http://123orca.com:25461/ahmeddaoud/147852369/11181
-#EXTINF:-1,TVR 2
-http://123orca.com:25461/ahmeddaoud/147852369/11180
-#EXTINF:-1,TVR 3
-http://123orca.com:25461/ahmeddaoud/147852369/11179
-#EXTINF:-1,Viasat History.
-http://123orca.com:25461/ahmeddaoud/147852369/11178
-#EXTINF:-1,Viasat Nature
-http://123orca.com:25461/ahmeddaoud/147852369/11177
-#EXTINF:-1,TV 1000
-http://123orca.com:25461/ahmeddaoud/147852369/11182
-#EXTINF:-1,AXN Black
-http://123orca.com:25461/ahmeddaoud/147852369/11219
-#EXTINF:-1,AXN White.
-http://123orca.com:25461/ahmeddaoud/147852369/11218
-#EXTINF:-1,AXN.
-http://123orca.com:25461/ahmeddaoud/147852369/11220
-#EXTINF:-1,Acasa TV
-http://123orca.com:25461/ahmeddaoud/147852369/11224
-#EXTINF:-1,B1
-http://123orca.com:25461/ahmeddaoud/147852369/11217
-#EXTINF:-1,Antena Stars
-http://123orca.com:25461/ahmeddaoud/147852369/11221
-#EXTINF:-1,Antena 1
-http://123orca.com:25461/ahmeddaoud/147852369/11223
-#EXTINF:-1,Antena 3.
-http://123orca.com:25461/ahmeddaoud/147852369/11222
-#EXTINF:-1,HBO 1 HD
-http://123orca.com:25461/ahmeddaoud/147852369/11200
-#EXTINF:-1,HBO 2 HD
-http://123orca.com:25461/ahmeddaoud/147852369/11199
-#EXTINF:-1,HBO 3 HD
-http://123orca.com:25461/ahmeddaoud/147852369/11198
-#EXTINF:-1,Kanal D.
-http://123orca.com:25461/ahmeddaoud/147852369/11196
-#EXTINF:-1,KISS TV
-http://123orca.com:25461/ahmeddaoud/147852369/11195
-#EXTINF:-1,Look Plus
-http://123orca.com:25461/ahmeddaoud/147852369/11194
-#EXTINF:-1,Look tv
-http://123orca.com:25461/ahmeddaoud/147852369/11193
-#EXTINF:-1,Pro Cinema
-http://123orca.com:25461/ahmeddaoud/147852369/11186
-#EXTINF:-1,Pro TV
-http://123orca.com:25461/ahmeddaoud/147852369/11187
-#EXTINF:-1,Realitatea Tv
-http://123orca.com:25461/ahmeddaoud/147852369/11185
-#EXTINF:-1,Romania TV
-http://123orca.com:25461/ahmeddaoud/147852369/11184
-#EXTINF:-1,Cinemax 2
-http://123orca.com:25461/ahmeddaoud/147852369/11215
-#EXTINF:-1,Etno Tv
-http://123orca.com:25461/ahmeddaoud/147852369/11204
-#EXTINF:-1,Digi 24
-http://123orca.com:25461/ahmeddaoud/147852369/11214
-#EXTINF:-1,Digi Life
-http://123orca.com:25461/ahmeddaoud/147852369/11211
-#EXTINF:-1,Digi Film
-http://123orca.com:25461/ahmeddaoud/147852369/11212
-#EXTINF:-1,Digi World
-http://123orca.com:25461/ahmeddaoud/147852369/11206
-#EXTINF:-1,Digi Animal World
-http://123orca.com:25461/ahmeddaoud/147852369/11213
-#EXTINF:-1,Digi Sport 1
-http://123orca.com:25461/ahmeddaoud/147852369/11210
-#EXTINF:-1,Digi Sport 2
-http://123orca.com:25461/ahmeddaoud/147852369/11209
-#EXTINF:-1,Digi Sport 3
-http://123orca.com:25461/ahmeddaoud/147852369/11208
-#EXTINF:-1,Digi Sport 4
-http://123orca.com:25461/ahmeddaoud/147852369/11207
-#EXTINF:-1,Megamax
-http://123orca.com:25461/ahmeddaoud/147852369/11192
-#EXTINF:-1,Minimax
-http://123orca.com:25461/ahmeddaoud/147852369/11191
-#EXTINF:-1,Boomerang..
-http://123orca.com:25461/ahmeddaoud/147852369/11190
-#EXTINF:-1,Cartoon Network
-http://123orca.com:25461/ahmeddaoud/147852369/11216
-#EXTINF:-1,Disney_ Junior
-http://123orca.com:25461/ahmeddaoud/147852369/11205
-#EXTINF:-1,Nickelodeon
-http://123orca.com:25461/ahmeddaoud/147852369/11188
-#EXTINF:-1,Happy Channel
-http://123orca.com:25461/ahmeddaoud/147852369/11201
-#EXTINF:-1,History. Channel
-http://123orca.com:25461/ahmeddaoud/147852369/11197
-#EXTINF:-1,National. Geographic
-http://123orca.com:25461/ahmeddaoud/147852369/11189
-#EXTINF:-1,Sport.ro
-http://123orca.com:25461/ahmeddaoud/147852369/11183
-#EXTINF:-1,Eurosport
-http://123orca.com:25461/ahmeddaoud/147852369/11203
-#EXTINF:-1,Eurosport. 2
-http://123orca.com:25461/ahmeddaoud/147852369/11202
+#EXTM3U
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://e6vobk.webwave.me/lib/e6vobk/icon-kbzdcipk.png" group-title="",[COLOR FFff8000][B]******INSTALATI ACESTREAM!******[/B][/COLOR]
+http://123.
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://e6vobk.webwave.me/lib/e6vobk/icon-kbzdcipk.png" group-title="",[COLOR FFff8000][B]******LANSATI ACESTREAM-ENGINE!****[/B][/COLOR]
+http://455.
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" group-title="",Antena 1
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=04f6f08e0fefcee081fdc9a4c98cef797659b9bf
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" group-title="",Antena 1
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=03d0693c535bc1a6887426174151e5ab32806bbf
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" group-title="",Antena 1
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=80c835103d593f97421b3da6ea5e7a682a2511ad
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://stvron.com/canale/512/comedy-play.png" group-title="",Antena Comedy
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=de2f6aea5eeeef6d620f9810fd2b47b87587b3af
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://s.evz.ro/imgserv/420x0/smart/filters:contrast(5):quality(65):format(jpeg)/evz.ro/wp-content/uploads/2020/05/antena-3.png" group-title="",Antena 3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5234833b4a354599135f7e6f7e5dbb4d30b8e34c
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://s.evz.ro/imgserv/420x0/smart/filters:contrast(5):quality(65):format(jpeg)/evz.ro/wp-content/uploads/2020/05/antena-3.png" group-title="",Antena 3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=259765059485cbaba1d2218d7521672bf29c9a51
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://s.evz.ro/imgserv/420x0/smart/filters:contrast(5):quality(65):format(jpeg)/evz.ro/wp-content/uploads/2020/05/antena-3.png" group-title="",Antena 3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d609a062f2e18ed416737c86c43cc0f62decde0b
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.capital.ro/wp-content/uploads/2019/12/Screen-Shot-2019-12-13-at-08.58.03.png" group-title="",Mireasa pentru Fiul Meu
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ec4f7fc16438b9bed63ce26b4d5a3991bcc343b4
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.capital.ro/wp-content/uploads/2019/12/Screen-Shot-2019-12-13-at-08.58.03.png" group-title="",Mireasa pentru Fiul Meu
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=03d0c0b0dadc5ccc88d9ad6853059a19379e34a9
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.impact.ro/wp-content/uploads/2020/04/antena-stars-1280x720.jpg" group-title="",Antena Stars
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f80f7eba001fbb6ccb3317313f93bcfbc9c9c499
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.impact.ro/wp-content/uploads/2020/04/antena-stars-1280x720.jpg" group-title="",Antena Stars
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=27f2197aa56bd83c32dff255c7e6ea1c6cb28926
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.impact.ro/wp-content/uploads/2020/04/antena-stars-1280x720.jpg" group-title="",Antena Stars
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c0df100ca9d4f3c5995832a29c68edbca4aa92f3
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.seekpng.com/png/full/243-2431641_amc-logo-png-download-all-time-low-band.png" group-title="",AMC RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cc6e127ef4f3bfe3479f936b87558444b62550c6
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.seekpng.com/png/full/243-2431641_amc-logo-png-download-all-time-low-band.png" group-title="",AMC RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cc6e127ef4f3bfe3479f936b87558444b62550c6
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.seekpng.com/png/full/243-2431641_amc-logo-png-download-all-time-low-band.png" group-title="",AMC RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2da10dcb914258b9e42ce0d7c9f0a4d5c0e22514
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://icons.iconarchive.com/icons/wackypixel/tv-buttons-2/256/Animal-Planet-icon.png" group-title="",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=80a39416b67fa8461a2c70e916909aaffb8cd15f
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://icons.iconarchive.com/icons/wackypixel/tv-buttons-2/256/Animal-Planet-icon.png" group-title="",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=8a40f60a5279c2880d95014b82aff5d070a1b7ba
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/AXN%20HD.png" group-title="",AXN RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=960a2f2ac8d68ad42b4c889c8474e1c2181d8f96
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/AXN%20HD.png" group-title="",AXN RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7c4fbc2e6803d8b621373c5f8a083e5ae26453f5
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg" group-title="",AXN BLACK RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=90cccff239e20e38591b8c585739d98c9bf00bb6
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://1.bp.blogspot.com/-4L4rQaMB4q8/UeAze7wzn6I/AAAAAAAAVqE/6m6IOoLfObU/s1600/axn+black+Romania.jpg" group-title="",AXN BLACK RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=90cccff239e20e38591b8c585739d98c9bf00bb6
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/AXN%20Spin.png" group-title="",AXN SPIN RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a3c4cbb7a7d1629c9dbc2c83ebaba5641c3c99c1
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/AXN%20Spin.png" group-title="",AXN SPIN RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a3c4cbb7a7d1629c9dbc2c83ebaba5641c3c99c1
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="",AXN WHITE RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f29db6f3f2ea2649d26e85ecceeb91ee538b6e28
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17377063.548c5db4c2943.jpg" group-title="",AXN WHITE RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f29db6f3f2ea2649d26e85ecceeb91ee538b6e28
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://revista22.ro/files/news/manset/default/inhatare-gotiu.PNG" group-title="",B1 TV RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=34f4039f44a9fb282dd4689b99e6921dcd98dca6
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://revista22.ro/files/news/manset/default/inhatare-gotiu.PNG" group-title="",B1 TV RO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=050ac6034909f4d96913082aecbbe520b5336e3a
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://img2.pngio.com/bbc-news-png-4-png-image-bbc-news-png-1935_1428.png" group-title="",BBC
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d8ad9b1d966de683c47c7daac8cd85d60c0fd1db
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://3.bp.blogspot.com/-hVF9oH8j3g8/TxW60fLyv2I/AAAAAAAAE_Q/cZWQsbcdI4I/s1600/Bollywood%2BTv%2BRomania.jpg" group-title="",BOOLYWOOD TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=21ba23d7ec08860d8ef3177359e2c17377983d13
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://www.macxdvd.com/mac-dvd-video-converter-how-to/article-image/bbmoy-zh-062701.png" group-title="",BOOLYWOOD CLASIC
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5b664cfb038c37fc234550c6dcf06efc13b5a850
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://www.pinpng.com/pngs/m/471-4711428_boomerang-png-png-download-boomerang-transparent-png.png" group-title="",BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a8041c584432d015275fd975a772a69b047dbfb3
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://www.pinpng.com/pngs/m/471-4711428_boomerang-png-png-download-boomerang-transparent-png.png" group-title="",BOOMERANG
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4150ccef1b5606d8388ced1d18c0d8a55d755433
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://specialarad.ro/wp-content/uploads/2014/08/cartoon_network_by_mikiel2171-d5eo3uz.png" group-title="",CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=4d9ce52fca8ce6e42a7a247baedf2e7c9b9a016f
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://www.cbsreality.tv/uk/content/wp-content/uploads/2017/07/CBS-Reality-logo-square.jpg" group-title="",CBS REALYTY
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=fa9af1e351abbe7b31e2ca4ff63cea15199f54b0
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://www.cbsreality.tv/uk/content/wp-content/uploads/2017/07/CBS-Reality-logo-square.jpg" group-title="",CBS REALYTY
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=34a88308227e4085bcf0104a498f28e181770727
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="",CINEMAX
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=8584e54cad13b9310b7a1f59a482eb1ce0a413a7
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cinemax.png" group-title="",CINEMAX
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=225a84f7b62ef0c9a5225afa6eac205f76d0b427
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Cinemax%202.png" group-title="",CINEMAX 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=29eef27f093f53a745a4ac4c91e3222a713992e1
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://epg.serbianforum.org/logo_znaci_2/Cinemax%202.png" group-title="",CINEMAX 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c3ede4f21525482a4117f0d6b877700d343c7c7c
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://www.kindpng.com/picc/m/493-4936418_original-comedy-central-logo-hd-png-download.png" group-title="",COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a093d2b951d6c6e91e050bc08126c077ebaded8f
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://images2.imgbox.com/3e/58/oDGK3b78_o.png" group-title="",DIGI SPORT 1
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://82.77.146.3:8082/play/a02d
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://images2.imgbox.com/71/95/2ZFRDCEX_o.png" group-title="",DIGI SPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://82.77.146.3:8082/play/a04a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://julianlennon.com/wp-content/uploads/2019/03/dc47f97388f9d53558c127321a6caf3a-discovery-channel-logo-s.jpg" group-title="",DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=cdc7c93cb1458692ac69a2fbd8323c9ee4afd6c7
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="Stefan Tv" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/dc/71/ca/dc71ca53bfd29a673035c48ad0ac8d77.jpg" group-title="",DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5a959a7dc13f39e4c5a82f1b7d1eb8ccf7a46b9d
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.nicepng.com/png/detail/536-5366696_disney-channel-logo-with-new-characters-disney-channel.png" group-title="",DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d0f137a4723a72a33ea2253c3adfe8de51bfb978
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/23/47/d9/2347d90cd8eef3bfec436a5a459f7103.png" group-title="",DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6bce6769fde0c3dd1badfb9b0f986ad9bf0a12cb
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2013/10/01/thumbnails/Discovery_Turbo_Xtra_LogoPNG.jpg" group-title="",DTX
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=013b119abf03924da6779b9c85d5e20351ee28f2
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.media-max.ro/wp-content/uploads/2019/11/Mega-Max-Media-s.r.o.-va-lansa-Duck-TV-Plus.jpeg" group-title="",DUCK TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2a81c0a1af15f9ae49263902b1ef0a054479bab3
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.hqtv.biz/tv/logos/m/docubox-hd.png" group-title="",DUCUBOX TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f39a0a81e0040b15457ca0805372e965085ac28f
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.hqtv.biz/tv/logos/m/docubox-hd.png" group-title="",DUCUBOX TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=85ebda5f1d89e8e8d92c02fd80bf56045e1e6ced
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.ziarbicaz.ro/wp-content/uploads/2018/07/etno.png" group-title="",ETNO TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d4ef24bcab1ea9de20f701f60d6f9ba00583f6db
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://valeriaarnautu.files.wordpress.com/2012/02/promo-favotrit-tv.jpg" group-title="",FAVORIT TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=11f263ffbab0d110a639eb1fd141370dbf7515d7
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.freetrials.co.uk/wp-content/uploads/2018/08/FilmBoxLive.png" group-title="",FILM BOX
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=8c808d2a8edb844bef79c9b26c1936523244d448
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.freetrials.co.uk/wp-content/uploads/2018/08/FilmBoxLive.png" group-title="",FILM BOX
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=854572ce6fa376cbd9d19aaf465b4ca11fa961dd
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://advertising4u.ro/x33ptl57/wp-content/uploads/2013/02/03859-logo-film-cafe.png" group-title="",FILM CAFE
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=520e55bb14f2bae3bf3005e1098601e8f89cb132
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://advertising4u.ro/x33ptl57/wp-content/uploads/2013/02/03859-logo-film-cafe.png" group-title="",FILM CAFE
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=71fcd3086d7f8b426c1f3ca568e84dfeb38e2de1
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/09/fine-living-on-starsat.jpg" group-title="",FINE LIVING
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c2602cd1254592c8b4f7d23c389b6bccdbca27a5
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.vhv.rs/dpng/d/126-1261073_food-network-hd-png-download.png" group-title="",FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3c5c047e365be93efadc2715fb2bdc0facbb482c
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://tvmania.ro/wp-content/uploads/2020/02/happy-channel-1280x720.png" group-title="",HAPPY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=56202b3903b747d90741b08929be53b0b4de58c8
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://tvmania.ro/wp-content/uploads/2020/02/happy-channel-1280x720.png" group-title="",HAPPY CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=26c6ff732cf764ab43f0f40421d6b8d80dd90ea9
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.ytimg.com/vi/qYyrx1fGFGo/hqdefault.jpg" group-title="",HBO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=72d7dc4b5eb02a7563347244abe32dc57d127a43
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.ytimg.com/vi/qYyrx1fGFGo/hqdefault.jpg" group-title="",HBO
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=be75f2a89469642f16398524d1783bfeb5da5b12
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.vimeocdn.com/video/128361224_640.jpg" group-title="",HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=71dd383a7d79cdf89ace110c19c6e2c7706e2e9a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.vimeocdn.com/video/128361224_640.jpg" group-title="",HBO 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=aeabfc7e6b83fae685e3f1fdf05d2747894ccd70
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.kindpng.com/picc/m/34-340438_hbo3-gradient-hbo-3-tv-logo-hd-png.png" group-title="",HBO3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=d59a1fa955bcc8d1c6018ae1a5fec5c375cf6b15
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.kindpng.com/picc/m/34-340438_hbo3-gradient-hbo-3-tv-logo-hd-png.png" group-title="",HBO3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e82edf8cd744da99bf2e19105d576f98bbffd665
+
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="",HISTORY
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7eab20ed5bd4759fc5c60f8f3d387b8635772a95
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://3.bp.blogspot.com/-jfjENRclYfk/UgihRfrQ6NI/AAAAAAAAWLA/bqyOtl-1hh0/s1600/hora+tv+logo.jpg" group-title="",HORA TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3d38918eaec427038f179fa749298dd0b241fb9d
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://no.kingofsat.net/jpg/id-polska.jpg" group-title="",INV DISCOVERY
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc847821d3f7c1a8ae19668aec5e01967e23e28
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266578_crime-hd-1.jpg" group-title="",Crime & Investigation
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e29abe1f7b9f4db6d8eab38e8b3563e9540aaaec
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266578_crime-hd-1.jpg" group-title="",Crime & Investigation
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=aab7fbef6b7bdc8fc593858e9ce186e1bd83f37c
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.ytimg.com/vi/aYZ79Jf-PNE/hqdefault.jpg" group-title="",JIM JAM
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=576a1f1789c8033c2d304796e1fb0a55173eab72
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://images.capital.ro/wp-content/uploads/2020/01/kanald_ro_42278300.png" group-title="",KANAL D
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=39860c76641b0bf57f3a66e17419bae1cc65ffaa
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://images.capital.ro/wp-content/uploads/2020/01/kanald_ro_42278300.png" group-title="",KANAL D
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a9851aea4a78a85b72b33bbd2635b179d7425043
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://images.capital.ro/wp-content/uploads/2020/01/kanald_ro_42278300.png" group-title="",KANAL D
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3db8fd1388255b0911b01c8bc87a9e0cc4ea8fd0
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://1.bp.blogspot.com/-jWCeevBO6Rc/WTXaiSe7MGI/AAAAAAAACCQ/8cBCJKM-ZmEGdkPs6gvqs3cVSewvQsTJgCLcB/s280/FInnCG8.png" group-title="",KISS TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2e75721c71458630cf77df3e779b708d0169ec51
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://clever-media.ro/wp-content/uploads/2018/10/plus-int1.jpg" group-title="",LOOK PLUS
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=21fb811dfef6755e9fc1488bff7463fe0f5f14e4
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://clever-media.ro/wp-content/uploads/2018/10/plus-int1.jpg" group-title="",LOOK PLUS
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f4c5e6164bd92d3cdf8e005dee94cd42b9a74442
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.paginademedia.ro/wp-content/uploads/2013/06/stream_indisponibil_0_tb730.jpg" group-title="",LOOK SPORT
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=26938a97d66d74cc09ac972723485b3e9de5257d
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.ewsat.com/img/MINIMAX.png" group-title="",MINIMAX
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=00137cf2cc16d1a7588c87567439d625f3478475
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://flyingcursor.com/wp-content/uploads/2014/10/Nat-geo-Wild.png" group-title="",NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6ffc5e411cb3054daa816592b28c1dff542848d8
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://pbs.twimg.com/profile_images/484326679397949440/PVw5xya8.jpeg" group-title="",NATIONAL GEORAPHIC
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=f83d60f3424235907660581d5b46c9241210931a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://ewsat.com/img/NATIONAL.png" group-title="",NATIONAL TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=3071564c2d9637337e12c458d667af1f0c717477
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://ewsat.com/img/NATIONAL.png" group-title="",NATIONAL TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=88fb3268097b76539ffb4f283b155a1ee5c993c6
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.pngitem.com/pimgs/m/170-1703735_transparent-partner-clipart-nickelodeon-png-png-download.png" group-title="",NICKELODEON
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=02d49e725b31697c6fd8e278c9457968537f78f7
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://media.ticketmaster.com/en-us/dam/a/4c9/0497b19d-e83c-4390-bfc5-3282e43944c9_986641_TABLET_LANDSCAPE_LARGE_16_9.jpg" group-title="",NICK JUNIOR
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=9306bbd0ac027af6e8c55bb8891970eaf8850b1d
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://mediastiriv1.freenode.ro/image/201408/w800/Paramount-Channel.png" group-title="",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a17551d216736d6f44d5af5101c06f1e0ca868d2
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://mediastiriv1.freenode.ro/image/201408/w800/Paramount-Channel.png" group-title="",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2014ffb126f9034e680f331cf4d1ea9a37366a23
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.mayagraphics.ro/wp-content/uploads/2009/08/idpicatura.jpg" group-title="",PRIMA TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=16d03b8959b5cfb2ea17764ab81c807765cc7bf8
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.mayagraphics.ro/wp-content/uploads/2009/08/idpicatura.jpg" group-title="",PRIMA TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ec9af70a0d1b9765824a4d3c20a5d9fffba7540b
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg" group-title="",PRO CINEMA
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=1b1f62e9f42a66aa30e4177e81f55e17596431da
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.ziuaconstanta.ro/images/stories/2010/04/online/procinema.jpg" group-title="",PRO CINEMA
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c098b52389d137482e6fcdfd18a78f726f1952e3
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg" group-title="",PRO GOLD
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=ee0061d19e4b04fb92a1fcee31db143a0e985913
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://cloudia.cms.protvplus.ro/rx/6db3baed-221e-46fb-a924-559db9ee2a35.jpg" group-title="",PRO GOLD
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=7a4473e3d09af7a9c764b50700db785da21f2ebc
+
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://cdn.fanatik.ro/wp-content/thumbnails/ZDAEoLTMBOZy117oiPMilGMTgh4=/500x262/smart/filters:contrast(5):quality(90):format(png)/wp-content/uploads/2020/06/pro-tv.png" group-title="",PRO TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=c850cbbf8e1aef28c5aa746897d61258d22babe1
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_Pro_X_HD_%282017%29.svg/1200px-Logo_Pro_X_HD_%282017%29.svg.png" group-title="",PRO X
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5fbbe41ef4990e5feea5ffdffa0c2d2c3448ad7a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://mediastiriv1.freenode.ro/image/201604/w295h180/media-146123867426268800.jpg" group-title="",REALITATEA PLUS
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2a2a59bd7797e966f0eb3a16b66bbb42d6d8d788
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://media.rtv.net/image/201603/full/romaniatv_tv_54227300.png" group-title="",ROMANIA TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=2df08c715ec2a7d6cf1458b4eee974525ebcd9fb
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.pinimg.com/originals/c7/12/de/c712deed47a238acc054fdecf5591377.png" group-title="",TELEKOM SPORT 1
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=06e971a58e8dbf1f594d492d016273d32990870a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_Telekom_Sport_2_%282017%29.svg/1280px-Logo_Telekom_Sport_2_%282017%29.svg.png" group-title="",TELEKOM SPORT 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=b6e857dbc4a7d877527fa3e107c29881765030fe
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_Telekom_Sport_3_%282017%29.svg/1280px-Logo_Telekom_Sport_3_%282017%29.svg.png" group-title="",TELEKOM SPORT 3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=715060413f62136f3de71647b830243d6ec0e45c
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.dlpng.com/static/png/6546424_preview.png" group-title="",TLC
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=abc439f405530fb7dee668d5f1b9c4b2fced909c
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://sc02.alicdn.com/kf/HTB1NEzhsQSWBuNjSszdq6zeSpXaI.jpg" group-title="",TNT
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=e05593f348c85f94d22cc080c42d9fce66081933
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.nicepng.com/png/full/335-3357576_watch-travel-channel-travel-channel-logo-2018.png" group-title="",TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=5ea4a96972349528fceb1c3306e4971b44e0a837
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7faff92832917.560186c30402b.png" group-title="",TV1000
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a46b50b19ccb8295c4249c8989429f8167d1860a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://cmedia.romaniatv.net/image/201204/full/tvpaprika_85379300.jpg" group-title="",TV PAPRIKA
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=caf1b0ad6f33833287287c25459c6cfab4b5f421
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://m.tvrmoldova.md/img/pages/2018/6/29/tvr-1-a-fost-lider-de-audienta-cu-majoritatea-partidelor-transmise-in-primele-15-zile-ale-cupei-mondiale-1530278918/big-tvr-1-a-fost-lider-de-audienta-cu-majoritatea-partidelor-transmise-in-primele-15-zile-ale-cupei-mondiale-1530278918.png" group-title="",TVR 1
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=94242b5d7c3ea11151426f039a8fbb4a21edc034
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://www.cancan.ro/wp-content/uploads/2019/12/tvr2.jpg" group-title="",TVR 2
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=6162b6c4f47b7c9ae13563382a4ec1efd1916e45
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://c7.uihere.com/files/873/612/918/targu-mure%C8%99-tvr3-romanian-television-tvr-cultural-tvr1-tvr3-thumb.jpg" group-title="",TVR 3
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=bc4ed6ffe5b82d6f927a4b410f15d9afac0c8b5a
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lmbTEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDE4JTJGMDcl/MkYxNyUyRjk0MDExMV85NDAxMTFfVW50/aXRsZWQucG5nJnc9NzgwJmg9NTMwJmhh/c2g9ODkwNTA2NmI5ODhhMTE3OGIzNGViYmQ3MjNmMjE4M2U=.thumb.jpg" group-title="",UTV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=45fa51cdde2bd37f55206a9a3814afc421e76fe8
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.ytimg.com/vi/W67lD2TnY90/hqdefault.jpg" group-title="",VISAT HISTORY
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=428306b01ec262d0ba1de65c526b020abd3e612e
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.ytimg.com/vi/DEFlRozICm0/hqdefault.jpg" group-title="",VISAT NATURE
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=42170b7593edadc1a9e240ac3e6484171b81dc80
+#EXTINF:-1 tvg-id="Stefan Tv" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bdf9a516799865.562b17be4aa03.png" group-title="",ZU TV
+plugin://plugin.video.f4mTester/?name=[COLOR FFff8000][B]Stefan Movies and TV Playground[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1:6878/ace/getstream?id=a2e5a7f27eb94b266cfb0e89625158c112cde4f4
+
