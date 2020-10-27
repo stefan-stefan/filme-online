@@ -8,12 +8,7 @@
     <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
     <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
 </plugin>
-<plugin>
-    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]AFGANISTAN[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/af.m3u</link>
-    <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
-    <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
-</plugin>
+
 <plugin>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ALBANIA[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/al.m3u</link>
@@ -88,12 +83,12 @@
     <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
     <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
 </plugin>
-<plugin>
+<item>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BRAZIL[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/br.m3u</link>
-    <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
-    <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
-</plugin>
+    <thumbnail>https://cdn.pixabay.com/photo/2017/12/06/11/03/brazil-3001462_960_720.png</thumbnail>
+    <fanart>https://cdn.pixabay.com/photo/2017/12/06/11/03/brazil-3001462_960_720.png</fanart>
+</item>
 <plugin>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BRUNIE[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/bn.m3u</link>
