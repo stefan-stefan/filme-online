@@ -1,13 +1,8 @@
-<dir>
+<item>
 <title>FRANTA(1)</title>
 <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/franta%20de%20baza.m3u</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
-</dir>
+</item>
 
-<plugin>
-<title>FRANTA 2</title>
-<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/franta%20tv%20baza.m3u</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png</fanart>
-</plugin>
+
