@@ -5,18 +5,18 @@
 <fanart>https://p1.hiclipart.com/preview/447/367/611/romania-text-logo-romanian-language-flight-computer-romanians-line-area-png-clipart-thumbnail.jpg</fanart>
 </dir>
 
-<item>
+<dir>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]UNITED STATES[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/us.m3u</link>
     <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
     <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
-</item>
-<item>
+</dir>
+<dir>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]AFGANISTAN[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/af.m3u</link>
     <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
     <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
-</item>
+</dir>
 <plugin>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ALBANIA[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/al.m3u</link>
