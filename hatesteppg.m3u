@@ -2,12 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
 
-<plugin>
+<item>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/cstoicescu/iptv-free-tv/master/playlist.m3u</link>
-    <thumbnail>https://png.pngtree.com/png-clipart/20191121/original/pngtree-romania-flag-set-vector-official-romania-flag-flat-symbol-different-shapes-png-image_5141752.jpg</thumbnail>
-    <fanart>https://png.pngtree.com/png-clipart/20191121/original/pngtree-romania-flag-set-vector-official-romania-flag-flat-symbol-different-shapes-png-image_5141752.jpg</fanart>
-</plugin>
+    <link>https://raw.githubusercontent.com/cstoicescu/iptv-free-tv/master/playlist.m3u</link>
+    <thumbnail>https://cdn.countryflags.com/thumbs/chad/flag-button-round-250.png</thumbnail>
+    <fanart>https://cdn.countryflags.com/thumbs/chad/flag-button-round-250.png</fanart>
+</item>
 
 <plugin>
     <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
