@@ -8,26 +8,6 @@
 </plugin>
 
 
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV[/COLOR] [COLOR blue]PORTUGAL(2)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/pt.m3u</link>
-    <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
-    <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]PORTUGAL (3)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://pastebin.com/raw/Gg3fvRWA</link>
-    <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
-    <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
-</plugin>
-
-<plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-[/COLOR] [COLOR blue]PORTUGAL (4)(NOU)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://tvo.scienceontheweb.net/porto.m3u</link>
-    <thumbnail>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</thumbnail>
-    <fanart>https://ak4.picdn.net/shutterstock/videos/2598164/thumb/10.jpg</fanart>
-</plugin>
 
 
 
