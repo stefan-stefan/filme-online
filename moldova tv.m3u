@@ -1,6 +1,15 @@
+
+
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]TV[/COLOR] [COLOR blue]MOLDOVA[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/md.m3u</link>
-    <thumbnail>https://cdn.imgbin.com/19/19/9/imgbin-flag-of-moldova-flag-of-cuba-national-flag-grunge-effect-K3WkZVALsexJgfBa6V0W0tsLv.jpg</thumbnail>
-    <fanart>https://cdn.imgbin.com/19/19/9/imgbin-flag-of-moldova-flag-of-cuba-national-flag-grunge-effect-K3WkZVALsexJgfBa6V0W0tsLv.jpg</fanart>
+<title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]ROMANIA LISTA TV[/COLOR][/B] [COLOR blue][/COLOR]</title>
+<link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%202.m3u</link>
+<thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</thumbnail>
+<fanart>https://cdn.pixabay.com/photo/2012/04/11/15/17/hungary-28446_960_720.png</fanart>
+</plugin>
+
+<plugin>
+    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]ROMANIA LOCAL[/COLOR][/B] [COLOR blue][/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/hu.m3u</link>
+    <thumbnail>https://www.planetariomovil.com.ar/paises/flags/hungary.png</thumbnail>
+    <fanart>https://www.planetariomovil.com.ar/paises/flags/hungary.png</fanart>
 </plugin>
