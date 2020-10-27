@@ -67,9 +67,9 @@
 
 <plugin>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BELGIUM[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/be.m3u</link>
-    <thumbnail>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</thumbnail>
-    <fanart>https://i.pinimg.com/originals/93/4d/5c/934d5c0cfdc44ef1fae0366e3cca588f.png</fanart>
+    <link>https://iptv-org.github.io/iptv/countries/be.m3u</link>
+    <thumbnail>https://assets.stickpng.com/images/580b585b2edbce24c47b27e3.png</thumbnail>
+    <fanart>https://assets.stickpng.com/images/580b585b2edbce24c47b27e3.png</fanart>
 </plugin>
 <plugin>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BOLIVIA[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
@@ -85,7 +85,7 @@
 </plugin>
 <item>
     <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BRAZIL[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/br.m3u</link>
+    <link>https://iptv-org.github.io/iptv/countries/br.m3u</link>
     <thumbnail>https://cdn.pixabay.com/photo/2017/12/06/11/03/brazil-3001462_960_720.png</thumbnail>
     <fanart>https://cdn.pixabay.com/photo/2017/12/06/11/03/brazil-3001462_960_720.png</fanart>
 </item>
