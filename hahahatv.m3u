@@ -1,12 +1,6 @@
-<item>
-<title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]ROMANIA LISTA TV[/COLOR][/B] [COLOR blue][/COLOR]</title>
-<link>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ro.m3u</link>
-<thumbnail>https://cdn.countryflags.com/thumbs/romania/flag-heart-3d-250.png</thumbnail>
-<fanart>https://cdn.countryflags.com/thumbs/romania/flag-heart-3d-250.png</fanart>
-</item>
-<item>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue][/COLOR] [COLOR blue]ROMANIA LOCAL[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/languages/ron.m3u</link>
-    <thumbnail>https://cdn.countryflags.com/thumbs/romania/flag-heart-3d-250.png</thumbnail>
-    <fanart>https://cdn.countryflags.com/thumbs/romania/flag-heart-3d-250.png</fanart>
-</item>
+<plugin>
+    <title>[COLOR orchid][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]ROMANIA[/COLOR][/B] [COLOR orchid][/COLOR]</title>
+    <link>https://raw.githubusercontent.com/cstoicescu/iptv-free-tv/master/playlist.m3u</link>
+    <thumbnail>https://png.pngtree.com/png-clipart/20191121/original/pngtree-romania-flag-set-vector-official-romania-flag-flat-symbol-different-shapes-png-image_5141752.jpg</thumbnail>
+    <fanart>https://png.pngtree.com/png-clipart/20191121/original/pngtree-romania-flag-set-vector-official-romania-flag-flat-symbol-different-shapes-png-image_5141752.jpg</fanart>
+</plugin>
