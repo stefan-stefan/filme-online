@@ -1,10 +1,4 @@
 <plugin>
-    <title>[COLOR blue][/COLOR] [B][COLOR blue]TV[/COLOR] [COLOR blue]GERMANIA (1)[/COLOR][/B] [COLOR blue][/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/dc153a9ddad4c01f0c254fa54f8ae48c89efd72b/iptv/kodi/kodi.m3u</link>
-    <thumbnail>https://img2.goodfon.com/wallpaper/nbig/a/2c/germaniya-flag-germany-flag.jpg</thumbnail>
-    <fanart>https://img2.goodfon.com/wallpaper/nbig/a/2c/germaniya-flag-germany-flag.jpg</fanart>
-</plugin>
-<plugin>
     <title>[COLOR blue][/COLOR] [B][COLOR blue]IPTV-LOCAL-[/COLOR] [COLOR blue]GERMANY[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/countries/de.m3u</link>
     <thumbnail>https://www.transparentpng.com/thumb/germany-logo-png/e60Hnd-germany-logo-cut-out-png.png</thumbnail>
