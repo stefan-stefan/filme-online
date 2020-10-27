@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:0,★★★★ROMANIA-FREE★★★★
+#EXTVLCOPT:network-caching=1000
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0,●●●●RO LIST ●●●●
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/musicchannelehq.stream/index.m3u8?is=25&src=app&t=00000000000000000000000000000000
+#EXTINF:0,A7 TV
+#EXTVLCOPT:network-caching=1000
+http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:0,ACCENT (MD)   
+#EXTVLCOPT:network-caching=1000
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:0,ADEVARUL Live 
+#EXTVLCOPT:network-caching=1000
+https://1047.cdn.easyhost.com/origin02.easyhost.com/adevarul-live-11102018-1315-8_5bbf222cdf52022f756717a4.isml/adevarul-live-11102018-1315-8_5bbf222cdf52022f756717a4.m3u8?st=E2g3_3BVEY9hAfsrPXYhhg&e=1539344337
+#EXTINF:0,Agro TV (MD)
+#EXTVLCOPT:network-caching=1000
+https://web.sats.gstv.tech/cpl11/66a1982e-c2cd-40b2-a842-60fd00c12025/agrotvweb.m3u8
+#EXTINF:0,ALEPH NEWS 
+#EXTVLCOPT:network-caching=1000
+http://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/chunklist_b3098304.m3u8
+#EXTINF:0,Alfa Omega TV
+#EXTVLCOPT:network-caching=1000
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:0,ANTENA PLAY COMEDY
+#EXTVLCOPT:network-caching=1000
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8
+#EXTINF:0,ARCADIA WORLD 
+#EXTVLCOPT:network-caching=1000
+http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:0,AXN HD  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/axnehd.stream/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,AXN Black   
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/axnblackehq.stream/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,AXN Spin 
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/axnspinehq.stream/index.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,AXN White  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/axnwhiteehq.stream/chunklist_w608025685.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,B1  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/b1tvehq.stream/index.m3u8?is=29&src=app&t=00000000000000000000000000000000
+#EXTINF:0,B1*  
+#EXTVLCOPT:network-caching=1000
+http://stream.adunity.com/b1/b1_640-.m3u8
+#EXTINF:0,BBC EARTH
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/bbcearthehq.stream/index.m3u8?is=67&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Bollywood TV
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Bollywood Classic
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Bucovina TV
+#EXTVLCOPT:network-caching=1000
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+#EXTINF:0,Busuioc TV
+#EXTVLCOPT:network-caching=1000
+https://busuioctv.iforward.eu/hls/busuioc.m3u8
+#EXTINF:0,Credo TV
+#EXTVLCOPT:network-caching=1000
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/chunklist_b1128000.m3u8
+#EXTINF:0,DA VINCI  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/davincilearningehq.stream/index.m3u8?is=66&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,DA VINCI* 
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/davincilearningsdb.stream/playlist.m3u8
+#EXTINF:0,DIASPORA TV
+#EXTVLCOPT:network-caching=1000
+http://86.122.134.1:1935/diasporatv/live/chunklist_w905299875.m3u8
+#EXTINF:0,DIBI TV
+#EXTVLCOPT:network-caching=1000
+http://tv.dibitv.ro:1935/dibitv/live/chunklist_w1916923570.m3u8
+#EXTINF:0,DIGI 24  
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/digi24hdb.stream/mono.m3u8
+#EXTINF:0,DIGISPORT 1  
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/mono.m3u8
+#EXTINF:0,DIGISPORT 2  
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/mono.m3u8
+#EXTINF:0,DIGISPORT 3  
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/mono.m3u8
+#EXTINF:0,DIGISPORT 4  
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/index.m3u8
+#EXTINF:0,DIGI Animal World  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/digianimalworldehd.stream/index.m3u8?is=16&src=app&t=00000000000000000000000000000000
+#EXTINF:0,DIGI Life 
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/digilifeehd.stream/index.m3u8?is=6&src=app&t=00000000000000000000000000000000
+#EXTINF:0,DIGI World  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/digiworldehd.stream/index.m3u8?is=5&src=app&t=00000000000000000000000000000000
+#EXTINF:0,DISCOVERY HD    
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/discoveryehq.stream/index.m3u8?is=71&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Disney Channel  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/disneychannelehq.stream/index.m3u8?is=17&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Disney Junior  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/disneyjuniorehq.stream/index.m3u8?is=18&src=app&t=00000000000000000000000000000000
+#EXTINF:0,EUROSPORT 1  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/eurosportehq.stream/index.m3u8?is=31&src=app&t=00000000000000000000000000000000
+#EXTINF:0,EUROSPORT 2  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/eurosport2ehq.stream/index.m3u8?is=32&src=app&t=00000000000000000000000000000000
+#EXTINF:0,HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/historychannelehd.stream/index.m3u8?is=20&src=app&t=00000000000000000000000000000000
+#EXTINF:0,HIT MUSIC  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/hitmusicchannelehq.stream/index.m3u8?is=35&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,IMPACT TV
+#EXTVLCOPT:network-caching=1000
+http://173.212.225.35:8080/hls/impact_tv.m3u8
+#EXTINF:0,INFO HD
+#EXTVLCOPT:network-caching=1000
+http://netstreaming.eu:8081/hls/InfoHd.m3u8
+#EXTINF:0,Intermedia TV
+#EXTVLCOPT:network-caching=1000
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:0,JOB TV
+#EXTVLCOPT:network-caching=1000
+http://v9.arya.ro:8080/hls/jobtvhq.m3u8
+#EXTINF:0,KISS TV  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/kisstvehq.stream/index.m3u8?is=34&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,LOOKSPORT+  
+#EXTVLCOPT:network-caching=1000
+http://tv-he.orange.ro/shls/LIVE$lookplustvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:0,LOOKSPORT  
+#EXTVLCOPT:network-caching=1000
+http://tv-he.orange.ro/shls/LIVE$looktvhd/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:0,LOOKSPORT 2  
+#EXTVLCOPT:network-caching=1000
+http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:0,LOOKSPORT 3  
+#EXTVLCOPT:network-caching=1000
+http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:0,Minimax 
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/index.m3u8?is=37&src=app&t=00000000000000000000000000000000
+#EXTINF:0,MOLDOVA 1
+#EXTVLCOPT:network-caching=1000
+http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:0,MOLDOVA 2
+#EXTVLCOPT:network-caching=1000
+http://www.trm.md/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:0,MOOZ HD
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0,MOOZ HD.
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:0,MOOZ DANCE HD
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0,MOOZ DANCE HD.
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:0,MOOZ RO
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,MOOZ HITS  
+#EXTVLCOPT:network-caching=1000
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,N4 (MD) 
+#EXTVLCOPT:network-caching=1000
+http://web.sats.gstv.tech/cpl11/00987101-cd36-49ed-a5e1-bcfaa25d0d85/N4web.m3u8
+#EXTINF:0,NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/nationalgeographicehd.stream/index.m3u8?is=19&src=app&t=00000000000000000000000000000000
+#EXTINF:0,NAT GEO WILD 
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/nationalgeographicwildehd.stream/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Nickelodeon  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/nickelodeonehq.stream/index.m3u8?is=28&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Noroc TV
+#EXTVLCOPT:network-caching=1000
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:0,PAPRIKA
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/tvpaprikaehq.stream/index.m3u8?is=39&src=app&t=00000000000000000000000000000000
+#EXTINF:0,PRO 2 
+#EXTVLCOPT:network-caching=1000
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0,PRO CINEMA
+#EXTVLCOPT:network-caching=1000
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0,PRO GOLD 
+#EXTVLCOPT:network-caching=1000
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0,PRO TV
+#EXTVLCOPT:network-caching=1000
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+#EXTINF:0,PRO X 
+#EXTVLCOPT:network-caching=1000
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0,PRO TV HD
+#EXTVLCOPT:network-caching=1000
+http://89.38.8.131:39532
+#EXTINF:0,PRO TV CHISINAU
+#EXTVLCOPT:network-caching=1000
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0,PRO TV CHISINAU*
+#EXTVLCOPT:network-caching=1000
+http://188.138.235.61:80/hls/protv.m3u8
+#EXTINF:0,PRO TV INTERNATIONAL
+#EXTVLCOPT:network-caching=1000
+http://78.109.108.62:2001/protv
+#EXTINF:0,PRO TV NEWS 
+#EXTVLCOPT:network-caching=1000
+http://vid.hls.protv.ro/protvnews/protvnews_high/index.m3u8?1
+#EXTINF:0,PROFIT 
+#EXTVLCOPT:network-caching=1000
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:0,Publika TV (MD) 
+#EXTVLCOPT:network-caching=1000
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:0,REALITATEA PLUS 
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/realitateatvehq.stream/index.m3u8?is=26&src=app&t=00000000000000000000000000000000
+#EXTINF:0,REALITATEA TV
+#EXTVLCOPT:network-caching=1000
+https://live.realitatea.net/livertmp/plus/playlist.m3u8
+#EXTINF:0,REALITATEA+
+#EXTVLCOPT:network-caching=1000
+http://d-e-02.cdn.rdsnet.ro/DVR/realitateatvsdb.stream/playlist.m3u8
+#EXTINF:0,RO CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://whoptv.on-the-web.tv:8081/diretta/direttats/playlist.m3u8
+#EXTINF:0,Rock TV
+#EXTVLCOPT:network-caching=1000
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
+#EXTINF:0,ROMANIA TV   
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/romaniatvehq.stream/index.m3u8?is=27&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Speranta TV
+#EXTVLCOPT:network-caching=1000
+http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:0,SUPER TV HD
+#EXTVLCOPT:network-caching=1000
+http://82.78.176.198:8111
+#EXTINF:0,SUPER TV
+#EXTVLCOPT:network-caching=1000
+http://82.78.176.198:8112
+#EXTINF:0,TELEKOMSPORT 3  
+#EXTVLCOPT:network-caching=1000
+http://tv-he.orange.ro/shls/LIVE$ott_1017/10.m3u8/Level%282306867%29?start=LIVE&end=END
+#EXTINF:0,TELEKOMSPORT 4  
+#EXTVLCOPT:network-caching=1000
+http://tv-he.orange.ro/shls/LIVE$ott_1018/10.m3u8/Level%282306867%29?start=LIVE&end=END%20
+#EXTINF:0,TLC 
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/tlcehq.stream/index.m3u8?is=72&src=app&t=00000000000000000000000000000000
+#EXTINF:0,TRAVEL HD
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/travelchannelehd.stream/index.m3u8?is=21&src=app&t=00000000000000000000000000000000
+#EXTINF:0,TRAVEL MIX  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/travelmixchannelehq.stream/index.m3u8?is=74&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,TRAVEL MIX* 
+#EXTVLCOPT:network-caching=1000
+http://89.38.8.131:39520
+#EXTINF:0,TV 1000  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/tv1000ehq.stream/index.m3u8?is=43&src=app&t=00000000000000000000000000000000
+#EXTINF:0,TVR 1 HD
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/chunklist_b8288000.m3u8
+#EXTINF:0,TVR 2 HD
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/chunklist_b6240000.m3u8
+#EXTINF:0,TVR 3 HD
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/chunklist_b2144000.m3u8
+#EXTINF:0,TVR INTERNATIONAL
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
+#EXTINF:0,TVR MOLDOVA
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/chunklist_b6096000.m3u8
+#EXTINF:0,TVR Tirgu Mures
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8
+#EXTINF:0,UTV
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:0,UTV*
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:0,UTV.
+#EXTVLCOPT:network-caching=1000
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF:0,VIASAT HISTORY  
+#EXTVLCOPT:network-caching=1000
+http://82.76.40.76/digiedge2/viasathistoryehq.stream/index.m3u8?is=41&src=app&t=00000000000000000000000000000000
+#EXTINF:0,VIASAT EXPLORER  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/viasatexplorerehq.stream/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
+#EXTINF:0,VIASAT NATURE  
+#EXTVLCOPT:network-caching=1000
+http://edge76.rcs-rds.ro/digiedge2/viasatnatureehq.stream/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
+#EXTINF:0,Vocea Basarabiei
+#EXTVLCOPT:network-caching=1000
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+	
+
