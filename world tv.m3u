@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
-<item>
-    <title>[COLOR orchid]Â¤Â¤Â¤Â¤Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]CHANNELS[/COLOR][/B] [COLOR orchid]Â¤Â¤Â¤Â¤Â¤[/COLOR]</title>
-    <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
-    <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
-</item>
 <dir>
-    <title>[COLOR orchid]Â¤[/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR orchid]BY CATEGORIES[/COLOR][/B] [COLOR orchid]Â¤[/COLOR]</title>
+    <title>[COLOR red][/COLOR] [B][COLOR lime]IPTV-[/COLOR] [COLOR blue]BY CATEGORIES[/COLOR][/B] [COLOR blue][/COLOR]</title>
     <link>https://bitbucket.org/team-crew/xmls/raw/master/iptv/category.xml</link>
     <thumbnail>special://home/addons/script.thecrew.artwork/resources/media/thecrew/iptv.png</thumbnail>
     <fanart>special://home/addons/script.thecrew.artwork/resources/media/thecrew/fanart.png</fanart>
