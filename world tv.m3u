@@ -3,8 +3,8 @@
 <layoutype>fuckOFF</layoutype>
 
 <plugin>
-    <title>[COLOR red][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR orchid]LOCAL[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/iptv-playlist/master/ro-timed.m3u</link>
+    <title>[COLOR red][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR red]LOCAL[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/hmlendea/iptv-playlist/master/ro-timed.m3u</link>
     <thumbnail>https://cdn.countryflags.com/thumbs/romania/flag-button-round-250.png</thumbnail>
     <fanart>https://cdn.countryflags.com/thumbs/romania/flag-button-round-250.png</fanart>
 </plugin>
