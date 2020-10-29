@@ -4,13 +4,13 @@
 
 <item>
     <title>[COLOR red][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR red]LOCAL[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/wudongdefeng/IPTVCAT/master/data/countries/romania.json</link>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%20tv.m3u</link>
     <thumbnail>https://cdn.countryflags.com/thumbs/romania/flag-button-round-250.png</thumbnail>
     <fanart>https://cdn.countryflags.com/thumbs/romania/flag-button-round-250.png</fanart>
 </item>
 <item>
     <title>[COLOR red][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]UNGARIA[/COLOR][/B] [COLOR red]LOCAL[/COLOR]</title>
-    <link>https://raw.githubusercontent.com/hmlendea/iptv-playlist/master/ro-timed.m3u</link>
+    <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%20tv.m3u</link>
     <thumbnail>https://fifbucuresti.ro/wp-content/uploads/2018/06/Flag-of-Hungary.png</thumbnail>
     <fanart>https://fifbucuresti.ro/wp-content/uploads/2018/06/Flag-of-Hungary.png</fanart>
 </item>
