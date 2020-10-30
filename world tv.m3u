@@ -2,12 +2,12 @@
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 <layoutype>fuckOFF</layoutype>
 
-<item>
+<plugin>
     <title>[COLOR red][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]ROMANIA[/COLOR][/B] [COLOR red]LOCAL[/COLOR]</title>
     <link>https://pastebin.com/raw/p3dc7tGe</link>
     <thumbnail>https://cdn.countryflags.com/thumbs/romania/flag-button-round-250.png</thumbnail>
     <fanart>https://cdn.countryflags.com/thumbs/romania/flag-button-round-250.png</fanart>
-</item>
+</plugin>
 <dir>
     <title>[COLOR red][/COLOR] [B][COLOR white]IPTV-ORG[/COLOR] [COLOR blue]UNGARIA[/COLOR][/B] [COLOR red]LOCAL[/COLOR]</title>
     <link>https://raw.githubusercontent.com/stefan-stefan/filme-online/master/ungaria%20tv.m3u</link>
