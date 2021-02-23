@@ -142,5 +142,16 @@ http://80.86.106.110:8002/listen.pls
 http://live.guerrillaradio.ro:8010/guerrilla.aac.m3u
 #EXTINF:-1,Radio Impuls
 http://live2.radio-impuls.ro/listen.pls
-
-
+#####################################################
+#EXTINF:-1,Alles Chill
+http://alles-chill.stream.laut.fm/alles-chill
+#EXTINF:-1,Alles Dance
+http://alles-dance.stream.laut.fm/alles-dance
+#EXTINF:-1,Alles Hardstyle
+http://alles-hardstyle.stream.laut.fm/alles-hardstyle
+#EXTINF:-1,Alles Klub
+http://alles-klub.stream.laut.fm/alles-klub
+#EXTINF:-1,Alles Radio
+http://alles-radio.stream.laut.fm/alles-radio
+#EXTINF:-1,Alles Techno
+http://alles-techno.stream.laut.fm/alles-techno
